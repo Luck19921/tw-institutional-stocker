@@ -180,10 +180,10 @@
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 0.4,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
+    "three_inst_ratio": 0.4,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -191,10 +191,10 @@
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 0.39,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
+    "three_inst_ratio": 0.39,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -202,10 +202,10 @@
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 0.78,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
+    "three_inst_ratio": 0.78,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -224,33 +224,33 @@
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 0.29,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 0.29,
+    "three_inst_ratio_change_20": 0.29
   },
   {
     "date": "2025-10-15",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 0.07,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 0.07,
+    "three_inst_ratio_change_20": 0.07
   },
   {
     "date": "2025-10-16",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 0.12,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 0.12,
+    "three_inst_ratio_change_20": 0.12
   },
   {
     "date": "2025-10-17",
@@ -279,33 +279,33 @@
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 0.55,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 0.55,
+    "three_inst_ratio_change_20": 0.55
   },
   {
     "date": "2025-10-22",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 0.45,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 0.45,
+    "three_inst_ratio_change_20": 0.45
   },
   {
     "date": "2025-10-23",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 0.1,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 0.1,
+    "three_inst_ratio_change_20": 0.1
   },
   {
     "date": "2025-10-27",
@@ -378,11 +378,11 @@
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 0.01,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 0.01,
+    "three_inst_ratio_change_20": 0.01
   },
   {
     "date": "2025-11-05",
@@ -404,7 +404,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.4
   },
   {
     "date": "2025-11-07",
@@ -415,7 +415,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.39
   },
   {
     "date": "2025-11-10",
@@ -426,7 +426,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.78
   },
   {
     "date": "2025-11-11",
@@ -448,7 +448,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.29
   },
   {
     "date": "2025-11-13",
@@ -459,7 +459,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.07
   },
   {
     "date": "2025-11-14",
@@ -470,7 +470,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.12
   },
   {
     "date": "2025-11-17",
@@ -499,142 +499,142 @@
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.66,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.66,
+    "three_inst_ratio_change_20": 1.1099999999999999
   },
   {
     "date": "2025-11-20",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.63,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.63,
+    "three_inst_ratio_change_20": 1.18
   },
   {
     "date": "2025-11-21",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.73,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.73,
+    "three_inst_ratio_change_20": 1.63
   },
   {
     "date": "2025-11-24",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.82,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.82,
+    "three_inst_ratio_change_20": 1.82
   },
   {
     "date": "2025-11-25",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.79,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.79,
+    "three_inst_ratio_change_20": 1.79
   },
   {
     "date": "2025-11-26",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.64,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.64,
+    "three_inst_ratio_change_20": 1.64
   },
   {
     "date": "2025-11-27",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.84,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.84,
+    "three_inst_ratio_change_20": 1.84
   },
   {
     "date": "2025-11-28",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.78,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.78,
+    "three_inst_ratio_change_20": 1.78
   },
   {
     "date": "2025-12-01",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.54,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.54,
+    "three_inst_ratio_change_20": 1.54
   },
   {
     "date": "2025-12-02",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.48,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.48,
+    "three_inst_ratio_change_20": 1.47
   },
   {
     "date": "2025-12-03",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.59,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.59,
+    "three_inst_ratio_change_20": 1.59
   },
   {
     "date": "2025-12-04",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.82,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.82,
+    "three_inst_ratio_change_20": 1.82
   },
   {
     "date": "2025-12-05",
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.87,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 1.87,
+    "three_inst_ratio_change_20": 1.87
   }
 ]

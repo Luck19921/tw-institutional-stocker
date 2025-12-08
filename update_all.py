@@ -188,10 +188,12 @@ def fetch_twse_mi_qfiis(trade_date: date) -> pd.DataFrame:
         "selectType": "ALLBUT0999",
     }
     resp = requests.get(url, params=params, timeout=20)
-    resp.encoding = "utf-8"
+
+    # TWSE MI_QFIIS is Big5/CP950 encoded, not UTF-8
+    csv_text = resp.content.decode("cp950", errors="ignore")
 
     try:
-        df = pd.read_csv(StringIO(resp.text))
+        df = pd.read_csv(StringIO(csv_text), header=1)
     except Exception:
         return pd.DataFrame(
             columns=[

@@ -102,3 +102,101 @@ th:nth-child(2), td:nth-child(2) {
   background: #e5e7eb;
   margin-right: 0.2rem;
 }
+
+/* Tabs */
+.tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.5rem;
+}
+
+.tab-btn {
+  padding: 0.5rem 1rem;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: #6b7280;
+  border-radius: 8px 8px 0 0;
+  transition: all 0.2s;
+}
+
+.tab-btn:hover {
+  background: #f3f4f6;
+  color: #111827;
+}
+
+.tab-btn.active {
+  background: #111827;
+  color: white;
+}
+
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+/* Broker specific styles */
+.broker-card {
+  background: #f9fafb;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.broker-card h4 {
+  margin: 0 0 0.5rem 0;
+  color: #111827;
+}
+
+.broker-card .trades-list {
+  font-size: 0.8rem;
+}
+
+.buy-text {
+  color: #dc2626;
+  font-weight: 600;
+}
+
+.sell-text {
+  color: #16a34a;
+  font-weight: 600;
+}
+
+.net-positive {
+  color: #dc2626;
+}
+
+.net-negative {
+  color: #16a34a;
+}
+
+/* Table hover effect */
+#brokerRankTable tbody tr:hover,
+#brokerTradesTable tbody tr:hover,
+#rankTable tbody tr:hover {
+  background: #f9fafb;
+}
+
+/* Max height for scrollable tables */
+#broker-trades table,
+#broker-ranking table {
+  max-height: 400px;
+  overflow-y: auto;
+  display: block;
+}
+
+#broker-trades thead,
+#broker-ranking thead,
+#broker-trades tbody,
+#broker-ranking tbody {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+

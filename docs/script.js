@@ -16,6 +16,11 @@ function formatPct(x) {
   return v.toFixed(2);
 }
 
+function formatNumber(x) {
+  const v = Number.isFinite(x) ? x : 0;
+  return v.toLocaleString();
+}
+
 async function loadStock(code) {
   const status = document.getElementById("statusText");
   const title = document.getElementById("chartTitle");
@@ -192,6 +197,190 @@ async function loadRanking() {
   }
 }
 
+// ========== Broker Functions ==========
+
+async function loadBrokerRanking() {
+  const tbody = document.querySelector("#brokerRankTable tbody");
+  tbody.innerHTML = "<tr><td colspan='6'>載入中...</td></tr>";
+
+  try {
+    const data = await fetchJson("data/broker_ranking.json");
+    tbody.innerHTML = "";
+
+    if (!data.data || data.data.length === 0) {
+      tbody.innerHTML = "<tr><td colspan='6'>尚無券商數據</td></tr>";
+      return;
+    }
+
+    data.data.slice(0, 50).forEach((row, idx) => {
+      const tr = document.createElement("tr");
+
+      const tdRank = document.createElement("td");
+      tdRank.textContent = idx + 1;
+
+      const tdName = document.createElement("td");
+      tdName.textContent = row.broker_name || "";
+
+      const tdNet = document.createElement("td");
+      const netVol = row.total_net_vol || 0;
+      tdNet.textContent = formatNumber(netVol);
+      tdNet.className = netVol > 0 ? "net-positive" : "net-negative";
+
+      const tdBuy = document.createElement("td");
+      tdBuy.textContent = row.buy_count || 0;
+
+      const tdSell = document.createElement("td");
+      tdSell.textContent = row.sell_count || 0;
+
+      const tdStocks = document.createElement("td");
+      tdStocks.textContent = row.stocks_traded || 0;
+
+      tr.appendChild(tdRank);
+      tr.appendChild(tdName);
+      tr.appendChild(tdNet);
+      tr.appendChild(tdBuy);
+      tr.appendChild(tdSell);
+      tr.appendChild(tdStocks);
+      tbody.appendChild(tr);
+    });
+  } catch (err) {
+    console.error(err);
+    tbody.innerHTML = `<tr><td colspan='6'>載入失敗：${err.message}</td></tr>`;
+  }
+}
+
+async function loadBrokerTrades() {
+  const tbody = document.querySelector("#brokerTradesTable tbody");
+  const status = document.getElementById("brokerTradesStatus");
+  tbody.innerHTML = "";
+  status.textContent = "載入中...";
+
+  try {
+    const data = await fetchJson("data/broker_trades_latest.json");
+
+    if (!data.data || data.data.length === 0) {
+      status.textContent = "尚無交易數據";
+      return;
+    }
+
+    status.textContent = `更新時間：${data.updated || "未知"} | 共 ${data.count || 0} 筆`;
+
+    // 顯示前 100 筆
+    data.data.slice(0, 100).forEach((row) => {
+      const tr = document.createElement("tr");
+
+      const tdDate = document.createElement("td");
+      tdDate.textContent = row.date || "";
+
+      const tdStock = document.createElement("td");
+      tdStock.innerHTML = `<span class="badge">${row.stock_code}</span>`;
+
+      const tdBroker = document.createElement("td");
+      tdBroker.textContent = row.broker_name || "";
+
+      const tdBuy = document.createElement("td");
+      tdBuy.textContent = formatNumber(row.buy_vol || 0);
+
+      const tdSell = document.createElement("td");
+      tdSell.textContent = formatNumber(row.sell_vol || 0);
+
+      const tdNet = document.createElement("td");
+      const netVol = row.net_vol || 0;
+      tdNet.textContent = formatNumber(netVol);
+      tdNet.className = netVol > 0 ? "net-positive" : "net-negative";
+
+      const tdPct = document.createElement("td");
+      tdPct.textContent = formatPct(row.pct || 0) + "%";
+
+      tr.appendChild(tdDate);
+      tr.appendChild(tdStock);
+      tr.appendChild(tdBroker);
+      tr.appendChild(tdBuy);
+      tr.appendChild(tdSell);
+      tr.appendChild(tdNet);
+      tr.appendChild(tdPct);
+      tbody.appendChild(tr);
+    });
+  } catch (err) {
+    console.error(err);
+    status.textContent = `載入失敗：${err.message}`;
+  }
+}
+
+async function loadTargetBrokers() {
+  const container = document.getElementById("targetBrokersContent");
+  container.innerHTML = "<p>載入中...</p>";
+
+  try {
+    const data = await fetchJson("data/target_broker_trades.json");
+
+    if (!data.brokers || Object.keys(data.brokers).length === 0) {
+      container.innerHTML = "<p>尚無目標券商數據</p>";
+      return;
+    }
+
+    container.innerHTML = "";
+
+    Object.entries(data.brokers).forEach(([brokerName, trades]) => {
+      const card = document.createElement("div");
+      card.className = "broker-card";
+
+      // 計算總買賣超
+      const totalNet = trades.reduce((sum, t) => sum + (t.net_vol || 0), 0);
+      const netClass = totalNet > 0 ? "net-positive" : "net-negative";
+
+      card.innerHTML = `
+        <h4>${brokerName} <span class="${netClass}">(${formatNumber(totalNet)} 張)</span></h4>
+        <div class="trades-list">
+          ${trades.slice(0, 10).map(t => {
+        const sideClass = t.side === "buy" ? "buy-text" : "sell-text";
+        return `<span class="badge">${t.stock_code}</span> 
+                    <span class="${sideClass}">${formatNumber(t.net_vol)}</span> `;
+      }).join("")}
+          ${trades.length > 10 ? `<br><small>... 還有 ${trades.length - 10} 筆</small>` : ""}
+        </div>
+      `;
+
+      container.appendChild(card);
+    });
+  } catch (err) {
+    console.error(err);
+    container.innerHTML = `<p>載入失敗：${err.message}</p>`;
+  }
+}
+
+function initTabs() {
+  const tabBtns = document.querySelectorAll(".tab-btn");
+  const tabContents = document.querySelectorAll(".tab-content");
+
+  tabBtns.forEach(btn => {
+    btn.addEventListener("click", () => {
+      const targetTab = btn.dataset.tab;
+
+      // 更新按鈕狀態
+      tabBtns.forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+
+      // 更新內容顯示
+      tabContents.forEach(content => {
+        content.classList.remove("active");
+        if (content.id === targetTab) {
+          content.classList.add("active");
+        }
+      });
+
+      // 載入對應數據
+      if (targetTab === "broker-ranking") {
+        loadBrokerRanking();
+      } else if (targetTab === "broker-trades") {
+        loadBrokerTrades();
+      } else if (targetTab === "target-brokers") {
+        loadTargetBrokers();
+      }
+    });
+  });
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const input = document.getElementById("stockInput");
   const btn = document.getElementById("loadBtn");
@@ -234,8 +423,13 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
+  // 初始化 tabs
+  initTabs();
+
   // default view
   input.value = "2330";
   loadStock("2330");
   loadRanking();
+  loadBrokerRanking();
 });
+

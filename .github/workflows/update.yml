@@ -26,9 +26,18 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      - name: Install Playwright browsers
+        run: |
+          playwright install chromium
+          playwright install-deps chromium
+
       - name: Run update_all.py
         run: |
           python update_all.py
+
+      - name: Run update_broker.py
+        run: |
+          python update_broker.py
 
       - name: Commit and push changes
         run: |
@@ -41,3 +50,4 @@ jobs:
           else
             echo "No changes to commit."
           fi
+

@@ -84,6 +84,71 @@
     </div>
   </div>
 
+  <!-- 券商分點追蹤區塊 -->
+  <div class="card">
+    <h2>🏦 券商分點主力進出追蹤</h2>
+    <p class="subtitle">
+      追蹤主要券商分點（外資券商、國內主力）的買賣超情況。資料來源：富邦 e-Broker。
+    </p>
+    
+    <div class="tabs">
+      <button class="tab-btn active" data-tab="broker-ranking">券商排名</button>
+      <button class="tab-btn" data-tab="broker-trades">今日交易</button>
+      <button class="tab-btn" data-tab="target-brokers">目標券商</button>
+    </div>
+    
+    <!-- 券商排名 -->
+    <div id="broker-ranking" class="tab-content active">
+      <table id="brokerRankTable">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>券商分點</th>
+            <th>總買賣超(張)</th>
+            <th>買超次數</th>
+            <th>賣超次數</th>
+            <th>交易股票數</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- 動態插入 -->
+        </tbody>
+      </table>
+    </div>
+    
+    <!-- 今日交易 -->
+    <div id="broker-trades" class="tab-content">
+      <p id="brokerTradesStatus" class="subtitle">載入中...</p>
+      <table id="brokerTradesTable">
+        <thead>
+          <tr>
+            <th>日期</th>
+            <th>股票</th>
+            <th>券商分點</th>
+            <th>買進(張)</th>
+            <th>賣出(張)</th>
+            <th>買賣超(張)</th>
+            <th>佔比%</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- 動態插入 -->
+        </tbody>
+      </table>
+    </div>
+    
+    <!-- 目標券商 -->
+    <div id="target-brokers" class="tab-content">
+      <p class="subtitle">
+        追蹤的目標券商：凱基、美林、摩根、高盛、瑞銀、野村、大和、麥格理、元大、富邦
+      </p>
+      <div id="targetBrokersContent">
+        <!-- 動態插入 -->
+      </div>
+    </div>
+  </div>
+
   <script src="script.js"></script>
 </body>
 </html>
+

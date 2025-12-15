@@ -8,8 +8,14 @@
 1. 抓取熱門股票的券商分點買賣超數據
 2. 統計各券商分點的績效（勝率、累計獲利）
 3. 匯出 JSON 供前端顯示
+
+使用：
+  python update_broker.py         # 抓取熱門 20 支股票
+  python update_broker.py --top50 # 抓取前 50 支熱門股
+  python update_broker.py --all   # 抓取所有上市櫃股票 (很慢)
 """
 
+import argparse
 import os
 import json
 import time
@@ -23,7 +29,7 @@ DATA_DIR = "data"
 BROKER_DATA_DIR = os.path.join(DATA_DIR, "broker")
 DOCS_DIR = os.path.join("docs", "data")
 
-# 熱門股票清單（可自訂擴展）
+# 熱門股票清單（預設抓取）
 HOT_STOCKS = [
     # 權值股
     "2330",  # 台積電
@@ -64,10 +70,42 @@ TARGET_BROKERS = [
 ]
 
 
+def get_all_stock_codes(limit: Optional[int] = None) -> list[str]:
+    """
+    從現有的 flows CSV 中取得所有股票代碼
+    
+    Args:
+        limit: 限制數量，None 表示全部
+    
+    Returns:
+        股票代碼清單
+    """
+    codes = set()
+    
+    for csv_file in ["twse_flows.csv", "tpex_flows.csv"]:
+        csv_path = os.path.join(DATA_DIR, csv_file)
+        if os.path.exists(csv_path):
+            try:
+                df = pd.read_csv(csv_path)
+                if "code" in df.columns:
+                    codes.update(df["code"].astype(str).unique())
+            except Exception as e:
+                print(f"Warning: Could not read {csv_file}: {e}")
+    
+    # 排序並過濾只保留純數字代碼（排除權證等）
+    valid_codes = [c for c in codes if c.isdigit() and len(c) == 4]
+    valid_codes.sort()
+    
+    if limit:
+        return valid_codes[:limit]
+    return valid_codes
+
+
 def ensure_dirs():
     """確保必要目錄存在"""
     os.makedirs(BROKER_DATA_DIR, exist_ok=True)
     os.makedirs(DOCS_DIR, exist_ok=True)
+
 
 
 def fetch_all_broker_data(stock_codes: list[str], delay: float = 1.5) -> pd.DataFrame:
@@ -243,6 +281,13 @@ def export_target_broker_trades(df: pd.DataFrame, output_path: str):
 
 def main():
     """主程式"""
+    parser = argparse.ArgumentParser(description="更新券商分點交易數據")
+    parser.add_argument("--all", action="store_true", help="抓取所有上市櫃股票（約 1700+，需數小時）")
+    parser.add_argument("--top50", action="store_true", help="抓取前 50 支熱門股")
+    parser.add_argument("--top100", action="store_true", help="抓取前 100 支熱門股")
+    parser.add_argument("--delay", type=float, default=1.5, help="每次請求間隔秒數（預設 1.5）")
+    args = parser.parse_args()
+    
     print("=" * 60)
     print("Update Broker Trading Data")
     print(f"Time: {datetime.now().isoformat()}")
@@ -250,9 +295,23 @@ def main():
     
     ensure_dirs()
     
-    # 1. 抓取所有熱門股票的分點數據
-    print(f"\nFetching broker data for {len(HOT_STOCKS)} stocks...")
-    all_trades = fetch_all_broker_data(HOT_STOCKS, delay=1.5)
+    # 決定要抓取的股票清單
+    if args.all:
+        stock_codes = get_all_stock_codes()
+        print(f"\n[MODE] Full crawl: {len(stock_codes)} stocks")
+    elif args.top100:
+        stock_codes = get_all_stock_codes(limit=100)
+        print(f"\n[MODE] Top 100 stocks")
+    elif args.top50:
+        stock_codes = get_all_stock_codes(limit=50)
+        print(f"\n[MODE] Top 50 stocks")
+    else:
+        stock_codes = HOT_STOCKS
+        print(f"\n[MODE] Hot stocks: {len(stock_codes)} stocks")
+    
+    # 1. 抓取分點數據
+    print(f"\nFetching broker data for {len(stock_codes)} stocks...")
+    all_trades = fetch_all_broker_data(stock_codes, delay=args.delay)
     
     if all_trades.empty:
         print("[WARN] No broker trades fetched, aborting.")
@@ -287,7 +346,7 @@ def main():
     print("\n" + "=" * 60)
     print("Summary")
     print("=" * 60)
-    print(f"Stocks crawled: {len(HOT_STOCKS)}")
+    print(f"Stocks crawled: {len(stock_codes)}")
     print(f"Total trades: {len(all_trades)}")
     print(f"Buy side: {len(all_trades[all_trades['side'] == 'buy'])}")
     print(f"Sell side: {len(all_trades[all_trades['side'] == 'sell'])}")
@@ -304,3 +363,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

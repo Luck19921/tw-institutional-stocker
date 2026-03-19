@@ -1155,6 +1155,17 @@
     "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
+    "date": "2026-02-17",
+    "code": "00688L",
+    "name": "國泰20年美債正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.66
+  },
+  {
     "date": "2026-02-23",
     "code": "00688L",
     "name": "國泰20年美債正2",
@@ -1163,7 +1174,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.44,
-    "three_inst_ratio_change_20": 0.7799999999999999
+    "three_inst_ratio_change_20": 0.7599999999999999
   },
   {
     "date": "2026-02-24",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.98,
-    "three_inst_ratio_change_20": 1.2999999999999998
+    "three_inst_ratio_change_20": 1.29
   },
   {
     "date": "2026-03-02",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.98,
-    "three_inst_ratio_change_20": 1.29
+    "three_inst_ratio_change_20": 1.21
   },
   {
     "date": "2026-03-04",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.03,
-    "three_inst_ratio_change_20": 1.2599999999999998
+    "three_inst_ratio_change_20": 1.15
   },
   {
     "date": "2026-03-05",
@@ -1240,7 +1251,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.1,
-    "three_inst_ratio_change_20": 1.2200000000000002
+    "three_inst_ratio_change_20": 1.21
   },
   {
     "date": "2026-03-06",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.73,
-    "three_inst_ratio_change_20": 0.84
+    "three_inst_ratio_change_20": 0.7999999999999999
   },
   {
     "date": "2026-03-09",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.17,
-    "three_inst_ratio_change_20": 1.2399999999999998
+    "three_inst_ratio_change_20": 1.23
   },
   {
     "date": "2026-03-12",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.03,
-    "three_inst_ratio_change_20": 1.0899999999999999
+    "three_inst_ratio_change_20": 1.0699999999999998
   },
   {
     "date": "2026-03-16",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.03,
-    "three_inst_ratio_change_20": 1.0699999999999998
+    "three_inst_ratio_change_20": 1.0799999999999998
   },
   {
     "date": "2026-03-17",
@@ -1328,6 +1339,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.04,
-    "three_inst_ratio_change_20": 1.09
+    "three_inst_ratio_change_20": 1.08
+  },
+  {
+    "date": "2026-03-18",
+    "code": "00688L",
+    "name": "國泰20年美債正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.08,
+    "three_inst_ratio_change_20": 1.12
   }
 ]

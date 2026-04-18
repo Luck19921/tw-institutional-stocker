@@ -1166,6 +1166,17 @@
     "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
+    "date": "2026-02-13",
+    "code": "1108",
+    "name": "幸福",
+    "market": "TWSE",
+    "foreign_ratio": 1.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.28,
+    "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
     "date": "2026-02-17",
     "code": "1108",
     "name": "幸福",
@@ -1174,7 +1185,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -1.27
+    "three_inst_ratio_change_20": -1.26
   },
   {
     "date": "2026-02-23",
@@ -1196,7 +1207,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.32,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.07000000000000006
   },
   {
     "date": "2026-02-25",
@@ -1240,7 +1251,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.35,
-    "three_inst_ratio_change_20": 0.10000000000000009
+    "three_inst_ratio_change_20": 0.09000000000000008
   },
   {
     "date": "2026-03-04",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.32,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.050000000000000044
   },
   {
     "date": "2026-03-09",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.29,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-03-12",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.28,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-03-13",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.25,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-03-18",
@@ -1571,5 +1582,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.36,
     "three_inst_ratio_change_20": 0.1100000000000001
+  },
+  {
+    "date": "2026-04-17",
+    "code": "1108",
+    "name": "幸福",
+    "market": "TWSE",
+    "foreign_ratio": 1.36,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.36,
+    "three_inst_ratio_change_20": 0.10000000000000009
   }
 ]

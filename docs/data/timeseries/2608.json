@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -0.2537687112701965
   },
   {
+    "date": "2026-04-06",
+    "code": "2608",
+    "name": "嘉里大榮",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.950214132533966
+  },
+  {
     "date": "2026-04-07",
     "code": "2608",
     "name": "嘉里大榮",
@@ -1504,7 +1515,7 @@
     "trust_ratio": -0.023554578736230812,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.6964454212637694,
-    "three_inst_ratio_change_20": -0.2537687112701965
+    "three_inst_ratio_change_20": -0.27376871127019653
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": -0.023554578736230812,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.6764454212637694,
-    "three_inst_ratio_change_20": -0.29376871127019655
+    "three_inst_ratio_change_20": -0.31376871127019657
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": -0.023554578736230812,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.666445421263769,
-    "three_inst_ratio_change_20": -0.3237687112701968
+    "three_inst_ratio_change_20": -0.31376871127019657
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": -0.023554578736230812,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.666445421263769,
-    "three_inst_ratio_change_20": -0.31376871127019657
+    "three_inst_ratio_change_20": -0.30000000000000027
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": -0.023554578736230812,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.666445421263769,
-    "three_inst_ratio_change_20": -0.30000000000000027
+    "three_inst_ratio_change_20": -0.25
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": -0.023554578736230812,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.6764454212637694,
-    "three_inst_ratio_change_20": -0.23999999999999977
+    "three_inst_ratio_change_20": -0.20999999999999996
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": -0.023554578736230812,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.706445421263769,
-    "three_inst_ratio_change_20": -0.18000000000000016
+    "three_inst_ratio_change_20": -0.14000000000000012
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": -0.021199120862607734,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7288008791373923,
-    "three_inst_ratio_change_20": -0.11764454212637698
+    "three_inst_ratio_change_20": -0.08764454212637673
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": -0.021199120862607734,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7088008791373923,
-    "three_inst_ratio_change_20": -0.10764454212637675
+    "three_inst_ratio_change_20": -0.08764454212637673
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": -0.021199120862607734,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7188008791373925,
-    "three_inst_ratio_change_20": -0.0776445421263765
+    "three_inst_ratio_change_20": -0.057644542126376486
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": -0.021199120862607734,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7288008791373923,
-    "three_inst_ratio_change_20": -0.0476445421263767
+    "three_inst_ratio_change_20": -0.017644542126376894
   },
   {
     "date": "2026-04-22",
@@ -1626,5 +1637,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7188008791373925,
     "three_inst_ratio_change_20": -0.02764454212637668
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2608",
+    "name": "嘉里大榮",
+    "market": "TWSE",
+    "foreign_ratio": 3.7,
+    "trust_ratio": -0.021199120862607734,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.6788008791373925,
+    "three_inst_ratio_change_20": -0.057644542126376486
   }
 ]

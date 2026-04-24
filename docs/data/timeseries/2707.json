@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -0.23206327267757487
   },
   {
+    "date": "2026-04-06",
+    "code": "2707",
+    "name": "晶華",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.333904431220186
+  },
+  {
     "date": "2026-04-07",
     "code": "2707",
     "name": "晶華",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.38184115854261097,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.081841158542611,
-    "three_inst_ratio_change_20": -0.25206327267757533
+    "three_inst_ratio_change_20": -0.22206327267757509
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.38184115854261097,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.031841158542611,
-    "three_inst_ratio_change_20": -0.2720632726775749
+    "three_inst_ratio_change_20": -0.2712783632704845
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.38184115854261097,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.951841158542611,
-    "three_inst_ratio_change_20": -0.35127836327048456
+    "three_inst_ratio_change_20": -0.3312783632704841
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.38184115854261097,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.921841158542611,
-    "three_inst_ratio_change_20": -0.36127836327048435
+    "three_inst_ratio_change_20": -0.34107454097830736
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.3810562491355204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.80105624913552,
-    "three_inst_ratio_change_20": -0.4618594503853979
+    "three_inst_ratio_change_20": -0.41107454097830765
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.3810562491355204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.76105624913552,
-    "three_inst_ratio_change_20": -0.4510745409783077
+    "three_inst_ratio_change_20": -0.4410745409783079
   },
   {
     "date": "2026-04-15",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.3802713397284298,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.60027133972843,
-    "three_inst_ratio_change_20": -0.6018594503853985
+    "three_inst_ratio_change_20": -0.6118594503853982
   },
   {
     "date": "2026-04-17",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.37791661150715805,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.6379166115071575,
-    "three_inst_ratio_change_20": -0.5742141786066703
+    "three_inst_ratio_change_20": -0.583924547035453
   },
   {
     "date": "2026-04-21",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.37713170210006747,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.537131702100067,
-    "three_inst_ratio_change_20": -0.6847094564425431
+    "three_inst_ratio_change_20": -0.6647094564425435
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2707",
+    "name": "晶華",
+    "market": "TWSE",
+    "foreign_ratio": 6.12,
+    "trust_ratio": 0.37713170210006747,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.497131702100067,
+    "three_inst_ratio_change_20": -0.7047094564425436
   }
 ]

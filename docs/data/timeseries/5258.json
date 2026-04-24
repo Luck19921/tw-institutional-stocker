@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.4900000000000002
   },
   {
+    "date": "2026-04-06",
+    "code": "5258",
+    "name": "虹堡",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.1309060852267026
+  },
+  {
     "date": "2026-04-07",
     "code": "5258",
     "name": "虹堡",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0009060852267026142,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.770906085226702,
-    "three_inst_ratio_change_20": 0.6399999999999997
+    "three_inst_ratio_change_20": 0.6499999999999995
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0009060852267026142,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.910906085226703,
-    "three_inst_ratio_change_20": 0.79
+    "three_inst_ratio_change_20": 0.7400000000000002
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0009060852267026142,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.830906085226703,
-    "three_inst_ratio_change_20": 0.6600000000000001
+    "three_inst_ratio_change_20": 0.8799999999999999
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0009060852267026142,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.890906085226702,
-    "three_inst_ratio_change_20": 0.9399999999999995
+    "three_inst_ratio_change_20": 0.6599999999999993
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0009060852267026142,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.930906085226702,
-    "three_inst_ratio_change_20": 0.6999999999999993
+    "three_inst_ratio_change_20": 0.5
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0009060852267026142,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.980906085226703,
-    "three_inst_ratio_change_20": 0.5500000000000007
+    "three_inst_ratio_change_20": 0.6300000000000008
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0009060852267026142,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.100906085226702,
-    "three_inst_ratio_change_20": 0.75
+    "three_inst_ratio_change_20": 0.5299999999999994
   },
   {
     "date": "2026-04-16",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0009060852267026142,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.930906085226702,
-    "three_inst_ratio_change_20": 0.35999999999999943
+    "three_inst_ratio_change_20": 0.5800000000000001
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0009060852267026142,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.740906085226703,
-    "three_inst_ratio_change_20": 0.39000000000000057
+    "three_inst_ratio_change_20": 0.29000000000000004
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0009060852267026142,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.830906085226703,
-    "three_inst_ratio_change_20": 0.3799999999999999
+    "three_inst_ratio_change_20": 0.3899999999999997
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.0009060852267026142,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.110906085226703,
-    "three_inst_ratio_change_20": 0.6699999999999999
+    "three_inst_ratio_change_20": 0.7200000000000006
+  },
+  {
+    "date": "2026-04-23",
+    "code": "5258",
+    "name": "虹堡",
+    "market": "TWSE",
+    "foreign_ratio": 6.0,
+    "trust_ratio": 0.0009060852267026142,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.000906085226703,
+    "three_inst_ratio_change_20": 0.3899999999999997
   }
 ]

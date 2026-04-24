@@ -1474,6 +1474,17 @@
     "three_inst_ratio_change_20": -0.6499999999999999
   },
   {
+    "date": "2026-04-06",
+    "code": "1432",
+    "name": "大魯閣",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.56
+  },
+  {
     "date": "2026-04-07",
     "code": "1432",
     "name": "大魯閣",
@@ -1482,7 +1493,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.29,
-    "three_inst_ratio_change_20": -0.2700000000000001
+    "three_inst_ratio_change_20": -0.18
   },
   {
     "date": "2026-04-08",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34,
-    "three_inst_ratio_change_20": -0.12999999999999995
+    "three_inst_ratio_change_20": -0.09999999999999998
   },
   {
     "date": "2026-04-09",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": -0.06
+    "three_inst_ratio_change_20": -0.15000000000000002
   },
   {
     "date": "2026-04-10",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3,
-    "three_inst_ratio_change_20": -0.23000000000000004
+    "three_inst_ratio_change_20": -0.41
   },
   {
     "date": "2026-04-13",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3,
-    "three_inst_ratio_change_20": -0.41
+    "three_inst_ratio_change_20": -0.5900000000000001
   },
   {
     "date": "2026-04-14",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3,
-    "three_inst_ratio_change_20": -0.5900000000000001
+    "three_inst_ratio_change_20": -0.39999999999999997
   },
   {
     "date": "2026-04-15",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3,
-    "three_inst_ratio_change_20": -0.39999999999999997
+    "three_inst_ratio_change_20": -0.2
   },
   {
     "date": "2026-04-16",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.33,
-    "three_inst_ratio_change_20": -0.16999999999999998
+    "three_inst_ratio_change_20": -0.12
   },
   {
     "date": "2026-04-17",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.31,
-    "three_inst_ratio_change_20": -0.14
+    "three_inst_ratio_change_20": -0.2
   },
   {
     "date": "2026-04-20",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.42,
-    "three_inst_ratio_change_20": -0.09000000000000002
+    "three_inst_ratio_change_20": -0.12000000000000005
   },
   {
     "date": "2026-04-21",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.56,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": -0.06999999999999995
   },
   {
     "date": "2026-04-22",
@@ -1603,6 +1614,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.54,
-    "three_inst_ratio_change_20": -0.08999999999999997
+    "three_inst_ratio_change_20": 0.08000000000000002
+  },
+  {
+    "date": "2026-04-23",
+    "code": "1432",
+    "name": "大魯閣",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.42,
+    "three_inst_ratio_change_20": -0.09000000000000002
   }
 ]

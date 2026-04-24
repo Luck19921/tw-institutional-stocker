@@ -1452,6 +1452,17 @@
     "three_inst_ratio_change_20": 0.13000000000000256
   },
   {
+    "date": "2026-04-06",
+    "code": "6573",
+    "name": "虹揚-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -54.71
+  },
+  {
     "date": "2026-04-07",
     "code": "6573",
     "name": "虹揚-KY",
@@ -1460,7 +1471,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 54.87,
-    "three_inst_ratio_change_20": 0.1599999999999966
+    "three_inst_ratio_change_20": 0.21999999999999886
   },
   {
     "date": "2026-04-08",
@@ -1471,7 +1482,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.01,
-    "three_inst_ratio_change_20": 0.35999999999999943
+    "three_inst_ratio_change_20": 0.39000000000000057
   },
   {
     "date": "2026-04-09",
@@ -1482,7 +1493,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.0,
-    "three_inst_ratio_change_20": 0.38000000000000256
+    "three_inst_ratio_change_20": 0.36999999999999744
   },
   {
     "date": "2026-04-10",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.04,
-    "three_inst_ratio_change_20": 0.4099999999999966
+    "three_inst_ratio_change_20": 0.39000000000000057
   },
   {
     "date": "2026-04-13",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.08,
-    "three_inst_ratio_change_20": 0.4299999999999997
+    "three_inst_ratio_change_20": 0.3999999999999986
   },
   {
     "date": "2026-04-14",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.12,
-    "three_inst_ratio_change_20": 0.4399999999999977
+    "three_inst_ratio_change_20": 0.519999999999996
   },
   {
     "date": "2026-04-15",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.13,
-    "three_inst_ratio_change_20": 0.5300000000000011
+    "three_inst_ratio_change_20": 0.5100000000000051
   },
   {
     "date": "2026-04-16",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.12,
-    "three_inst_ratio_change_20": 0.5
+    "three_inst_ratio_change_20": 0.4299999999999997
   },
   {
     "date": "2026-04-17",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.03,
-    "three_inst_ratio_change_20": 0.3400000000000034
+    "three_inst_ratio_change_20": 0.3299999999999983
   },
   {
     "date": "2026-04-20",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.01,
-    "three_inst_ratio_change_20": 0.30999999999999517
+    "three_inst_ratio_change_20": 0.259999999999998
   },
   {
     "date": "2026-04-21",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.05,
-    "three_inst_ratio_change_20": 0.29999999999999716
+    "three_inst_ratio_change_20": 0.28999999999999915
   },
   {
     "date": "2026-04-22",
@@ -1581,6 +1592,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 54.84,
-    "three_inst_ratio_change_20": 0.0800000000000054
+    "three_inst_ratio_change_20": 0.12000000000000455
+  },
+  {
+    "date": "2026-04-23",
+    "code": "6573",
+    "name": "虹揚-KY",
+    "market": "TWSE",
+    "foreign_ratio": 54.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 54.86,
+    "three_inst_ratio_change_20": 0.0899999999999963
   }
 ]

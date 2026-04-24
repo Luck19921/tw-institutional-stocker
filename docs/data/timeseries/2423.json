@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -0.17137886065557506
   },
   {
+    "date": "2026-04-06",
+    "code": "2423",
+    "name": "固緯",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.543092655733814
+  },
+  {
     "date": "2026-04-07",
     "code": "2423",
     "name": "固緯",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.03171379507823824,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.401713795078239,
-    "three_inst_ratio_change_20": -0.1413788606555748
+    "three_inst_ratio_change_20": -0.13068943032778702
   },
   {
     "date": "2026-04-09",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.03171379507823824,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.401713795078239,
-    "three_inst_ratio_change_20": -0.13068943032778702
+    "three_inst_ratio_change_20": -0.11068943032778744
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.027577213111511515,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.367577213111511,
-    "three_inst_ratio_change_20": -0.14482601229451486
+    "three_inst_ratio_change_20": -0.14413658196672685
   },
   {
     "date": "2026-04-14",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.018614618850270274,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.29861461885027,
-    "three_inst_ratio_change_20": -0.21309917622796792
+    "three_inst_ratio_change_20": -0.20309917622796814
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.018614618850270274,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.31861461885027,
-    "three_inst_ratio_change_20": -0.18309917622796856
+    "three_inst_ratio_change_20": -0.163099176227969
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.018614618850270274,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.31861461885027,
-    "three_inst_ratio_change_20": -0.163099176227969
+    "three_inst_ratio_change_20": -0.1530991762279692
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.23,
-    "three_inst_ratio_change_20": -0.24171379507823865
+    "three_inst_ratio_change_20": -0.25171379507823843
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.12,
-    "three_inst_ratio_change_20": -0.36171379507823875
+    "three_inst_ratio_change_20": -0.3317137950782376
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.08,
-    "three_inst_ratio_change_20": -0.37171379507823765
+    "three_inst_ratio_change_20": -0.3517137950782381
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2423",
+    "name": "固緯",
+    "market": "TWSE",
+    "foreign_ratio": 5.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.15,
+    "three_inst_ratio_change_20": -0.271713795078238
   }
 ]

@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -0.7479864538979513
   },
   {
+    "date": "2026-04-06",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -19.117087131203053
+  },
+  {
     "date": "2026-04-07",
     "code": "9911",
     "name": "櫻花",
@@ -1504,7 +1515,7 @@
     "trust_ratio": -0.00044966134744871863,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.48955033865255,
-    "three_inst_ratio_change_20": -0.6275367925505044
+    "three_inst_ratio_change_20": -0.6875367925505032
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": -0.00044966134744871863,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.45955033865255,
-    "three_inst_ratio_change_20": -0.7175367925505007
+    "three_inst_ratio_change_20": -0.7270871312030529
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": -0.0008993226948974373,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.4491006773051,
-    "three_inst_ratio_change_20": -0.7375367925505039
+    "three_inst_ratio_change_20": -0.8775367925505009
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": -0.0008993226948974373,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.439100677305102,
-    "three_inst_ratio_change_20": -0.8875367925504989
+    "three_inst_ratio_change_20": -0.9631476294321395
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": -0.001348984042346156,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.498651015957655,
-    "three_inst_ratio_change_20": -0.9035972907795866
+    "three_inst_ratio_change_20": -0.932697968084689
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": -0.001348984042346156,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.458651015957656,
-    "three_inst_ratio_change_20": -0.9726979680846881
+    "three_inst_ratio_change_20": -0.9522483067372427
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": -0.0017986453897948745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.468201354610205,
-    "three_inst_ratio_change_20": -0.9426979680846941
+    "three_inst_ratio_change_20": -0.9222483067372451
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": -0.0031476294321410303,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.496852370567858,
-    "three_inst_ratio_change_20": -0.8935972907795922
+    "three_inst_ratio_change_20": -0.8731476294321432
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": -0.004946274821935905,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.495053725178064,
-    "three_inst_ratio_change_20": -0.8749462748219372
+    "three_inst_ratio_change_20": -0.8249462748219365
   },
   {
     "date": "2026-04-20",
@@ -1614,7 +1625,7 @@
     "trust_ratio": -0.007644242906628218,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.48235575709337,
-    "three_inst_ratio_change_20": -0.8376442429066309
+    "three_inst_ratio_change_20": -0.8476442429066289
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": -0.007644242906628218,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.452355757093372,
-    "three_inst_ratio_change_20": -0.8776442429066265
+    "three_inst_ratio_change_20": -0.7476442429066275
+  },
+  {
+    "date": "2026-04-23",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 18.33,
+    "trust_ratio": -0.008093904254076936,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.32190609574592,
+    "three_inst_ratio_change_20": -0.8780939042540794
   }
 ]

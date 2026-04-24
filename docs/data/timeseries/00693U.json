@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -2.15
   },
   {
+    "date": "2026-04-06",
+    "code": "00693U",
+    "name": "期街口S&P黃豆",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.85
+  },
+  {
     "date": "2026-04-07",
     "code": "00693U",
     "name": "期街口S&P黃豆",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.54,
-    "three_inst_ratio_change_20": -2.31
+    "three_inst_ratio_change_20": -1.7799999999999998
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.52,
-    "three_inst_ratio_change_20": -1.7999999999999998
+    "three_inst_ratio_change_20": -1.9300000000000002
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.52,
-    "three_inst_ratio_change_20": -1.9300000000000002
+    "three_inst_ratio_change_20": -1.9700000000000002
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.52,
-    "three_inst_ratio_change_20": -1.9700000000000002
+    "three_inst_ratio_change_20": -1.98
   },
   {
     "date": "2026-04-13",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.24,
-    "three_inst_ratio_change_20": -2.26
+    "three_inst_ratio_change_20": -1.2300000000000002
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.99,
-    "three_inst_ratio_change_20": -1.4800000000000002
+    "three_inst_ratio_change_20": -1.51
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.93,
-    "three_inst_ratio_change_20": -1.5699999999999998
+    "three_inst_ratio_change_20": -1.56
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.88,
-    "three_inst_ratio_change_20": -1.6100000000000003
+    "three_inst_ratio_change_20": -1.65
   },
   {
     "date": "2026-04-21",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.71,
-    "three_inst_ratio_change_20": -1.8199999999999998
+    "three_inst_ratio_change_20": -1.8399999999999999
+  },
+  {
+    "date": "2026-04-23",
+    "code": "00693U",
+    "name": "期街口S&P黃豆",
+    "market": "TWSE",
+    "foreign_ratio": 0.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.74,
+    "three_inst_ratio_change_20": -1.8
   }
 ]

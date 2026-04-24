@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -0.20999999999999996
   },
   {
+    "date": "2026-04-06",
+    "code": "6136",
+    "name": "富爾特",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.24
+  },
+  {
     "date": "2026-04-07",
     "code": "6136",
     "name": "富爾特",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.98,
-    "three_inst_ratio_change_20": -0.26000000000000023
+    "three_inst_ratio_change_20": -0.19999999999999973
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.99,
-    "three_inst_ratio_change_20": -0.1899999999999995
+    "three_inst_ratio_change_20": -0.14999999999999947
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.99,
-    "three_inst_ratio_change_20": -0.14999999999999947
+    "three_inst_ratio_change_20": -0.1200000000000001
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.99,
-    "three_inst_ratio_change_20": -0.1200000000000001
+    "three_inst_ratio_change_20": -0.02999999999999936
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.0,
-    "three_inst_ratio_change_20": -0.019999999999999574
+    "three_inst_ratio_change_20": 0.009999999999999787
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.03,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.010000000000000675
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.04,
-    "three_inst_ratio_change_20": 0.020000000000000462
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-04-16",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.07,
-    "three_inst_ratio_change_20": 0.020000000000000462
+    "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.07,
-    "three_inst_ratio_change_20": 0.03000000000000025
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.21,
-    "three_inst_ratio_change_20": 0.17999999999999972
+    "three_inst_ratio_change_20": 0.21999999999999975
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.85,
-    "three_inst_ratio_change_20": -0.14000000000000012
+    "three_inst_ratio_change_20": -0.1599999999999997
+  },
+  {
+    "date": "2026-04-23",
+    "code": "6136",
+    "name": "富爾特",
+    "market": "TWSE",
+    "foreign_ratio": 3.65,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.65,
+    "three_inst_ratio_change_20": -0.38000000000000034
   }
 ]

@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.10999999999999988
   },
   {
+    "date": "2026-04-06",
+    "code": "8374",
+    "name": "羅昇",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.18
+  },
+  {
     "date": "2026-04-07",
     "code": "8374",
     "name": "羅昇",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.31,
-    "three_inst_ratio_change_20": 0.1299999999999999
+    "three_inst_ratio_change_20": 0.050000000000000266
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.14,
-    "three_inst_ratio_change_20": -0.11999999999999966
+    "three_inst_ratio_change_20": -0.18999999999999995
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.17,
-    "three_inst_ratio_change_20": -0.16000000000000014
+    "three_inst_ratio_change_20": -0.1200000000000001
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.21,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.22,
-    "three_inst_ratio_change_20": -0.029999999999999805
+    "three_inst_ratio_change_20": -0.03999999999999959
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.25,
-    "three_inst_ratio_change_20": -0.009999999999999787
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.01,
-    "three_inst_ratio_change_20": -0.2400000000000002
+    "three_inst_ratio_change_20": -0.27
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.016660952214844288,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.126660952214844,
-    "three_inst_ratio_change_20": -0.15333904778515572
+    "three_inst_ratio_change_20": -0.16333904778515596
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.016660952214844288,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.1566609522148443,
-    "three_inst_ratio_change_20": -0.1333390477851557
+    "three_inst_ratio_change_20": -0.10333904778515546
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.016660952214844288,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.1166609522148443,
-    "three_inst_ratio_change_20": -0.1433390477851555
+    "three_inst_ratio_change_20": -0.20333904778515555
   },
   {
     "date": "2026-04-21",
@@ -1626,5 +1637,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2566609522148444,
     "three_inst_ratio_change_20": -0.06333904778515542
+  },
+  {
+    "date": "2026-04-23",
+    "code": "8374",
+    "name": "羅昇",
+    "market": "TWSE",
+    "foreign_ratio": 2.14,
+    "trust_ratio": 0.016660952214844288,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.1566609522148443,
+    "three_inst_ratio_change_20": -0.1333390477851557
   }
 ]

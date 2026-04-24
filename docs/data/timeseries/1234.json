@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
+    "date": "2026-04-06",
+    "code": "1234",
+    "name": "黑松",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.83
+  },
+  {
     "date": "2026-04-07",
     "code": "1234",
     "name": "黑松",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.74,
-    "three_inst_ratio_change_20": -0.08999999999999986
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-04-08",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.76,
-    "three_inst_ratio_change_20": -0.020000000000000462
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.76,
-    "three_inst_ratio_change_20": -0.009999999999999787
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.78,
-    "three_inst_ratio_change_20": 0.020000000000000462
+    "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.79,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.04999999999999982
   },
   {
     "date": "2026-04-16",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.84,
+    "three_inst_ratio_change_20": 0.10999999999999943
+  },
+  {
+    "date": "2026-04-23",
+    "code": "1234",
+    "name": "黑松",
+    "market": "TWSE",
+    "foreign_ratio": 4.83,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.83,
     "three_inst_ratio_change_20": 0.09999999999999964
   }
 ]

@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.4
   },
   {
+    "date": "2026-04-06",
+    "code": "6226",
+    "name": "光鼎",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.98
+  },
+  {
     "date": "2026-04-07",
     "code": "6226",
     "name": "光鼎",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.42,
-    "three_inst_ratio_change_20": 0.43999999999999995
+    "three_inst_ratio_change_20": 0.48
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.63,
-    "three_inst_ratio_change_20": 0.69
+    "three_inst_ratio_change_20": 0.6999999999999998
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2,
-    "three_inst_ratio_change_20": 0.2699999999999999
+    "three_inst_ratio_change_20": 0.21999999999999997
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.98,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.17999999999999994
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.16,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.07999999999999985
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.74,
-    "three_inst_ratio_change_20": -0.3400000000000001
+    "three_inst_ratio_change_20": -0.33000000000000007
   },
   {
     "date": "2026-04-15",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.64,
-    "three_inst_ratio_change_20": 0.5699999999999998
+    "three_inst_ratio_change_20": 0.32999999999999985
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.55,
-    "three_inst_ratio_change_20": 0.24
+    "three_inst_ratio_change_20": 0.47
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.04,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.41,
-    "three_inst_ratio_change_20": 0.28
+    "three_inst_ratio_change_20": 0.26
+  },
+  {
+    "date": "2026-04-23",
+    "code": "6226",
+    "name": "光鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.85,
+    "three_inst_ratio_change_20": 0.6600000000000001
   }
 ]

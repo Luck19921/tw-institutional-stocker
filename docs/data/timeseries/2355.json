@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 2.808457613423572
   },
   {
+    "date": "2026-04-06",
+    "code": "2355",
+    "name": "敬鵬",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -14.559357926186923
+  },
+  {
     "date": "2026-04-07",
     "code": "2355",
     "name": "敬鵬",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.14529676845081635,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.295296768450815,
-    "three_inst_ratio_change_20": 1.7359388422638915
+    "three_inst_ratio_change_20": 2.1414132555288283
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.14403889232233166,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.18403889232233,
-    "three_inst_ratio_change_20": 3.0301553794003446
+    "three_inst_ratio_change_20": 2.4501553794003446
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.139252170502996,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.449252170502994,
-    "three_inst_ratio_change_20": 2.715368657581008
+    "three_inst_ratio_change_20": 2.788890710740766
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.13068854982027214,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.790688549820274,
-    "three_inst_ratio_change_20": 2.1303270900580458
+    "three_inst_ratio_change_20": 1.4913356551378634
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.12589503546984265,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.45589503546984,
-    "three_inst_ratio_change_20": 1.1565421407874297
+    "three_inst_ratio_change_20": 1.1588088335709603
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.12110227584509023,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.66110227584509,
-    "three_inst_ratio_change_20": 1.3640160739462086
+    "three_inst_ratio_change_20": 0.8255169717427169
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.11076026989191472,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.820760269891917,
-    "three_inst_ratio_change_20": 0.985174965789545
+    "three_inst_ratio_change_20": 1.0687038114803968
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.10243539409837729,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.11243539409838,
-    "three_inst_ratio_change_20": 1.3603789356868603
+    "three_inst_ratio_change_20": 0.5146622554795748
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.09311327411017717,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.233113274110178,
-    "three_inst_ratio_change_20": 0.6353401354913721
+    "three_inst_ratio_change_20": 1.1888664654299674
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.12831191866311314,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.59831191866311,
-    "three_inst_ratio_change_20": 0.5540651099829006
+    "three_inst_ratio_change_20": 0.40507141088568943
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.15972033086569903,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.3497203308657,
-    "three_inst_ratio_change_20": 1.1564798230882793
+    "three_inst_ratio_change_20": 1.2595050151772824
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.19318738314016298,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.983187383140162,
-    "three_inst_ratio_change_20": 0.8929720674517441
+    "three_inst_ratio_change_20": 0.6229720674517445
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2355",
+    "name": "敬鵬",
+    "market": "TWSE",
+    "foreign_ratio": 14.1,
+    "trust_ratio": 0.21505329545683824,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.315053295456838,
+    "three_inst_ratio_change_20": -2.1050945980710907
   }
 ]

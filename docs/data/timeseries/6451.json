@@ -1496,15 +1496,26 @@
     "three_inst_ratio_change_20": 3.6977969716595425
   },
   {
+    "date": "2026-04-06",
+    "code": "6451",
+    "name": "訊芯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -64.8286168122027
+  },
+  {
     "date": "2026-04-07",
     "code": "6451",
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 66.81,
-    "trust_ratio": 0.03641378386225071,
+    "trust_ratio": -0.04640403183181842,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 66.84641378386225,
-    "three_inst_ratio_change_20": 2.01779697165955
+    "three_inst_ratio": 66.76359596816819,
+    "three_inst_ratio_change_20": 1.3249791559654938
   },
   {
     "date": "2026-04-08",
@@ -1512,10 +1523,10 @@
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 66.86,
-    "trust_ratio": 0.03600713908182028,
+    "trust_ratio": -0.046810676612248844,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 66.89600713908182,
-    "three_inst_ratio_change_20": 1.4573903268791213
+    "three_inst_ratio": 66.81318932338775,
+    "three_inst_ratio_change_20": 1.5445725111850521
   },
   {
     "date": "2026-04-09",
@@ -1523,10 +1534,10 @@
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 66.87,
-    "trust_ratio": 0.03600713908182028,
+    "trust_ratio": -0.046810676612248844,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 66.90600713908182,
-    "three_inst_ratio_change_20": 1.637390326879128
+    "three_inst_ratio": 66.82318932338775,
+    "three_inst_ratio_change_20": 1.4345725111850527
   },
   {
     "date": "2026-04-10",
@@ -1534,10 +1545,10 @@
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 66.37,
-    "trust_ratio": 0.11138065673597308,
+    "trust_ratio": 0.028562841041903955,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 66.48138065673598,
-    "three_inst_ratio_change_20": 1.0927638445332803
+    "three_inst_ratio": 66.39856284104191,
+    "three_inst_ratio_change_20": 0.9699460288392032
   },
   {
     "date": "2026-04-13",
@@ -1545,10 +1556,10 @@
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 65.62,
-    "trust_ratio": 0.11138065673597308,
+    "trust_ratio": 0.028562841041903955,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 65.73138065673598,
-    "three_inst_ratio_change_20": 0.3027638445332741
+    "three_inst_ratio": 65.64856284104191,
+    "three_inst_ratio_change_20": -0.44005397116079337
   },
   {
     "date": "2026-04-14",
@@ -1556,10 +1567,10 @@
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 65.22,
-    "trust_ratio": 0.11510280575593125,
+    "trust_ratio": 0.03228499006186212,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 65.33510280575592,
-    "three_inst_ratio_change_20": -0.7535140064467782
+    "three_inst_ratio": 65.25228499006187,
+    "three_inst_ratio_change_20": -1.336331822140835
   },
   {
     "date": "2026-04-15",
@@ -1567,10 +1578,10 @@
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 65.26,
-    "trust_ratio": 0.11471942440687555,
+    "trust_ratio": 0.03190160871280642,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 65.37471942440688,
-    "three_inst_ratio_change_20": -1.213897387795825
+    "three_inst_ratio": 65.2919016087128,
+    "three_inst_ratio_change_20": -1.6067152034898982
   },
   {
     "date": "2026-04-16",
@@ -1578,10 +1589,10 @@
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 65.3,
-    "trust_ratio": 0.11471942440687555,
+    "trust_ratio": 0.03190160871280642,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 65.41471942440687,
-    "three_inst_ratio_change_20": -1.4838973877958352
+    "three_inst_ratio": 65.3319016087128,
+    "three_inst_ratio_change_20": -2.4967701051879345
   },
   {
     "date": "2026-04-17",
@@ -1589,10 +1600,10 @@
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 65.38,
-    "trust_ratio": 0.11471942440687555,
+    "trust_ratio": 0.03190160871280642,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 65.49471942440687,
-    "three_inst_ratio_change_20": -2.3339522894938654
+    "three_inst_ratio": 65.4119016087128,
+    "three_inst_ratio_change_20": -2.4867701051879436
   },
   {
     "date": "2026-04-20",
@@ -1600,10 +1611,10 @@
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 65.26,
-    "trust_ratio": 0.1342607067616559,
+    "trust_ratio": 0.051442891067586774,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 65.39426070676166,
-    "three_inst_ratio_change_20": -2.5044110071390833
+    "three_inst_ratio": 65.31144289106759,
+    "three_inst_ratio_change_20": -2.5681500547155878
   },
   {
     "date": "2026-04-21",
@@ -1611,10 +1622,10 @@
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 65.14,
-    "trust_ratio": 0.1519409146064572,
+    "trust_ratio": 0.06912309891238806,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 65.29194091460646,
-    "three_inst_ratio_change_20": -2.5876520311767166
+    "three_inst_ratio": 65.20912309891239,
+    "three_inst_ratio_change_20": -2.6504698468707915
   },
   {
     "date": "2026-04-22",
@@ -1622,9 +1633,20 @@
     "name": "訊芯-KY",
     "market": "TWSE",
     "foreign_ratio": 65.33,
-    "trust_ratio": 0.16869058519626892,
+    "trust_ratio": 0.0858727695021998,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 65.49869058519627,
-    "three_inst_ratio_change_20": -2.3609023605869055
+    "three_inst_ratio": 65.4158727695022,
+    "three_inst_ratio_change_20": -2.2441510150300275
+  },
+  {
+    "date": "2026-04-23",
+    "code": "6451",
+    "name": "訊芯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.27,
+    "trust_ratio": 0.09796975381706381,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 65.36796975381706,
+    "three_inst_ratio_change_20": -2.2120540307151657
   }
 ]

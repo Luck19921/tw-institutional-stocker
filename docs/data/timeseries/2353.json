@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.07328614918077392
   },
   {
+    "date": "2026-04-06",
+    "code": "2353",
+    "name": "宏碁",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.011053014094873
+  },
+  {
     "date": "2026-04-07",
     "code": "2353",
     "name": "宏碁",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 1.9616389556067648,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.981638955606764,
-    "three_inst_ratio_change_20": -0.029414058488109518
+    "three_inst_ratio_change_20": -0.039271420978394644
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 1.959928440505251,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.109928440505252,
-    "three_inst_ratio_change_20": 0.08901806392009348
+    "three_inst_ratio_change_20": 0.24748610068842325
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 1.953432689357962,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.913432689357963,
-    "three_inst_ratio_change_20": 0.05099034954113435
+    "three_inst_ratio_change_20": -0.8455646033560367
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 1.9247616621593442,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.934761662159344,
-    "three_inst_ratio_change_20": -0.8242356305546554
+    "three_inst_ratio_change_20": -0.9931673378530537
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 1.9226294076724997,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.9926294076725,
-    "three_inst_ratio_change_20": -0.9352995923398986
+    "three_inst_ratio_change_20": -0.5569216845657738
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 1.9192247168357313,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.089224716835732,
-    "three_inst_ratio_change_20": -0.4603263754025413
+    "three_inst_ratio_change_20": -0.5328031674096394
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 1.9063626498823028,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.166362649882302,
-    "three_inst_ratio_change_20": -0.45566523436306916
+    "three_inst_ratio_change_20": -0.654314228641546
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 1.894773150518687,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.504773150518687,
-    "three_inst_ratio_change_20": -0.31590372800516064
+    "three_inst_ratio_change_20": -0.43689155040410377
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 1.875422484991954,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.845422484991955,
-    "three_inst_ratio_change_20": -0.09624221593083604
+    "three_inst_ratio_change_20": 0.46937219373763206
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 2.021842433317639,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.791842433317639,
-    "three_inst_ratio_change_20": 0.4157921420633155
+    "three_inst_ratio_change_20": 0.5534043635113601
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 2.1285897441666943,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.518589744166695,
-    "three_inst_ratio_change_20": 0.28015167436041644
+    "three_inst_ratio_change_20": 0.46612402544653797
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 2.2271571679847635,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.647157167984764,
-    "three_inst_ratio_change_20": 0.5946914492646069
+    "three_inst_ratio_change_20": 0.601429178827404
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2353",
+    "name": "宏碁",
+    "market": "TWSE",
+    "foreign_ratio": 9.97,
+    "trust_ratio": 2.3684048538301488,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.338404853830149,
+    "three_inst_ratio_change_20": 0.36576454555615356
   }
 ]

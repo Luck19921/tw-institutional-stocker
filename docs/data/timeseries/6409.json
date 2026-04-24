@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -1.1140624690220662
   },
   {
+    "date": "2026-04-06",
+    "code": "6409",
+    "name": "旭隼",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -57.25253458473969
+  },
+  {
     "date": "2026-04-07",
     "code": "6409",
     "name": "旭隼",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 1.1519440383986213,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.881944038398615,
-    "three_inst_ratio_change_20": -1.3705905463410772
+    "three_inst_ratio_change_20": -1.6317307508340093
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 1.1531754592509955,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.923175459251,
-    "three_inst_ratio_change_20": -1.5904993299816255
+    "three_inst_ratio_change_20": -1.2816395344745715
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 1.1509771449886086,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.61097714498861,
-    "three_inst_ratio_change_20": -1.5938378487369604
+    "three_inst_ratio_change_20": -1.4515574397510846
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 1.1511253715726908,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.61112537157269,
-    "three_inst_ratio_change_20": -1.451409213167004
+    "three_inst_ratio_change_20": -1.4359700311387584
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 1.1512279899770552,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.571227989977054,
-    "three_inst_ratio_change_20": -1.4758674127343951
+    "three_inst_ratio_change_20": -0.9958674127343983
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 1.150404762333153,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.65040476233315,
-    "three_inst_ratio_change_20": -0.9166906403782988
+    "three_inst_ratio_change_20": -0.9555504358853568
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 1.1458439443613957,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.825843944361395,
-    "three_inst_ratio_change_20": -0.7801112538571147
+    "three_inst_ratio_change_20": -0.7478308448712312
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 1.1233237654213513,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.59332376542135,
-    "three_inst_ratio_change_20": -0.9803510238112736
+    "three_inst_ratio_change_20": -1.1033407991643074
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 1.116695756703895,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.4666957567039,
-    "three_inst_ratio_change_20": -1.229968807881761
+    "three_inst_ratio_change_20": -0.6399688078817576
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 1.2174191412011683,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.39741914120117,
-    "three_inst_ratio_change_20": -0.7092454233844876
+    "three_inst_ratio_change_20": -0.9411176391619023
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 1.3014111649690505,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.28141116496905,
-    "three_inst_ratio_change_20": -1.0571256153940212
+    "three_inst_ratio_change_20": -1.1360720664425443
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 1.402192699895464,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.46219269989547,
-    "three_inst_ratio_change_20": -0.9552905315161269
+    "three_inst_ratio_change_20": -0.8152905315161263
+  },
+  {
+    "date": "2026-04-23",
+    "code": "6409",
+    "name": "旭隼",
+    "market": "TWSE",
+    "foreign_ratio": 53.43,
+    "trust_ratio": 1.5032877910574354,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 54.93328779105744,
+    "three_inst_ratio_change_20": -1.4441760568777724
   }
 ]

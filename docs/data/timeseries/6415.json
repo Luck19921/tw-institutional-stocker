@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 1.0226448447222225
   },
   {
+    "date": "2026-04-06",
+    "code": "6415",
+    "name": "矽力*-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -78.16125650982177
+  },
+  {
     "date": "2026-04-07",
     "code": "6415",
     "name": "矽力*-KY",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 2.0827486938996462,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 79.55274869389964,
-    "three_inst_ratio_change_20": 1.391492184077876
+    "three_inst_ratio_change_20": 1.2383425231335963
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 2.038940598518723,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 79.98894059851872,
-    "three_inst_ratio_change_20": 1.6745344277526755
+    "three_inst_ratio_change_20": 1.7468536798610756
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 1.9825054638809454,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 79.47250546388094,
-    "three_inst_ratio_change_20": 1.2304185452232872
+    "three_inst_ratio_change_20": 1.4876412285572087
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 1.9229779930986326,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 79.26297799309863,
-    "three_inst_ratio_change_20": 1.2781137577749035
+    "three_inst_ratio_change_20": 1.1717788080766098
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 1.8974662199062124,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 79.0274662199062,
-    "three_inst_ratio_change_20": 0.9362670348841817
+    "three_inst_ratio_change_20": 0.5947280991419177
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 1.8405156959110123,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 78.970515695911,
-    "three_inst_ratio_change_20": 0.5377775751467198
+    "three_inst_ratio_change_20": 1.3361740822747095
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 1.784446487717005,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 79.15444648771701,
-    "three_inst_ratio_change_20": 1.5201048740807153
+    "three_inst_ratio_change_20": 1.3731972102252428
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 1.7710463644240166,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 79.91104636442402,
-    "three_inst_ratio_change_20": 2.129797086932257
+    "three_inst_ratio_change_20": 1.6590240028961176
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 1.753780820950359,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 80.17378082095036,
-    "three_inst_ratio_change_20": 1.921758459422449
+    "three_inst_ratio_change_20": 2.1994965321137983
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 1.7509461794845342,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 80.62094617948453,
-    "three_inst_ratio_change_20": 2.6466618906479766
+    "three_inst_ratio_change_20": 2.176073058307125
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 2.3049897387138563,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 81.35498973871385,
-    "three_inst_ratio_change_20": 2.9101166175364455
+    "three_inst_ratio_change_20": 2.8318703878176734
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 2.352405559596738,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 80.96240555959673,
-    "three_inst_ratio_change_20": 2.439286208700551
+    "three_inst_ratio_change_20": 2.2071745588011282
+  },
+  {
+    "date": "2026-04-23",
+    "code": "6415",
+    "name": "矽力*-KY",
+    "market": "TWSE",
+    "foreign_ratio": 79.56,
+    "trust_ratio": 2.6745239079858782,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 82.23452390798587,
+    "three_inst_ratio_change_20": 3.270203043383944
   }
 ]

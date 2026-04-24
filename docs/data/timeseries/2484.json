@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -0.28000000000000025
   },
   {
+    "date": "2026-04-06",
+    "code": "2484",
+    "name": "希華",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.55
+  },
+  {
     "date": "2026-04-07",
     "code": "2484",
     "name": "希華",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.29,
-    "three_inst_ratio_change_20": -0.2599999999999998
+    "three_inst_ratio_change_20": -0.4299999999999997
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.64,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio_change_20": -0.15000000000000036
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.25,
-    "three_inst_ratio_change_20": 0.45999999999999996
+    "three_inst_ratio_change_20": 0.4400000000000004
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.46,
-    "three_inst_ratio_change_20": 0.6500000000000004
+    "three_inst_ratio_change_20": 0.5899999999999999
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.52,
-    "three_inst_ratio_change_20": 1.6499999999999995
+    "three_inst_ratio_change_20": 1.5099999999999998
   },
   {
     "date": "2026-04-14",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.38,
-    "three_inst_ratio_change_20": 1.37
+    "three_inst_ratio_change_20": 1.2599999999999998
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.1,
-    "three_inst_ratio_change_20": 1.9799999999999995
+    "three_inst_ratio_change_20": 1.96
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.11,
-    "three_inst_ratio_change_20": 1.9700000000000006
+    "three_inst_ratio_change_20": 1.9100000000000001
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.9,
-    "three_inst_ratio_change_20": 2.7
+    "three_inst_ratio_change_20": 2.71
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.11,
-    "three_inst_ratio_change_20": 0.9199999999999999
+    "three_inst_ratio_change_20": 0.9300000000000006
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.013799936623163787,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.073799936623163,
-    "three_inst_ratio_change_20": 0.8937999366231635
+    "three_inst_ratio_change_20": 0.8137999366231634
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2484",
+    "name": "希華",
+    "market": "TWSE",
+    "foreign_ratio": 6.33,
+    "trust_ratio": 0.013799936623163787,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.343799936623164,
+    "three_inst_ratio_change_20": 1.993799936623164
   }
 ]

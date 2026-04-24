@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -3.2956163403208762
   },
   {
+    "date": "2026-04-06",
+    "code": "3661",
+    "name": "世芯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -51.08310301952138
+  },
+  {
     "date": "2026-04-07",
     "code": "3661",
     "name": "世芯-KY",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 4.160716199396963,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 47.67071619939696,
-    "three_inst_ratio_change_20": -3.412386820124418
+    "three_inst_ratio_change_20": -2.5379720791466767
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 4.042106124992185,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 47.952106124992184,
-    "three_inst_ratio_change_20": -2.256582153551456
+    "three_inst_ratio_change_20": -2.1578411866968707
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 4.040753097230813,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 47.57075309723081,
-    "three_inst_ratio_change_20": -2.5391942144582416
+    "three_inst_ratio_change_20": -3.3806426455180443
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 4.013617098956357,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 47.97361709895636,
-    "three_inst_ratio_change_20": -2.9777786437924973
+    "three_inst_ratio_change_20": -3.0115947874790976
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 4.003651196121683,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 48.37365119612168,
-    "three_inst_ratio_change_20": -2.6115606903137802
+    "three_inst_ratio_change_20": -2.0832539686907694
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 4.109376587511862,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 48.97937658751186,
-    "three_inst_ratio_change_20": -1.477528577300589
+    "three_inst_ratio_change_20": -1.0625266804026694
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 4.181199605049465,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 49.45119960504947,
-    "three_inst_ratio_change_20": -0.5907036628650602
+    "three_inst_ratio_change_20": -0.5189709296296314
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 4.678056381804646,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.318056381804645,
-    "three_inst_ratio_change_20": 2.3478858471255464
+    "three_inst_ratio_change_20": 1.927554409123566
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 4.875915048408155,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 52.74591504840815,
-    "three_inst_ratio_change_20": 2.3554130757270713
+    "three_inst_ratio_change_20": 2.6653798882070063
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 4.89079711701198,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.440797117011975,
-    "three_inst_ratio_change_20": 3.360261956810831
+    "three_inst_ratio_change_20": 2.6476599953781843
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 5.637803249356771,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.92780324935677,
-    "three_inst_ratio_change_20": 5.13466612772298
+    "three_inst_ratio_change_20": 5.764560297824417
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 5.737960696522366,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.67796069652236,
-    "three_inst_ratio_change_20": 6.514717744990008
+    "three_inst_ratio_change_20": 6.922090138486837
+  },
+  {
+    "date": "2026-04-23",
+    "code": "3661",
+    "name": "世芯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 52.06,
+    "trust_ratio": 5.78988406444345,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 57.84988406444345,
+    "three_inst_ratio_change_20": 8.069996301435538
   }
 ]

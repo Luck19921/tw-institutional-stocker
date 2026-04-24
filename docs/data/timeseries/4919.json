@@ -1496,15 +1496,26 @@
     "three_inst_ratio_change_20": 1.458143235233078
   },
   {
+    "date": "2026-04-06",
+    "code": "4919",
+    "name": "新唐",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.6779692734368865
+  },
+  {
     "date": "2026-04-07",
     "code": "4919",
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 8.3,
-    "trust_ratio": -0.6231728061884338,
+    "trust_ratio": -0.6434222185338117,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.676827193811567,
-    "three_inst_ratio_change_20": 0.9988579203746806
+    "three_inst_ratio": 7.656577781466189,
+    "three_inst_ratio_change_20": 0.47860850802930255
   },
   {
     "date": "2026-04-08",
@@ -1512,10 +1523,10 @@
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 8.48,
-    "trust_ratio": -0.6224581210468323,
+    "trust_ratio": -0.6427075333922101,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.857541878953168,
-    "three_inst_ratio_change_20": 0.6795726055162818
+    "three_inst_ratio": 7.83729246660779,
+    "three_inst_ratio_change_20": 0.9397996499319712
   },
   {
     "date": "2026-04-09",
@@ -1523,10 +1534,10 @@
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 8.36,
-    "trust_ratio": -0.6224581210468323,
+    "trust_ratio": -0.6427075333922101,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.737541878953167,
-    "three_inst_ratio_change_20": 0.8400490622773482
+    "three_inst_ratio": 7.717292466607789,
+    "three_inst_ratio_change_20": 1.3397996499319706
   },
   {
     "date": "2026-04-10",
@@ -1534,10 +1545,10 @@
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 8.26,
-    "trust_ratio": -0.6241257197105693,
+    "trust_ratio": -0.6443751320559471,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.63587428028943,
-    "three_inst_ratio_change_20": 1.2583814636136115
+    "three_inst_ratio": 7.615624867944053,
+    "three_inst_ratio_change_20": 1.4619492973391983
   },
   {
     "date": "2026-04-13",
@@ -1545,10 +1556,10 @@
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 8.3,
-    "trust_ratio": -0.6241257197105693,
+    "trust_ratio": -0.6443751320559471,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.675874280289431,
-    "three_inst_ratio_change_20": 1.5221987096845764
+    "three_inst_ratio": 7.655624867944054,
+    "three_inst_ratio_change_20": 1.7019492973391985
   },
   {
     "date": "2026-04-14",
@@ -1556,10 +1567,10 @@
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 9.91,
-    "trust_ratio": -0.6243639480911031,
+    "trust_ratio": -0.6446133604364809,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.285636051908897,
-    "three_inst_ratio_change_20": 3.3319604813040415
+    "three_inst_ratio": 9.26538663956352,
+    "three_inst_ratio_change_20": 3.4114728405781314
   },
   {
     "date": "2026-04-15",
@@ -1567,10 +1578,10 @@
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 9.3,
-    "trust_ratio": -0.6238874913300354,
+    "trust_ratio": -0.6441369036754132,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.676112508669965,
-    "three_inst_ratio_change_20": 2.822198709684576
+    "three_inst_ratio": 8.655863096324588,
+    "three_inst_ratio_change_20": 2.6624257541002656
   },
   {
     "date": "2026-04-16",
@@ -1578,10 +1589,10 @@
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 8.72,
-    "trust_ratio": -0.6243639480911031,
+    "trust_ratio": -0.6446133604364809,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.095636051908897,
-    "three_inst_ratio_change_20": 2.1021987096845756
+    "three_inst_ratio": 8.07538663956352,
+    "three_inst_ratio_change_20": 0.7821875257197322
   },
   {
     "date": "2026-04-17",
@@ -1589,10 +1600,10 @@
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 8.51,
-    "trust_ratio": -0.624602176471637,
+    "trust_ratio": -0.6448515888170148,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.885397823528363,
-    "three_inst_ratio_change_20": 0.5921987096845749
+    "three_inst_ratio": 7.865148411182985,
+    "three_inst_ratio_change_20": 0.6621875257197312
   },
   {
     "date": "2026-04-20",
@@ -1600,10 +1611,10 @@
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 8.45,
-    "trust_ratio": -0.6248404048521708,
+    "trust_ratio": -0.6450898171975485,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.825159595147828,
-    "three_inst_ratio_change_20": 0.6221987096845742
+    "three_inst_ratio": 7.804910182802451,
+    "three_inst_ratio_change_20": -0.33187354071418884
   },
   {
     "date": "2026-04-21",
@@ -1611,10 +1622,10 @@
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 11.16,
-    "trust_ratio": -0.6253168616132385,
+    "trust_ratio": -0.6455662739586163,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.534683138386761,
-    "three_inst_ratio_change_20": 2.397899414870121
+    "three_inst_ratio": 10.514433726041384,
+    "three_inst_ratio_change_20": 2.495738583498051
   },
   {
     "date": "2026-04-22",
@@ -1622,9 +1633,20 @@
     "name": "新唐",
     "market": "TWSE",
     "foreign_ratio": 11.09,
-    "trust_ratio": -0.6200758372414937,
+    "trust_ratio": -0.6403252495868715,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.469924162758506,
-    "three_inst_ratio_change_20": 2.451229020215173
+    "three_inst_ratio": 10.449674750413129,
+    "three_inst_ratio_change_20": 3.3224089781529997
+  },
+  {
+    "date": "2026-04-23",
+    "code": "4919",
+    "name": "新唐",
+    "market": "TWSE",
+    "foreign_ratio": 11.02,
+    "trust_ratio": -0.63961056444527,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.38038943555473,
+    "three_inst_ratio_change_20": 3.723157968181397
   }
 ]

@@ -1463,6 +1463,17 @@
     "three_inst_ratio_change_20": -0.269999999999996
   },
   {
+    "date": "2026-04-06",
+    "code": "6431",
+    "name": "光麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -57.14
+  },
+  {
     "date": "2026-04-07",
     "code": "6431",
     "name": "光麗-KY",
@@ -1471,7 +1482,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.83,
-    "three_inst_ratio_change_20": -0.3100000000000023
+    "three_inst_ratio_change_20": -0.3200000000000003
   },
   {
     "date": "2026-04-08",
@@ -1482,7 +1493,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.89,
-    "three_inst_ratio_change_20": -0.259999999999998
+    "three_inst_ratio_change_20": -0.25
   },
   {
     "date": "2026-04-09",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.92,
-    "three_inst_ratio_change_20": -0.21999999999999886
+    "three_inst_ratio_change_20": -0.1700000000000017
   },
   {
     "date": "2026-04-10",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.93,
-    "three_inst_ratio_change_20": -0.1600000000000037
+    "three_inst_ratio_change_20": -0.10999999999999943
   },
   {
     "date": "2026-04-13",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.88,
-    "three_inst_ratio_change_20": -0.1599999999999966
+    "three_inst_ratio_change_20": -0.14999999999999858
   },
   {
     "date": "2026-04-14",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.9,
-    "three_inst_ratio_change_20": -0.13000000000000256
+    "three_inst_ratio_change_20": -0.14999999999999858
   },
   {
     "date": "2026-04-15",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.89,
-    "three_inst_ratio_change_20": -0.1599999999999966
+    "three_inst_ratio_change_20": -0.1700000000000017
   },
   {
     "date": "2026-04-16",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.89,
-    "three_inst_ratio_change_20": -0.1700000000000017
+    "three_inst_ratio_change_20": -0.20000000000000284
   },
   {
     "date": "2026-04-17",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.91,
-    "three_inst_ratio_change_20": -0.18000000000000682
+    "three_inst_ratio_change_20": -0.22000000000000597
   },
   {
     "date": "2026-04-20",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.9,
-    "three_inst_ratio_change_20": -0.23000000000000398
+    "three_inst_ratio_change_20": -0.259999999999998
   },
   {
     "date": "2026-04-21",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.92,
-    "three_inst_ratio_change_20": -0.23999999999999488
+    "three_inst_ratio_change_20": -0.22999999999999687
   },
   {
     "date": "2026-04-22",
@@ -1592,6 +1603,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.93,
-    "three_inst_ratio_change_20": -0.21999999999999886
+    "three_inst_ratio_change_20": -0.18999999999999773
+  },
+  {
+    "date": "2026-04-23",
+    "code": "6431",
+    "name": "光麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 56.92,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 56.92,
+    "three_inst_ratio_change_20": -0.3500000000000014
   }
 ]

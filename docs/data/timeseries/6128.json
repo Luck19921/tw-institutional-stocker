@@ -1452,6 +1452,17 @@
     "three_inst_ratio_change_20": -0.28000000000000025
   },
   {
+    "date": "2026-04-06",
+    "code": "6128",
+    "name": "上福",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.63
+  },
+  {
     "date": "2026-04-07",
     "code": "6128",
     "name": "上福",
@@ -1471,7 +1482,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.35,
-    "three_inst_ratio_change_20": -0.28000000000000025
+    "three_inst_ratio_change_20": -0.29000000000000004
   },
   {
     "date": "2026-04-09",
@@ -1482,7 +1493,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.35,
-    "three_inst_ratio_change_20": -0.29000000000000004
+    "three_inst_ratio_change_20": -0.3000000000000007
   },
   {
     "date": "2026-04-10",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.34,
-    "three_inst_ratio_change_20": -0.3100000000000005
+    "three_inst_ratio_change_20": -0.2999999999999998
   },
   {
     "date": "2026-04-13",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.4,
-    "three_inst_ratio_change_20": -0.23999999999999932
+    "three_inst_ratio_change_20": -0.20999999999999996
   },
   {
     "date": "2026-04-14",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.45,
-    "three_inst_ratio_change_20": -0.16000000000000014
+    "three_inst_ratio_change_20": -0.16999999999999993
   },
   {
     "date": "2026-04-15",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.43,
-    "three_inst_ratio_change_20": -0.1900000000000004
+    "three_inst_ratio_change_20": -0.20999999999999996
   },
   {
     "date": "2026-04-16",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.49,
-    "three_inst_ratio_change_20": -0.14999999999999947
+    "three_inst_ratio_change_20": -0.1200000000000001
   },
   {
     "date": "2026-04-17",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.44,
-    "three_inst_ratio_change_20": -0.16999999999999993
+    "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
     "date": "2026-04-20",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.44,
-    "three_inst_ratio_change_20": -0.08999999999999986
+    "three_inst_ratio_change_20": -0.0699999999999994
   },
   {
     "date": "2026-04-21",
@@ -1581,6 +1592,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.47,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.04999999999999982
+  },
+  {
+    "date": "2026-04-23",
+    "code": "6128",
+    "name": "上福",
+    "market": "TWSE",
+    "foreign_ratio": 4.43,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.43,
+    "three_inst_ratio_change_20": -0.08999999999999986
   }
 ]

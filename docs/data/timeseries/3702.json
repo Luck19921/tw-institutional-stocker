@@ -1496,15 +1496,26 @@
     "three_inst_ratio_change_20": 6.971650755385717
   },
   {
+    "date": "2026-04-06",
+    "code": "3702",
+    "name": "大聯大",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.00266040785053
+  },
+  {
     "date": "2026-04-07",
     "code": "3702",
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 31.0,
-    "trust_ratio": -0.820563528834405,
+    "trust_ratio": -0.8204444143434184,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.179436471165594,
-    "three_inst_ratio_change_20": 7.176776063315064
+    "three_inst_ratio": 30.17955558565658,
+    "three_inst_ratio_change_20": 7.2236880886092045
   },
   {
     "date": "2026-04-08",
@@ -1512,10 +1523,10 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 31.36,
-    "trust_ratio": -0.8517119682273435,
+    "trust_ratio": -0.8515928537363571,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.508288031772658,
-    "three_inst_ratio_change_20": 7.552420534725282
+    "three_inst_ratio": 30.508407146263643,
+    "three_inst_ratio_change_20": 7.469636967047201
   },
   {
     "date": "2026-04-09",
@@ -1523,10 +1534,10 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 31.44,
-    "trust_ratio": -0.848138533497752,
+    "trust_ratio": -0.8480194190067658,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.591861466502248,
-    "three_inst_ratio_change_20": 7.553091287285806
+    "three_inst_ratio": 30.591980580993237,
+    "three_inst_ratio_change_20": 7.584980267413023
   },
   {
     "date": "2026-04-10",
@@ -1534,10 +1545,10 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 31.69,
-    "trust_ratio": -0.9309826619787801,
+    "trust_ratio": -0.9308635474877937,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.75901733802122,
-    "three_inst_ratio_change_20": 7.752017024441006
+    "three_inst_ratio": 30.75913645251221,
+    "three_inst_ratio_change_20": 7.691983320983873
   },
   {
     "date": "2026-04-13",
@@ -1545,10 +1556,10 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 31.95,
-    "trust_ratio": -1.159742041918125,
+    "trust_ratio": -1.1596229274271386,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.790257958081874,
-    "three_inst_ratio_change_20": 7.723104826553538
+    "three_inst_ratio": 30.79037707257286,
+    "three_inst_ratio_change_20": 7.713389145869371
   },
   {
     "date": "2026-04-14",
@@ -1556,10 +1567,10 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 32.41,
-    "trust_ratio": -1.4428176297472595,
+    "trust_ratio": -1.442698515256273,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.967182370252736,
-    "three_inst_ratio_change_20": 7.890194443549248
+    "three_inst_ratio": 30.967301484743725,
+    "three_inst_ratio_change_20": 7.421858661606127
   },
   {
     "date": "2026-04-15",
@@ -1567,10 +1578,10 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 32.77,
-    "trust_ratio": -1.7591261605615944,
+    "trust_ratio": -1.759007046070608,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.01087383943841,
-    "three_inst_ratio_change_20": 7.465431016300812
+    "three_inst_ratio": 31.010992953929396,
+    "three_inst_ratio_change_20": 6.735125380404561
   },
   {
     "date": "2026-04-16",
@@ -1578,10 +1589,10 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 32.89,
-    "trust_ratio": -2.032255688393366,
+    "trust_ratio": -2.03213657390238,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.857744311606634,
-    "three_inst_ratio_change_20": 6.5818767380817995
+    "three_inst_ratio": 30.85786342609762,
+    "three_inst_ratio_change_20": 5.711525011851698
   },
   {
     "date": "2026-04-17",
@@ -1589,10 +1600,10 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 33.19,
-    "trust_ratio": -2.3912166765828586,
+    "trust_ratio": -2.3910975620918724,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.79878332341714,
-    "three_inst_ratio_change_20": 5.652444909171219
+    "three_inst_ratio": 30.798902437908126,
+    "three_inst_ratio_change_20": 5.042778631281742
   },
   {
     "date": "2026-04-20",
@@ -1600,10 +1611,10 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 33.39,
-    "trust_ratio": -2.677136003769802,
+    "trust_ratio": -2.6770168892788155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.712863996230197,
-    "three_inst_ratio_change_20": 4.9567401896038135
+    "three_inst_ratio": 30.712983110721186,
+    "three_inst_ratio_change_20": 4.299104351156888
   },
   {
     "date": "2026-04-21",
@@ -1611,10 +1622,10 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 33.8,
-    "trust_ratio": -2.901547704788144,
+    "trust_ratio": -2.9014285902971575,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.898452295211854,
-    "three_inst_ratio_change_20": 4.484573535647556
+    "three_inst_ratio": 30.89857140970284,
+    "three_inst_ratio_change_20": 3.8921316885823316
   },
   {
     "date": "2026-04-22",
@@ -1622,9 +1633,20 @@
     "name": "大聯大",
     "market": "TWSE",
     "foreign_ratio": 34.06,
-    "trust_ratio": -3.102553408327662,
+    "trust_ratio": -3.1024342938366756,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.95744659167234,
-    "three_inst_ratio_change_20": 3.951006870551833
+    "three_inst_ratio": 30.957565706163326,
+    "three_inst_ratio_change_20": 3.1805304125878884
+  },
+  {
+    "date": "2026-04-23",
+    "code": "3702",
+    "name": "大聯大",
+    "market": "TWSE",
+    "foreign_ratio": 34.15,
+    "trust_ratio": -3.3456065271853728,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 30.804393472814624,
+    "three_inst_ratio_change_20": 2.5539282993049213
   }
 ]

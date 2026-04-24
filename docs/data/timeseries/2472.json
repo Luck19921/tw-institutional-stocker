@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.6280419835387026
   },
   {
+    "date": "2026-04-06",
+    "code": "2472",
+    "name": "立隆電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.151724777635023
+  },
+  {
     "date": "2026-04-07",
     "code": "2472",
     "name": "立隆電",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 1.9899852937870808,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.229985293787081,
-    "three_inst_ratio_change_20": 0.0782605161520582
+    "three_inst_ratio_change_20": 0.6983151493053974
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 1.9820938383048177,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.682093838304818,
-    "three_inst_ratio_change_20": 3.150423693823134
+    "three_inst_ratio_change_20": 3.0104236938231335
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 1.9820938383048177,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.382093838304819,
-    "three_inst_ratio_change_20": 2.7104236938231345
+    "three_inst_ratio_change_20": 3.0210307288602323
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 1.9815038002487593,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.16150380024876,
-    "three_inst_ratio_change_20": 2.800440690804173
+    "three_inst_ratio_change_20": 2.950695973986411
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 1.9815038002487593,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.36150380024876,
-    "three_inst_ratio_change_20": 3.150695973986412
+    "three_inst_ratio_change_20": 2.9806959739864123
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 1.9815038002487593,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.41150380024876,
-    "three_inst_ratio_change_20": 3.030695973986411
+    "three_inst_ratio_change_20": 3.1006959739864115
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 1.980896765211662,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.990896765211662,
-    "three_inst_ratio_change_20": 3.6800889389493143
+    "three_inst_ratio_change_20": 3.370088938949314
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 1.980896765211662,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.140896765211663,
-    "three_inst_ratio_change_20": 2.520088938949314
+    "three_inst_ratio_change_20": 1.6100889389493158
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 1.9801804638678877,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.610180463867888,
-    "three_inst_ratio_change_20": 1.079372637605541
+    "three_inst_ratio_change_20": 0.7193726376055398
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 2.0621301938760035,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.512130193876002,
-    "three_inst_ratio_change_20": 0.6213223676136543
+    "three_inst_ratio_change_20": 1.1313223676136541
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 2.168968360405103,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.008968360405103,
-    "three_inst_ratio_change_20": 1.6281605341427543
+    "three_inst_ratio_change_20": 1.2987675691798515
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 2.3066014143661406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.106601414366141,
-    "three_inst_ratio_change_20": 1.3964006231408899
+    "three_inst_ratio_change_20": 1.5464006231408902
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2472",
+    "name": "立隆電",
+    "market": "TWSE",
+    "foreign_ratio": 13.47,
+    "trust_ratio": 2.361234567704885,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.831234567704886,
+    "three_inst_ratio_change_20": 1.971103585508903
   }
 ]

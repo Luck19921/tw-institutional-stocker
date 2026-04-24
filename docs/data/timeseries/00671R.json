@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
+    "date": "2026-04-06",
+    "code": "00671R",
+    "name": "富邦NASDAQ反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.07
+  },
+  {
     "date": "2026-04-07",
     "code": "00671R",
     "name": "富邦NASDAQ反1",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.06,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-04-08",
@@ -1626,5 +1637,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.06,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-04-23",
+    "code": "00671R",
+    "name": "富邦NASDAQ反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.18,
+    "three_inst_ratio_change_20": 0.12
   }
 ]

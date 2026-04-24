@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.2703122530354314
   },
   {
+    "date": "2026-04-06",
+    "code": "2059",
+    "name": "川湖",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -24.855677909600413
+  },
+  {
     "date": "2026-04-07",
     "code": "2059",
     "name": "川湖",
@@ -1504,7 +1515,7 @@
     "trust_ratio": -1.1204289676392156,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.989571032360782,
-    "three_inst_ratio_change_20": 0.13389312276036947
+    "three_inst_ratio_change_20": 0.1680768819423939
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": -1.121735408617801,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.028264591382197,
-    "three_inst_ratio_change_20": 0.20677044096380826
+    "three_inst_ratio_change_20": 0.21465809904421462
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": -1.1733812766041751,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.056618723395825,
-    "three_inst_ratio_change_20": 0.2430122310578433
+    "three_inst_ratio_change_20": 0.21301223105784217
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": -1.189083752751606,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.020916247248394,
-    "three_inst_ratio_change_20": 0.1773097549104108
+    "three_inst_ratio_change_20": 0.14052015197276901
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": -1.191218131025054,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.848781868974946,
-    "three_inst_ratio_change_20": -0.031614226300678894
+    "three_inst_ratio_change_20": -0.11667393768404466
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": -1.247505274873503,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.612494725126496,
-    "three_inst_ratio_change_20": -0.35296108153249506
+    "three_inst_ratio_change_20": -0.328156414291513
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": -1.2344660494920559,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.635533950507945,
-    "three_inst_ratio_change_20": -0.3051171889100637
+    "three_inst_ratio_change_20": -0.21875874129689876
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": -1.2384850606952542,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.621514939304745,
-    "three_inst_ratio_change_20": -0.23277775250009825
+    "three_inst_ratio_change_20": -0.39507186369797154
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": -1.0537574543738344,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.786242545626166,
-    "three_inst_ratio_change_20": -0.23034425737655084
+    "three_inst_ratio_change_20": -0.4757071033620015
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": -0.826235248864729,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.84376475113527,
-    "three_inst_ratio_change_20": -0.41818489785289614
+    "three_inst_ratio_change_20": -0.222447358298691
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": -0.758979247547081,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.81102075245292,
-    "three_inst_ratio_change_20": -0.2551913569810438
+    "three_inst_ratio_change_20": -0.3502731047182621
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": -0.7681914928089291,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.921808507191074,
-    "three_inst_ratio_change_20": -0.2394853499801073
+    "three_inst_ratio_change_20": -0.3116958959662455
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2059",
+    "name": "川湖",
+    "market": "TWSE",
+    "foreign_ratio": 25.62,
+    "trust_ratio": -0.7756523726143444,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.844347627385655,
+    "three_inst_ratio_change_20": -0.3685045668559468
   }
 ]

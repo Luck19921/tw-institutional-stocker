@@ -1155,15 +1155,26 @@
     "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
+    "date": "2026-04-06",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.5666218755589443
+  },
+  {
     "date": "2026-04-07",
     "code": "2314",
     "name": "台揚",
     "market": "TWSE",
     "foreign_ratio": 1.64,
-    "trust_ratio": -0.17337812444105577,
+    "trust_ratio": -0.17243585202561526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.4666218755589442,
-    "three_inst_ratio_change_20": -0.10000000000000009
+    "three_inst_ratio": 1.4675641479743846,
+    "three_inst_ratio_change_20": -0.09905772758455966
   },
   {
     "date": "2026-04-09",
@@ -1171,10 +1182,10 @@
     "name": "台揚",
     "market": "TWSE",
     "foreign_ratio": 1.64,
-    "trust_ratio": -0.17337812444105577,
+    "trust_ratio": -0.17243585202561526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.4666218755589442,
-    "three_inst_ratio_change_20": -0.10000000000000009
+    "three_inst_ratio": 1.4675641479743846,
+    "three_inst_ratio_change_20": -0.09905772758455966
   },
   {
     "date": "2026-04-10",
@@ -1182,10 +1193,10 @@
     "name": "台揚",
     "market": "TWSE",
     "foreign_ratio": 1.66,
-    "trust_ratio": -0.17337812444105577,
+    "trust_ratio": -0.17243585202561526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.4866218755589442,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio": 1.4875641479743846,
+    "three_inst_ratio_change_20": -0.06905772758455964
   },
   {
     "date": "2026-04-13",
@@ -1193,10 +1204,10 @@
     "name": "台揚",
     "market": "TWSE",
     "foreign_ratio": 1.65,
-    "trust_ratio": -0.17337812444105577,
+    "trust_ratio": -0.17243585202561526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.4766218755589442,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio": 1.4775641479743846,
+    "three_inst_ratio_change_20": -0.06905772758455964
   },
   {
     "date": "2026-04-14",
@@ -1204,10 +1215,10 @@
     "name": "台揚",
     "market": "TWSE",
     "foreign_ratio": 1.64,
-    "trust_ratio": -0.17337812444105577,
+    "trust_ratio": -0.17243585202561526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.4666218755589442,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio": 1.4675641479743846,
+    "three_inst_ratio_change_20": -0.07905772758455964
   },
   {
     "date": "2026-04-15",
@@ -1215,10 +1226,10 @@
     "name": "台揚",
     "market": "TWSE",
     "foreign_ratio": 1.59,
-    "trust_ratio": -0.17337812444105577,
+    "trust_ratio": -0.17243585202561526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.4166218755589444,
-    "three_inst_ratio_change_20": -0.1299999999999999
+    "three_inst_ratio": 1.4175641479743848,
+    "three_inst_ratio_change_20": -0.11905772758455946
   },
   {
     "date": "2026-04-17",
@@ -1226,10 +1237,10 @@
     "name": "台揚",
     "market": "TWSE",
     "foreign_ratio": 1.58,
-    "trust_ratio": -0.17337812444105577,
+    "trust_ratio": -0.17243585202561526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.4066218755589444,
-    "three_inst_ratio_change_20": -0.1299999999999999
+    "three_inst_ratio": 1.4075641479743848,
+    "three_inst_ratio_change_20": -0.13905772758455948
   },
   {
     "date": "2026-04-21",
@@ -1237,10 +1248,10 @@
     "name": "台揚",
     "market": "TWSE",
     "foreign_ratio": 1.58,
-    "trust_ratio": -0.17337812444105577,
+    "trust_ratio": -0.17243585202561526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.4066218755589444,
-    "three_inst_ratio_change_20": -0.1399999999999999
+    "three_inst_ratio": 1.4075641479743848,
+    "three_inst_ratio_change_20": -0.14905772758455949
   },
   {
     "date": "2026-04-22",
@@ -1248,9 +1259,20 @@
     "name": "台揚",
     "market": "TWSE",
     "foreign_ratio": 1.58,
-    "trust_ratio": -0.17337812444105577,
+    "trust_ratio": -0.17243585202561526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.4066218755589444,
-    "three_inst_ratio_change_20": -0.1499999999999999
+    "three_inst_ratio": 1.4075641479743848,
+    "three_inst_ratio_change_20": -0.14905772758455949
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.58,
+    "trust_ratio": -0.17243585202561526,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.4075641479743848,
+    "three_inst_ratio_change_20": -0.14905772758455949
   }
 ]

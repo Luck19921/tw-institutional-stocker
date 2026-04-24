@@ -1474,6 +1474,17 @@
     "three_inst_ratio_change_20": -0.1200000000000001
   },
   {
+    "date": "2026-04-06",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.25
+  },
+  {
     "date": "2026-04-07",
     "code": "4426",
     "name": "利勤",
@@ -1482,7 +1493,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.12,
-    "three_inst_ratio_change_20": -0.1299999999999999
+    "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
     "date": "2026-04-08",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.13,
-    "three_inst_ratio_change_20": -0.0900000000000003
+    "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
     "date": "2026-04-09",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.1,
-    "three_inst_ratio_change_20": -0.1299999999999999
+    "three_inst_ratio_change_20": -0.1200000000000001
   },
   {
     "date": "2026-04-10",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.14,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio_change_20": -0.06000000000000005
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.25,
-    "three_inst_ratio_change_20": 0.04999999999999982
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-04-17",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.26,
-    "three_inst_ratio_change_20": 0.04999999999999982
+    "three_inst_ratio_change_20": 0.06999999999999984
   },
   {
     "date": "2026-04-20",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.25,
-    "three_inst_ratio_change_20": 0.06000000000000005
+    "three_inst_ratio_change_20": 0.08000000000000007
   },
   {
     "date": "2026-04-22",
@@ -1603,6 +1614,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.24,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.0900000000000003
+  },
+  {
+    "date": "2026-04-23",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.25,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.25,
+    "three_inst_ratio_change_20": 0.10999999999999988
   }
 ]

@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -0.2142499150094359
   },
   {
+    "date": "2026-04-06",
+    "code": "9940",
+    "name": "信義",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.9501357134762807
+  },
+  {
     "date": "2026-04-07",
     "code": "9940",
     "name": "信義",
@@ -1504,7 +1515,7 @@
     "trust_ratio": -0.01411420153315514,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.725885798466845,
-    "three_inst_ratio_change_20": -0.2242499150094357
+    "three_inst_ratio_change_20": -0.23424991500943548
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": -0.01411420153315514,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7158857984668447,
-    "three_inst_ratio_change_20": -0.24424991500943571
+    "three_inst_ratio_change_20": -0.26424991500943573
   },
   {
     "date": "2026-04-09",
@@ -1537,7 +1548,7 @@
     "trust_ratio": -0.01411420153315514,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7158857984668447,
-    "three_inst_ratio_change_20": -0.26424991500943573
+    "three_inst_ratio_change_20": -0.20000000000000018
   },
   {
     "date": "2026-04-13",
@@ -1570,7 +1581,7 @@
     "trust_ratio": -0.01411420153315514,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7658857984668446,
-    "three_inst_ratio_change_20": -0.15000000000000036
+    "three_inst_ratio_change_20": -0.14000000000000012
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": -0.01411420153315514,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.8058857984668446,
-    "three_inst_ratio_change_20": -0.10000000000000009
+    "three_inst_ratio_change_20": -0.07000000000000028
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": -0.01411420153315514,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.795885798466845,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio_change_20": -0.06000000000000005
   },
   {
     "date": "2026-04-20",
@@ -1614,7 +1625,7 @@
     "trust_ratio": -0.01411420153315514,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7658857984668446,
-    "three_inst_ratio_change_20": -0.0900000000000003
+    "three_inst_ratio_change_20": -0.07000000000000028
   },
   {
     "date": "2026-04-22",
@@ -1626,5 +1637,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.775885798466845,
     "three_inst_ratio_change_20": -0.06000000000000005
+  },
+  {
+    "date": "2026-04-23",
+    "code": "9940",
+    "name": "信義",
+    "market": "TWSE",
+    "foreign_ratio": 3.76,
+    "trust_ratio": -0.01411420153315514,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.7458857984668446,
+    "three_inst_ratio_change_20": -0.10000000000000009
   }
 ]

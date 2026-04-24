@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -1.65
   },
   {
+    "date": "2026-04-06",
+    "code": "00680L",
+    "name": "元大美債20正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.87
+  },
+  {
     "date": "2026-04-07",
     "code": "00680L",
     "name": "元大美債20正2",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.28,
-    "three_inst_ratio_change_20": -1.59
+    "three_inst_ratio_change_20": -1.6300000000000001
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.39,
-    "three_inst_ratio_change_20": -1.5200000000000002
+    "three_inst_ratio_change_20": -1.1500000000000001
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.35,
-    "three_inst_ratio_change_20": -1.19
+    "three_inst_ratio_change_20": -0.71
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.38,
-    "three_inst_ratio_change_20": -0.6800000000000002
+    "three_inst_ratio_change_20": 0.22999999999999998
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.47,
-    "three_inst_ratio_change_20": 0.32000000000000006
+    "three_inst_ratio_change_20": 0.47
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.53,
-    "three_inst_ratio_change_20": 0.53
+    "three_inst_ratio_change_20": 0.56
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.55,
-    "three_inst_ratio_change_20": 0.5800000000000001
+    "three_inst_ratio_change_20": 0.42999999999999994
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.56,
-    "three_inst_ratio_change_20": 0.43999999999999995
+    "three_inst_ratio_change_20": 0.3900000000000001
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.14,
-    "three_inst_ratio_change_20": -0.030000000000000027
+    "three_inst_ratio_change_20": -0.07000000000000006
   },
   {
     "date": "2026-04-20",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.35,
-    "three_inst_ratio_change_20": 0.14000000000000012
+    "three_inst_ratio_change_20": 0.41000000000000014
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.24,
-    "three_inst_ratio_change_20": 0.30000000000000004
+    "three_inst_ratio_change_20": 0.26
+  },
+  {
+    "date": "2026-04-23",
+    "code": "00680L",
+    "name": "元大美債20正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.13,
+    "three_inst_ratio_change_20": 0.039999999999999813
   }
 ]

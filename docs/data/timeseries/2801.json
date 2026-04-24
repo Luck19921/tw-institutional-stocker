@@ -1496,15 +1496,26 @@
     "three_inst_ratio_change_20": -0.35365340652209554
   },
   {
+    "date": "2026-04-06",
+    "code": "2801",
+    "name": "彰銀",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -18.194750351106748
+  },
+  {
     "date": "2026-04-07",
     "code": "2801",
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.17,
-    "trust_ratio": -0.23868848886123786,
+    "trust_ratio": -0.23855250435415742,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.931311511138762,
-    "three_inst_ratio_change_20": -0.26343883996798567
+    "three_inst_ratio": 17.931447495645845,
+    "three_inst_ratio_change_20": -0.14330285546090593
   },
   {
     "date": "2026-04-08",
@@ -1512,10 +1523,10 @@
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.17,
-    "trust_ratio": -0.23872248498800797,
+    "trust_ratio": -0.23858650048092755,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.931277515011995,
-    "three_inst_ratio_change_20": -0.14347283609475525
+    "three_inst_ratio": 17.931413499519074,
+    "three_inst_ratio_change_20": -0.11333685158767537
   },
   {
     "date": "2026-04-09",
@@ -1523,10 +1534,10 @@
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.24,
-    "trust_ratio": -0.23893496078032117,
+    "trust_ratio": -0.23879897627324073,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.00106503921968,
-    "three_inst_ratio_change_20": -0.04368531188707081
+    "three_inst_ratio": 18.001201023726757,
+    "three_inst_ratio_change_20": -0.06338575501603572
   },
   {
     "date": "2026-04-10",
@@ -1534,10 +1545,10 @@
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.25,
-    "trust_ratio": -0.23944072115828016,
+    "trust_ratio": -0.23930473665119972,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.01055927884172,
-    "three_inst_ratio_change_20": -0.054027499901074805
+    "three_inst_ratio": 18.0106952633488,
+    "three_inst_ratio_change_20": -0.01381293334696565
   },
   {
     "date": "2026-04-13",
@@ -1545,10 +1556,10 @@
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.27,
-    "trust_ratio": -0.23850582767210204,
+    "trust_ratio": -0.2383698431650216,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.031494172327896,
-    "three_inst_ratio_change_20": 0.006985975632129993
+    "three_inst_ratio": 18.03163015683498,
+    "three_inst_ratio_change_20": -0.002623068910008186
   },
   {
     "date": "2026-04-14",
@@ -1556,10 +1567,10 @@
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.3,
-    "trust_ratio": -0.24913811631945484,
+    "trust_ratio": -0.2490021318123744,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.050861883680547,
-    "three_inst_ratio_change_20": 0.01660865793555999
+    "three_inst_ratio": 18.050997868187626,
+    "three_inst_ratio_change_20": 0.026744225990082526
   },
   {
     "date": "2026-04-15",
@@ -1567,10 +1578,10 @@
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.38,
-    "trust_ratio": -0.2536086069897247,
+    "trust_ratio": -0.25347262248264424,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.126391393010273,
-    "three_inst_ratio_change_20": 0.10213775081273013
+    "three_inst_ratio": 18.126527377517355,
+    "three_inst_ratio_change_20": 0.09396010044989467
   },
   {
     "date": "2026-04-16",
@@ -1578,10 +1589,10 @@
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.4,
-    "trust_ratio": -0.2813409474024443,
+    "trust_ratio": -0.2812049628953639,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.118659052597554,
-    "three_inst_ratio_change_20": 0.08609177553009317
+    "three_inst_ratio": 18.118795037104636,
+    "three_inst_ratio_change_20": 0.08556692632695473
   },
   {
     "date": "2026-04-17",
@@ -1589,10 +1600,10 @@
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.45,
-    "trust_ratio": -0.2866698402736595,
+    "trust_ratio": -0.2865338557665791,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.16333015972634,
-    "three_inst_ratio_change_20": 0.1301020489486575
+    "three_inst_ratio": 18.16346614423342,
+    "three_inst_ratio_change_20": 0.1801615421705094
   },
   {
     "date": "2026-04-20",
@@ -1600,10 +1611,10 @@
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.5,
-    "trust_ratio": -0.3132697187094765,
+    "trust_ratio": -0.31313373420239604,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.186730281290522,
-    "three_inst_ratio_change_20": 0.20342567922761035
+    "three_inst_ratio": 18.186866265797605,
+    "three_inst_ratio_change_20": 0.23545485704032743
   },
   {
     "date": "2026-04-21",
@@ -1611,10 +1622,10 @@
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.51,
-    "trust_ratio": -0.3250261062865465,
+    "trust_ratio": -0.324890121779466,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.184973893713455,
-    "three_inst_ratio_change_20": 0.23356248495617749
+    "three_inst_ratio": 18.185109878220537,
+    "three_inst_ratio_change_20": 0.3536984694632608
   },
   {
     "date": "2026-04-22",
@@ -1622,9 +1633,20 @@
     "name": "彰銀",
     "market": "TWSE",
     "foreign_ratio": 18.52,
-    "trust_ratio": -0.32973471432774587,
+    "trust_ratio": -0.32959872982066546,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.190265285672254,
-    "three_inst_ratio_change_20": 0.35885387691497783
+    "three_inst_ratio": 18.190401270179333,
+    "three_inst_ratio_change_20": 0.3589898614220566
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2801",
+    "name": "彰銀",
+    "market": "TWSE",
+    "foreign_ratio": 18.52,
+    "trust_ratio": -0.32661944525503983,
+    "dealer_ratio": -0.01590809656661648,
+    "three_inst_ratio": 18.177472458178343,
+    "three_inst_ratio_change_20": 0.3060610494210678
   }
 ]

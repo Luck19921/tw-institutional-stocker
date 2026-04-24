@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -1.4406387496962871
   },
   {
+    "date": "2026-04-06",
+    "code": "6209",
+    "name": "今國光",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.158964996972898
+  },
+  {
     "date": "2026-04-07",
     "code": "6209",
     "name": "今國光",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.3029126360980068,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.352912636098006,
-    "three_inst_ratio_change_20": -1.806052360874892
+    "three_inst_ratio_change_20": -1.9460523608748925
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.3029126360980068,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.7529126360980065,
-    "three_inst_ratio_change_20": -1.5460523608748922
+    "three_inst_ratio_change_20": -1.3849057636695417
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.29373985845521217,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.453739858455212,
-    "three_inst_ratio_change_20": -1.6840785413123358
+    "three_inst_ratio_change_20": -1.8152251385176852
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.29259326124986285,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.362593261249863,
-    "three_inst_ratio_change_20": -1.9063717357230345
+    "three_inst_ratio_change_20": -1.6535052427096613
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.28342048360706823,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.683420483607069,
-    "three_inst_ratio_change_20": -1.3326780203524553
+    "three_inst_ratio_change_20": -1.3826780203524542
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.28342048360706823,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.733420483607069,
-    "three_inst_ratio_change_20": -1.3326780203524544
+    "three_inst_ratio_change_20": -1.4426780203524556
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.2822738864017189,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.692273886401719,
-    "three_inst_ratio_change_20": -1.4838246175578051
+    "three_inst_ratio_change_20": -1.403824617557805
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.2776874975803216,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.617687497580321,
-    "three_inst_ratio_change_20": -1.4784110063792033
+    "three_inst_ratio_change_20": -1.2584110063792027
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.2679414213348523,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.177941421334852,
-    "three_inst_ratio_change_20": -1.6981570826246717
+    "three_inst_ratio_change_20": -0.633570693803275
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.2111848596700606,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.421184859670061,
-    "three_inst_ratio_change_20": -0.39032725546806635
+    "three_inst_ratio_change_20": -0.38918065826271686
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.15500159660794352,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.225001596607944,
-    "three_inst_ratio_change_20": 0.4146360786751666
+    "three_inst_ratio_change_20": 0.6546360786751668
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.10397802096989844,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.773978020969898,
-    "three_inst_ratio_change_20": 0.20361250303712097
+    "three_inst_ratio_change_20": 0.1836125030371205
+  },
+  {
+    "date": "2026-04-23",
+    "code": "6209",
+    "name": "今國光",
+    "market": "TWSE",
+    "foreign_ratio": 7.18,
+    "trust_ratio": 0.05467434113987735,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.234674341139877,
+    "three_inst_ratio_change_20": 0.8460287190151234
   }
 ]

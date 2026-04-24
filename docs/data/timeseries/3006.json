@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 3.6771065493135744
   },
   {
+    "date": "2026-04-06",
+    "code": "3006",
+    "name": "晶豪科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -27.802180267325582
+  },
+  {
     "date": "2026-04-07",
     "code": "3006",
     "name": "晶豪科",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.7307733187810498,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.79077331878105,
-    "three_inst_ratio_change_20": 1.9885930514554673
+    "three_inst_ratio_change_20": 1.6985930514554681
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.7240457849312781,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.374045784931276,
-    "three_inst_ratio_change_20": -1.718134482394305
+    "three_inst_ratio_change_20": -2.9167367227695564
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.6322149478818961,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.232214947881896,
-    "three_inst_ratio_change_20": -3.058567559818936
+    "three_inst_ratio_change_20": -3.0885675598189373
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.626832920802079,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.77683292080208,
-    "three_inst_ratio_change_20": -3.543949586898755
+    "three_inst_ratio_change_20": -3.840157579862769
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.6153961132574672,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.105396113257466,
-    "three_inst_ratio_change_20": -3.5115943874073814
+    "three_inst_ratio_change_20": -2.1980999883455112
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.6143869831800015,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.97438698318,
-    "three_inst_ratio_change_20": -2.329109118422977
+    "three_inst_ratio_change_20": -3.0591091184229775
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.6106868395626271,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.53068683956263,
-    "three_inst_ratio_change_20": -3.5028092620403477
+    "three_inst_ratio_change_20": -7.310013742790854
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.6042956824053441,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.104295682405343,
-    "three_inst_ratio_change_20": -6.736404899948141
+    "three_inst_ratio_change_20": -6.184308260511024
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.594877135015664,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.614877135015664,
-    "three_inst_ratio_change_20": -6.673726807900703
+    "three_inst_ratio_change_20": -6.6418976830224175
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.6063139425602757,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.536313942560277,
-    "three_inst_ratio_change_20": -5.720460875477805
+    "three_inst_ratio_change_20": -5.089213724452623
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.5868040943959381,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.216804094395936,
-    "three_inst_ratio_change_20": -5.408723572616964
+    "three_inst_ratio_change_20": -5.638723572616964
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.5703216364639977,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.240321636464,
-    "three_inst_ratio_change_20": -5.615206030548901
+    "three_inst_ratio_change_20": -5.651711631487032
+  },
+  {
+    "date": "2026-04-23",
+    "code": "3006",
+    "name": "晶豪科",
+    "market": "TWSE",
+    "foreign_ratio": 24.47,
+    "trust_ratio": 0.5518209183771259,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.021820918377124,
+    "three_inst_ratio_change_20": -7.5287792965186355
   }
 ]

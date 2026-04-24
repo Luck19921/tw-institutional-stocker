@@ -1474,6 +1474,17 @@
     "three_inst_ratio_change_20": -0.12110569811127503
   },
   {
+    "date": "2026-04-06",
+    "code": "4994",
+    "name": "傳奇",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.91
+  },
+  {
     "date": "2026-04-07",
     "code": "4994",
     "name": "傳奇",
@@ -1482,7 +1493,7 @@
     "trust_ratio": -0.0011056981112748067,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.788894301888725,
-    "three_inst_ratio_change_20": -0.12110569811127503
+    "three_inst_ratio_change_20": -0.10110569811127501
   },
   {
     "date": "2026-04-08",
@@ -1493,7 +1504,7 @@
     "trust_ratio": -0.0011056981112748067,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.788894301888725,
-    "three_inst_ratio_change_20": -0.10110569811127501
+    "three_inst_ratio_change_20": -0.081105698111275
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": -0.0020411729438383694,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7779588270561613,
-    "three_inst_ratio_change_20": -0.09204117294383884
+    "three_inst_ratio_change_20": -0.07204117294383883
   },
   {
     "date": "2026-04-15",
@@ -1537,7 +1548,7 @@
     "trust_ratio": -0.0020411729438383694,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7679588270561615,
-    "three_inst_ratio_change_20": -0.08204117294383861
+    "three_inst_ratio_change_20": -0.07204117294383838
   },
   {
     "date": "2026-04-16",
@@ -1570,7 +1581,7 @@
     "trust_ratio": -0.0020411729438383694,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.8079588270561615,
-    "three_inst_ratio_change_20": -0.03204117294383835
+    "three_inst_ratio_change_20": -0.01204117294383833
   },
   {
     "date": "2026-04-21",
@@ -1581,7 +1592,7 @@
     "trust_ratio": -0.0020411729438383694,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.8079588270561615,
-    "three_inst_ratio_change_20": -0.01204117294383833
+    "three_inst_ratio_change_20": -0.02204117294383856
   },
   {
     "date": "2026-04-22",
@@ -1592,6 +1603,17 @@
     "trust_ratio": -0.0020411729438383694,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.8279588270561615,
-    "three_inst_ratio_change_20": -0.002041172943838543
+    "three_inst_ratio_change_20": 0.007958827056161688
+  },
+  {
+    "date": "2026-04-23",
+    "code": "4994",
+    "name": "傳奇",
+    "market": "TWSE",
+    "foreign_ratio": 2.82,
+    "trust_ratio": -0.0020411729438383694,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.8179588270561613,
+    "three_inst_ratio_change_20": 0.007958827056161244
   }
 ]

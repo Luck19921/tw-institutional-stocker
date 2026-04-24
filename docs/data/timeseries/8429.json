@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -0.1700000000000017
   },
   {
+    "date": "2026-04-06",
+    "code": "8429",
+    "name": "金麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -30.53
+  },
+  {
     "date": "2026-04-07",
     "code": "8429",
     "name": "金麗-KY",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.38,
-    "three_inst_ratio_change_20": -0.15000000000000213
+    "three_inst_ratio_change_20": -0.10999999999999943
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.43,
-    "three_inst_ratio_change_20": -0.05999999999999872
+    "three_inst_ratio_change_20": -0.05000000000000071
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.44,
-    "three_inst_ratio_change_20": -0.03999999999999915
+    "three_inst_ratio_change_20": -0.0799999999999983
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.46,
-    "three_inst_ratio_change_20": -0.05999999999999872
+    "three_inst_ratio_change_20": -0.03999999999999915
   },
   {
     "date": "2026-04-13",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.5,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.47,
-    "three_inst_ratio_change_20": 0.05999999999999872
+    "three_inst_ratio_change_20": 0.00999999999999801
   },
   {
     "date": "2026-04-17",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.45,
-    "three_inst_ratio_change_20": -0.010000000000001563
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.44,
-    "three_inst_ratio_change_20": 0.08000000000000185
+    "three_inst_ratio_change_20": 0.08999999999999986
+  },
+  {
+    "date": "2026-04-23",
+    "code": "8429",
+    "name": "金麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 30.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 30.33,
+    "three_inst_ratio_change_20": -0.020000000000003126
   }
 ]

@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 2.1337542071411617
   },
   {
+    "date": "2026-04-06",
+    "code": "00655L",
+    "name": "國泰中國A50正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.7326376089094193
+  },
+  {
     "date": "2026-04-07",
     "code": "00655L",
     "name": "國泰中國A50正2",
@@ -1504,7 +1515,7 @@
     "trust_ratio": -0.47360818394941867,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.046391816050581,
-    "three_inst_ratio_change_20": 2.3137542071411614
+    "three_inst_ratio_change_20": 2.8737542071411615
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": -0.4821717013428482,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.147828298657152,
-    "three_inst_ratio_change_20": 3.9751906897477327
+    "three_inst_ratio_change_20": 3.7778204787900895
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": -0.48509544252831743,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.174904557471683,
-    "three_inst_ratio_change_20": 3.8048967376046203
+    "three_inst_ratio_change_20": 3.1548967376046204
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": -0.4880548573659679,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.271945142634032,
-    "three_inst_ratio_change_20": 3.25193732276697
+    "three_inst_ratio_change_20": 3.14193732276697
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": -0.4880548573659679,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.891945142634032,
-    "three_inst_ratio_change_20": 3.76193732276697
+    "three_inst_ratio_change_20": 3.304597528763714
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": -0.494083351861459,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.965916648138541,
-    "three_inst_ratio_change_20": 3.3785690342682226
+    "three_inst_ratio_change_20": 3.4939828326970375
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": -0.494083351861459,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.345916648138541,
-    "three_inst_ratio_change_20": 3.8739828326970374
+    "three_inst_ratio_change_20": 2.656737524336191
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": -0.5002626378848896,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.589737362115111,
-    "three_inst_ratio_change_20": 2.900558238312761
+    "three_inst_ratio_change_20": 2.840558238312761
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": -0.5002626378848896,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.659737362115111,
-    "three_inst_ratio_change_20": 2.9105582383127615
+    "three_inst_ratio_change_20": 2.8705582383127615
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": -0.5002626378848896,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.669737362115111,
-    "three_inst_ratio_change_20": 2.8805582383127613
+    "three_inst_ratio_change_20": 2.8133455460645296
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": -0.5002626378848896,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.989737362115111,
-    "three_inst_ratio_change_20": 3.13334554606453
+    "three_inst_ratio_change_20": 3.3233455460645303
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": -0.5197640271316822,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.360235972868319,
-    "three_inst_ratio_change_20": 3.693844156817738
+    "three_inst_ratio_change_20": 4.163844156817738
+  },
+  {
+    "date": "2026-04-23",
+    "code": "00655L",
+    "name": "國泰中國A50正2",
+    "market": "TWSE",
+    "foreign_ratio": 9.21,
+    "trust_ratio": -0.530096212462562,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.67990378753744,
+    "three_inst_ratio_change_20": 4.523511971486858
   }
 ]

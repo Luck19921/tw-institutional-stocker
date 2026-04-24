@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -2.09
   },
   {
+    "date": "2026-04-06",
+    "code": "1603",
+    "name": "華電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.85521681065064
+  },
+  {
     "date": "2026-04-07",
     "code": "1603",
     "name": "華電",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.005216810650640624,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.725216810650641,
-    "three_inst_ratio_change_20": -2.1299999999999994
+    "three_inst_ratio_change_20": -2.06
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.005216810650640624,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.725216810650641,
-    "three_inst_ratio_change_20": -2.06
+    "three_inst_ratio_change_20": -1.94
   },
   {
     "date": "2026-04-09",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.005216810650640624,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6752168106506407,
-    "three_inst_ratio_change_20": -1.9900000000000002
+    "three_inst_ratio_change_20": -1.04
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.005216810650640624,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.665216810650641,
-    "three_inst_ratio_change_20": -1.0499999999999998
+    "three_inst_ratio_change_20": -0.8399999999999999
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.005216810650640624,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6752168106506407,
-    "three_inst_ratio_change_20": -0.8300000000000001
+    "three_inst_ratio_change_20": -0.79
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.005216810650640624,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6352168106506406,
-    "three_inst_ratio_change_20": -0.8300000000000001
+    "three_inst_ratio_change_20": -0.71
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.005216810650640624,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5752168106506406,
-    "three_inst_ratio_change_20": -0.77
+    "three_inst_ratio_change_20": -0.6200000000000001
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.005216810650640624,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5252168106506407,
-    "three_inst_ratio_change_20": -0.6699999999999999
+    "three_inst_ratio_change_20": -0.6400000000000001
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.005216810650640624,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5452168106506408,
-    "three_inst_ratio_change_20": -0.6200000000000001
+    "three_inst_ratio_change_20": -0.56
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.005216810650640624,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.475216810650641,
-    "three_inst_ratio_change_20": -0.6299999999999999
+    "three_inst_ratio_change_20": -0.5699999999999998
+  },
+  {
+    "date": "2026-04-23",
+    "code": "1603",
+    "name": "華電",
+    "market": "TWSE",
+    "foreign_ratio": 2.39,
+    "trust_ratio": 0.005216810650640624,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.395216810650641,
+    "three_inst_ratio_change_20": -0.6199999999999997
   }
 ]

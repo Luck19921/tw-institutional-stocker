@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 1.0320078078345638
   },
   {
+    "date": "2026-04-06",
+    "code": "6285",
+    "name": "啟碁",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -19.372166607717045
+  },
+  {
     "date": "2026-04-07",
     "code": "6285",
     "name": "啟碁",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 2.9043189406563696,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.92431894065637,
-    "three_inst_ratio_change_20": 1.5521523329393254
+    "three_inst_ratio_change_20": 1.2775176118022635
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 3.5820625611159396,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.49206256111594,
-    "three_inst_ratio_change_20": 2.8452612322618336
+    "three_inst_ratio_change_20": 3.0717430691134595
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 4.353466297520654,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.023466297520656,
-    "three_inst_ratio_change_20": 3.6031468055181755
+    "three_inst_ratio_change_20": 4.007361928113706
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 4.545481733766348,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.00548173376635,
-    "three_inst_ratio_change_20": 3.989377364359399
+    "three_inst_ratio_change_20": 3.8816947249279323
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 4.5419668949781205,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.91196689497812,
-    "three_inst_ratio_change_20": 3.788179886139705
+    "three_inst_ratio_change_20": 3.676852940237982
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 4.508472548878531,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.42847254887853,
-    "three_inst_ratio_change_20": 2.1933585941383917
+    "three_inst_ratio_change_20": 2.0318378314975085
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 4.68979687930655,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.139796879306548,
-    "three_inst_ratio_change_20": 4.743162161925525
+    "three_inst_ratio_change_20": 5.604612643285073
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 5.159337990369297,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.829337990369297,
-    "three_inst_ratio_change_20": 5.294153754347821
+    "three_inst_ratio_change_20": 5.208771427451168
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 4.932647635701615,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.982647635701618,
-    "three_inst_ratio_change_20": 4.362081072783489
+    "three_inst_ratio_change_20": 4.27522271340559
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 4.91703947717443,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.56703947717443,
-    "three_inst_ratio_change_20": 2.8596145548784015
+    "three_inst_ratio_change_20": 2.981697110744012
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 4.396843336516627,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.886843336516627,
-    "three_inst_ratio_change_20": 3.3015009700862095
+    "three_inst_ratio_change_20": 2.967285847490679
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 4.315795289164536,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.75579528916454,
-    "three_inst_ratio_change_20": 2.8362378001385906
+    "three_inst_ratio_change_20": 2.303475289906821
+  },
+  {
+    "date": "2026-04-23",
+    "code": "6285",
+    "name": "啟碁",
+    "market": "TWSE",
+    "foreign_ratio": 18.06,
+    "trust_ratio": 3.981472093837165,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.041472093837164,
+    "three_inst_ratio_change_20": 2.042105379915835
   }
 ]

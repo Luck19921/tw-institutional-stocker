@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.608341524061176
   },
   {
+    "date": "2026-04-06",
+    "code": "1409",
+    "name": "新纖",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.07214014377572
+  },
+  {
     "date": "2026-04-07",
     "code": "1409",
     "name": "新纖",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.05048166783689599,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.480481667836896,
-    "three_inst_ratio_change_20": 0.40834152406117674
+    "three_inst_ratio_change_20": 0.5183415240611762
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.05048166783689599,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.500481667836896,
-    "three_inst_ratio_change_20": 0.5383415240611757
+    "three_inst_ratio_change_20": 0.5487122584638939
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.050543456904015814,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.480543456904016,
-    "three_inst_ratio_change_20": 0.5287740475310141
+    "three_inst_ratio_change_20": 0.5188976256652555
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.050543456904015814,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.730543456904016,
-    "three_inst_ratio_change_20": 0.7688976256652555
+    "three_inst_ratio_change_20": 0.5102471562684787
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.050296300635536514,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.820296300635537,
-    "three_inst_ratio_change_20": 0.5999999999999996
+    "three_inst_ratio_change_20": 0.04006178906711888
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.05004914436705722,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.980049144367056,
-    "three_inst_ratio_change_20": 0.19981463279863831
+    "three_inst_ratio_change_20": 0.5398146327986382
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.04992556623281757,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.839925566232816,
-    "three_inst_ratio_change_20": 0.39969105466439814
+    "three_inst_ratio_change_20": 0.04969105466439849
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.05017272250129686,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.000172722501295,
-    "three_inst_ratio_change_20": 0.20993821093287757
+    "three_inst_ratio_change_20": 0.33993821093287835
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.04949304276297881,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.839493042762978,
-    "three_inst_ratio_change_20": 0.17925853119456114
+    "three_inst_ratio_change_20": 0.1791967421274414
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.018969243605785887,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.818969243605787,
-    "three_inst_ratio_change_20": 0.15867294297025047
+    "three_inst_ratio_change_20": 0.17873473203736978
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.018969243605785887,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.918969243605787,
-    "three_inst_ratio_change_20": 0.2787347320373694
+    "three_inst_ratio_change_20": 0.3687965211044908
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.018969243605785887,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.848969243605787,
-    "three_inst_ratio_change_20": -0.7012034788955095
+    "three_inst_ratio_change_20": -0.6912034788955097
+  },
+  {
+    "date": "2026-04-23",
+    "code": "1409",
+    "name": "新纖",
+    "market": "TWSE",
+    "foreign_ratio": 12.84,
+    "trust_ratio": 0.018969243605785887,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.858969243605786,
+    "three_inst_ratio_change_20": -0.641203478895509
   }
 ]

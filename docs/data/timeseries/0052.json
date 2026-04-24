@@ -1441,6 +1441,17 @@
     "three_inst_ratio_change_20": -0.027257609114352155
   },
   {
+    "date": "2026-04-06",
+    "code": "0052",
+    "name": "富邦科技",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.6295691277975317
+  },
+  {
     "date": "2026-04-07",
     "code": "0052",
     "name": "富邦科技",
@@ -1449,7 +1460,7 @@
     "trust_ratio": 0.5706882911392405,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5506882911392403,
-    "three_inst_ratio_change_20": -0.07888083665829138
+    "three_inst_ratio_change_20": -0.14824613509026796
   },
   {
     "date": "2026-04-08",
@@ -1460,7 +1471,7 @@
     "trust_ratio": 0.5706882911392405,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3806882911392404,
-    "three_inst_ratio_change_20": 0.6817538649097321
+    "three_inst_ratio_change_20": 0.5902253661085153
   },
   {
     "date": "2026-04-09",
@@ -1471,7 +1482,7 @@
     "trust_ratio": 0.5708011869436201,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.68080118694362,
-    "three_inst_ratio_change_20": 0.8903382619128948
+    "three_inst_ratio_change_20": 0.36958906573149886
   },
   {
     "date": "2026-04-10",
@@ -1482,7 +1493,7 @@
     "trust_ratio": 0.5723864312636382,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.1323864312636385,
-    "three_inst_ratio_change_20": 0.8211743100515174
+    "three_inst_ratio_change_20": 1.5366959696000224
   },
   {
     "date": "2026-04-13",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.5159529974108744,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.9459529974108745,
-    "three_inst_ratio_change_20": 1.3502625357472584
+    "three_inst_ratio_change_20": 1.426873916296827
   },
   {
     "date": "2026-04-14",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.5066028326351486,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.1366028326351483,
-    "three_inst_ratio_change_20": 1.6175237515211007
+    "three_inst_ratio_change_20": 1.766058338527062
   },
   {
     "date": "2026-04-15",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.507615430741555,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.1076154307415553,
-    "three_inst_ratio_change_20": 1.7370709366334691
+    "three_inst_ratio_change_20": 1.5561219242480488
   },
   {
     "date": "2026-04-16",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.5282143571285743,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.8082143571285743,
-    "three_inst_ratio_change_20": 1.2567208506350678
+    "three_inst_ratio_change_20": 1.1259628358304
   },
   {
     "date": "2026-04-17",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.4414317136572686,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0014317136572686,
-    "three_inst_ratio_change_20": 0.31918019235909423
+    "three_inst_ratio_change_20": 0.5393034514683146
   },
   {
     "date": "2026-04-20",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.441343462614954,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.011343462614954,
-    "three_inst_ratio_change_20": 0.549215200426
+    "three_inst_ratio_change_20": 0.5962069610982705
   },
   {
     "date": "2026-04-21",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.3289279297264923,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4289279297264925,
-    "three_inst_ratio_change_20": 1.013791428209809
+    "three_inst_ratio_change_20": 1.3974479297264926
   },
   {
     "date": "2026-04-22",
@@ -1570,6 +1581,17 @@
     "trust_ratio": 0.31707609346914317,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7270760934691434,
-    "three_inst_ratio_change_20": 1.6955960934691434
+    "three_inst_ratio_change_20": 1.3611963251447974
+  },
+  {
+    "date": "2026-04-23",
+    "code": "0052",
+    "name": "富邦科技",
+    "market": "TWSE",
+    "foreign_ratio": 2.6,
+    "trust_ratio": 0.3072127872127872,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.9072127872127873,
+    "three_inst_ratio_change_20": 1.271612627436474
   }
 ]

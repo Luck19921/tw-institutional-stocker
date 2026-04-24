@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -1.0551861488138883
   },
   {
+    "date": "2026-04-06",
+    "code": "5234",
+    "name": "達興材料",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.599784210744136
+  },
+  {
     "date": "2026-04-07",
     "code": "5234",
     "name": "達興材料",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 3.1215933040792483,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.521593304079248,
-    "three_inst_ratio_change_20": -1.0781909066648883
+    "three_inst_ratio_change_20": -1.128635645747229
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 3.121405407191492,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.841405407191493,
-    "three_inst_ratio_change_20": -0.8088235426349843
+    "three_inst_ratio_change_20": -1.1031625177330113
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 3.0230759477954687,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.10307594779547,
-    "three_inst_ratio_change_20": -0.841491977129035
+    "three_inst_ratio_change_20": -0.6412275671682437
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 3.0209944786450853,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.910994478645087,
-    "three_inst_ratio_change_20": -0.8333090363186262
+    "three_inst_ratio_change_20": -0.8914581665930985
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 2.9246121372569043,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.734612137256905,
-    "three_inst_ratio_change_20": -1.0678405079812805
+    "three_inst_ratio_change_20": -0.8743910110479387
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 2.9246121372569043,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.784612137256904,
-    "three_inst_ratio_change_20": -0.8243910110479398
+    "three_inst_ratio_change_20": -0.6163381290557801
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 2.9236385782529837,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.133638578252985,
-    "three_inst_ratio_change_20": -0.2673116880596993
+    "three_inst_ratio_change_20": -0.32209540224006616
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 2.9236385782529837,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.303638578252984,
-    "three_inst_ratio_change_20": -0.15209540224006624
+    "three_inst_ratio_change_20": -0.11306896124398769
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 2.9207179012412205,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.45071790124122,
-    "three_inst_ratio_change_20": 0.03401036174424732
+    "three_inst_ratio_change_20": 0.0040103617442461825
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 2.9207179012412205,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.59071790124122,
-    "three_inst_ratio_change_20": 0.14401036174424675
+    "three_inst_ratio_change_20": -0.07528363059545917
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 2.9207179012412205,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.76071790124122,
-    "three_inst_ratio_change_20": 0.09471636940454076
+    "three_inst_ratio_change_20": 0.544367878604513
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 2.8769077460647745,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.756907746064776,
-    "three_inst_ratio_change_20": 0.5405577234280692
+    "three_inst_ratio_change_20": 0.6205577234280675
+  },
+  {
+    "date": "2026-04-23",
+    "code": "5234",
+    "name": "達興材料",
+    "market": "TWSE",
+    "foreign_ratio": 11.21,
+    "trust_ratio": 2.836018267900092,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.046018267900093,
+    "three_inst_ratio_change_20": 0.8193004173423528
   }
 ]

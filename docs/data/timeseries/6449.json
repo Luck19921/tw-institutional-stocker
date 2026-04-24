@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -1.4086902025308916
   },
   {
+    "date": "2026-04-06",
+    "code": "6449",
+    "name": "鈺邦",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.70842205260194
+  },
+  {
     "date": "2026-04-07",
     "code": "6449",
     "name": "鈺邦",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 6.969927718308916,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.499927718308916,
-    "three_inst_ratio_change_20": -1.2084943342930234
+    "three_inst_ratio_change_20": -0.7884399382874481
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 6.969927718308916,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.579927718308916,
-    "three_inst_ratio_change_20": -0.708439938287448
+    "three_inst_ratio_change_20": -0.7484399382874471
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 6.969927718308916,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.609927718308915,
-    "three_inst_ratio_change_20": -0.7184399382874478
+    "three_inst_ratio_change_20": -0.7384399382874474
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 6.969731850071047,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.659731850071047,
-    "three_inst_ratio_change_20": -0.6886358065253155
+    "three_inst_ratio_change_20": -0.618635806525317
   },
   {
     "date": "2026-04-13",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 6.969731850071047,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.659731850071047,
-    "three_inst_ratio_change_20": -0.618635806525317
+    "three_inst_ratio_change_20": -0.5886358065253159
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 6.969731850071047,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.759731850071047,
-    "three_inst_ratio_change_20": -0.48863580652531624
+    "three_inst_ratio_change_20": -0.5286358065253172
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 6.969731850071047,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.899731850071047,
-    "three_inst_ratio_change_20": -0.3886358065253166
+    "three_inst_ratio_change_20": -0.3186358065253163
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 6.9696339159521115,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.919633915952112,
-    "three_inst_ratio_change_20": -0.29873374064425207
+    "three_inst_ratio_change_20": -0.24873374064425136
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 6.9696339159521115,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.219633915952112,
-    "three_inst_ratio_change_20": 0.051266259355749355
+    "three_inst_ratio_change_20": 0.1612662593557488
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 6.9696339159521115,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.03963391595211,
-    "three_inst_ratio_change_20": -0.018733740644252705
+    "three_inst_ratio_change_20": -0.008733740644252919
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 6.969481573989325,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.189481573989326,
-    "three_inst_ratio_change_20": 0.1411139173929623
+    "three_inst_ratio_change_20": 0.159597381955491
+  },
+  {
+    "date": "2026-04-23",
+    "code": "6449",
+    "name": "鈺邦",
+    "market": "TWSE",
+    "foreign_ratio": 1.81,
+    "trust_ratio": 6.969481573989325,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.779481573989326,
+    "three_inst_ratio_change_20": -0.2804026180445085
   }
 ]

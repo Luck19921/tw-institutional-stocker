@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -0.5267249426386735
   },
   {
+    "date": "2026-04-06",
+    "code": "1528",
+    "name": "恩德",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.370351485122641
+  },
+  {
     "date": "2026-04-07",
     "code": "1528",
     "name": "恩德",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.23728512368617738,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.1672851236861774,
-    "three_inst_ratio_change_20": -1.2030663614364636
+    "three_inst_ratio_change_20": -1.7330663614364634
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.23728512368617738,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1672851236861774,
-    "three_inst_ratio_change_20": -2.7330663614364634
+    "three_inst_ratio_change_20": -2.852021052521547
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.22996796128175778,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.1599679612817577,
-    "three_inst_ratio_change_20": -1.8593382149259665
+    "three_inst_ratio_change_20": -1.980383523840883
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.2289226523668407,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2689226523668407,
-    "three_inst_ratio_change_20": -2.8714288327558
+    "three_inst_ratio_change_20": -2.6693382149259657
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.22160548996242113,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4816054899624211,
-    "three_inst_ratio_change_20": -2.456655377330385
+    "three_inst_ratio_change_20": -3.136655377330386
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.22160548996242113,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.181605489962421,
-    "three_inst_ratio_change_20": -2.4366553773303856
+    "three_inst_ratio_change_20": -2.3666553773303853
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.22003752659004555,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.990037526590045,
-    "three_inst_ratio_change_20": 3.441776659297239
+    "three_inst_ratio_change_20": 3.061776659297239
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.21637894538783572,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.7463789453878356,
-    "three_inst_ratio_change_20": -1.1818819219049708
+    "three_inst_ratio_change_20": -1.0818819219049711
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.20853912852595763,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.2285391285259575,
-    "three_inst_ratio_change_20": -0.5997217387668492
+    "three_inst_ratio_change_20": -0.09606315756463957
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.19704073046186973,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.41704073046187,
-    "three_inst_ratio_change_20": 0.09243844437127269
+    "three_inst_ratio_change_20": -0.10651624671381033
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.18292906011048915,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.14292906011049,
-    "three_inst_ratio_change_20": 0.6193720829348095
+    "three_inst_ratio_change_20": 0.4993720829348094
   },
   {
     "date": "2026-04-22",
@@ -1626,5 +1637,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.529862698674026,
     "three_inst_ratio_change_20": -0.11369427850165437
+  },
+  {
+    "date": "2026-04-23",
+    "code": "1528",
+    "name": "恩德",
+    "market": "TWSE",
+    "foreign_ratio": 3.0,
+    "trust_ratio": 0.15104713820551818,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.1510471382055183,
+    "three_inst_ratio_change_20": -0.8809418755977863
   }
 ]

@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.1200000000000001
   },
   {
+    "date": "2026-04-06",
+    "code": "1219",
+    "name": "福壽",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.52
+  },
+  {
     "date": "2026-04-07",
     "code": "1219",
     "name": "福壽",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.67,
-    "three_inst_ratio_change_20": 0.15000000000000036
+    "three_inst_ratio_change_20": 0.17999999999999972
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.72,
-    "three_inst_ratio_change_20": 0.22999999999999954
+    "three_inst_ratio_change_20": 0.25
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.81,
-    "three_inst_ratio_change_20": 0.33999999999999986
+    "three_inst_ratio_change_20": 0.34999999999999964
   },
   {
     "date": "2026-04-10",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.96,
-    "three_inst_ratio_change_20": 0.5
+    "three_inst_ratio_change_20": 0.5199999999999996
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.95,
-    "three_inst_ratio_change_20": 0.5099999999999998
+    "three_inst_ratio_change_20": 0.4900000000000002
   },
   {
     "date": "2026-04-15",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.95,
-    "three_inst_ratio_change_20": 0.4900000000000002
+    "three_inst_ratio_change_20": 0.4800000000000004
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.0,
-    "three_inst_ratio_change_20": 0.5300000000000002
+    "three_inst_ratio_change_20": 0.5099999999999998
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.95,
-    "three_inst_ratio_change_20": 0.45999999999999996
+    "three_inst_ratio_change_20": 0.4500000000000002
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.93,
-    "three_inst_ratio_change_20": 0.4299999999999997
+    "three_inst_ratio_change_20": 0.41000000000000014
   },
   {
     "date": "2026-04-22",
@@ -1626,5 +1637,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.92,
     "three_inst_ratio_change_20": 0.40000000000000036
+  },
+  {
+    "date": "2026-04-23",
+    "code": "1219",
+    "name": "福壽",
+    "market": "TWSE",
+    "foreign_ratio": 5.82,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.82,
+    "three_inst_ratio_change_20": 0.3000000000000007
   }
 ]

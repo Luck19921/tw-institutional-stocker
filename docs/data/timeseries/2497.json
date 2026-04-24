@@ -1485,6 +1485,17 @@
     "three_inst_ratio_change_20": -0.562627761295226
   },
   {
+    "date": "2026-04-06",
+    "code": "2497",
+    "name": "怡利電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.828444608902287
+  },
+  {
     "date": "2026-04-07",
     "code": "2497",
     "name": "怡利電",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.22920416128406162,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.229204161284062,
-    "three_inst_ratio_change_20": -0.5992404476182251
+    "three_inst_ratio_change_20": -0.5792404476182256
   },
   {
     "date": "2026-04-08",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.22920416128406162,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.269204161284062,
-    "three_inst_ratio_change_20": -0.5392404476182255
+    "three_inst_ratio_change_20": -0.5475467907797249
   },
   {
     "date": "2026-04-09",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.22232803644553975,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2223280364455396,
-    "three_inst_ratio_change_20": -0.5944229156182472
+    "three_inst_ratio_change_20": -0.6161165724567472
   },
   {
     "date": "2026-04-10",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.220800008703646,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.220800008703646,
-    "three_inst_ratio_change_20": -0.6176446001986409
+    "three_inst_ratio_change_20": -0.5842572865216407
   },
   {
     "date": "2026-04-13",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.21392388386512418,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.1839238838651243,
-    "three_inst_ratio_change_20": -0.6211334113601623
+    "three_inst_ratio_change_20": -0.6011334113601623
   },
   {
     "date": "2026-04-14",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.21392388386512418,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.613923883865124,
-    "three_inst_ratio_change_20": -0.17113341136016258
+    "three_inst_ratio_change_20": 0.07478754225875317
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.20933980063944294,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.759339800639443,
-    "three_inst_ratio_change_20": 0.22020345903307215
+    "three_inst_ratio_change_20": 0.21020345903307192
   },
   {
     "date": "2026-04-17",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.2016996619299742,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.821699661929974,
-    "three_inst_ratio_change_20": 0.2725633203236031
+    "three_inst_ratio_change_20": 0.455619375807391
   },
   {
     "date": "2026-04-20",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.17343114870493997,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.91343114870494,
-    "three_inst_ratio_change_20": 0.5473508625823569
+    "three_inst_ratio_change_20": 0.5688788903242505
   },
   {
     "date": "2026-04-21",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.12453426096434014,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.95453426096434,
-    "three_inst_ratio_change_20": 0.6099820025836507
+    "three_inst_ratio_change_20": 0.6999820025836505
   },
   {
     "date": "2026-04-22",
@@ -1614,6 +1625,17 @@
     "trust_ratio": 0.07945744257847469,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.179457442578475,
-    "three_inst_ratio_change_20": 0.9249051841977853
+    "three_inst_ratio_change_20": 1.0049051841977854
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2497",
+    "name": "怡利電",
+    "market": "TWSE",
+    "foreign_ratio": 3.06,
+    "trust_ratio": 0.03667266580544986,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.0966726658054498,
+    "three_inst_ratio_change_20": 0.9128844212957068
   }
 ]

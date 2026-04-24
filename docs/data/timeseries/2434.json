@@ -1331,6 +1331,17 @@
     "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
+    "date": "2026-04-06",
+    "code": "2434",
+    "name": "統懋",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.16
+  },
+  {
     "date": "2026-04-07",
     "code": "2434",
     "name": "統懋",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.11,
-    "three_inst_ratio_change_20": -0.04999999999999982
+    "three_inst_ratio_change_20": -0.029999999999999805
   },
   {
     "date": "2026-04-10",
@@ -1372,7 +1383,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.12,
-    "three_inst_ratio_change_20": -0.019999999999999796
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-04-13",
@@ -1405,7 +1416,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.12,
-    "three_inst_ratio_change_20": -0.009999999999999787
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-04-16",
@@ -1416,7 +1427,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.12,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-04-17",
@@ -1427,7 +1438,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.12,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-04-20",
@@ -1438,7 +1449,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.12,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-04-21",
@@ -1460,6 +1471,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.13,
-    "three_inst_ratio_change_20": 0.019999999999999796
+    "three_inst_ratio_change_20": 0.029999999999999805
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2434",
+    "name": "統懋",
+    "market": "TWSE",
+    "foreign_ratio": 1.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.13,
+    "three_inst_ratio_change_20": 0.039999999999999813
   }
 ]

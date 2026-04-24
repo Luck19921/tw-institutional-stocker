@@ -1496,18 +1496,18 @@
     "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
-    "date": "2026-04-07",
+    "date": "2026-04-06",
     "code": "4108",
     "name": "懷特",
     "market": "TWSE",
-    "foreign_ratio": 1.09,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.09,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.11
   },
   {
-    "date": "2026-04-08",
+    "date": "2026-04-07",
     "code": "4108",
     "name": "懷特",
     "market": "TWSE",
@@ -1518,6 +1518,17 @@
     "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
+    "date": "2026-04-08",
+    "code": "4108",
+    "name": "懷特",
+    "market": "TWSE",
+    "foreign_ratio": 1.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.09,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-04-09",
     "code": "4108",
     "name": "懷特",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-04-10",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.12,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.13,
-    "three_inst_ratio_change_20": 0.039999999999999813
+    "three_inst_ratio_change_20": 0.05999999999999983
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.15,
-    "three_inst_ratio_change_20": 0.07999999999999985
+    "three_inst_ratio_change_20": 0.06999999999999984
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.08,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": 0.020000000000000018
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.13,
-    "three_inst_ratio_change_20": 0.06999999999999984
+    "three_inst_ratio_change_20": 0.07999999999999985
   },
   {
     "date": "2026-04-22",
@@ -1626,5 +1637,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.13,
     "three_inst_ratio_change_20": 0.07999999999999985
+  },
+  {
+    "date": "2026-04-23",
+    "code": "4108",
+    "name": "懷特",
+    "market": "TWSE",
+    "foreign_ratio": 1.12,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.12,
+    "three_inst_ratio_change_20": 0.06000000000000005
   }
 ]

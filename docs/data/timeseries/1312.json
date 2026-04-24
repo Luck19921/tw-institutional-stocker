@@ -1496,15 +1496,26 @@
     "three_inst_ratio_change_20": -2.0700000000000003
   },
   {
+    "date": "2026-04-06",
+    "code": "1312",
+    "name": "國喬",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.32
+  },
+  {
     "date": "2026-04-07",
     "code": "1312",
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 4.76,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.76,
-    "three_inst_ratio_change_20": -2.5600000000000005
+    "three_inst_ratio": 4.748975441990977,
+    "three_inst_ratio_change_20": -1.2410245580090233
   },
   {
     "date": "2026-04-08",
@@ -1512,10 +1523,10 @@
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 4.8,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.8,
-    "three_inst_ratio_change_20": -1.1900000000000004
+    "three_inst_ratio": 4.788975441990977,
+    "three_inst_ratio_change_20": -1.4410245580090235
   },
   {
     "date": "2026-04-09",
@@ -1523,10 +1534,10 @@
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 4.73,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.73,
-    "three_inst_ratio_change_20": -1.5
+    "three_inst_ratio": 4.7189754419909775,
+    "three_inst_ratio_change_20": -1.3510245580090228
   },
   {
     "date": "2026-04-10",
@@ -1534,10 +1545,10 @@
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 4.63,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.63,
-    "three_inst_ratio_change_20": -1.4400000000000004
+    "three_inst_ratio": 4.618975441990977,
+    "three_inst_ratio_change_20": -1.211024558009023
   },
   {
     "date": "2026-04-13",
@@ -1545,10 +1556,10 @@
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 5.14,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.14,
-    "three_inst_ratio_change_20": -0.6900000000000004
+    "three_inst_ratio": 5.128975441990977,
+    "three_inst_ratio_change_20": -0.341024558009023
   },
   {
     "date": "2026-04-14",
@@ -1556,10 +1567,10 @@
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 6.28,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.28,
-    "three_inst_ratio_change_20": 0.8100000000000005
+    "three_inst_ratio": 6.268975441990977,
+    "three_inst_ratio_change_20": 0.8789754419909777
   },
   {
     "date": "2026-04-15",
@@ -1567,10 +1578,10 @@
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 6.04,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.04,
-    "three_inst_ratio_change_20": 0.6500000000000004
+    "three_inst_ratio": 6.028975441990977,
+    "three_inst_ratio_change_20": 0.7089754419909768
   },
   {
     "date": "2026-04-16",
@@ -1578,10 +1589,10 @@
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 5.91,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.91,
-    "three_inst_ratio_change_20": 0.5899999999999999
+    "three_inst_ratio": 5.898975441990977,
+    "three_inst_ratio_change_20": 0.8889754419909774
   },
   {
     "date": "2026-04-17",
@@ -1589,10 +1600,10 @@
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 5.59,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.59,
-    "three_inst_ratio_change_20": 0.5800000000000001
+    "three_inst_ratio": 5.578975441990977,
+    "three_inst_ratio_change_20": 0.09897544199097652
   },
   {
     "date": "2026-04-20",
@@ -1600,10 +1611,10 @@
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 5.07,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.07,
-    "three_inst_ratio_change_20": -0.41000000000000014
+    "three_inst_ratio": 5.058975441990977,
+    "three_inst_ratio_change_20": -0.05102455800902295
   },
   {
     "date": "2026-04-21",
@@ -1611,10 +1622,10 @@
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 5.06,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.06,
-    "three_inst_ratio_change_20": -0.05000000000000071
+    "three_inst_ratio": 5.048975441990977,
+    "three_inst_ratio_change_20": 0.4989754419909769
   },
   {
     "date": "2026-04-22",
@@ -1622,9 +1633,20 @@
     "name": "國喬",
     "market": "TWSE",
     "foreign_ratio": 4.97,
-    "trust_ratio": 0.0,
+    "trust_ratio": -0.011024558009022946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.97,
-    "three_inst_ratio_change_20": 0.41999999999999993
+    "three_inst_ratio": 4.958975441990977,
+    "three_inst_ratio_change_20": 0.14897544199097723
+  },
+  {
+    "date": "2026-04-23",
+    "code": "1312",
+    "name": "國喬",
+    "market": "TWSE",
+    "foreign_ratio": 4.7,
+    "trust_ratio": -0.011024558009022946,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.688975441990977,
+    "three_inst_ratio_change_20": 0.14897544199097723
   }
 ]

@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.12147374886934514
   },
   {
+    "date": "2026-04-06",
+    "code": "2363",
+    "name": "矽統",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.269230436483762
+  },
+  {
     "date": "2026-04-07",
     "code": "2363",
     "name": "矽統",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.08070418535310757,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.490704185353108,
-    "three_inst_ratio_change_20": 0.22147374886934568
+    "three_inst_ratio_change_20": 0.3914737488693456
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.07099522429603969,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.570995224296039,
-    "three_inst_ratio_change_20": 0.47176478781227704
+    "three_inst_ratio_change_20": 0.33176478781227736
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.07099522429603969,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.43099522429604,
-    "three_inst_ratio_change_20": 0.19176478781227768
+    "three_inst_ratio_change_20": 0.021764787812277753
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0673058190943539,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.497305819094354,
-    "three_inst_ratio_change_20": 0.088075382610592
+    "three_inst_ratio_change_20": 0.07807538261059133
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.06536402688294032,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.45536402688294,
-    "three_inst_ratio_change_20": 0.036133590399177073
+    "three_inst_ratio_change_20": 0.14807538261059072
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.06439313077723353,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.734393130777233,
-    "three_inst_ratio_change_20": 0.4271044865048843
+    "three_inst_ratio_change_20": 0.4171044865048845
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.06148044246011317,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.821480442460113,
-    "three_inst_ratio_change_20": 0.5041917981877644
+    "three_inst_ratio_change_20": 0.28729866572602614
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.05992700869098232,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.5899270086909825,
-    "three_inst_ratio_change_20": 0.0557452319568954
+    "three_inst_ratio_change_20": 0.03768702416830916
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.05992700869098232,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.779927008690982,
-    "three_inst_ratio_change_20": 0.22768702416830866
+    "three_inst_ratio_change_20": 0.3292404579374395
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.056043424268155166,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.406043424268155,
-    "three_inst_ratio_change_20": 0.9553568735146127
+    "three_inst_ratio_change_20": 0.9256213456138074
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.05371327361445888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.293713273614459,
-    "three_inst_ratio_change_20": 1.8132911949601116
+    "three_inst_ratio_change_20": 1.7632911949601109
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.05371327361445888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.74371327361446,
-    "three_inst_ratio_change_20": 2.213291194960111
+    "three_inst_ratio_change_20": 2.26319433523832
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2363",
+    "name": "矽統",
+    "market": "TWSE",
+    "foreign_ratio": 7.0,
+    "trust_ratio": 0.05759685803728603,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.057596858037286,
+    "three_inst_ratio_change_20": 1.4770823857832331
   }
 ]

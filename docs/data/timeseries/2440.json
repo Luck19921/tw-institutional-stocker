@@ -1463,6 +1463,17 @@
     "three_inst_ratio_change_20": -0.16000000000000003
   },
   {
+    "date": "2026-04-06",
+    "code": "2440",
+    "name": "太空梭",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.91
+  },
+  {
     "date": "2026-04-07",
     "code": "2440",
     "name": "太空梭",
@@ -1471,7 +1482,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.75,
-    "three_inst_ratio_change_20": -0.16000000000000003
+    "three_inst_ratio_change_20": -0.18000000000000005
   },
   {
     "date": "2026-04-08",
@@ -1482,7 +1493,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.84,
-    "three_inst_ratio_change_20": -0.09000000000000008
+    "three_inst_ratio_change_20": 0.10999999999999999
   },
   {
     "date": "2026-04-09",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.84,
-    "three_inst_ratio_change_20": 0.10999999999999999
+    "three_inst_ratio_change_20": 0.04999999999999993
   },
   {
     "date": "2026-04-10",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.79,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.029999999999999916
   },
   {
     "date": "2026-04-13",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.85,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": 0.09999999999999998
   },
   {
     "date": "2026-04-14",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.84,
-    "three_inst_ratio_change_20": 0.08999999999999997
+    "three_inst_ratio_change_20": 0.09999999999999998
   },
   {
     "date": "2026-04-15",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.86,
-    "three_inst_ratio_change_20": 0.12
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-04-16",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.87,
-    "three_inst_ratio_change_20": -0.030000000000000027
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-04-20",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.72,
-    "three_inst_ratio_change_20": -0.17000000000000004
+    "three_inst_ratio_change_20": -0.16000000000000003
   },
   {
     "date": "2026-04-21",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.66,
-    "three_inst_ratio_change_20": -0.21999999999999997
+    "three_inst_ratio_change_20": -0.27
   },
   {
     "date": "2026-04-22",
@@ -1592,6 +1603,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.81,
-    "three_inst_ratio_change_20": -0.12
+    "three_inst_ratio_change_20": -0.009999999999999898
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2440",
+    "name": "太空梭",
+    "market": "TWSE",
+    "foreign_ratio": 1.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0,
+    "three_inst_ratio_change_20": 0.18999999999999995
   }
 ]

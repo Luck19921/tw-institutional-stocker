@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.019999999999999574
   },
   {
+    "date": "2026-04-06",
+    "code": "3021",
+    "name": "鴻名",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.26
+  },
+  {
     "date": "2026-04-07",
     "code": "3021",
     "name": "鴻名",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.25,
-    "three_inst_ratio_change_20": -0.009999999999999787
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.27,
-    "three_inst_ratio_change_20": 0.05999999999999961
+    "three_inst_ratio_change_20": 0.03999999999999915
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.28,
-    "three_inst_ratio_change_20": 0.04999999999999982
+    "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.34,
-    "three_inst_ratio_change_20": 0.08999999999999986
+    "three_inst_ratio_change_20": 0.05999999999999961
   },
   {
     "date": "2026-04-13",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.34,
-    "three_inst_ratio_change_20": 0.05999999999999961
+    "three_inst_ratio_change_20": 0.04999999999999982
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.31,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 0.009999999999999787
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.32,
-    "three_inst_ratio_change_20": 0.020000000000000462
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.3,
-    "three_inst_ratio_change_20": -0.020000000000000462
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.32,
-    "three_inst_ratio_change_20": 0.020000000000000462
+    "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.3,
-    "three_inst_ratio_change_20": 0.009999999999999787
+    "three_inst_ratio_change_20": 0.04999999999999982
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.35,
-    "three_inst_ratio_change_20": 0.09999999999999964
+    "three_inst_ratio_change_20": 0.08999999999999986
+  },
+  {
+    "date": "2026-04-23",
+    "code": "3021",
+    "name": "鴻名",
+    "market": "TWSE",
+    "foreign_ratio": 4.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.3,
+    "three_inst_ratio_change_20": 0.03000000000000025
   }
 ]

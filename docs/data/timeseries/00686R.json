@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 0.20999999999999996
   },
   {
+    "date": "2026-04-06",
+    "code": "00686R",
+    "name": "群益臺灣加權反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.14
+  },
+  {
     "date": "2026-04-07",
     "code": "00686R",
     "name": "群益臺灣加權反1",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.35,
-    "three_inst_ratio_change_20": 0.20999999999999996
+    "three_inst_ratio_change_20": 0.22999999999999998
   },
   {
     "date": "2026-04-08",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": 0.26
+    "three_inst_ratio_change_20": 0.25
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": 0.25
+    "three_inst_ratio_change_20": 0.22
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.39,
-    "three_inst_ratio_change_20": 0.23
+    "three_inst_ratio_change_20": 0.22
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.39,
-    "three_inst_ratio_change_20": 0.22
+    "three_inst_ratio_change_20": 0.21000000000000002
   },
   {
     "date": "2026-04-17",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": 0.2
+    "three_inst_ratio_change_20": 0.18
   },
   {
     "date": "2026-04-21",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": 0.18
+    "three_inst_ratio_change_20": 0.16
+  },
+  {
+    "date": "2026-04-23",
+    "code": "00686R",
+    "name": "群益臺灣加權反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.39,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.39,
+    "three_inst_ratio_change_20": 0.16
   }
 ]

@@ -1496,18 +1496,18 @@
     "three_inst_ratio_change_20": 0.6940223513807098
   },
   {
-    "date": "2026-04-07",
+    "date": "2026-04-06",
     "code": "9917",
     "name": "中保科",
     "market": "TWSE",
-    "foreign_ratio": 39.97,
-    "trust_ratio": -0.6262941503481717,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 39.343705849651826,
-    "three_inst_ratio_change_20": 0.6663978666413968
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -38.67730798301043
   },
   {
-    "date": "2026-04-08",
+    "date": "2026-04-07",
     "code": "9917",
     "name": "中保科",
     "market": "TWSE",
@@ -1518,6 +1518,17 @@
     "three_inst_ratio_change_20": 0.726397866641399
   },
   {
+    "date": "2026-04-08",
+    "code": "9917",
+    "name": "中保科",
+    "market": "TWSE",
+    "foreign_ratio": 39.97,
+    "trust_ratio": -0.6262941503481717,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 39.343705849651826,
+    "three_inst_ratio_change_20": 0.7363978666413971
+  },
+  {
     "date": "2026-04-09",
     "code": "9917",
     "name": "中保科",
@@ -1526,7 +1537,7 @@
     "trust_ratio": -0.626072517714559,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.32392748228544,
-    "three_inst_ratio_change_20": 0.7166194992750121
+    "three_inst_ratio_change_20": 0.38728439717584706
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": -0.626072517714559,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.37392748228544,
-    "three_inst_ratio_change_20": 0.4372843971758442
+    "three_inst_ratio_change_20": 0.39720480271356706
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": -0.5914978268709723,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.37850217312903,
-    "three_inst_ratio_change_20": 0.40177949355715725
+    "three_inst_ratio_change_20": 0.38399581989327913
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": -0.5912761942373596,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.37872380576264,
-    "three_inst_ratio_change_20": 0.3842174525268902
+    "three_inst_ratio_change_20": 0.27466071779412005
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": -0.591719459504585,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.37828054049541,
-    "three_inst_ratio_change_20": 0.2742174525268908
+    "three_inst_ratio_change_20": 0.2873203093974652
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": -0.5912761942373596,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.428723805762644,
-    "three_inst_ratio_change_20": 0.33776357466469875
+    "three_inst_ratio_change_20": 0.2934994916512039
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": -0.6052390501549619,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.42476094984504,
-    "three_inst_ratio_change_20": 0.28953663573359734
+    "three_inst_ratio_change_20": 0.35669132371825896
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": -0.6045741522541237,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.445425847745874,
-    "three_inst_ratio_change_20": 0.3773562216190953
+    "three_inst_ratio_change_20": 0.3345824608626202
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": -0.6041308869868982,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.4758691130131,
-    "three_inst_ratio_change_20": 0.3650257261298435
+    "three_inst_ratio_change_20": 0.3752473587634526
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": -0.6025794585516091,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.45742054144839,
-    "three_inst_ratio_change_20": 0.35679878719874836
+    "three_inst_ratio_change_20": 0.3267987871987472
+  },
+  {
+    "date": "2026-04-23",
+    "code": "9917",
+    "name": "中保科",
+    "market": "TWSE",
+    "foreign_ratio": 39.97,
+    "trust_ratio": -0.6025794585516091,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 39.36742054144839,
+    "three_inst_ratio_change_20": 0.21489306869270308
   }
 ]

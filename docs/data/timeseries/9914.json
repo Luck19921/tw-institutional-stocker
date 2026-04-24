@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": -1.2492352027099756
   },
   {
+    "date": "2026-04-06",
+    "code": "9914",
+    "name": "美利達",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -24.757005991628976
+  },
+  {
     "date": "2026-04-07",
     "code": "9914",
     "name": "美利達",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.20777078891899828,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.327770788919,
-    "three_inst_ratio_change_20": -1.4292352027099753
+    "three_inst_ratio_change_20": -1.3892352027099761
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.20777078891899828,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.797770788919,
-    "three_inst_ratio_change_20": -1.9192352027099773
+    "three_inst_ratio_change_20": -1.8992352027099777
   },
   {
     "date": "2026-04-09",
@@ -1537,7 +1548,7 @@
     "trust_ratio": 0.20777078891899828,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.177770788919,
-    "three_inst_ratio_change_20": -2.5192352027099787
+    "three_inst_ratio_change_20": -2.5099381237378076
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.20777078891899828,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.577770788919,
-    "three_inst_ratio_change_20": -2.1099381237378054
+    "three_inst_ratio_change_20": -2.089938123737806
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.20777078891899828,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.497770788919,
-    "three_inst_ratio_change_20": -2.1699381237378077
+    "three_inst_ratio_change_20": -2.089938123737806
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": 0.20777078891899828,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.667770788919,
-    "three_inst_ratio_change_20": -1.9199381237378041
+    "three_inst_ratio_change_20": -1.7299381237378064
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.20810525520111792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.77810525520112,
-    "three_inst_ratio_change_20": -1.6196036574556878
+    "three_inst_ratio_change_20": -1.199603657455686
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.20810525520111792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.63810525520112,
-    "three_inst_ratio_change_20": -1.3396036574556867
+    "three_inst_ratio_change_20": -1.1196036574556878
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": 0.20810525520111792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.72810525520112,
-    "three_inst_ratio_change_20": -1.029603657455688
+    "three_inst_ratio_change_20": -1.069331067435762
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": 0.20810525520111792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.698105255201117,
-    "three_inst_ratio_change_20": -1.099331067435763
+    "three_inst_ratio_change_20": -1.1593310674357618
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": 0.20810525520111792,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.71810525520112,
-    "three_inst_ratio_change_20": -1.1393310674357586
+    "three_inst_ratio_change_20": -0.9393310674357593
+  },
+  {
+    "date": "2026-04-23",
+    "code": "9914",
+    "name": "美利達",
+    "market": "TWSE",
+    "foreign_ratio": 22.34,
+    "trust_ratio": 0.20810525520111792,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.54810525520112,
+    "three_inst_ratio_change_20": -0.9193310674357633
   }
 ]

@@ -1496,6 +1496,17 @@
     "three_inst_ratio_change_20": 3.094107374642972
   },
   {
+    "date": "2026-04-06",
+    "code": "2006",
+    "name": "東和鋼鐵",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.831835293097672
+  },
+  {
     "date": "2026-04-07",
     "code": "2006",
     "name": "東和鋼鐵",
@@ -1504,7 +1515,7 @@
     "trust_ratio": -0.45128576298730083,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.038714237012698,
-    "three_inst_ratio_change_20": 3.206878943915026
+    "three_inst_ratio_change_20": 3.0272544503670282
   },
   {
     "date": "2026-04-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": -0.4507379782287275,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.139262021771273,
-    "three_inst_ratio_change_20": 3.1278022351256034
+    "three_inst_ratio_change_20": 2.9883500198841766
   },
   {
     "date": "2026-04-09",
@@ -1526,7 +1537,7 @@
     "trust_ratio": -0.4536138482112372,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.266386151788762,
-    "three_inst_ratio_change_20": 3.115474149901665
+    "three_inst_ratio_change_20": 2.9668436117980974
   },
   {
     "date": "2026-04-10",
@@ -1537,7 +1548,7 @@
     "trust_ratio": -0.4675823595548557,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.262417640445143,
-    "three_inst_ratio_change_20": 2.962875100454479
+    "three_inst_ratio_change_20": 2.8978950647302035
   },
   {
     "date": "2026-04-13",
@@ -1548,7 +1559,7 @@
     "trust_ratio": -0.466446938696523,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.273553061303474,
-    "three_inst_ratio_change_20": 2.9090304855885343
+    "three_inst_ratio_change_20": 2.9704659555483737
   },
   {
     "date": "2026-04-14",
@@ -1559,7 +1570,7 @@
     "trust_ratio": -0.4663099925068797,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.27369000749312,
-    "three_inst_ratio_change_20": 2.970602901738019
+    "three_inst_ratio_change_20": 3.2810137403069515
   },
   {
     "date": "2026-04-15",
@@ -1570,7 +1581,7 @@
     "trust_ratio": -0.4825666007870588,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.207433399212942,
-    "three_inst_ratio_change_20": 3.214757132026774
+    "three_inst_ratio_change_20": 3.2382363869208515
   },
   {
     "date": "2026-04-16",
@@ -1581,7 +1592,7 @@
     "trust_ratio": -0.49029242007578666,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.299707579924213,
-    "three_inst_ratio_change_20": 3.330510567632123
+    "three_inst_ratio_change_20": 3.17812218626079
   },
   {
     "date": "2026-04-17",
@@ -1592,7 +1603,7 @@
     "trust_ratio": -0.5129455109818258,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.387054489018173,
-    "three_inst_ratio_change_20": 3.2654690953547494
+    "three_inst_ratio_change_20": 3.590194864403399
   },
   {
     "date": "2026-04-20",
@@ -1603,7 +1614,7 @@
     "trust_ratio": -0.5046884774234716,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.325311522576527,
-    "three_inst_ratio_change_20": 3.5284518979617534
+    "three_inst_ratio_change_20": 2.563436876210961
   },
   {
     "date": "2026-04-21",
@@ -1614,7 +1625,7 @@
     "trust_ratio": -0.4864746342009102,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.34352536579909,
-    "three_inst_ratio_change_20": 2.5816507194335223
+    "three_inst_ratio_change_20": 1.8090048667635585
   },
   {
     "date": "2026-04-22",
@@ -1625,6 +1636,17 @@
     "trust_ratio": -0.4956101775658263,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.204389822434173,
-    "three_inst_ratio_change_20": 1.6698693233986432
+    "three_inst_ratio_change_20": 1.176990525260095
+  },
+  {
+    "date": "2026-04-23",
+    "code": "2006",
+    "name": "東和鋼鐵",
+    "market": "TWSE",
+    "foreign_ratio": 19.46,
+    "trust_ratio": -0.5342662524088253,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.925733747591174,
+    "three_inst_ratio_change_20": 0.800895433835791
   }
 ]

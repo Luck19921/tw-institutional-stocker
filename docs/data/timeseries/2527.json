@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 42.058208030898314,
     "three_inst_ratio_change_20": 0.0988673577353083
+  },
+  {
+    "date": "2026-05-13",
+    "code": "2527",
+    "name": "宏璟",
+    "market": "TWSE",
+    "foreign_ratio": 42.09,
+    "trust_ratio": -0.021791969101684756,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.06820803089832,
+    "three_inst_ratio_change_20": 0.018986851938173288
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2527",
+    "name": "宏璟",
+    "market": "TWSE",
+    "foreign_ratio": 42.04,
+    "trust_ratio": -0.022748662626800736,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.017251337373196,
+    "three_inst_ratio_change_20": -0.051121543731916574
   }
 ]

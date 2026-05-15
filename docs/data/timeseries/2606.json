@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.06502494358620464,
     "three_inst_ratio": 12.571064324809866,
     "three_inst_ratio_change_20": 1.4333341154198376
+  },
+  {
+    "date": "2026-05-13",
+    "code": "2606",
+    "name": "裕民",
+    "market": "TWSE",
+    "foreign_ratio": 13.1,
+    "trust_ratio": -0.6250630490975251,
+    "dealer_ratio": 0.06502494358620464,
+    "three_inst_ratio": 12.539961894488679,
+    "three_inst_ratio_change_20": 1.4235989322322915
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2606",
+    "name": "裕民",
+    "market": "TWSE",
+    "foreign_ratio": 13.88,
+    "trust_ratio": -1.359570835017325,
+    "dealer_ratio": 0.06502494358620464,
+    "three_inst_ratio": 12.58545410856888,
+    "three_inst_ratio_change_20": 1.068926237516516
   }
 ]

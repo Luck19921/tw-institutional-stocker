@@ -1703,5 +1703,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.135960249469415,
     "three_inst_ratio_change_20": 0.22333890038210757
+  },
+  {
+    "date": "2026-05-13",
+    "code": "6120",
+    "name": "達運",
+    "market": "TWSE",
+    "foreign_ratio": 7.7,
+    "trust_ratio": 0.4759602494694145,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.175960249469414,
+    "three_inst_ratio_change_20": 0.3433389003821068
+  },
+  {
+    "date": "2026-05-14",
+    "code": "6120",
+    "name": "達運",
+    "market": "TWSE",
+    "foreign_ratio": 7.59,
+    "trust_ratio": 0.4759602494694145,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.065960249469414,
+    "three_inst_ratio_change_20": -0.31666109961789246
   }
 ]

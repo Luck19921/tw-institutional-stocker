@@ -1725,5 +1725,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1538834935771372,
     "three_inst_ratio_change_20": 0.08736666872659016
+  },
+  {
+    "date": "2026-05-13",
+    "code": "2348",
+    "name": "海悅",
+    "market": "TWSE",
+    "foreign_ratio": 0.88,
+    "trust_ratio": 0.26388349357713714,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1438834935771371,
+    "three_inst_ratio_change_20": 0.027366668726590104
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2348",
+    "name": "海悅",
+    "market": "TWSE",
+    "foreign_ratio": 0.83,
+    "trust_ratio": 0.26388349357713714,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.093883493577137,
+    "three_inst_ratio_change_20": -0.012633331273409931
   }
 ]

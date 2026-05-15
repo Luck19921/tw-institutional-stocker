@@ -1780,5 +1780,27 @@
     "dealer_ratio": -0.029747451231688156,
     "three_inst_ratio": 37.46179826087564,
     "three_inst_ratio_change_20": 0.4486098753547907
+  },
+  {
+    "date": "2026-05-13",
+    "code": "2615",
+    "name": "萬海",
+    "market": "TWSE",
+    "foreign_ratio": 42.37,
+    "trust_ratio": -5.099095736987651,
+    "dealer_ratio": -0.029747451231688156,
+    "three_inst_ratio": 37.24115681178066,
+    "three_inst_ratio_change_20": 0.2022161734388277
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2615",
+    "name": "萬海",
+    "market": "TWSE",
+    "foreign_ratio": 42.32,
+    "trust_ratio": -5.099620905616128,
+    "dealer_ratio": -0.029747451231688156,
+    "three_inst_ratio": 37.19063164315219,
+    "three_inst_ratio_change_20": -0.027423403441915184
   }
 ]

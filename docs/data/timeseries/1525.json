@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.20555879359077475,
     "three_inst_ratio_change_20": 0.022288860912858005
+  },
+  {
+    "date": "2026-05-13",
+    "code": "1525",
+    "name": "江申",
+    "market": "TWSE",
+    "foreign_ratio": 0.32,
+    "trust_ratio": -0.11444120640922525,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.20555879359077475,
+    "three_inst_ratio_change_20": 0.012288860912858052
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1525",
+    "name": "江申",
+    "market": "TWSE",
+    "foreign_ratio": 0.32,
+    "trust_ratio": -0.11444120640922525,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.20555879359077475,
+    "three_inst_ratio_change_20": -0.007711139087141966
   }
 ]

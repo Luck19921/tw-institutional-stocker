@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.38259908237238,
     "three_inst_ratio_change_20": 0.0925990823723799
+  },
+  {
+    "date": "2026-05-13",
+    "code": "1109",
+    "name": "信大",
+    "market": "TWSE",
+    "foreign_ratio": 2.38,
+    "trust_ratio": 0.002599082372380248,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.38259908237238,
+    "three_inst_ratio_change_20": 0.0625990823723801
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1109",
+    "name": "信大",
+    "market": "TWSE",
+    "foreign_ratio": 2.35,
+    "trust_ratio": 0.002599082372380248,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.35259908237238,
+    "three_inst_ratio_change_20": 0.012599082372380277
   }
 ]

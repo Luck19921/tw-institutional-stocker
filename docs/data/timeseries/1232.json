@@ -1736,5 +1736,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6556290181495017,
     "three_inst_ratio_change_20": 0.08062666606198832
+  },
+  {
+    "date": "2026-05-13",
+    "code": "1232",
+    "name": "大統益",
+    "market": "TWSE",
+    "foreign_ratio": 2.62,
+    "trust_ratio": 0.025629018149501755,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.645629018149502,
+    "three_inst_ratio_change_20": 0.05062666606198851
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1232",
+    "name": "大統益",
+    "market": "TWSE",
+    "foreign_ratio": 2.6,
+    "trust_ratio": 0.02500392014585537,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.6250039201458555,
+    "three_inst_ratio_change_20": 0.0200015680583423
   }
 ]

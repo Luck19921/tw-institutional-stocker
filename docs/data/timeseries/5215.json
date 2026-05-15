@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.551554303477754,
     "three_inst_ratio_change_20": 0.13155430347775265
+  },
+  {
+    "date": "2026-05-13",
+    "code": "5215",
+    "name": "科嘉-KY",
+    "market": "TWSE",
+    "foreign_ratio": 25.46,
+    "trust_ratio": 0.0015543034777540314,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.461554303477755,
+    "three_inst_ratio_change_20": 0.031554303477754786
+  },
+  {
+    "date": "2026-05-14",
+    "code": "5215",
+    "name": "科嘉-KY",
+    "market": "TWSE",
+    "foreign_ratio": 25.38,
+    "trust_ratio": 0.0015543034777540314,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.381554303477753,
+    "three_inst_ratio_change_20": -0.08844569652224621
   }
 ]

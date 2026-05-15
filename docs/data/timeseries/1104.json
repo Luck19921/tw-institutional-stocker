@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.766432011765986,
     "three_inst_ratio_change_20": -0.43735365061712983
+  },
+  {
+    "date": "2026-05-13",
+    "code": "1104",
+    "name": "環泥",
+    "market": "TWSE",
+    "foreign_ratio": 15.69,
+    "trust_ratio": 0.03643201176598508,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.726432011765985,
+    "three_inst_ratio_change_20": -0.37735365061712933
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1104",
+    "name": "環泥",
+    "market": "TWSE",
+    "foreign_ratio": 15.65,
+    "trust_ratio": 0.03584950034558655,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.685849500345586,
+    "three_inst_ratio_change_20": -0.4079361620375259
   }
 ]

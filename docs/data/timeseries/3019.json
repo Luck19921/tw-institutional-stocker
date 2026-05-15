@@ -1780,5 +1780,27 @@
     "dealer_ratio": -0.000175831951294793,
     "three_inst_ratio": 5.951562943249385,
     "three_inst_ratio_change_20": 0.2602090751840631
+  },
+  {
+    "date": "2026-05-13",
+    "code": "3019",
+    "name": "亞光",
+    "market": "TWSE",
+    "foreign_ratio": 5.31,
+    "trust_ratio": 0.6317387752006802,
+    "dealer_ratio": -0.000175831951294793,
+    "three_inst_ratio": 5.941562943249385,
+    "three_inst_ratio_change_20": 0.17020907518406236
+  },
+  {
+    "date": "2026-05-14",
+    "code": "3019",
+    "name": "亞光",
+    "market": "TWSE",
+    "foreign_ratio": 6.04,
+    "trust_ratio": 0.6317387752006802,
+    "dealer_ratio": -0.000175831951294793,
+    "three_inst_ratio": 6.671562943249385,
+    "three_inst_ratio_change_20": 1.3202090751840627
   }
 ]

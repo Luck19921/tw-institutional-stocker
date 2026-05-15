@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.166366727532101,
     "three_inst_ratio_change_20": -0.34672665449358053
+  },
+  {
+    "date": "2026-05-13",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 4.48,
+    "trust_ratio": -0.3336332724678985,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.146366727532102,
+    "three_inst_ratio_change_20": -0.4367266544935795
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1710",
+    "name": "東聯",
+    "market": "TWSE",
+    "foreign_ratio": 4.42,
+    "trust_ratio": -0.3336332724678985,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.086366727532101,
+    "three_inst_ratio_change_20": -0.28672665449358004
   }
 ]

@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 35.915633966420515,
     "three_inst_ratio_change_20": 4.171236411516542
+  },
+  {
+    "date": "2026-05-13",
+    "code": "2049",
+    "name": "上銀",
+    "market": "TWSE",
+    "foreign_ratio": 35.7,
+    "trust_ratio": 0.15831438247486718,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.85831438247487,
+    "three_inst_ratio_change_20": 4.442220916999204
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2049",
+    "name": "上銀",
+    "market": "TWSE",
+    "foreign_ratio": 35.8,
+    "trust_ratio": 0.19215458202248867,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.992154582022486,
+    "three_inst_ratio_change_20": 4.322103991879526
   }
 ]

@@ -1780,5 +1780,27 @@
     "dealer_ratio": -0.00041654688513862104,
     "three_inst_ratio": 45.867045568321444,
     "three_inst_ratio_change_20": 2.998361209997711
+  },
+  {
+    "date": "2026-05-13",
+    "code": "3023",
+    "name": "信邦",
+    "market": "TWSE",
+    "foreign_ratio": 44.59,
+    "trust_ratio": 1.2480252865952954,
+    "dealer_ratio": -0.00041654688513862104,
+    "three_inst_ratio": 45.837608739710156,
+    "three_inst_ratio_change_20": 2.9193236797315265
+  },
+  {
+    "date": "2026-05-14",
+    "code": "3023",
+    "name": "信邦",
+    "market": "TWSE",
+    "foreign_ratio": 44.42,
+    "trust_ratio": 1.2455260052844637,
+    "dealer_ratio": -0.00041654688513862104,
+    "three_inst_ratio": 45.66510945839932,
+    "three_inst_ratio_change_20": 2.578447464611152
   }
 ]

@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.679559008740664,
     "three_inst_ratio_change_20": -0.9952332147579526
+  },
+  {
+    "date": "2026-05-13",
+    "code": "2409",
+    "name": "友達",
+    "market": "TWSE",
+    "foreign_ratio": 14.23,
+    "trust_ratio": 0.18989026184987468,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.419890261849876,
+    "three_inst_ratio_change_20": -1.9347782717377626
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2409",
+    "name": "友達",
+    "market": "TWSE",
+    "foreign_ratio": 14.09,
+    "trust_ratio": 0.18930725637766288,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.279307256377663,
+    "three_inst_ratio_change_20": -2.444827707951781
   }
 ]

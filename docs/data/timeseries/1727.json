@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.78,
     "three_inst_ratio_change_20": -1.7288723390910503
+  },
+  {
+    "date": "2026-05-13",
+    "code": "1727",
+    "name": "中華化",
+    "market": "TWSE",
+    "foreign_ratio": 3.93,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.93,
+    "three_inst_ratio_change_20": -5.318872339091051
+  },
+  {
+    "date": "2026-05-14",
+    "code": "1727",
+    "name": "中華化",
+    "market": "TWSE",
+    "foreign_ratio": 4.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.2,
+    "three_inst_ratio_change_20": -5.277277003584056
   }
 ]

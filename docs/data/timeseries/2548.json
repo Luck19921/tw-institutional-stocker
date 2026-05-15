@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.836104423883597,
     "three_inst_ratio_change_20": 0.41122384472247475
+  },
+  {
+    "date": "2026-05-13",
+    "code": "2548",
+    "name": "華固",
+    "market": "TWSE",
+    "foreign_ratio": 20.59,
+    "trust_ratio": 1.1479722751403556,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.737972275140354,
+    "three_inst_ratio_change_20": 0.13309169597923187
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2548",
+    "name": "華固",
+    "market": "TWSE",
+    "foreign_ratio": 20.65,
+    "trust_ratio": 1.0191793694192366,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.669179369419236,
+    "three_inst_ratio_change_20": -0.05570120974188697
   }
 ]

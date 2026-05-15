@@ -1725,5 +1725,27 @@
     "dealer_ratio": -0.0033015297704221845,
     "three_inst_ratio": 5.270026658752387,
     "three_inst_ratio_change_20": 0.4978943908417861
+  },
+  {
+    "date": "2026-05-13",
+    "code": "5222",
+    "name": "全訊",
+    "market": "TWSE",
+    "foreign_ratio": 4.39,
+    "trust_ratio": 0.7055292083697565,
+    "dealer_ratio": -0.0033015297704221845,
+    "three_inst_ratio": 5.092227678599334,
+    "three_inst_ratio_change_20": 0.11009541068873308
+  },
+  {
+    "date": "2026-05-14",
+    "code": "5222",
+    "name": "全訊",
+    "market": "TWSE",
+    "foreign_ratio": 4.31,
+    "trust_ratio": 0.7055292083697565,
+    "dealer_ratio": -0.0033015297704221845,
+    "three_inst_ratio": 5.012227678599334,
+    "three_inst_ratio_change_20": -0.05990458931126774
   }
 ]

@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.042266582761938495,
     "three_inst_ratio": 2.409212010889262,
     "three_inst_ratio_change_20": -0.5037725017588945
+  },
+  {
+    "date": "2026-05-13",
+    "code": "2009",
+    "name": "第一銅",
+    "market": "TWSE",
+    "foreign_ratio": 2.47,
+    "trust_ratio": -0.05305457187267642,
+    "dealer_ratio": 0.042266582761938495,
+    "three_inst_ratio": 2.4592120108892623,
+    "three_inst_ratio_change_20": -0.4937725017588943
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2009",
+    "name": "第一銅",
+    "market": "TWSE",
+    "foreign_ratio": 2.51,
+    "trust_ratio": -0.05305457187267642,
+    "dealer_ratio": 0.042266582761938495,
+    "three_inst_ratio": 2.499212010889262,
+    "three_inst_ratio_change_20": -0.4029382928885932
   }
 ]

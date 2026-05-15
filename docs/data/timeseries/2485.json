@@ -1780,5 +1780,27 @@
     "dealer_ratio": -0.006610237544961301,
     "three_inst_ratio": 2.0309218565197136,
     "three_inst_ratio_change_20": -1.5402896333183826
+  },
+  {
+    "date": "2026-05-13",
+    "code": "2485",
+    "name": "兆赫",
+    "market": "TWSE",
+    "foreign_ratio": 1.89,
+    "trust_ratio": 0.17753209406467493,
+    "dealer_ratio": -0.006610237544961301,
+    "three_inst_ratio": 2.0609218565197134,
+    "three_inst_ratio_change_20": 0.08593308808449684
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2485",
+    "name": "兆赫",
+    "market": "TWSE",
+    "foreign_ratio": 4.06,
+    "trust_ratio": 0.17753209406467493,
+    "dealer_ratio": -0.006610237544961301,
+    "three_inst_ratio": 4.230921856519712,
+    "three_inst_ratio_change_20": 1.7934149023530819
   }
 ]

@@ -1780,5 +1780,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.740453650600182,
     "three_inst_ratio_change_20": 0.07009073012003686
+  },
+  {
+    "date": "2026-05-13",
+    "code": "2104",
+    "name": "國際中橡",
+    "market": "TWSE",
+    "foreign_ratio": 5.69,
+    "trust_ratio": -0.19954634939981863,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.490453650600182,
+    "three_inst_ratio_change_20": -0.28990926987996346
+  },
+  {
+    "date": "2026-05-14",
+    "code": "2104",
+    "name": "國際中橡",
+    "market": "TWSE",
+    "foreign_ratio": 5.71,
+    "trust_ratio": -0.19954634939981863,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.510453650600182,
+    "three_inst_ratio_change_20": -0.17990926987996314
   }
 ]

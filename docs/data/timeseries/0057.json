@@ -1188,6 +1188,17 @@
     "three_inst_ratio_change_20": -4.06
   },
   {
+    "date": "2026-02-18",
+    "code": "0057",
+    "name": "富邦摩台",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.06
+  },
+  {
     "date": "2026-02-23",
     "code": "0057",
     "name": "富邦摩台",
@@ -1240,7 +1251,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.85,
-    "three_inst_ratio_change_20": 0.79
+    "three_inst_ratio_change_20": 0.7599999999999998
   },
   {
     "date": "2026-03-03",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.24,
-    "three_inst_ratio_change_20": 1.1500000000000004
+    "three_inst_ratio_change_20": 1.1100000000000003
   },
   {
     "date": "2026-03-17",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.24,
-    "three_inst_ratio_change_20": 1.1100000000000003
+    "three_inst_ratio_change_20": 0.9800000000000004
   },
   {
     "date": "2026-03-18",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.29,
-    "three_inst_ratio_change_20": 2.0300000000000002
+    "three_inst_ratio_change_20": 6.29
   },
   {
     "date": "2026-03-23",

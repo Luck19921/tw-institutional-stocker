@@ -1188,6 +1188,17 @@
     "three_inst_ratio_change_20": -1.66
   },
   {
+    "date": "2026-02-18",
+    "code": "2908",
+    "name": "特力",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.67
+  },
+  {
     "date": "2026-02-23",
     "code": "2908",
     "name": "特力",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.71,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-03-05",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.68,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.050000000000000044
   },
   {
     "date": "2026-03-12",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.63,
-    "three_inst_ratio_change_20": -0.10000000000000009
+    "three_inst_ratio_change_20": -0.09000000000000008
   },
   {
     "date": "2026-03-17",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.63,
-    "three_inst_ratio_change_20": -0.09000000000000008
+    "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
     "date": "2026-03-18",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.58,
-    "three_inst_ratio_change_20": -0.1499999999999999
+    "three_inst_ratio_change_20": 1.58
   },
   {
     "date": "2026-03-23",

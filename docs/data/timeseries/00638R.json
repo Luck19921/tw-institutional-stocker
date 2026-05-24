@@ -1188,6 +1188,17 @@
     "three_inst_ratio_change_20": -0.99
   },
   {
+    "date": "2026-02-18",
+    "code": "00638R",
+    "name": "元大滬深300反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.99
+  },
+  {
     "date": "2026-02-23",
     "code": "00638R",
     "name": "元大滬深300反1",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.12,
-    "three_inst_ratio_change_20": 0.13000000000000012
+    "three_inst_ratio_change_20": 0.1100000000000001
   },
   {
     "date": "2026-02-25",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.12,
-    "three_inst_ratio_change_20": 0.1100000000000001
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-02-26",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.32,
-    "three_inst_ratio_change_20": 0.20999999999999996
+    "three_inst_ratio_change_20": 0.19999999999999996
   },
   {
     "date": "2026-03-05",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.59,
-    "three_inst_ratio_change_20": 0.47
+    "three_inst_ratio_change_20": 1.59
   },
   {
     "date": "2026-03-23",

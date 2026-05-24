@@ -1188,15 +1188,26 @@
     "three_inst_ratio_change_20": -1.498563093266851
   },
   {
+    "date": "2026-02-18",
+    "code": "4438",
+    "name": "廣越",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.458563093266851
+  },
+  {
     "date": "2026-02-23",
     "code": "4438",
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.47,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.3052874140994188,
-    "three_inst_ratio_change_20": -0.15327567916743212
+    "three_inst_ratio": 1.2638505073662698,
+    "three_inst_ratio_change_20": -0.17471258590058114
   },
   {
     "date": "2026-02-24",
@@ -1204,10 +1215,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.46,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2952874140994188,
-    "three_inst_ratio_change_20": -0.1432756791674321
+    "three_inst_ratio": 1.2538505073662698,
+    "three_inst_ratio_change_20": -0.15471258590058112
   },
   {
     "date": "2026-02-25",
@@ -1215,10 +1226,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.46,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2952874140994188,
-    "three_inst_ratio_change_20": -0.11327567916743209
+    "three_inst_ratio": 1.2538505073662698,
+    "three_inst_ratio_change_20": -0.15471258590058112
   },
   {
     "date": "2026-02-26",
@@ -1226,10 +1237,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.47,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.3052874140994188,
-    "three_inst_ratio_change_20": -0.10327567916743208
+    "three_inst_ratio": 1.2638505073662698,
+    "three_inst_ratio_change_20": -0.28471258590058124
   },
   {
     "date": "2026-03-02",
@@ -1237,10 +1248,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.47,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.3052874140994188,
-    "three_inst_ratio_change_20": -0.2432756791674322
+    "three_inst_ratio": 1.2638505073662698,
+    "three_inst_ratio_change_20": -0.2647125859005812
   },
   {
     "date": "2026-03-03",
@@ -1248,10 +1259,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.44,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2752874140994188,
-    "three_inst_ratio_change_20": -0.2532756791674322
+    "three_inst_ratio": 1.2338505073662698,
+    "three_inst_ratio_change_20": -0.28471258590058124
   },
   {
     "date": "2026-03-04",
@@ -1259,10 +1270,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.44,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2752874140994188,
-    "three_inst_ratio_change_20": -0.2432756791674322
+    "three_inst_ratio": 1.2338505073662698,
+    "three_inst_ratio_change_20": -0.2647125859005812
   },
   {
     "date": "2026-03-05",
@@ -1270,10 +1281,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.44,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2752874140994188,
-    "three_inst_ratio_change_20": -0.22327567916743218
+    "three_inst_ratio": 1.2338505073662698,
+    "three_inst_ratio_change_20": -0.22471258590058119
   },
   {
     "date": "2026-03-06",
@@ -1281,10 +1292,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.45,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2852874140994188,
-    "three_inst_ratio_change_20": -0.17327567916743214
+    "three_inst_ratio": 1.2438505073662698,
+    "three_inst_ratio_change_20": -0.20471258590058117
   },
   {
     "date": "2026-03-09",
@@ -1292,10 +1303,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.39,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2252874140994188,
-    "three_inst_ratio_change_20": -0.22327567916743218
+    "three_inst_ratio": 1.1838505073662697,
+    "three_inst_ratio_change_20": -0.25574762693259645
   },
   {
     "date": "2026-03-10",
@@ -1303,10 +1314,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.39,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2252874140994188,
-    "three_inst_ratio_change_20": -0.2143107201994474
+    "three_inst_ratio": 1.1838505073662697,
+    "three_inst_ratio_change_20": -0.2957476269325965
   },
   {
     "date": "2026-03-11",
@@ -1314,10 +1325,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.33,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.165287414099419,
-    "three_inst_ratio_change_20": -0.3143107201994473
+    "three_inst_ratio": 1.12385050736627,
+    "three_inst_ratio_change_20": -0.3457476269325963
   },
   {
     "date": "2026-03-12",
@@ -1325,10 +1336,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.28,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.115287414099419,
-    "three_inst_ratio_change_20": -0.3543107201994473
+    "three_inst_ratio": 1.0738505073662699,
+    "three_inst_ratio_change_20": -0.3557476269325963
   },
   {
     "date": "2026-03-13",
@@ -1336,10 +1347,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.23,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0652874140994189,
-    "three_inst_ratio_change_20": -0.3643107201994473
+    "three_inst_ratio": 1.0238505073662698,
+    "three_inst_ratio_change_20": -0.39574762693259635
   },
   {
     "date": "2026-03-16",
@@ -1347,10 +1358,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.24,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0752874140994189,
-    "three_inst_ratio_change_20": -0.3443107201994473
+    "three_inst_ratio": 1.0338505073662698,
+    "three_inst_ratio_change_20": -0.38574762693259634
   },
   {
     "date": "2026-03-17",
@@ -1358,10 +1369,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.23,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0652874140994189,
-    "three_inst_ratio_change_20": -0.3543107201994473
+    "three_inst_ratio": 1.0238505073662698,
+    "three_inst_ratio_change_20": -0.40574762693259636
   },
   {
     "date": "2026-03-18",
@@ -1369,9 +1380,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.22,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0552874140994188,
+    "three_inst_ratio": 1.0138505073662698,
     "three_inst_ratio_change_20": -0.37431072019944733
   },
   {
@@ -1380,10 +1391,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.16,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9952874140994188,
-    "three_inst_ratio_change_20": -0.39287381346629835
+    "three_inst_ratio": 0.9538505073662696,
+    "three_inst_ratio_change_20": -0.39287381346629824
   },
   {
     "date": "2026-03-20",
@@ -1391,10 +1402,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.17,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0052874140994188,
-    "three_inst_ratio_change_20": -0.3414369067331491
+    "three_inst_ratio": 0.9638505073662696,
+    "three_inst_ratio_change_20": 0.9638505073662696
   },
   {
     "date": "2026-03-23",
@@ -1402,10 +1413,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.17,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0052874140994188,
-    "three_inst_ratio_change_20": 1.0052874140994188
+    "three_inst_ratio": 0.9638505073662696,
+    "three_inst_ratio_change_20": 0.9638505073662696
   },
   {
     "date": "2026-03-24",
@@ -1413,10 +1424,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.18,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0152874140994188,
-    "three_inst_ratio_change_20": -0.29000000000000004
+    "three_inst_ratio": 0.9738505073662697,
+    "three_inst_ratio_change_20": -0.29000000000000015
   },
   {
     "date": "2026-03-25",
@@ -1424,10 +1435,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.2,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0352874140994188,
-    "three_inst_ratio_change_20": -0.26
+    "three_inst_ratio": 0.9938505073662697,
+    "three_inst_ratio_change_20": -0.2600000000000001
   },
   {
     "date": "2026-03-26",
@@ -1435,9 +1446,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.23,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0652874140994189,
+    "three_inst_ratio": 1.0238505073662698,
     "three_inst_ratio_change_20": -0.22999999999999998
   },
   {
@@ -1446,9 +1457,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.23,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0652874140994189,
+    "three_inst_ratio": 1.0238505073662698,
     "three_inst_ratio_change_20": -0.24
   },
   {
@@ -1457,9 +1468,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.23,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0652874140994189,
+    "three_inst_ratio": 1.0238505073662698,
     "three_inst_ratio_change_20": -0.24
   },
   {
@@ -1468,9 +1479,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.23,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0652874140994189,
+    "three_inst_ratio": 1.0238505073662698,
     "three_inst_ratio_change_20": -0.20999999999999996
   },
   {
@@ -1479,9 +1490,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.21,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0452874140994188,
+    "three_inst_ratio": 1.0038505073662698,
     "three_inst_ratio_change_20": -0.22999999999999998
   },
   {
@@ -1490,10 +1501,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.2,
-    "trust_ratio": -0.16471258590058113,
+    "trust_ratio": -0.20614949263373025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0352874140994188,
-    "three_inst_ratio_change_20": -0.24
+    "three_inst_ratio": 0.9938505073662697,
+    "three_inst_ratio_change_20": -0.2400000000000001
   },
   {
     "date": "2026-04-06",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -1.2852874140994188
+    "three_inst_ratio_change_20": -1.2438505073662698
   },
   {
     "date": "2026-04-07",
@@ -1512,10 +1523,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.2,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9682830542756032,
-    "three_inst_ratio_change_20": -0.25700435982381553
+    "three_inst_ratio": 0.9268461475424541,
+    "three_inst_ratio_change_20": -0.25700435982381564
   },
   {
     "date": "2026-04-08",
@@ -1523,10 +1534,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.21,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9782830542756032,
-    "three_inst_ratio_change_20": -0.24700435982381552
+    "three_inst_ratio": 0.9368461475424541,
+    "three_inst_ratio_change_20": -0.24700435982381563
   },
   {
     "date": "2026-04-09",
@@ -1534,10 +1545,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.2,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9682830542756032,
-    "three_inst_ratio_change_20": -0.1970043598238157
+    "three_inst_ratio": 0.9268461475424541,
+    "three_inst_ratio_change_20": -0.1970043598238158
   },
   {
     "date": "2026-04-10",
@@ -1545,10 +1556,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.21,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.9782830542756032,
-    "three_inst_ratio_change_20": -0.13700435982381565
+    "three_inst_ratio": 0.9368461475424541,
+    "three_inst_ratio_change_20": -0.13700435982381576
   },
   {
     "date": "2026-04-13",
@@ -1556,9 +1567,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.24,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0082830542756032,
+    "three_inst_ratio": 0.9668461475424541,
     "three_inst_ratio_change_20": -0.05700435982381569
   },
   {
@@ -1567,9 +1578,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.28,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0482830542756032,
+    "three_inst_ratio": 1.0068461475424542,
     "three_inst_ratio_change_20": -0.02700435982381566
   },
   {
@@ -1578,9 +1589,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.28,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0482830542756032,
+    "three_inst_ratio": 1.0068461475424542,
     "three_inst_ratio_change_20": -0.01700435982381565
   },
   {
@@ -1589,9 +1600,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.3,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0682830542756032,
+    "three_inst_ratio": 1.0268461475424542,
     "three_inst_ratio_change_20": 0.012995640176184375
   },
   {
@@ -1600,10 +1611,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.27,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0382830542756034,
-    "three_inst_ratio_change_20": 0.042995640176184624
+    "three_inst_ratio": 0.9968461475424542,
+    "three_inst_ratio_change_20": 0.04299564017618451
   },
   {
     "date": "2026-04-20",
@@ -1611,10 +1622,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.32,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0882830542756032,
-    "three_inst_ratio_change_20": 0.08299564017618444
+    "three_inst_ratio": 1.0468461475424542,
+    "three_inst_ratio_change_20": 0.08299564017618455
   },
   {
     "date": "2026-04-21",
@@ -1622,10 +1633,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.34,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.1082830542756033,
-    "three_inst_ratio_change_20": 0.10299564017618446
+    "three_inst_ratio": 1.0668461475424542,
+    "three_inst_ratio_change_20": 0.10299564017618457
   },
   {
     "date": "2026-04-22",
@@ -1633,10 +1644,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.34,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.1082830542756033,
-    "three_inst_ratio_change_20": 0.09299564017618445
+    "three_inst_ratio": 1.0668461475424542,
+    "three_inst_ratio_change_20": 0.09299564017618456
   },
   {
     "date": "2026-04-23",
@@ -1644,10 +1655,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.32,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0882830542756032,
-    "three_inst_ratio_change_20": 0.05299564017618441
+    "three_inst_ratio": 1.0468461475424542,
+    "three_inst_ratio_change_20": 0.05299564017618452
   },
   {
     "date": "2026-04-24",
@@ -1655,9 +1666,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.3,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0682830542756032,
+    "three_inst_ratio": 1.0268461475424542,
     "three_inst_ratio_change_20": 0.0029956401761843665
   },
   {
@@ -1666,10 +1677,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.29,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0582830542756034,
-    "three_inst_ratio_change_20": -0.00700435982381542
+    "three_inst_ratio": 1.0168461475424542,
+    "three_inst_ratio_change_20": -0.007004359823815642
   },
   {
     "date": "2026-04-28",
@@ -1677,9 +1688,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.39,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.158283054275603,
+    "three_inst_ratio": 1.116846147542454,
     "three_inst_ratio_change_20": 0.09299564017618422
   },
   {
@@ -1688,9 +1699,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.41,
-    "trust_ratio": -0.23171694572439672,
+    "trust_ratio": -0.2731538524575458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.178283054275603,
+    "three_inst_ratio": 1.136846147542454,
     "three_inst_ratio_change_20": 0.11299564017618424
   },
   {
@@ -1699,9 +1710,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.37,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0968461475424542,
+    "three_inst_ratio": 1.0554092408093052,
     "three_inst_ratio_change_20": 0.05155873344303541
   },
   {
@@ -1710,10 +1721,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.34,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0668461475424542,
-    "three_inst_ratio_change_20": 0.03155873344303539
+    "three_inst_ratio": 1.0254092408093052,
+    "three_inst_ratio_change_20": 0.0315587334430355
   },
   {
     "date": "2026-05-05",
@@ -1721,10 +1732,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 2.06,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.7868461475424542,
-    "three_inst_ratio_change_20": 1.7868461475424542
+    "three_inst_ratio": 1.7454092408093052,
+    "three_inst_ratio_change_20": 1.7454092408093052
   },
   {
     "date": "2026-05-06",
@@ -1732,10 +1743,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 2.03,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.756846147542454,
-    "three_inst_ratio_change_20": 0.7885630932668507
+    "three_inst_ratio": 1.715409240809305,
+    "three_inst_ratio_change_20": 0.7885630932668508
   },
   {
     "date": "2026-05-07",
@@ -1743,10 +1754,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 2.21,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.936846147542454,
-    "three_inst_ratio_change_20": 0.9585630932668509
+    "three_inst_ratio": 1.895409240809305,
+    "three_inst_ratio_change_20": 0.958563093266851
   },
   {
     "date": "2026-05-08",
@@ -1754,10 +1765,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 2.05,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.776846147542454,
-    "three_inst_ratio_change_20": 0.8085630932668507
+    "three_inst_ratio": 1.735409240809305,
+    "three_inst_ratio_change_20": 0.8085630932668508
   },
   {
     "date": "2026-05-11",
@@ -1765,10 +1776,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.97,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.696846147542454,
-    "three_inst_ratio_change_20": 0.7185630932668509
+    "three_inst_ratio": 1.655409240809305,
+    "three_inst_ratio_change_20": 0.718563093266851
   },
   {
     "date": "2026-05-12",
@@ -1776,9 +1787,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.91,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.636846147542454,
+    "three_inst_ratio": 1.595409240809305,
     "three_inst_ratio_change_20": 0.6285630932668509
   },
   {
@@ -1787,9 +1798,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.89,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.616846147542454,
+    "three_inst_ratio": 1.575409240809305,
     "three_inst_ratio_change_20": 0.5685630932668508
   },
   {
@@ -1798,9 +1809,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.85,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.5768461475424542,
+    "three_inst_ratio": 1.5354092408093052,
     "three_inst_ratio_change_20": 0.528563093266851
   },
   {
@@ -1809,9 +1820,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.84,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.5668461475424542,
+    "three_inst_ratio": 1.5254092408093052,
     "three_inst_ratio_change_20": 0.498563093266851
   },
   {
@@ -1820,10 +1831,10 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.83,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.5568461475424542,
-    "three_inst_ratio_change_20": 0.5185630932668508
+    "three_inst_ratio": 1.5154092408093052,
+    "three_inst_ratio_change_20": 0.518563093266851
   },
   {
     "date": "2026-05-19",
@@ -1831,9 +1842,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.83,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.5568461475424542,
+    "three_inst_ratio": 1.5154092408093052,
     "three_inst_ratio_change_20": 0.46856309326685097
   },
   {
@@ -1842,9 +1853,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.82,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.5468461475424542,
+    "three_inst_ratio": 1.5054092408093052,
     "three_inst_ratio_change_20": 0.43856309326685095
   },
   {
@@ -1853,9 +1864,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.82,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.5468461475424542,
+    "three_inst_ratio": 1.5054092408093052,
     "three_inst_ratio_change_20": 0.43856309326685095
   },
   {
@@ -1864,9 +1875,9 @@
     "name": "廣越",
     "market": "TWSE",
     "foreign_ratio": 1.81,
-    "trust_ratio": -0.2731538524575458,
+    "trust_ratio": -0.3145907591906949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.5368461475424542,
+    "three_inst_ratio": 1.4954092408093052,
     "three_inst_ratio_change_20": 0.44856309326685095
   }
 ]

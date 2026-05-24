@@ -1188,15 +1188,26 @@
     "three_inst_ratio_change_20": -9.667903732845
   },
   {
+    "date": "2026-02-18",
+    "code": "1229",
+    "name": "聯華",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.668293496391872
+  },
+  {
     "date": "2026-02-23",
     "code": "1229",
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.47,
-    "trust_ratio": 0.08082270541127463,
+    "trust_ratio": 0.1015915344088148,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.550822705411274,
-    "three_inst_ratio_change_20": -0.11747079098059743
+    "three_inst_ratio": 9.571591534408816,
+    "three_inst_ratio_change_20": -0.06642355944957501
   },
   {
     "date": "2026-02-24",
@@ -1204,10 +1215,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.48,
-    "trust_ratio": 0.08082270541127463,
+    "trust_ratio": 0.1015915344088148,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.560822705411274,
-    "three_inst_ratio_change_20": -0.0771923884471164
+    "three_inst_ratio": 9.581591534408815,
+    "three_inst_ratio_change_20": -0.07642355944957657
   },
   {
     "date": "2026-02-25",
@@ -1215,10 +1226,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.49,
-    "trust_ratio": 0.08082270541127463,
+    "trust_ratio": 0.1015915344088148,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.570822705411274,
-    "three_inst_ratio_change_20": -0.08719238844711796
+    "three_inst_ratio": 9.591591534408815,
+    "three_inst_ratio_change_20": -0.06642355944957679
   },
   {
     "date": "2026-02-26",
@@ -1226,10 +1237,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.5,
-    "trust_ratio": 0.08082270541127463,
+    "trust_ratio": 0.1015915344088148,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.580822705411274,
-    "three_inst_ratio_change_20": -0.07719238844711818
+    "three_inst_ratio": 9.601591534408815,
+    "three_inst_ratio_change_20": -0.08681332299644673
   },
   {
     "date": "2026-03-02",
@@ -1237,10 +1248,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.54,
-    "trust_ratio": 0.08082270541127463,
+    "trust_ratio": 0.1015915344088148,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.620822705411273,
-    "three_inst_ratio_change_20": -0.06758215199398876
+    "three_inst_ratio": 9.641591534408814,
+    "three_inst_ratio_change_20": -0.05681332299644737
   },
   {
     "date": "2026-03-03",
@@ -1248,10 +1259,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.51,
-    "trust_ratio": 0.08082270541127463,
+    "trust_ratio": 0.1015915344088148,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.590822705411274,
-    "three_inst_ratio_change_20": -0.1075821519939879
+    "three_inst_ratio": 9.611591534408815,
+    "three_inst_ratio_change_20": -0.06681332299644716
   },
   {
     "date": "2026-03-04",
@@ -1259,10 +1270,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.54,
-    "trust_ratio": 0.08048862237109972,
+    "trust_ratio": 0.10125745136863988,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.620488622371099,
-    "three_inst_ratio_change_20": -0.05791623503416332
+    "three_inst_ratio": 9.64125745136864,
+    "three_inst_ratio_change_20": -0.037147406036622144
   },
   {
     "date": "2026-03-05",
@@ -1270,10 +1281,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.52,
-    "trust_ratio": 0.08015453933092481,
+    "trust_ratio": 0.10092336832846498,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.600154539330925,
-    "three_inst_ratio_change_20": -0.07825031807433724
+    "three_inst_ratio": 9.620923368328464,
+    "three_inst_ratio_change_20": 0.032518510923202015
   },
   {
     "date": "2026-03-06",
@@ -1281,10 +1292,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.46,
-    "trust_ratio": 0.08015453933092481,
+    "trust_ratio": 0.10092336832846498,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.540154539330926,
-    "three_inst_ratio_change_20": -0.04825031807433611
+    "three_inst_ratio": 9.560923368328465,
+    "three_inst_ratio_change_20": 0.002518510923204431
   },
   {
     "date": "2026-03-09",
@@ -1292,10 +1303,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.44,
-    "trust_ratio": 0.08015453933092481,
+    "trust_ratio": 0.10092336832846498,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.520154539330925,
-    "three_inst_ratio_change_20": -0.03825031807433632
+    "three_inst_ratio": 9.540923368328464,
+    "three_inst_ratio_change_20": 0.002518510923202655
   },
   {
     "date": "2026-03-10",
@@ -1303,10 +1314,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.44,
-    "trust_ratio": 0.08015453933092481,
+    "trust_ratio": 0.10092336832846498,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.520154539330925,
-    "three_inst_ratio_change_20": -0.018250318074336747
+    "three_inst_ratio": 9.540923368328464,
+    "three_inst_ratio_change_20": 0.0425185109232018
   },
   {
     "date": "2026-03-11",
@@ -1314,10 +1325,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.37,
-    "trust_ratio": 0.08015453933092481,
+    "trust_ratio": 0.10092336832846498,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.450154539330924,
-    "three_inst_ratio_change_20": -0.04825031807433788
+    "three_inst_ratio": 9.470923368328464,
+    "three_inst_ratio_change_20": -0.05787125262366999
   },
   {
     "date": "2026-03-12",
@@ -1325,10 +1336,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.33,
-    "trust_ratio": 0.08160223250501608,
+    "trust_ratio": 0.10237106150255626,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.411602232505016,
-    "three_inst_ratio_change_20": -0.11719238844711732
+    "three_inst_ratio": 9.432371061502556,
+    "three_inst_ratio_change_20": -0.046145156916098884
   },
   {
     "date": "2026-03-13",
@@ -1336,10 +1347,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.31,
-    "trust_ratio": 0.08160223250501608,
+    "trust_ratio": 0.10237106150255626,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.391602232505017,
-    "three_inst_ratio_change_20": -0.08691398591363786
+    "three_inst_ratio": 9.412371061502556,
+    "three_inst_ratio_change_20": -0.056145156916096894
   },
   {
     "date": "2026-03-16",
@@ -1347,10 +1358,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.27,
-    "trust_ratio": 0.08160223250501608,
+    "trust_ratio": 0.10237106150255626,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.351602232505016,
-    "three_inst_ratio_change_20": -0.11691398591363722
+    "three_inst_ratio": 9.372371061502555,
+    "three_inst_ratio_change_20": -0.10614515691609938
   },
   {
     "date": "2026-03-17",
@@ -1358,10 +1369,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.3,
-    "trust_ratio": 0.08160223250501608,
+    "trust_ratio": 0.10237106150255626,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.381602232505017,
-    "three_inst_ratio_change_20": -0.09691398591363765
+    "three_inst_ratio": 9.402371061502556,
+    "three_inst_ratio_change_20": -0.09614515691609782
   },
   {
     "date": "2026-03-18",
@@ -1369,10 +1380,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.35,
-    "trust_ratio": 0.08215903757197426,
+    "trust_ratio": 0.10292786656951441,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.432159037571974,
-    "three_inst_ratio_change_20": -0.06635718084667985
+    "three_inst_ratio": 9.452927866569514,
+    "three_inst_ratio_change_20": -0.06635718084668163
   },
   {
     "date": "2026-03-19",
@@ -1380,9 +1391,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.34,
-    "trust_ratio": 0.08215903757197426,
+    "trust_ratio": 0.10292786656951441,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.422159037571975,
+    "three_inst_ratio": 9.442927866569514,
     "three_inst_ratio_change_20": -0.09712600984422082
   },
   {
@@ -1391,10 +1402,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.31,
-    "trust_ratio": 0.08175295963664167,
+    "trust_ratio": 0.10252178863418182,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.391752959636642,
-    "three_inst_ratio_change_20": -0.14830091677709234
+    "three_inst_ratio": 9.412521788634182,
+    "three_inst_ratio_change_20": 9.412521788634182
   },
   {
     "date": "2026-03-23",
@@ -1402,10 +1413,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.34,
-    "trust_ratio": 0.08175295963664167,
+    "trust_ratio": 0.10252178863418182,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.421752959636642,
-    "three_inst_ratio_change_20": 9.421752959636642
+    "three_inst_ratio": 9.442521788634181,
+    "three_inst_ratio_change_20": 9.442521788634181
   },
   {
     "date": "2026-03-24",
@@ -1413,10 +1424,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.36,
-    "trust_ratio": 0.08175295963664167,
+    "trust_ratio": 0.10252178863418182,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.441752959636641,
-    "three_inst_ratio_change_20": -0.10906974577463302
+    "three_inst_ratio": 9.46252178863418,
+    "three_inst_ratio_change_20": -0.1090697457746348
   },
   {
     "date": "2026-03-25",
@@ -1424,10 +1435,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.36,
-    "trust_ratio": 0.08175295963664167,
+    "trust_ratio": 0.10252178863418182,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.441752959636641,
-    "three_inst_ratio_change_20": -0.11906974577463281
+    "three_inst_ratio": 9.46252178863418,
+    "three_inst_ratio_change_20": -0.11906974577463458
   },
   {
     "date": "2026-03-26",
@@ -1435,10 +1446,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.41,
-    "trust_ratio": 0.08175295963664167,
+    "trust_ratio": 0.10252178863418182,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.491752959636642,
-    "three_inst_ratio_change_20": -0.07906974577463188
+    "three_inst_ratio": 9.512521788634182,
+    "three_inst_ratio_change_20": -0.07906974577463366
   },
   {
     "date": "2026-03-27",
@@ -1446,10 +1457,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.41,
-    "trust_ratio": 0.08175295963664167,
+    "trust_ratio": 0.10252178863418182,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.491752959636642,
-    "three_inst_ratio_change_20": -0.08906974577463167
+    "three_inst_ratio": 9.512521788634182,
+    "three_inst_ratio_change_20": -0.08906974577463345
   },
   {
     "date": "2026-03-30",
@@ -1457,9 +1468,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.39,
-    "trust_ratio": 0.08203136217012076,
+    "trust_ratio": 0.10280019116766091,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.47203136217012,
+    "three_inst_ratio": 9.492800191167662,
     "three_inst_ratio_change_20": -0.14879134324115206
   },
   {
@@ -1468,9 +1479,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.41,
-    "trust_ratio": 0.08203136217012076,
+    "trust_ratio": 0.10280019116766091,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.49203136217012,
+    "three_inst_ratio": 9.512800191167662,
     "three_inst_ratio_change_20": -0.09879134324115313
   },
   {
@@ -1479,9 +1490,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.43,
-    "trust_ratio": 0.08203136217012076,
+    "trust_ratio": 0.10280019116766091,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.51203136217012,
+    "three_inst_ratio": 9.532800191167661,
     "three_inst_ratio_change_20": -0.10845726020097857
   },
   {
@@ -1490,10 +1501,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.45,
-    "trust_ratio": 0.08203136217012076,
+    "trust_ratio": 0.10280019116766091,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.53203136217012,
-    "three_inst_ratio_change_20": -0.06812317716080507
+    "three_inst_ratio": 9.55280019116766,
+    "three_inst_ratio_change_20": -0.0681231771608033
   },
   {
     "date": "2026-04-06",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -9.540154539330926
+    "three_inst_ratio_change_20": -9.560923368328465
   },
   {
     "date": "2026-04-07",
@@ -1512,10 +1523,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.47,
-    "trust_ratio": 0.08203136217012076,
+    "trust_ratio": 0.10280019116766091,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.552031362170121,
-    "three_inst_ratio_change_20": 0.03187682283919635
+    "three_inst_ratio": 9.572800191167662,
+    "three_inst_ratio_change_20": 0.03187682283919813
   },
   {
     "date": "2026-04-08",
@@ -1523,9 +1534,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.48,
-    "trust_ratio": 0.08169727912994584,
+    "trust_ratio": 0.10246610812748602,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.561697279129946,
+    "three_inst_ratio": 9.582466108127486,
     "three_inst_ratio_change_20": 0.04154273979902179
   },
   {
@@ -1534,9 +1545,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.47,
-    "trust_ratio": 0.08175295963664167,
+    "trust_ratio": 0.10252178863418182,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.551752959636643,
+    "three_inst_ratio": 9.572521788634182,
     "three_inst_ratio_change_20": 0.1015984203057183
   },
   {
@@ -1545,9 +1556,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.47,
-    "trust_ratio": 0.08175295963664167,
+    "trust_ratio": 0.10252178863418182,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.551752959636643,
+    "three_inst_ratio": 9.572521788634182,
     "three_inst_ratio_change_20": 0.14015072713162624
   },
   {
@@ -1556,10 +1567,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.42,
-    "trust_ratio": 0.08292225027725385,
+    "trust_ratio": 0.103691079274794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.502922250277253,
-    "three_inst_ratio_change_20": 0.11132001777223621
+    "three_inst_ratio": 9.523691079274794,
+    "three_inst_ratio_change_20": 0.11132001777223799
   },
   {
     "date": "2026-04-14",
@@ -1567,10 +1578,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.39,
-    "trust_ratio": 0.08292225027725385,
+    "trust_ratio": 0.103691079274794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.472922250277254,
-    "three_inst_ratio_change_20": 0.12132001777223778
+    "three_inst_ratio": 9.493691079274795,
+    "three_inst_ratio_change_20": 0.12132001777223955
   },
   {
     "date": "2026-04-15",
@@ -1578,10 +1589,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.39,
-    "trust_ratio": 0.08292225027725385,
+    "trust_ratio": 0.103691079274794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.472922250277254,
-    "three_inst_ratio_change_20": 0.09132001777223664
+    "three_inst_ratio": 9.493691079274795,
+    "three_inst_ratio_change_20": 0.09132001777223842
   },
   {
     "date": "2026-04-16",
@@ -1589,9 +1600,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.42,
-    "trust_ratio": 0.08275520875716638,
+    "trust_ratio": 0.10352403775470655,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.502755208757167,
+    "three_inst_ratio": 9.523524037754706,
     "three_inst_ratio_change_20": 0.07059617118519235
   },
   {
@@ -1600,9 +1611,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.43,
-    "trust_ratio": 0.08275520875716638,
+    "trust_ratio": 0.10352403775470655,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.512755208757167,
+    "three_inst_ratio": 9.533524037754706,
     "three_inst_ratio_change_20": 0.09059617118519192
   },
   {
@@ -1611,9 +1622,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.42,
-    "trust_ratio": 0.08275520875716638,
+    "trust_ratio": 0.10352403775470655,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.502755208757167,
+    "three_inst_ratio": 9.523524037754706,
     "three_inst_ratio_change_20": 0.11100224912052425
   },
   {
@@ -1622,9 +1633,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.39,
-    "trust_ratio": 0.08275520875716638,
+    "trust_ratio": 0.10352403775470655,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.472755208757167,
+    "three_inst_ratio": 9.493524037754707,
     "three_inst_ratio_change_20": 0.051002249120525533
   },
   {
@@ -1633,9 +1644,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.4,
-    "trust_ratio": 0.08275520875716638,
+    "trust_ratio": 0.10352403775470655,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.482755208757167,
+    "three_inst_ratio": 9.503524037754707,
     "three_inst_ratio_change_20": 0.04100224912052575
   },
   {
@@ -1644,9 +1655,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.34,
-    "trust_ratio": 0.08275520875716638,
+    "trust_ratio": 0.10352403775470655,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.422755208757167,
+    "three_inst_ratio": 9.443524037754706,
     "three_inst_ratio_change_20": -0.01899775087947475
   },
   {
@@ -1655,9 +1666,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.34,
-    "trust_ratio": 0.08275520875716638,
+    "trust_ratio": 0.10352403775470655,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.422755208757167,
+    "three_inst_ratio": 9.443524037754706,
     "three_inst_ratio_change_20": -0.06899775087947546
   },
   {
@@ -1666,10 +1677,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.36,
-    "trust_ratio": 0.0824768062236873,
+    "trust_ratio": 0.10324563522122747,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.442476806223686,
-    "three_inst_ratio_change_20": -0.04927615341295599
+    "three_inst_ratio": 9.463245635221227,
+    "three_inst_ratio_change_20": -0.049276153412954216
   },
   {
     "date": "2026-04-28",
@@ -1677,9 +1688,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.37,
-    "trust_ratio": 0.0824768062236873,
+    "trust_ratio": 0.10324563522122747,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.452476806223686,
+    "three_inst_ratio": 9.473245635221227,
     "three_inst_ratio_change_20": -0.01955455594643496
   },
   {
@@ -1688,10 +1699,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.36,
-    "trust_ratio": 0.08225408419690403,
+    "trust_ratio": 0.10302291319444418,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.442254084196904,
-    "three_inst_ratio_change_20": -0.04977727797321663
+    "three_inst_ratio": 9.463022913194443,
+    "three_inst_ratio_change_20": -0.0497772779732184
   },
   {
     "date": "2026-04-30",
@@ -1699,9 +1710,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.28,
-    "trust_ratio": 0.10302291319444418,
+    "trust_ratio": 0.12379174219198436,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.383022913194443,
+    "three_inst_ratio": 9.403791742191984,
     "three_inst_ratio_change_20": -0.12900844897567687
   },
   {
@@ -1710,9 +1721,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.36,
-    "trust_ratio": 0.10302291319444418,
+    "trust_ratio": 0.12379174219198436,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.463022913194443,
+    "three_inst_ratio": 9.483791742191984,
     "three_inst_ratio_change_20": -0.06900844897567637
   },
   {
@@ -1721,10 +1732,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.35,
-    "trust_ratio": 0.10302291319444418,
+    "trust_ratio": 0.12379174219198436,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.453022913194443,
-    "three_inst_ratio_change_20": 9.453022913194443
+    "three_inst_ratio": 9.473791742191985,
+    "three_inst_ratio_change_20": 9.473791742191985
   },
   {
     "date": "2026-05-06",
@@ -1732,9 +1743,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.32,
-    "trust_ratio": 0.10391380130157726,
+    "trust_ratio": 0.12468263029911744,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.423913801301577,
+    "three_inst_ratio": 9.444682630299118,
     "three_inst_ratio_change_20": -0.1281175608685441
   },
   {
@@ -1743,10 +1754,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.35,
-    "trust_ratio": 0.10602966055601837,
+    "trust_ratio": 0.12679848955355855,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.456029660556018,
-    "three_inst_ratio_change_20": -0.10566761857392848
+    "three_inst_ratio": 9.476798489553559,
+    "three_inst_ratio_change_20": -0.1056676185739267
   },
   {
     "date": "2026-05-08",
@@ -1754,10 +1765,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.37,
-    "trust_ratio": 0.10602966055601837,
+    "trust_ratio": 0.12679848955355855,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.476029660556017,
-    "three_inst_ratio_change_20": -0.07572329908062514
+    "three_inst_ratio": 9.496798489553559,
+    "three_inst_ratio_change_20": -0.07572329908062336
   },
   {
     "date": "2026-05-11",
@@ -1765,9 +1776,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.23,
-    "trust_ratio": 0.10602966055601837,
+    "trust_ratio": 0.12679848955355855,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.336029660556019,
+    "three_inst_ratio": 9.356798489553558,
     "three_inst_ratio_change_20": -0.21572329908062393
   },
   {
@@ -1776,10 +1787,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.16,
-    "trust_ratio": 0.10602966055601837,
+    "trust_ratio": 0.12679848955355855,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.266029660556018,
-    "three_inst_ratio_change_20": -0.23689258972123461
+    "three_inst_ratio": 9.286798489553558,
+    "three_inst_ratio_change_20": -0.2368925897212364
   },
   {
     "date": "2026-05-13",
@@ -1787,10 +1798,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.2,
-    "trust_ratio": 0.10602966055601837,
+    "trust_ratio": 0.12679848955355855,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.306029660556018,
-    "three_inst_ratio_change_20": -0.1668925897212361
+    "three_inst_ratio": 9.326798489553557,
+    "three_inst_ratio_change_20": -0.16689258972123788
   },
   {
     "date": "2026-05-14",
@@ -1798,10 +1809,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.12,
-    "trust_ratio": 0.10563989700914764,
+    "trust_ratio": 0.12640872600668782,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.225639897009147,
-    "three_inst_ratio_change_20": -0.24728235326810655
+    "three_inst_ratio": 9.246408726006687,
+    "three_inst_ratio_change_20": -0.24728235326810832
   },
   {
     "date": "2026-05-15",
@@ -1809,9 +1820,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.04,
-    "trust_ratio": 0.10563989700914764,
+    "trust_ratio": 0.12640872600668782,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.145639897009147,
+    "three_inst_ratio": 9.166408726006686,
     "three_inst_ratio_change_20": -0.3571153117480197
   },
   {
@@ -1820,9 +1831,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.04,
-    "trust_ratio": 0.10563989700914764,
+    "trust_ratio": 0.12640872600668782,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.145639897009147,
+    "three_inst_ratio": 9.166408726006686,
     "three_inst_ratio_change_20": -0.3671153117480195
   },
   {
@@ -1831,10 +1842,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.0,
-    "trust_ratio": 0.10731031221002219,
+    "trust_ratio": 0.12807914120756236,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.107310312210021,
-    "three_inst_ratio_change_20": -0.3954448965471453
+    "three_inst_ratio": 9.128079141207563,
+    "three_inst_ratio_change_20": -0.39544489654714354
   },
   {
     "date": "2026-05-20",
@@ -1842,10 +1853,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 8.99,
-    "trust_ratio": 0.10836824183724272,
+    "trust_ratio": 0.1291370708347829,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.098368241837242,
-    "three_inst_ratio_change_20": -0.3743869669199249
+    "three_inst_ratio": 9.119137070834784,
+    "three_inst_ratio_change_20": -0.3743869669199231
   },
   {
     "date": "2026-05-21",
@@ -1853,10 +1864,10 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 9.02,
-    "trust_ratio": 0.11026137906490054,
+    "trust_ratio": 0.1310302080624407,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.1302613790649,
-    "three_inst_ratio_change_20": -0.3524938296922677
+    "three_inst_ratio": 9.15103020806244,
+    "three_inst_ratio_change_20": -0.35249382969226595
   },
   {
     "date": "2026-05-22",
@@ -1864,9 +1875,9 @@
     "name": "聯華",
     "market": "TWSE",
     "foreign_ratio": 8.99,
-    "trust_ratio": 0.11026137906490054,
+    "trust_ratio": 0.1310302080624407,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.1002613790649,
-    "three_inst_ratio_change_20": -0.3224938296922666
+    "three_inst_ratio": 9.121030208062441,
+    "three_inst_ratio_change_20": -0.3224938296922648
   }
 ]

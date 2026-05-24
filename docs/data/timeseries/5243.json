@@ -1188,15 +1188,26 @@
     "three_inst_ratio_change_20": -59.24823855063685
   },
   {
+    "date": "2026-02-18",
+    "code": "5243",
+    "name": "乙盛-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -58.728238550636846
+  },
+  {
     "date": "2026-02-23",
     "code": "5243",
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.37,
-    "trust_ratio": 0.08129168813553449,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.451291688135534,
-    "three_inst_ratio_change_20": -1.2769468625013118
+    "trust_ratio": 0.10265300764560194,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.343891720598805,
+    "three_inst_ratio_change_20": -1.694346830038043
   },
   {
     "date": "2026-02-24",
@@ -1204,10 +1215,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.33,
-    "trust_ratio": 0.08129168813553449,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.411291688135535,
-    "three_inst_ratio_change_20": -0.6269468625013133
+    "trust_ratio": 0.10265300764560194,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.303891720598806,
+    "three_inst_ratio_change_20": -0.8443468300380417
   },
   {
     "date": "2026-02-25",
@@ -1215,10 +1226,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.88,
-    "trust_ratio": 0.08129168813553449,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.96129168813554,
-    "three_inst_ratio_change_20": -0.18694686250130843
+    "trust_ratio": 0.10265300764560194,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.85389172059881,
+    "three_inst_ratio_change_20": -0.24434683003803315
   },
   {
     "date": "2026-02-26",
@@ -1226,10 +1237,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.86,
-    "trust_ratio": 0.08129168813553449,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.941291688135536,
-    "three_inst_ratio_change_20": -0.1569468625013073
+    "trust_ratio": 0.10265300764560194,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.83389172059881,
+    "three_inst_ratio_change_20": -0.6443468300380388
   },
   {
     "date": "2026-03-02",
@@ -1237,10 +1248,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.84,
-    "trust_ratio": 0.08129168813553449,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.92129168813554,
-    "three_inst_ratio_change_20": -0.5569468625013059
+    "trust_ratio": 0.10265300764560194,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.81389172059881,
+    "three_inst_ratio_change_20": 0.025653169961962874
   },
   {
     "date": "2026-03-03",
@@ -1248,10 +1259,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.08,
-    "trust_ratio": 0.08129168813553449,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.161291688135535,
-    "three_inst_ratio_change_20": -0.6269468625013133
+    "trust_ratio": 0.10265300764560194,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.053891720598806,
+    "three_inst_ratio_change_20": -0.2943468300380374
   },
   {
     "date": "2026-03-04",
@@ -1259,10 +1270,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.15,
-    "trust_ratio": -0.013647509686987542,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.13635249031301,
-    "three_inst_ratio_change_20": -0.2118860603238346
+    "trust_ratio": 0.007713809823079915,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.02895252277629,
+    "three_inst_ratio_change_20": -0.43928602786056103
   },
   {
     "date": "2026-03-05",
@@ -1270,10 +1281,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.18,
-    "trust_ratio": -0.013647509686987542,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.16635249031301,
-    "three_inst_ratio_change_20": -0.301886060323838
+    "trust_ratio": 0.007713809823079915,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.05895252277629,
+    "three_inst_ratio_change_20": -0.09928602786055762
   },
   {
     "date": "2026-03-06",
@@ -1281,10 +1292,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.07,
-    "trust_ratio": -0.013647509686987542,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.05635249031301,
-    "three_inst_ratio_change_20": -0.10188606032383518
+    "trust_ratio": 0.007713809823079915,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.94895252277629,
+    "three_inst_ratio_change_20": -0.0792860278605545
   },
   {
     "date": "2026-03-09",
@@ -1292,10 +1303,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.37,
-    "trust_ratio": -0.013647509686987542,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.35635249031301,
-    "three_inst_ratio_change_20": 0.32811393967616453
+    "trust_ratio": 0.007713809823079915,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.248952522776285,
+    "three_inst_ratio_change_20": 0.0007139721394366916
   },
   {
     "date": "2026-03-10",
@@ -1303,10 +1314,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.47,
-    "trust_ratio": -0.014240879673378304,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.45575912032662,
-    "three_inst_ratio_change_20": 0.20752056968976973
+    "trust_ratio": 0.007120439836689152,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.3483591527899,
+    "three_inst_ratio_change_20": -0.07987939784695186
   },
   {
     "date": "2026-03-11",
@@ -1314,10 +1325,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.29,
-    "trust_ratio": -0.014240879673378304,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.27575912032662,
-    "three_inst_ratio_change_20": -0.1524794303102297
+    "trust_ratio": 0.007120439836689152,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.1683591527899,
+    "three_inst_ratio_change_20": 0.15045210283351906
   },
   {
     "date": "2026-03-12",
@@ -1325,10 +1336,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.31,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.29516575034023,
-    "three_inst_ratio_change_20": 0.2772587003838538
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.18776578280351,
+    "three_inst_ratio_change_20": 0.33985873284713364
   },
   {
     "date": "2026-03-13",
@@ -1336,10 +1347,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.24,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.22516575034023,
-    "three_inst_ratio_change_20": 0.37725870038385523
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.11776578280351,
+    "three_inst_ratio_change_20": -0.030472767833337855
   },
   {
     "date": "2026-03-16",
@@ -1347,10 +1358,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.13,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.11516575034023,
-    "three_inst_ratio_change_20": -0.03307280029661541
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.00776578280351,
+    "three_inst_ratio_change_20": 0.5001902335275901
   },
   {
     "date": "2026-03-17",
@@ -1358,10 +1369,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.11,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.09516575034023,
-    "three_inst_ratio_change_20": 0.5875902010643088
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.98776578280351,
+    "three_inst_ratio_change_20": 0.4601902335275838
   },
   {
     "date": "2026-03-18",
@@ -1369,10 +1380,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.1,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.08516575034023,
-    "three_inst_ratio_change_20": 0.5575902010643077
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.97776578280351,
+    "three_inst_ratio_change_20": 0.5789515205743783
   },
   {
     "date": "2026-03-19",
@@ -1380,10 +1391,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.64,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.62516575034023,
-    "three_inst_ratio_change_20": 0.22635148811109929
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.51776578280351,
+    "three_inst_ratio_change_20": 0.24771280762117698
   },
   {
     "date": "2026-03-20",
@@ -1391,10 +1402,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.76,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.74516575034023,
-    "three_inst_ratio_change_20": 0.4751127751578963
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.637765782803505,
+    "three_inst_ratio_change_20": 57.637765782803505
   },
   {
     "date": "2026-03-23",
@@ -1402,10 +1413,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.77,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.75516575034023,
-    "three_inst_ratio_change_20": 57.75516575034023
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.64776578280351,
+    "three_inst_ratio_change_20": 57.64776578280351
   },
   {
     "date": "2026-03-24",
@@ -1413,10 +1424,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.63,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.61516575034023,
-    "three_inst_ratio_change_20": 0.16387406220469813
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.50776578280351,
+    "three_inst_ratio_change_20": 0.16387406220470524
   },
   {
     "date": "2026-03-25",
@@ -1424,10 +1435,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.63,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.61516575034023,
-    "three_inst_ratio_change_20": -0.7961259377953027
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.50776578280351,
+    "three_inst_ratio_change_20": -0.7961259377952956
   },
   {
     "date": "2026-03-26",
@@ -1435,10 +1446,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 56.95,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.93516575034023,
-    "three_inst_ratio_change_20": -2.0261259377953067
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.82776578280351,
+    "three_inst_ratio_change_20": -2.0261259377952996
   },
   {
     "date": "2026-03-27",
@@ -1446,10 +1457,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 55.45,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 55.43516575034023,
-    "three_inst_ratio_change_20": -3.5061259377953036
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 55.32776578280351,
+    "three_inst_ratio_change_20": -3.5061259377952965
   },
   {
     "date": "2026-03-30",
@@ -1457,10 +1468,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 56.68,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.66516575034023,
-    "three_inst_ratio_change_20": -2.2561259377953107
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.55776578280351,
+    "three_inst_ratio_change_20": -2.2561259377953036
   },
   {
     "date": "2026-03-31",
@@ -1468,10 +1479,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 56.43,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.41516575034023,
-    "three_inst_ratio_change_20": -1.7461259377953056
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.30776578280351,
+    "three_inst_ratio_change_20": -1.7461259377952985
   },
   {
     "date": "2026-04-01",
@@ -1479,9 +1490,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.77,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.75516575034023,
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.64776578280351,
     "three_inst_ratio_change_20": -0.38118673997277597
   },
   {
@@ -1490,9 +1501,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 60.21,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 60.19516575034023,
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 60.08776578280351,
     "three_inst_ratio_change_20": 2.0288132600272206
   },
   {
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -58.05635249031301
+    "three_inst_ratio_change_20": -57.94895252277629
   },
   {
     "date": "2026-04-07",
@@ -1512,9 +1523,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 59.41,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 59.395165750340226,
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 59.287765782803504,
     "three_inst_ratio_change_20": 1.0388132600272186
   },
   {
@@ -1523,9 +1534,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 59.91,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 59.895165750340226,
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 59.787765782803504,
     "three_inst_ratio_change_20": 1.4394066300136075
   },
   {
@@ -1534,9 +1545,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 60.03,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 60.01516575034023,
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 59.90776578280351,
     "three_inst_ratio_change_20": 1.7394066300136117
   },
   {
@@ -1545,9 +1556,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 62.67,
-    "trust_ratio": -0.014834249659769067,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 62.65516575034023,
+    "trust_ratio": 0.006527069850298389,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 62.54776578280351,
     "three_inst_ratio_change_20": 4.359999999999999
   },
   {
@@ -1556,9 +1567,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 62.62,
-    "trust_ratio": -0.01542761964615983,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 62.60457238035384,
+    "trust_ratio": 0.005933699863907627,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 62.497172412817115,
     "three_inst_ratio_change_20": 4.379406630013605
   },
   {
@@ -1567,9 +1578,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 62.7,
-    "trust_ratio": -0.01542761964615983,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 62.68457238035384,
+    "trust_ratio": 0.005933699863907627,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 62.57717241281712,
     "three_inst_ratio_change_20": 4.56940663001361
   },
   {
@@ -1578,9 +1589,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 62.61,
-    "trust_ratio": -0.01542761964615983,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 62.59457238035384,
+    "trust_ratio": 0.005933699863907627,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 62.48717241281712,
     "three_inst_ratio_change_20": 4.49940663001361
   },
   {
@@ -1589,9 +1600,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 62.77,
-    "trust_ratio": -0.0747646182852361,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 62.69523538171477,
+    "trust_ratio": -0.05340329877516864,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 62.587835414178045,
     "three_inst_ratio_change_20": 4.610069631374536
   },
   {
@@ -1600,10 +1611,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 62.86,
-    "trust_ratio": -0.1940319855497794,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 62.66596801445022,
-    "three_inst_ratio_change_20": 5.040802264109992
+    "trust_ratio": -0.17267066603971193,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 62.55856804691349,
+    "three_inst_ratio_change_20": 5.040802264109985
   },
   {
     "date": "2026-04-20",
@@ -1611,10 +1622,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 62.71,
-    "trust_ratio": -0.19462535553617016,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 62.51537464446383,
-    "three_inst_ratio_change_20": 4.770208894123606
+    "trust_ratio": -0.1732640360261027,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 62.407974676927104,
+    "three_inst_ratio_change_20": 4.7702088941235985
   },
   {
     "date": "2026-04-21",
@@ -1622,10 +1633,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 62.73,
-    "trust_ratio": -0.19462535553617016,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 62.53537464446383,
-    "three_inst_ratio_change_20": 4.7802088941235965
+    "trust_ratio": -0.1732640360261027,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 62.4279746769271,
+    "three_inst_ratio_change_20": 4.780208894123589
   },
   {
     "date": "2026-04-22",
@@ -1633,10 +1644,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 62.54,
-    "trust_ratio": -0.19462535553617016,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 62.34537464446383,
-    "three_inst_ratio_change_20": 4.730208894123599
+    "trust_ratio": -0.1732640360261027,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 62.2379746769271,
+    "three_inst_ratio_change_20": 4.730208894123592
   },
   {
     "date": "2026-04-23",
@@ -1644,10 +1655,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 62.07,
-    "trust_ratio": -0.19521872552256092,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 61.87478127447744,
-    "three_inst_ratio_change_20": 4.25961552413721
+    "trust_ratio": -0.17385740601249347,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 61.76738130694071,
+    "three_inst_ratio_change_20": 4.259615524137203
   },
   {
     "date": "2026-04-24",
@@ -1655,10 +1666,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 61.72,
-    "trust_ratio": -0.19521872552256092,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 61.52478127447744,
-    "three_inst_ratio_change_20": 4.5896155241372085
+    "trust_ratio": -0.17385740601249347,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 61.41738130694071,
+    "three_inst_ratio_change_20": 4.589615524137201
   },
   {
     "date": "2026-04-27",
@@ -1666,10 +1677,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 61.36,
-    "trust_ratio": -0.19521872552256092,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 61.16478127447744,
-    "three_inst_ratio_change_20": 5.729615524137209
+    "trust_ratio": -0.17385740601249347,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 61.05738130694071,
+    "three_inst_ratio_change_20": 5.729615524137202
   },
   {
     "date": "2026-04-28",
@@ -1677,10 +1688,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.98,
-    "trust_ratio": -0.19521872552256092,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.78478127447744,
-    "three_inst_ratio_change_20": 2.1196155241372097
+    "trust_ratio": -0.17385740601249347,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 58.67738130694071,
+    "three_inst_ratio_change_20": 2.1196155241372026
   },
   {
     "date": "2026-04-29",
@@ -1688,10 +1699,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.2,
-    "trust_ratio": -0.19521872552256092,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 58.004781274477445,
-    "three_inst_ratio_change_20": 1.5896155241372156
+    "trust_ratio": -0.17385740601249347,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.897381306940716,
+    "three_inst_ratio_change_20": 1.5896155241372085
   },
   {
     "date": "2026-04-30",
@@ -1699,9 +1710,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 58.2,
-    "trust_ratio": -0.32398001256935643,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.876019987430645,
+    "trust_ratio": -0.30261869305928896,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.76862001989392,
     "three_inst_ratio_change_20": 0.12085423709041265
   },
   {
@@ -1710,9 +1721,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.07,
-    "trust_ratio": -0.32398001256935643,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.74601998743064,
+    "trust_ratio": -0.30261869305928896,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.63862001989392,
     "three_inst_ratio_change_20": -3.4491457629095876
   },
   {
@@ -1721,10 +1732,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.12,
-    "trust_ratio": -0.32398001256935643,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.79601998743064,
-    "three_inst_ratio_change_20": 56.79601998743064
+    "trust_ratio": -0.30261869305928896,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.68862001989392,
+    "three_inst_ratio_change_20": 56.68862001989392
   },
   {
     "date": "2026-05-06",
@@ -1732,9 +1743,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.01,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.68542661744425,
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.57802664990753,
     "three_inst_ratio_change_20": -2.709739132895976
   },
   {
@@ -1743,9 +1754,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.71,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.38542661744425,
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.27802664990753,
     "three_inst_ratio_change_20": -2.509739132895973
   },
   {
@@ -1754,9 +1765,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.41,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.08542661744425,
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.97802664990753,
     "three_inst_ratio_change_20": -2.929739132895982
   },
   {
@@ -1765,9 +1776,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.04,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.71542661744425,
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.60802664990753,
     "three_inst_ratio_change_20": -5.93973913289598
   },
   {
@@ -1776,9 +1787,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.33,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.00542661744425,
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.89802664990753,
     "three_inst_ratio_change_20": -5.599145762909586
   },
   {
@@ -1787,9 +1798,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.22,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.89542661744425,
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.78802664990753,
     "three_inst_ratio_change_20": -5.789145762909591
   },
   {
@@ -1798,9 +1809,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.34,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.015426617444255,
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.908026649907534,
     "three_inst_ratio_change_20": -5.579145762909583
   },
   {
@@ -1809,9 +1820,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.38,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.055426617444255,
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.94802664990753,
     "three_inst_ratio_change_20": -5.639808764270512
   },
   {
@@ -1820,10 +1831,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.2,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.875426617444255,
-    "three_inst_ratio_change_20": -5.790541397005967
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.76802664990753,
+    "three_inst_ratio_change_20": -5.79054139700596
   },
   {
     "date": "2026-05-19",
@@ -1831,10 +1842,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 56.99,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.665426617444254,
-    "three_inst_ratio_change_20": -5.849948027019579
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.55802664990753,
+    "three_inst_ratio_change_20": -5.849948027019572
   },
   {
     "date": "2026-05-20",
@@ -1842,10 +1853,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 54.77,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 54.445426617444255,
-    "three_inst_ratio_change_20": -8.089948027019574
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 54.33802664990753,
+    "three_inst_ratio_change_20": -8.089948027019567
   },
   {
     "date": "2026-05-21",
@@ -1853,10 +1864,10 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.17,
-    "trust_ratio": -0.3245733825557472,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 56.845426617444254,
-    "three_inst_ratio_change_20": -5.4999480270195775
+    "trust_ratio": -0.3032120630456797,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 56.73802664990753,
+    "three_inst_ratio_change_20": -5.49994802701957
   },
   {
     "date": "2026-05-22",
@@ -1864,9 +1875,9 @@
     "name": "乙盛-KY",
     "market": "TWSE",
     "foreign_ratio": 57.55,
-    "trust_ratio": -0.05102981882960559,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.49897018117039,
+    "trust_ratio": -0.029668499319538133,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 57.39157021363366,
     "three_inst_ratio_change_20": -4.37581109330705
   }
 ]

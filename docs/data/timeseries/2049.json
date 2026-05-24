@@ -1188,15 +1188,26 @@
     "three_inst_ratio_change_20": -26.267158526710478
   },
   {
+    "date": "2026-02-18",
+    "code": "2049",
+    "name": "上銀",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -26.436858915842812
+  },
+  {
     "date": "2026-02-23",
     "code": "2049",
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 26.58,
-    "trust_ratio": 0.32356503918797086,
+    "trust_ratio": 0.3207385215684776,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.90356503918797,
-    "three_inst_ratio_change_20": 0.4667061233451584
+    "three_inst_ratio": 26.900738521568474,
+    "three_inst_ratio_change_20": 0.4942419652844805
   },
   {
     "date": "2026-02-24",
@@ -1204,10 +1215,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 26.37,
-    "trust_ratio": 0.32348052631114804,
+    "trust_ratio": 0.3206540086916547,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.69348052631115,
-    "three_inst_ratio_change_20": 0.2869839700271548
+    "three_inst_ratio": 26.690654008691656,
+    "three_inst_ratio_change_20": 0.504989359857074
   },
   {
     "date": "2026-02-25",
@@ -1215,10 +1226,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 25.86,
-    "trust_ratio": 0.3221905036696113,
+    "trust_ratio": 0.319363986050118,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.18219050366961,
-    "three_inst_ratio_change_20": -0.003474145164972242
+    "three_inst_ratio": 26.179363986050117,
+    "three_inst_ratio_change_20": -0.15827442003815761
   },
   {
     "date": "2026-02-26",
@@ -1226,10 +1237,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 25.95,
-    "trust_ratio": 0.23222470905523537,
+    "trust_ratio": 0.22939819143574205,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.182224709055234,
-    "three_inst_ratio_change_20": -0.15541369703304042
+    "three_inst_ratio": 26.17939819143574,
+    "three_inst_ratio_change_20": -0.7386248358641225
   },
   {
     "date": "2026-03-02",
@@ -1237,10 +1248,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 27.63,
-    "trust_ratio": 0.24259067977296508,
+    "trust_ratio": 0.23976416215347177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.872590679772966,
-    "three_inst_ratio_change_20": 0.9545676524731022
+    "three_inst_ratio": 27.86976416215347,
+    "three_inst_ratio_change_20": -0.8081596543779526
   },
   {
     "date": "2026-03-03",
@@ -1248,10 +1259,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 28.78,
-    "trust_ratio": 0.24259067977296508,
+    "trust_ratio": 0.23976416215347177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.022590679772968,
-    "three_inst_ratio_change_20": 0.34466686324154594
+    "three_inst_ratio": 29.01976416215347,
+    "three_inst_ratio_change_20": 0.8619200534189204
   },
   {
     "date": "2026-03-04",
@@ -1259,10 +1270,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 28.56,
-    "trust_ratio": 0.2024541295761603,
+    "trust_ratio": 0.19962761195666698,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.76245412957616,
-    "three_inst_ratio_change_20": 0.6046100208416085
+    "three_inst_ratio": 28.759627611956667,
+    "three_inst_ratio_change_20": 0.7699804043186447
   },
   {
     "date": "2026-03-05",
@@ -1270,10 +1281,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 28.52,
-    "trust_ratio": 0.20330208486200826,
+    "trust_ratio": 0.20047556724251497,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.72330208486201,
-    "three_inst_ratio_change_20": 0.7336548772239873
+    "three_inst_ratio": 28.720475567242513,
+    "three_inst_ratio_change_20": 1.3828656456682005
   },
   {
     "date": "2026-03-06",
@@ -1281,10 +1292,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 28.57,
-    "trust_ratio": 0.20612860248150158,
+    "trust_ratio": 0.20330208486200826,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.776128602481503,
-    "three_inst_ratio_change_20": 1.4385186809071904
+    "three_inst_ratio": 28.77330208486201,
+    "three_inst_ratio_change_20": 1.2856969683676525
   },
   {
     "date": "2026-03-09",
@@ -1292,10 +1303,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 28.72,
-    "trust_ratio": 0.20612860248150158,
+    "trust_ratio": 0.20330208486200826,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.9261286024815,
-    "three_inst_ratio_change_20": 1.4385234859871439
+    "three_inst_ratio": 28.92330208486201,
+    "three_inst_ratio_change_20": 1.388385244402194
   },
   {
     "date": "2026-03-10",
@@ -1303,10 +1314,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.16,
-    "trust_ratio": 0.20612860248150158,
+    "trust_ratio": 0.20330208486200826,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.366128602481503,
-    "three_inst_ratio_change_20": 1.8312117620216881
+    "three_inst_ratio": 29.36330208486201,
+    "three_inst_ratio_change_20": 1.8283852444021953
   },
   {
     "date": "2026-03-11",
@@ -1314,10 +1325,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.36,
-    "trust_ratio": 0.2184864201656882,
+    "trust_ratio": 0.21565990254619488,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.57848642016569,
-    "three_inst_ratio_change_20": 2.043569579705874
+    "three_inst_ratio": 29.575659902546196,
+    "three_inst_ratio_change_20": 2.3408227698832533
   },
   {
     "date": "2026-03-12",
@@ -1325,10 +1336,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.75,
-    "trust_ratio": 0.23197484489767217,
+    "trust_ratio": 0.22914832727817885,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.98197484489767,
-    "three_inst_ratio_change_20": 2.7471377122347285
+    "three_inst_ratio": 29.97914832727818,
+    "three_inst_ratio_change_20": 2.674876498139131
   },
   {
     "date": "2026-03-13",
@@ -1336,10 +1347,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.65,
-    "trust_ratio": 0.23564931780301343,
+    "trust_ratio": 0.2328228001835201,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.88564931780301,
-    "three_inst_ratio_change_20": 2.581377488663964
+    "three_inst_ratio": 29.88282280018352,
+    "three_inst_ratio_change_20": 2.2126152840435367
   },
   {
     "date": "2026-03-16",
@@ -1347,10 +1358,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.5,
-    "trust_ratio": 0.23564931780301343,
+    "trust_ratio": 0.2328228001835201,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.735649317803013,
-    "three_inst_ratio_change_20": 2.065441801663031
+    "three_inst_ratio": 29.73282280018352,
+    "three_inst_ratio_change_20": 2.414575917210623
   },
   {
     "date": "2026-03-17",
@@ -1358,10 +1369,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.53,
-    "trust_ratio": 0.23564931780301343,
+    "trust_ratio": 0.2328228001835201,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.765649317803014,
-    "three_inst_ratio_change_20": 2.447402434830117
+    "three_inst_ratio": 29.76282280018352,
+    "three_inst_ratio_change_20": 2.544575917210622
   },
   {
     "date": "2026-03-18",
@@ -1369,9 +1380,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.33,
-    "trust_ratio": 0.23613576148532822,
+    "trust_ratio": 0.23330924386583493,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.566135761485327,
+    "three_inst_ratio": 29.563309243865834,
     "three_inst_ratio_change_20": 2.3478888785124283
   },
   {
@@ -1380,9 +1391,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.55,
-    "trust_ratio": 0.1773441949998677,
+    "trust_ratio": 0.1745176773803744,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.72734419499987,
+    "three_inst_ratio": 29.724517677380376,
     "three_inst_ratio_change_20": 2.511923829646463
   },
   {
@@ -1391,10 +1402,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.42,
-    "trust_ratio": 0.1406910451173265,
+    "trust_ratio": 0.1378645274978332,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.560691045117327,
-    "three_inst_ratio_change_20": 2.3480971973834137
+    "three_inst_ratio": 29.557864527497834,
+    "three_inst_ratio_change_20": 29.557864527497834
   },
   {
     "date": "2026-03-23",
@@ -1402,10 +1413,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.37,
-    "trust_ratio": 0.1406910451173265,
+    "trust_ratio": 0.1378645274978332,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.510691045117326,
-    "three_inst_ratio_change_20": 29.510691045117326
+    "three_inst_ratio": 29.507864527497834,
+    "three_inst_ratio_change_20": 29.507864527497834
   },
   {
     "date": "2026-03-24",
@@ -1413,10 +1424,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.55,
-    "trust_ratio": 0.1406910451173265,
+    "trust_ratio": 0.1378645274978332,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.690691045117326,
-    "three_inst_ratio_change_20": 2.7871260059293554
+    "three_inst_ratio": 29.687864527497833,
+    "three_inst_ratio_change_20": 2.787126005929359
   },
   {
     "date": "2026-03-25",
@@ -1424,9 +1435,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.82,
-    "trust_ratio": 0.1406910451173265,
+    "trust_ratio": 0.1378645274978332,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 29.960691045117326,
+    "three_inst_ratio": 29.957864527497833,
     "three_inst_ratio_change_20": 3.267210518806177
   },
   {
@@ -1435,10 +1446,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.93,
-    "trust_ratio": 0.1661297036927661,
+    "trust_ratio": 0.16330318607327285,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.096129703692768,
-    "three_inst_ratio_change_20": 3.913939200023158
+    "three_inst_ratio": 30.09330318607327,
+    "three_inst_ratio_change_20": 3.9139392000231545
   },
   {
     "date": "2026-03-27",
@@ -1446,10 +1457,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.84,
-    "trust_ratio": 0.1658470519308168,
+    "trust_ratio": 0.16302053431132352,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.005847051930818,
-    "three_inst_ratio_change_20": 3.8236223428755842
+    "three_inst_ratio": 30.00302053431132,
+    "three_inst_ratio_change_20": 3.8236223428755807
   },
   {
     "date": "2026-03-30",
@@ -1457,9 +1468,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 30.49,
-    "trust_ratio": 0.1661297036927661,
+    "trust_ratio": 0.16330318607327285,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.656129703692766,
+    "three_inst_ratio": 30.65330318607327,
     "three_inst_ratio_change_20": 2.7835390239198006
   },
   {
@@ -1468,9 +1479,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 29.84,
-    "trust_ratio": 0.1661297036927661,
+    "trust_ratio": 0.16330318607327285,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.006129703692768,
+    "three_inst_ratio": 30.00330318607327,
     "three_inst_ratio_change_20": 0.9835390239197999
   },
   {
@@ -1479,9 +1490,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 30.16,
-    "trust_ratio": 0.17036948012200606,
+    "trust_ratio": 0.16754296250251277,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.330369480122005,
+    "three_inst_ratio": 30.327542962502513,
     "three_inst_ratio_change_20": 1.5679153505458459
   },
   {
@@ -1490,10 +1501,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 30.07,
-    "trust_ratio": 0.07850765748847403,
+    "trust_ratio": 0.07568113986898073,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.148507657488473,
-    "three_inst_ratio_change_20": 1.4252055726264636
+    "three_inst_ratio": 30.14568113986898,
+    "three_inst_ratio_change_20": 1.4252055726264672
   },
   {
     "date": "2026-04-06",
@@ -1504,7 +1515,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -28.776128602481503
+    "three_inst_ratio_change_20": -28.77330208486201
   },
   {
     "date": "2026-04-07",
@@ -1512,10 +1523,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 30.2,
-    "trust_ratio": 0.07858651733005789,
+    "trust_ratio": 0.0757599997105646,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.27858651733006,
-    "three_inst_ratio_change_20": 1.3524579148485572
+    "three_inst_ratio": 30.275759999710562,
+    "three_inst_ratio_change_20": 1.3524579148485536
   },
   {
     "date": "2026-04-08",
@@ -1523,9 +1534,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 30.61,
-    "trust_ratio": 0.07830386556810856,
+    "trust_ratio": 0.07547734794861527,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.68830386556811,
+    "three_inst_ratio": 30.685477347948616,
     "three_inst_ratio_change_20": 1.3221752630866064
   },
   {
@@ -1534,9 +1545,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 30.94,
-    "trust_ratio": 0.07830386556810856,
+    "trust_ratio": 0.07547734794861527,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.01830386556811,
+    "three_inst_ratio": 31.015477347948618,
     "three_inst_ratio_change_20": 1.4398174454024222
   },
   {
@@ -1545,9 +1556,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 31.31,
-    "trust_ratio": 0.07846186790303823,
+    "trust_ratio": 0.07563535028354494,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.388461867903036,
+    "three_inst_ratio": 31.385635350283543,
     "three_inst_ratio_change_20": 1.406487023005365
   },
   {
@@ -1556,9 +1567,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 31.66,
-    "trust_ratio": 0.08439755490397415,
+    "trust_ratio": 0.08157103728448085,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.744397554903973,
+    "three_inst_ratio": 31.74157103728448,
     "three_inst_ratio_change_20": 1.8587482371009614
   },
   {
@@ -1567,9 +1578,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 31.33,
-    "trust_ratio": 0.08609346547567012,
+    "trust_ratio": 0.08326694785617683,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.41609346547567,
+    "three_inst_ratio": 31.413266947856176,
     "three_inst_ratio_change_20": 1.680444147672656
   },
   {
@@ -1578,9 +1589,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 31.58,
-    "trust_ratio": 0.09005059014296074,
+    "trust_ratio": 0.08722407252346745,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.67005059014296,
+    "three_inst_ratio": 31.667224072523467,
     "three_inst_ratio_change_20": 1.9044012723399462
   },
   {
@@ -1589,9 +1600,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 31.5,
-    "trust_ratio": 0.08948528661906208,
+    "trust_ratio": 0.08665876899956879,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.589485286619063,
+    "three_inst_ratio": 31.58665876899957,
     "three_inst_ratio_change_20": 2.0233495251337352
   },
   {
@@ -1600,10 +1611,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 32.02,
-    "trust_ratio": 0.08948528661906208,
+    "trust_ratio": 0.08665876899956879,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.10948528661906,
-    "three_inst_ratio_change_20": 2.382141091619193
+    "three_inst_ratio": 32.10665876899957,
+    "three_inst_ratio_change_20": 2.3821410916191965
   },
   {
     "date": "2026-04-20",
@@ -1611,10 +1622,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 32.04,
-    "trust_ratio": 0.08928149469869662,
+    "trust_ratio": 0.08645497707920333,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.129281494698695,
-    "three_inst_ratio_change_20": 2.568590449581368
+    "three_inst_ratio": 32.126454977079206,
+    "three_inst_ratio_change_20": 2.5685904495813716
   },
   {
     "date": "2026-04-21",
@@ -1622,10 +1633,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 32.81,
-    "trust_ratio": 0.08923570511326082,
+    "trust_ratio": 0.08640918749376753,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.89923570511326,
-    "three_inst_ratio_change_20": 3.3885446599959366
+    "three_inst_ratio": 32.89640918749377,
+    "three_inst_ratio_change_20": 3.388544659995933
   },
   {
     "date": "2026-04-22",
@@ -1633,10 +1644,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 32.88,
-    "trust_ratio": 0.08955142713135822,
+    "trust_ratio": 0.08672490951186493,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.969551427131364,
-    "three_inst_ratio_change_20": 3.278860382014038
+    "three_inst_ratio": 32.96672490951187,
+    "three_inst_ratio_change_20": 3.2788603820140345
   },
   {
     "date": "2026-04-23",
@@ -1644,10 +1655,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 34.0,
-    "trust_ratio": 0.08821702816319543,
+    "trust_ratio": 0.08539051054370216,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.08821702816319,
-    "three_inst_ratio_change_20": 4.127525983045867
+    "three_inst_ratio": 34.085390510543704,
+    "three_inst_ratio_change_20": 4.127525983045871
   },
   {
     "date": "2026-04-24",
@@ -1655,9 +1666,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 33.79,
-    "trust_ratio": 0.10060480693414871,
+    "trust_ratio": 0.0977782893146554,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.89060480693415,
+    "three_inst_ratio": 33.88777828931465,
     "three_inst_ratio_change_20": 3.794475103241382
   },
   {
@@ -1666,9 +1677,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 33.84,
-    "trust_ratio": -0.015847718988975,
+    "trust_ratio": -0.01867423660846829,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.82415228101103,
+    "three_inst_ratio": 33.821325763391535,
     "three_inst_ratio_change_20": 3.818305229080213
   },
   {
@@ -1677,9 +1688,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 33.63,
-    "trust_ratio": 0.04322649925843484,
+    "trust_ratio": 0.04039998163894154,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.67322649925844,
+    "three_inst_ratio": 33.670399981638944,
     "three_inst_ratio_change_20": 3.0170967955656742
   },
   {
@@ -1688,9 +1699,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 33.72,
-    "trust_ratio": 0.10201806574389534,
+    "trust_ratio": 0.09919154812440205,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.8220180657439,
+    "three_inst_ratio": 33.8191915481244,
     "three_inst_ratio_change_20": 3.8158883620511297
   },
   {
@@ -1699,10 +1710,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 34.05,
-    "trust_ratio": 0.09919154812440205,
+    "trust_ratio": 0.09636503050490876,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.1491915481244,
-    "three_inst_ratio_change_20": 3.818822068002394
+    "three_inst_ratio": 34.1463650305049,
+    "three_inst_ratio_change_20": 3.8188220680023903
   },
   {
     "date": "2026-05-04",
@@ -1710,10 +1721,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 34.11,
-    "trust_ratio": 0.09919154812440205,
+    "trust_ratio": 0.09636503050490876,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.2091915481244,
-    "three_inst_ratio_change_20": 4.060683890635929
+    "three_inst_ratio": 34.206365030504905,
+    "three_inst_ratio_change_20": 4.060683890635925
   },
   {
     "date": "2026-05-05",
@@ -1721,10 +1732,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 33.68,
-    "trust_ratio": 0.09911353623810402,
+    "trust_ratio": 0.09628701861861075,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.77911353623811,
-    "three_inst_ratio_change_20": 33.77911353623811
+    "three_inst_ratio": 33.77628701861861,
+    "three_inst_ratio_change_20": 33.77628701861861
   },
   {
     "date": "2026-05-06",
@@ -1732,9 +1743,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 33.68,
-    "trust_ratio": 0.09798292919030673,
+    "trust_ratio": 0.09515641157081342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.77798292919031,
+    "three_inst_ratio": 33.77515641157081,
     "three_inst_ratio_change_20": 3.49939641186025
   },
   {
@@ -1743,10 +1754,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 34.05,
-    "trust_ratio": -0.09260237024983929,
+    "trust_ratio": -0.09542888786933257,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.957397629750155,
-    "three_inst_ratio_change_20": 3.2690937641820454
+    "three_inst_ratio": 33.954571112130665,
+    "three_inst_ratio_change_20": 3.269093764182049
   },
   {
     "date": "2026-05-08",
@@ -1754,10 +1765,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 34.18,
-    "trust_ratio": -0.0926803821361373,
+    "trust_ratio": -0.09550689975563059,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.08731961786386,
-    "three_inst_ratio_change_20": 3.0690157522957513
+    "three_inst_ratio": 34.084493100244366,
+    "three_inst_ratio_change_20": 3.0690157522957477
   },
   {
     "date": "2026-05-11",
@@ -1765,10 +1776,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 35.43,
-    "trust_ratio": -0.04717344846229527,
+    "trust_ratio": -0.04999996608178856,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.382826551537704,
-    "three_inst_ratio_change_20": 3.994364683634668
+    "three_inst_ratio": 35.38000003391821,
+    "three_inst_ratio_change_20": 3.9943646836346645
   },
   {
     "date": "2026-05-12",
@@ -1776,10 +1787,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 35.8,
-    "trust_ratio": 0.11563396642051843,
+    "trust_ratio": 0.11280744880102515,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.915633966420515,
-    "three_inst_ratio_change_20": 4.171236411516542
+    "three_inst_ratio": 35.912807448801026,
+    "three_inst_ratio_change_20": 4.171236411516546
   },
   {
     "date": "2026-05-13",
@@ -1787,10 +1798,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 35.7,
-    "trust_ratio": 0.15831438247486718,
+    "trust_ratio": 0.15548786485537386,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.85831438247487,
-    "three_inst_ratio_change_20": 4.442220916999204
+    "three_inst_ratio": 35.85548786485538,
+    "three_inst_ratio_change_20": 4.442220916999201
   },
   {
     "date": "2026-05-14",
@@ -1798,10 +1809,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 35.8,
-    "trust_ratio": 0.19215458202248867,
+    "trust_ratio": 0.1893280644029954,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.992154582022486,
-    "three_inst_ratio_change_20": 4.322103991879526
+    "three_inst_ratio": 35.98932806440299,
+    "three_inst_ratio_change_20": 4.322103991879523
   },
   {
     "date": "2026-05-15",
@@ -1809,10 +1820,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 35.95,
-    "trust_ratio": 0.4504982924441757,
+    "trust_ratio": 0.44767177482468246,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.400498292444176,
-    "three_inst_ratio_change_20": 4.811013005825114
+    "three_inst_ratio": 36.39767177482469,
+    "three_inst_ratio_change_20": 4.811013005825117
   },
   {
     "date": "2026-05-18",
@@ -1820,9 +1831,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 35.49,
-    "trust_ratio": 0.4504982924441757,
+    "trust_ratio": 0.44767177482468246,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.940498292444175,
+    "three_inst_ratio": 35.937671774824686,
     "three_inst_ratio_change_20": 3.8310130058251133
   },
   {
@@ -1831,9 +1842,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 35.75,
-    "trust_ratio": 0.5870190934657018,
+    "trust_ratio": 0.5841925758462085,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.3370190934657,
+    "three_inst_ratio": 36.33419257584621,
     "three_inst_ratio_change_20": 4.207737598767004
   },
   {
@@ -1842,10 +1853,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 35.87,
-    "trust_ratio": 0.5870190934657018,
+    "trust_ratio": 0.5841925758462085,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.457019093465696,
-    "three_inst_ratio_change_20": 3.5577833883524335
+    "three_inst_ratio": 36.45419257584621,
+    "three_inst_ratio_change_20": 3.5577833883524406
   },
   {
     "date": "2026-05-21",
@@ -1853,10 +1864,10 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 36.34,
-    "trust_ratio": 0.5864537899418031,
+    "trust_ratio": 0.5836272723223098,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.9264537899418,
-    "three_inst_ratio_change_20": 3.956902362810439
+    "three_inst_ratio": 36.923627272322314,
+    "three_inst_ratio_change_20": 3.956902362810446
   },
   {
     "date": "2026-05-22",
@@ -1864,9 +1875,9 @@
     "name": "上銀",
     "market": "TWSE",
     "foreign_ratio": 36.1,
-    "trust_ratio": 0.5863757780555051,
+    "trust_ratio": 0.5835492604360119,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.686375778055506,
-    "three_inst_ratio_change_20": 2.5981587498923133
+    "three_inst_ratio": 36.68354926043601,
+    "three_inst_ratio_change_20": 2.598158749892306
   }
 ]

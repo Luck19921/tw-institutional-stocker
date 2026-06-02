@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": 0.5404443002547996
   },
   {
+    "date": "2026-05-01",
+    "code": "2897",
+    "name": "王道銀行",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.313132273642842
+  },
+  {
     "date": "2026-05-04",
     "code": "2897",
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.73,
-    "trust_ratio": 0.09109789592413635,
+    "trust_ratio": 0.09084837339245172,
     "dealer_ratio": -0.0003208146835945328,
-    "three_inst_ratio": 6.820777081240542,
-    "three_inst_ratio_change_20": 0.5076448075976998
+    "three_inst_ratio": 6.820527558708857,
+    "three_inst_ratio_change_20": 6.820527558708857
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.73,
-    "trust_ratio": 0.09266632326615407,
+    "trust_ratio": 0.09241680073446942,
     "dealer_ratio": -0.0003208146835945328,
-    "three_inst_ratio": 6.8223455085825595,
-    "three_inst_ratio_change_20": 6.8223455085825595
+    "three_inst_ratio": 6.822095986050875,
+    "three_inst_ratio_change_20": 0.4673239929141042
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.77,
-    "trust_ratio": 0.09252373896233428,
+    "trust_ratio": 0.09227421643064965,
     "dealer_ratio": -0.0003208146835945328,
-    "three_inst_ratio": 6.862202924278739,
-    "three_inst_ratio_change_20": 0.5074309311419682
+    "three_inst_ratio": 6.861953401747055,
+    "three_inst_ratio_change_20": 0.4761833184835469
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.8,
-    "trust_ratio": 0.09252373896233428,
+    "trust_ratio": 0.09227421643064965,
     "dealer_ratio": -0.0003208146835945328,
-    "three_inst_ratio": 6.892202924278739,
-    "three_inst_ratio_change_20": 0.506432841015231
+    "three_inst_ratio": 6.891953401747055,
+    "three_inst_ratio_change_20": 0.465256520508718
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.87,
-    "trust_ratio": 0.09252373896233428,
+    "trust_ratio": 0.09227421643064965,
     "dealer_ratio": -0.0003208146835945328,
-    "three_inst_ratio": 6.962202924278739,
-    "three_inst_ratio_change_20": 0.5355060430404022
+    "three_inst_ratio": 6.9619534017470555,
+    "three_inst_ratio_change_20": 0.5040089078502952
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.99,
-    "trust_ratio": 0.09309407617761345,
+    "trust_ratio": 0.0928445536459288,
     "dealer_ratio": -0.0003208146835945328,
-    "three_inst_ratio": 7.082773261494019,
-    "three_inst_ratio_change_20": 0.6248287675972586
+    "three_inst_ratio": 7.082523738962334,
+    "three_inst_ratio_change_20": 0.4438663235464748
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 7.0,
-    "trust_ratio": 0.09480508782345096,
+    "trust_ratio": 0.09455556529176631,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.094805087823451,
-    "three_inst_ratio_change_20": 0.45614767240759146
+    "three_inst_ratio": 7.094555565291766,
+    "three_inst_ratio_change_20": 0.46400890785029425
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 7.04,
-    "trust_ratio": 0.09480508782345096,
+    "trust_ratio": 0.09455556529176631,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.134805087823451,
-    "three_inst_ratio_change_20": 0.504258430381979
+    "three_inst_ratio": 7.134555565291766,
+    "three_inst_ratio_change_20": 0.532440480508277
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.96,
-    "trust_ratio": 0.09480508782345096,
+    "trust_ratio": 0.09455556529176631,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.054805087823451,
-    "three_inst_ratio_change_20": 0.45269000303996165
+    "three_inst_ratio": 7.054555565291766,
+    "three_inst_ratio_change_20": 0.45126416000176395
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.94,
-    "trust_ratio": 0.09480508782345096,
+    "trust_ratio": 0.09455556529176631,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.034805087823451,
-    "three_inst_ratio_change_20": 0.4315136825334491
+    "three_inst_ratio": 7.034555565291766,
+    "three_inst_ratio_change_20": 0.4296957326597468
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.82,
-    "trust_ratio": 0.09455556529176631,
+    "trust_ratio": 0.09430604276008167,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.914555565291766,
-    "three_inst_ratio_change_20": 0.3096957326597467
+    "three_inst_ratio": 6.9143060427600815,
+    "three_inst_ratio_change_20": 0.24944621012806145
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.85,
-    "trust_ratio": 0.08803233339201082,
+    "trust_ratio": 0.08778281086032617,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.938032333392011,
-    "three_inst_ratio_change_20": 0.27317250075999056
+    "three_inst_ratio": 6.937782810860326,
+    "three_inst_ratio_change_20": 0.28317250075999034
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.9,
-    "trust_ratio": 0.08154474756821026,
+    "trust_ratio": 0.08129522503652563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.98154474756821,
-    "three_inst_ratio_change_20": 0.32693443746787487
+    "three_inst_ratio": 6.981295225036526,
+    "three_inst_ratio_change_20": 0.35682749924000934
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.94,
-    "trust_ratio": 0.07509280782036466,
+    "trust_ratio": 0.07484328528868002,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.015092807820365,
-    "three_inst_ratio_change_20": 0.39062508202384905
+    "three_inst_ratio": 7.014843285288681,
+    "three_inst_ratio_change_20": 0.4503755594921648
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.94,
-    "trust_ratio": 0.07509280782036466,
+    "trust_ratio": 0.07484328528868002,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.015092807820365,
-    "three_inst_ratio_change_20": 0.45062508202384954
+    "three_inst_ratio": 7.014843285288681,
+    "three_inst_ratio_change_20": 0.4503755594921648
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.82,
-    "trust_ratio": 0.07509280782036466,
+    "trust_ratio": 0.07484328528868002,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.895092807820365,
-    "three_inst_ratio_change_20": 0.33062508202384944
+    "three_inst_ratio": 6.8948432852886805,
+    "three_inst_ratio_change_20": 0.2112667113910387
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.83,
-    "trust_ratio": 0.07509280782036466,
+    "trust_ratio": 0.07484328528868002,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.905092807820365,
-    "three_inst_ratio_change_20": 0.22151623392272324
+    "three_inst_ratio": 6.90484328528868,
+    "three_inst_ratio_change_20": 0.17126671139103777
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.84,
-    "trust_ratio": 0.07509280782036466,
+    "trust_ratio": 0.07484328528868002,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.915092807820365,
-    "three_inst_ratio_change_20": 0.18151623392272231
+    "three_inst_ratio": 6.91484328528868,
+    "three_inst_ratio_change_20": 0.1512667113910382
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.82,
-    "trust_ratio": 0.07509280782036466,
+    "trust_ratio": 0.07484328528868002,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.895092807820365,
-    "three_inst_ratio_change_20": 0.13151623392272338
+    "three_inst_ratio": 6.8948432852886805,
+    "three_inst_ratio_change_20": 0.07126671139103813
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "王道銀行",
     "market": "TWSE",
     "foreign_ratio": 6.77,
-    "trust_ratio": 0.07509280782036466,
+    "trust_ratio": 0.07484328528868002,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.8450928078203646,
-    "three_inst_ratio_change_20": 0.021516233922722172
+    "three_inst_ratio": 6.84484328528868,
+    "three_inst_ratio_change_20": 6.84484328528868
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2897",
+    "name": "王道銀行",
+    "market": "TWSE",
+    "foreign_ratio": 6.8,
+    "trust_ratio": 0.019520575406600585,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.8195205754066,
+    "three_inst_ratio_change_20": -0.001006983302256792
   }
 ]

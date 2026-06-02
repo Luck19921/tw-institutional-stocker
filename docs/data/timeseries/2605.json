@@ -1716,18 +1716,18 @@
     "three_inst_ratio_change_20": -0.8095965332881718
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "2605",
     "name": "新興",
     "market": "TWSE",
-    "foreign_ratio": 49.98,
-    "trust_ratio": 0.40505452214101045,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 50.385054522141004,
-    "three_inst_ratio_change_20": -0.7895965332881758
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -51.17465105542918
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "2605",
     "name": "新興",
     "market": "TWSE",
@@ -1738,6 +1738,17 @@
     "three_inst_ratio_change_20": 50.385054522141004
   },
   {
+    "date": "2026-05-05",
+    "code": "2605",
+    "name": "新興",
+    "market": "TWSE",
+    "foreign_ratio": 49.98,
+    "trust_ratio": 0.40505452214101045,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 50.385054522141004,
+    "three_inst_ratio_change_20": -0.7995965332881738
+  },
+  {
     "date": "2026-05-06",
     "code": "2605",
     "name": "新興",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.40505452214101045,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.36505452214101,
-    "three_inst_ratio_change_20": -0.8195965332881698
+    "three_inst_ratio_change_20": -0.8295965332881678
   },
   {
     "date": "2026-05-07",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.40505452214101045,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.385054522141004,
-    "three_inst_ratio_change_20": -0.8095965332881718
+    "three_inst_ratio_change_20": -0.7797673702861303
   },
   {
     "date": "2026-05-08",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.40505452214101045,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.385054522141004,
-    "three_inst_ratio_change_20": -0.7797673702861303
+    "three_inst_ratio_change_20": -0.7897673702861283
   },
   {
     "date": "2026-05-12",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.40505452214101045,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.385054522141004,
-    "three_inst_ratio_change_20": -0.7897673702861283
+    "three_inst_ratio_change_20": -0.8097673702861243
   },
   {
     "date": "2026-05-13",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.40505452214101045,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.385054522141004,
-    "three_inst_ratio_change_20": -0.8097673702861243
+    "three_inst_ratio_change_20": -0.7797673702861303
   },
   {
     "date": "2026-05-14",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.40454201114715854,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.374542011147156,
-    "three_inst_ratio_change_20": -0.7902798812799787
+    "three_inst_ratio_change_20": -0.8206215552758707
   },
   {
     "date": "2026-05-15",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.40454201114715854,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.374542011147156,
-    "three_inst_ratio_change_20": -0.8206215552758707
+    "three_inst_ratio_change_20": -0.6197845573252181
   },
   {
     "date": "2026-05-18",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.40454201114715854,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.384542011147154,
-    "three_inst_ratio_change_20": -0.6097845573252201
+    "three_inst_ratio_change_20": -0.6297845573252161
   },
   {
     "date": "2026-05-19",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.40454201114715854,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.36454201114716,
-    "three_inst_ratio_change_20": -0.6497845573252121
+    "three_inst_ratio_change_20": -0.5762331940875711
   },
   {
     "date": "2026-05-20",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.40454201114715854,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.384542011147154,
-    "three_inst_ratio_change_20": -0.5562331940875751
+    "three_inst_ratio_change_20": -0.5463367194462094
   },
   {
     "date": "2026-05-21",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.40454201114715854,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.36454201114716,
-    "three_inst_ratio_change_20": -0.5663367194462054
+    "three_inst_ratio_change_20": -0.36841602170048304
   },
   {
     "date": "2026-05-22",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.40454201114715854,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.36454201114716,
-    "three_inst_ratio_change_20": -0.36841602170048304
+    "three_inst_ratio_change_20": -0.20638316476416207
   },
   {
     "date": "2026-05-25",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.40454201114715854,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.374542011147156,
-    "three_inst_ratio_change_20": -0.19638316476416406
+    "three_inst_ratio_change_20": -0.11649876136257831
   },
   {
     "date": "2026-05-26",
@@ -1900,7 +1911,7 @@
     "trust_ratio": 0.40454201114715854,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.384542011147154,
-    "three_inst_ratio_change_20": -0.1064987613625803
+    "three_inst_ratio_change_20": -0.05966282967737868
   },
   {
     "date": "2026-05-27",
@@ -1911,7 +1922,7 @@
     "trust_ratio": 0.40454201114715854,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.344542011147155,
-    "three_inst_ratio_change_20": -0.09966282967737783
+    "three_inst_ratio_change_20": -0.04051251099384956
   },
   {
     "date": "2026-05-28",
@@ -1922,7 +1933,7 @@
     "trust_ratio": 0.40454201114715854,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 50.374542011147156,
-    "three_inst_ratio_change_20": -0.010512510993848423
+    "three_inst_ratio_change_20": 0.01948748900614561
   },
   {
     "date": "2026-05-29",
@@ -1933,6 +1944,17 @@
     "trust_ratio": 0.4042003371512572,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 49.25420033715126,
-    "three_inst_ratio_change_20": -1.1008541849897497
+    "three_inst_ratio_change_20": 49.25420033715126
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2605",
+    "name": "新興",
+    "market": "TWSE",
+    "foreign_ratio": 49.94,
+    "trust_ratio": 0.4042003371512572,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 50.34420033715126,
+    "three_inst_ratio_change_20": -0.040854184989747466
   }
 ]

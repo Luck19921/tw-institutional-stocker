@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": 0.0734872090267693
   },
   {
+    "date": "2026-05-01",
+    "code": "1307",
+    "name": "三芳",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.858396879080367
+  },
+  {
     "date": "2026-05-04",
     "code": "1307",
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.3,
-    "trust_ratio": 0.6898639907624521,
+    "trust_ratio": 0.6886277474445697,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.989863990762452,
-    "three_inst_ratio_change_20": 0.13146711168208558
+    "three_inst_ratio": 6.9886277474445695,
+    "three_inst_ratio_change_20": 6.9886277474445695
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.2,
-    "trust_ratio": 0.7778438934177675,
+    "trust_ratio": 0.7766076500998851,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.977843893417767,
-    "three_inst_ratio_change_20": 6.977843893417767
+    "three_inst_ratio": 6.9766076500998855,
+    "three_inst_ratio_change_20": 0.1282107710195186
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.16,
-    "trust_ratio": 0.840686681028707,
+    "trust_ratio": 0.8394504377108246,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.000686681028707,
-    "three_inst_ratio_change_20": 0.1522898019483403
+    "three_inst_ratio": 6.999450437710824,
+    "three_inst_ratio_change_20": 0.1910535586304576
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.06,
-    "trust_ratio": 0.8294451118097117,
+    "trust_ratio": 0.8282088684918294,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.889445111809711,
-    "three_inst_ratio_change_20": 0.08104823272934425
+    "three_inst_ratio": 6.888208868491829,
+    "three_inst_ratio_change_20": 0.15981198941146246
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.05,
-    "trust_ratio": 0.8680511958371652,
+    "trust_ratio": 0.8668149525192826,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.918051195837165,
-    "three_inst_ratio_change_20": 0.18965431675679856
+    "three_inst_ratio": 6.916814952519283,
+    "three_inst_ratio_change_20": 0.16841807343891535
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.19,
-    "trust_ratio": 0.8606332331875697,
+    "trust_ratio": 0.8593969898696874,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.05063323318757,
-    "three_inst_ratio_change_20": 0.30223635410720284
+    "three_inst_ratio": 7.049396989869688,
+    "three_inst_ratio_change_20": 0.2612514819397651
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.21,
-    "trust_ratio": 0.8544525193404586,
+    "trust_ratio": 0.8532162760225762,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.064452519340459,
-    "three_inst_ratio_change_20": 0.2763070114105357
+    "three_inst_ratio": 7.063216276022576,
+    "three_inst_ratio_change_20": 0.2953221392430976
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.93,
-    "trust_ratio": 0.8507442921291124,
+    "trust_ratio": 0.8495080488112299,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.780744292129112,
-    "three_inst_ratio_change_20": 1.0128501553496339
+    "three_inst_ratio": 7.77950804881123,
+    "three_inst_ratio_change_20": 1.031865283182194
   },
   {
     "date": "2026-05-14",
@@ -1809,24 +1820,13 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.95,
-    "trust_ratio": 0.8445635782820012,
+    "trust_ratio": 0.8433273349641187,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.794563578282001,
-    "three_inst_ratio_change_20": 1.0469208126529654
+    "three_inst_ratio": 7.793327334964119,
+    "three_inst_ratio_change_20": 1.025684569335084
   },
   {
     "date": "2026-05-15",
-    "code": "1307",
-    "name": "三芳",
-    "market": "TWSE",
-    "foreign_ratio": 6.95,
-    "trust_ratio": 0.8445635782820012,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.794563578282001,
-    "three_inst_ratio_change_20": 1.0269208126529659
-  },
-  {
-    "date": "2026-05-18",
     "code": "1307",
     "name": "三芳",
     "market": "TWSE",
@@ -1837,15 +1837,26 @@
     "three_inst_ratio_change_20": 1.0361873116359712
   },
   {
+    "date": "2026-05-18",
+    "code": "1307",
+    "name": "三芳",
+    "market": "TWSE",
+    "foreign_ratio": 6.95,
+    "trust_ratio": 0.8420910916462363,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.7920910916462365,
+    "three_inst_ratio_change_20": 1.0656183486722268
+  },
+  {
     "date": "2026-05-19",
     "code": "1307",
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.9,
-    "trust_ratio": 0.835586863128504,
+    "trust_ratio": 0.8343506198106218,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.735586863128504,
-    "three_inst_ratio_change_20": 1.0091141201544946
+    "three_inst_ratio": 7.734350619810622,
+    "three_inst_ratio_change_20": 0.9678778768366127
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.84,
-    "trust_ratio": 0.8343677130488518,
+    "trust_ratio": 0.8331314697309695,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.674367713048852,
-    "three_inst_ratio_change_20": 0.9078949700748424
+    "three_inst_ratio": 7.673131469730969,
+    "three_inst_ratio_change_20": 0.8166587267569598
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.87,
-    "trust_ratio": 0.83314881434035,
+    "trust_ratio": 0.8319125710224676,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.70314881434035,
-    "three_inst_ratio_change_20": 0.8466760713663408
+    "three_inst_ratio": 7.701912571022468,
+    "three_inst_ratio_change_20": 0.8254398280484585
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.89,
-    "trust_ratio": 0.8307105141810456,
+    "trust_ratio": 0.8294742708631632,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.720710514181045,
-    "three_inst_ratio_change_20": 0.8442377712070357
+    "three_inst_ratio": 7.719474270863163,
+    "three_inst_ratio_change_20": 0.8830015278891539
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.67,
-    "trust_ratio": 0.8270523098286375,
+    "trust_ratio": 0.8258160665107552,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.4970523098286375,
-    "three_inst_ratio_change_20": 0.6605795668546284
+    "three_inst_ratio": 7.495816066510756,
+    "three_inst_ratio_change_20": 0.6093433235367458
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.6,
-    "trust_ratio": 0.8270523098286375,
+    "trust_ratio": 0.8258160665107552,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.427052309828637,
-    "three_inst_ratio_change_20": 0.5405795668546274
+    "three_inst_ratio": 7.425816066510755,
+    "three_inst_ratio_change_20": 0.45934332353674545
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.55,
-    "trust_ratio": 0.8209540457188721,
+    "trust_ratio": 0.8197178024009896,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.370954045718872,
-    "three_inst_ratio_change_20": 0.4044813027448617
+    "three_inst_ratio": 7.36971780240099,
+    "three_inst_ratio_change_20": 0.32783371429385255
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.55,
-    "trust_ratio": 0.8148542733822037,
+    "trust_ratio": 0.8136180300643213,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.364854273382203,
-    "three_inst_ratio_change_20": 0.32297018527506616
+    "three_inst_ratio": 7.3636180300643215,
+    "three_inst_ratio_change_20": 0.371733941957185
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "三芳",
     "market": "TWSE",
     "foreign_ratio": 6.59,
-    "trust_ratio": 0.8099756620943914,
+    "trust_ratio": 0.8087394187765089,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.399975662094391,
-    "three_inst_ratio_change_20": 0.4080915739872548
+    "three_inst_ratio": 7.3987394187765085,
+    "three_inst_ratio_change_20": 7.3987394187765085
+  },
+  {
+    "date": "2026-06-01",
+    "code": "1307",
+    "name": "三芳",
+    "market": "TWSE",
+    "foreign_ratio": 6.82,
+    "trust_ratio": 0.8038600533752451,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.623860053375245,
+    "three_inst_ratio_change_20": 0.6352323059306757
   }
 ]

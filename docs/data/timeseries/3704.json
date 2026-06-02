@@ -1716,18 +1716,18 @@
     "three_inst_ratio_change_20": 1.848467544570343
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "3704",
     "name": "合勤控",
     "market": "TWSE",
-    "foreign_ratio": 9.43,
-    "trust_ratio": 0.0017220090545325413,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.431722009054532,
-    "three_inst_ratio_change_20": 1.7784675445703426
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.653254464484189
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "3704",
     "name": "合勤控",
     "market": "TWSE",
@@ -1738,6 +1738,17 @@
     "three_inst_ratio_change_20": 9.431722009054532
   },
   {
+    "date": "2026-05-05",
+    "code": "3704",
+    "name": "合勤控",
+    "market": "TWSE",
+    "foreign_ratio": 9.43,
+    "trust_ratio": 0.0017220090545325413,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.431722009054532,
+    "three_inst_ratio_change_20": 1.678467544570343
+  },
+  {
     "date": "2026-05-06",
     "code": "3704",
     "name": "合勤控",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0017220090545325413,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.501722009054532,
-    "three_inst_ratio_change_20": 1.7484675445703433
+    "three_inst_ratio_change_20": 1.1084675445703436
   },
   {
     "date": "2026-05-07",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0017220090545325413,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.731722009054533,
-    "three_inst_ratio_change_20": 1.338467544570344
+    "three_inst_ratio_change_20": 1.4384675445703436
   },
   {
     "date": "2026-05-08",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0017220090545325413,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.781722009054532,
-    "three_inst_ratio_change_20": 1.4884675445703426
+    "three_inst_ratio_change_20": 1.6582268388037047
   },
   {
     "date": "2026-05-11",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0017220090545325413,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.771722009054532,
-    "three_inst_ratio_change_20": 1.648226838803705
+    "three_inst_ratio_change_20": 1.138467544570343
   },
   {
     "date": "2026-05-12",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0017220090545325413,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.081722009054532,
-    "three_inst_ratio_change_20": 1.4484675445703434
+    "three_inst_ratio_change_20": 1.5087082503369835
   },
   {
     "date": "2026-05-13",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.051962714821173,
-    "three_inst_ratio_change_20": 1.4789489561036238
+    "three_inst_ratio_change_20": 1.1989489561036226
   },
   {
     "date": "2026-05-14",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.171962714821172,
-    "three_inst_ratio_change_20": 1.3189489561036218
+    "three_inst_ratio_change_20": 1.1889489561036228
   },
   {
     "date": "2026-05-15",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.101962714821171,
-    "three_inst_ratio_change_20": 2.1189489561036225
+    "three_inst_ratio_change_20": 1.8296710734035369
   },
   {
     "date": "2026-05-18",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.201962714821171,
-    "three_inst_ratio_change_20": 1.9296710734035365
+    "three_inst_ratio_change_20": 1.5402407057666387
   },
   {
     "date": "2026-05-19",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.771962714821171,
-    "three_inst_ratio_change_20": 2.110240705766639
+    "three_inst_ratio_change_20": 1.7102407057666387
   },
   {
     "date": "2026-05-21",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.571962714821172,
-    "three_inst_ratio_change_20": 2.5102407057666394
+    "three_inst_ratio_change_20": 2.7202407057666402
   },
   {
     "date": "2026-05-22",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.181962714821172,
-    "three_inst_ratio_change_20": 3.3302407057666397
+    "three_inst_ratio_change_20": 3.4302407057666393
   },
   {
     "date": "2026-05-25",
@@ -1889,7 +1900,7 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.091962714821172,
-    "three_inst_ratio_change_20": 3.3402407057666395
+    "three_inst_ratio_change_20": 3.39024070576664
   },
   {
     "date": "2026-05-26",
@@ -1900,7 +1911,7 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.391962714821172,
-    "three_inst_ratio_change_20": 3.690240705766641
+    "three_inst_ratio_change_20": 3.7902407057666405
   },
   {
     "date": "2026-05-27",
@@ -1911,7 +1922,7 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.221962714821172,
-    "three_inst_ratio_change_20": 3.6202407057666406
+    "three_inst_ratio_change_20": 3.82024070576664
   },
   {
     "date": "2026-05-28",
@@ -1922,7 +1933,7 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.841962714821172,
-    "three_inst_ratio_change_20": 4.440240705766639
+    "three_inst_ratio_change_20": 4.3402407057666395
   },
   {
     "date": "2026-05-29",
@@ -1933,6 +1944,17 @@
     "trust_ratio": 0.0019627148211711406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.921962714821172,
-    "three_inst_ratio_change_20": 4.4202407057666395
+    "three_inst_ratio_change_20": 13.921962714821172
+  },
+  {
+    "date": "2026-06-01",
+    "code": "3704",
+    "name": "合勤控",
+    "market": "TWSE",
+    "foreign_ratio": 14.14,
+    "trust_ratio": 0.0019627148211711406,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.141962714821172,
+    "three_inst_ratio_change_20": 4.7102407057666404
   }
 ]

@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": -0.05642334902642787
   },
   {
+    "date": "2026-05-01",
+    "code": "5880",
+    "name": "合庫金",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -15.91387141266322
+  },
+  {
     "date": "2026-05-04",
     "code": "5880",
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.75,
-    "trust_ratio": 0.07765851024582472,
+    "trust_ratio": 0.07764575590588337,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.827658510245826,
-    "three_inst_ratio_change_20": -0.08621290241739388
+    "three_inst_ratio": 15.827645755905884,
+    "three_inst_ratio_change_20": 15.827645755905884
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.75,
-    "trust_ratio": 0.07734583122499257,
+    "trust_ratio": 0.07733307688505124,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.827345831224992,
-    "three_inst_ratio_change_20": 15.827345831224992
+    "three_inst_ratio": 15.82733307688505,
+    "three_inst_ratio_change_20": -0.0967663514904693
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.74,
-    "trust_ratio": 0.07949493750510984,
+    "trust_ratio": 0.07948218316516849,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.81949493750511,
-    "three_inst_ratio_change_20": -0.10460449087040935
+    "three_inst_ratio": 15.819482183165169,
+    "three_inst_ratio_change_20": -0.14457711367972514
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.73,
-    "trust_ratio": 0.08078156980971322,
+    "trust_ratio": 0.08076881546977187,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.810781569809714,
-    "three_inst_ratio_change_20": -0.15327772703517972
+    "three_inst_ratio": 15.810768815469773,
+    "three_inst_ratio_change_20": -0.22320120099553087
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.73,
-    "trust_ratio": 0.08141135360733713,
+    "trust_ratio": 0.08139859926739579,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.811411353607337,
-    "three_inst_ratio_change_20": -0.222558662857967
+    "three_inst_ratio": 15.811398599267395,
+    "three_inst_ratio_change_20": -0.24227605219354942
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.72,
-    "trust_ratio": 0.08167281757613479,
+    "trust_ratio": 0.08166006323619344,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.801672817576135,
-    "three_inst_ratio_change_20": -0.25200183388481
+    "three_inst_ratio": 15.801660063236193,
+    "three_inst_ratio_change_20": -0.2609483234376615
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.49,
-    "trust_ratio": 0.08043564660182397,
+    "trust_ratio": 0.08042289226188261,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.570435646601824,
-    "three_inst_ratio_change_20": -0.4921727400720304
+    "three_inst_ratio": 15.570422892261883,
+    "three_inst_ratio_change_20": -0.4915010008731695
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.48,
-    "trust_ratio": 0.08020606848287969,
+    "trust_ratio": 0.08019331414293833,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.56020606848288,
-    "three_inst_ratio_change_20": -0.5017178246521716
+    "three_inst_ratio": 15.56019331414294,
+    "three_inst_ratio_change_20": -0.4905006971230783
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.44,
-    "trust_ratio": 0.07892907845927197,
+    "trust_ratio": 0.07891632411933061,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.518929078459271,
-    "three_inst_ratio_change_20": -0.5317649328067464
+    "three_inst_ratio": 15.51891632411933,
+    "three_inst_ratio_change_20": -0.5513573359880706
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.42,
-    "trust_ratio": 0.07841890486161801,
+    "trust_ratio": 0.07840615052167667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.498418904861618,
-    "three_inst_ratio_change_20": -0.5718547552457824
+    "three_inst_ratio": 15.498406150521676,
+    "three_inst_ratio_change_20": -0.5909647382731666
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.38,
-    "trust_ratio": 0.07840615052167667,
+    "trust_ratio": 0.07839339618173533,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.458406150521677,
-    "three_inst_ratio_change_20": -0.6309647382731658
+    "three_inst_ratio": 15.458393396181735,
+    "three_inst_ratio_change_20": -0.64096298455142
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.39,
-    "trust_ratio": 0.08209853193469713,
+    "trust_ratio": 0.08208577759475577,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.472098531934698,
-    "three_inst_ratio_change_20": -0.6272578487984575
+    "three_inst_ratio": 15.472085777594756,
+    "three_inst_ratio_change_20": -0.6187375244152449
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.33,
-    "trust_ratio": 0.08158835833704318,
+    "trust_ratio": 0.08157560399710183,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.411588358337044,
-    "three_inst_ratio_change_20": -0.6792349436729577
+    "three_inst_ratio": 15.411575603997102,
+    "three_inst_ratio_change_20": -0.6383304760331878
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.27,
-    "trust_ratio": 0.08082947511053293,
+    "trust_ratio": 0.08081672077059157,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.350829475110533,
-    "three_inst_ratio_change_20": -0.6990766049197568
+    "three_inst_ratio": 15.350816720770592,
+    "three_inst_ratio_change_20": -0.6388734601703412
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.25,
-    "trust_ratio": 0.08048355190264367,
+    "trust_ratio": 0.08047079756270231,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.330483551902644,
-    "three_inst_ratio_change_20": -0.6592066290382892
+    "three_inst_ratio": 15.330470797562702,
+    "three_inst_ratio_change_20": -0.6184950580357906
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.21,
-    "trust_ratio": 0.08223727364457913,
+    "trust_ratio": 0.08222451930463777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.29223727364458,
-    "three_inst_ratio_change_20": -0.6567285819539119
+    "three_inst_ratio": 15.29222451930464,
+    "three_inst_ratio_change_20": -0.6261366466600649
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.18,
-    "trust_ratio": 0.08223727364457913,
+    "trust_ratio": 0.08222451930463777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.26223727364458,
-    "three_inst_ratio_change_20": -0.6561238923201245
+    "three_inst_ratio": 15.262224519304638,
+    "three_inst_ratio_change_20": -0.645759226609691
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.16,
-    "trust_ratio": 0.08250837989437242,
+    "trust_ratio": 0.08249562555443109,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.242508379894373,
-    "three_inst_ratio_change_20": -0.6654753660199564
+    "three_inst_ratio": 15.242495625554431,
+    "three_inst_ratio_change_20": -0.6551692618613636
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.1,
-    "trust_ratio": 0.08302493066199705,
+    "trust_ratio": 0.08301217632205571,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.183024930661997,
-    "three_inst_ratio_change_20": -0.714639956753798
+    "three_inst_ratio": 15.183012176322055,
+    "three_inst_ratio_change_20": -0.6846527110937384
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "合庫金",
     "market": "TWSE",
     "foreign_ratio": 15.13,
-    "trust_ratio": 0.08400374972645591,
+    "trust_ratio": 0.08399099538651457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.214003749726457,
-    "three_inst_ratio_change_20": -0.6536611376893369
+    "three_inst_ratio": 15.213990995386515,
+    "three_inst_ratio_change_20": 15.213990995386515
+  },
+  {
+    "date": "2026-06-01",
+    "code": "5880",
+    "name": "合庫金",
+    "market": "TWSE",
+    "foreign_ratio": 15.11,
+    "trust_ratio": 0.08506080391211503,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.195060803912115,
+    "three_inst_ratio_change_20": -0.6325849519937687
   }
 ]

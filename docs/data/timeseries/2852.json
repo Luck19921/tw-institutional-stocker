@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": 0.08530750085143168
   },
   {
+    "date": "2026-05-01",
+    "code": "2852",
+    "name": "第一保",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.471354915104931
+  },
+  {
     "date": "2026-05-04",
     "code": "2852",
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.68,
-    "trust_ratio": -0.09670352660995919,
+    "trust_ratio": -0.09969558623954598,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.583296473390041,
-    "three_inst_ratio_change_20": 0.11194155828510954
+    "three_inst_ratio": 4.580304413760453,
+    "three_inst_ratio_change_20": 4.580304413760453
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.67,
-    "trust_ratio": -0.09932203534804836,
+    "trust_ratio": -0.10231409497763516,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.570677964651952,
-    "three_inst_ratio_change_20": 4.570677964651952
+    "three_inst_ratio": 4.567685905022365,
+    "three_inst_ratio_change_20": 0.13633098991743342
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.67,
-    "trust_ratio": -0.09969625033001976,
+    "trust_ratio": -0.10268830995960657,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.57030374966998,
-    "three_inst_ratio_change_20": 0.13894883456504914
+    "three_inst_ratio": 4.567311690040393,
+    "three_inst_ratio_change_20": 0.14633065787219568
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.7,
-    "trust_ratio": -0.09969625033001976,
+    "trust_ratio": -0.10268830995960657,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.600303749669981,
-    "three_inst_ratio_change_20": 0.1793227175017833
+    "three_inst_ratio": 4.597311690040393,
+    "three_inst_ratio_change_20": 0.20707908783613949
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.72,
-    "trust_ratio": -0.10044434824872568,
+    "trust_ratio": -0.10343640787831249,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.619555651751274,
-    "three_inst_ratio_change_20": 0.22932304954702065
+    "three_inst_ratio": 4.616563592121687,
+    "three_inst_ratio_change_20": 0.21670520489940337
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.73,
-    "trust_ratio": -0.10156632910416613,
+    "trust_ratio": -0.10455838873375294,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.628433670895834,
-    "three_inst_ratio_change_20": 0.22857528367355062
+    "three_inst_ratio": 4.625441611266248,
+    "three_inst_ratio_change_20": 0.22628948426282225
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.75,
-    "trust_ratio": -0.10268830995960657,
+    "trust_ratio": -0.10568036958919337,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.647311690040393,
-    "three_inst_ratio_change_20": 0.2481595630369675
+    "three_inst_ratio": 4.6443196304108065,
+    "three_inst_ratio_change_20": 0.2285301255213339
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.74,
-    "trust_ratio": -0.10268830995960657,
+    "trust_ratio": -0.10568036958919337,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.637311690040393,
-    "three_inst_ratio_change_20": 0.2215221851509206
+    "three_inst_ratio": 4.634319630410807,
+    "three_inst_ratio_change_20": 0.24268268325384046
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.81,
-    "trust_ratio": -0.10568036958919337,
+    "trust_ratio": -0.10867242921878018,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.704319630410806,
-    "three_inst_ratio_change_20": 0.31268268325383985
+    "three_inst_ratio": 4.70132757078122,
+    "three_inst_ratio_change_20": 0.30081293652493013
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.78,
-    "trust_ratio": -0.10568036958919337,
+    "trust_ratio": -0.10867242921878018,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.674319630410807,
-    "three_inst_ratio_change_20": 0.27380499615451726
+    "three_inst_ratio": 4.67132757078122,
+    "three_inst_ratio_change_20": 0.29646135804961293
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.82,
-    "trust_ratio": -0.10867242921878018,
+    "trust_ratio": -0.11166448884836697,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.71132757078122,
-    "three_inst_ratio_change_20": 0.33646135804961297
+    "three_inst_ratio": 4.708335511151633,
+    "three_inst_ratio_change_20": 0.31970419258644966
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.83,
-    "trust_ratio": -0.11016862505619202,
+    "trust_ratio": -0.11316068468577882,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.719831374943808,
-    "three_inst_ratio_change_20": 0.3312000563786244
+    "three_inst_ratio": 4.716839315314221,
+    "three_inst_ratio_change_20": 0.2819478222520946
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.86,
-    "trust_ratio": -0.1124577449192895,
+    "trust_ratio": -0.11544980454887631,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.7475422550807105,
-    "three_inst_ratio_change_20": 0.3126507620185839
+    "three_inst_ratio": 4.744550195451124,
+    "three_inst_ratio_change_20": 0.3119026640998781
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.85,
-    "trust_ratio": -0.1124577449192895,
+    "trust_ratio": -0.11544980454887631,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.73754225508071,
-    "three_inst_ratio_change_20": 0.3048947237294639
+    "three_inst_ratio": 4.734550195451123,
+    "three_inst_ratio_change_20": 0.313024644955318
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.85,
-    "trust_ratio": -0.1124577449192895,
+    "trust_ratio": -0.11544980454887631,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.73754225508071,
-    "three_inst_ratio_change_20": 0.3160167045849045
+    "three_inst_ratio": 4.734550195451123,
+    "three_inst_ratio_change_20": 0.30414695785599477
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.83,
-    "trust_ratio": -0.1124577449192895,
+    "trust_ratio": -0.11544980454887631,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.71754225508071,
-    "three_inst_ratio_change_20": 0.2871390174855817
+    "three_inst_ratio": 4.714550195451124,
+    "three_inst_ratio_change_20": 0.24676546659408505
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.81,
-    "trust_ratio": -0.1124577449192895,
+    "trust_ratio": -0.11544980454887631,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.69754225508071,
-    "three_inst_ratio_change_20": 0.22975752622367107
+    "three_inst_ratio": 4.694550195451123,
+    "three_inst_ratio_change_20": 0.1278877794947606
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.79,
-    "trust_ratio": -0.11283760467028797,
+    "trust_ratio": -0.11582966429987479,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.677162395329712,
-    "three_inst_ratio_change_20": 0.11049997937334943
+    "three_inst_ratio": 4.674170335700126,
+    "three_inst_ratio_change_20": 0.10750791974376295
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.79,
-    "trust_ratio": -0.11283760467028797,
+    "trust_ratio": -0.11582966429987479,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.677162395329712,
-    "three_inst_ratio_change_20": 0.11049997937334943
+    "three_inst_ratio": 4.674170335700126,
+    "three_inst_ratio_change_20": 0.10750791974376295
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "第一保",
     "market": "TWSE",
     "foreign_ratio": 4.8,
-    "trust_ratio": -0.11283760467028797,
+    "trust_ratio": -0.11582966429987479,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.687162395329712,
-    "three_inst_ratio_change_20": 0.12049997937334922
+    "three_inst_ratio": 4.684170335700125,
+    "three_inst_ratio_change_20": 4.684170335700125
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2852",
+    "name": "第一保",
+    "market": "TWSE",
+    "foreign_ratio": 4.84,
+    "trust_ratio": -0.11582966429987479,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.7241703357001255,
+    "three_inst_ratio_change_20": 0.14386592193967207
   }
 ]

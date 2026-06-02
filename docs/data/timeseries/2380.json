@@ -451,6 +451,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-05-01",
+    "code": "2380",
+    "name": "虹光",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.26
+  },
+  {
     "date": "2026-05-04",
     "code": "2380",
     "name": "虹光",
@@ -514,7 +525,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.26,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.26
   },
   {
     "date": "2026-05-21",
@@ -525,7 +536,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.26,
-    "three_inst_ratio_change_20": 0.26
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-22",
@@ -584,6 +595,17 @@
   },
   {
     "date": "2026-05-29",
+    "code": "2380",
+    "name": "虹光",
+    "market": "TWSE",
+    "foreign_ratio": 0.26,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.26,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-06-01",
     "code": "2380",
     "name": "虹光",
     "market": "TWSE",

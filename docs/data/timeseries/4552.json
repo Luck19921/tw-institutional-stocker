@@ -1716,6 +1716,17 @@
     "three_inst_ratio_change_20": 0.14172413793103544
   },
   {
+    "date": "2026-05-01",
+    "code": "4552",
+    "name": "力達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -43.12862068965517
+  },
+  {
     "date": "2026-05-04",
     "code": "4552",
     "name": "力達-KY",
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.26034482758621,
-    "three_inst_ratio_change_20": 0.13172413793103743
+    "three_inst_ratio_change_20": 43.26034482758621
   },
   {
     "date": "2026-05-05",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.23034482758621,
-    "three_inst_ratio_change_20": 43.23034482758621
+    "three_inst_ratio_change_20": 0.1017241379310363
   },
   {
     "date": "2026-05-06",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.250344827586204,
-    "three_inst_ratio_change_20": 0.12172413793103232
+    "three_inst_ratio_change_20": 0.08172413793103317
   },
   {
     "date": "2026-05-07",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.27034482758621,
-    "three_inst_ratio_change_20": 0.1017241379310363
+    "three_inst_ratio_change_20": 0.09172413793103118
   },
   {
     "date": "2026-05-08",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.240344827586206,
-    "three_inst_ratio_change_20": 0.06172413793103004
+    "three_inst_ratio_change_20": 0.031724137931028906
   },
   {
     "date": "2026-05-11",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.2203448275862,
-    "three_inst_ratio_change_20": 0.01172413793102578
+    "three_inst_ratio_change_20": -0.028275862068973368
   },
   {
     "date": "2026-05-13",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.19034482758621,
-    "three_inst_ratio_change_20": -0.0582758620689674
+    "three_inst_ratio_change_20": -0.08827586206896854
   },
   {
     "date": "2026-05-14",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.170344827586206,
-    "three_inst_ratio_change_20": -0.10827586206897166
+    "three_inst_ratio_change_20": -0.09827586206896655
   },
   {
     "date": "2026-05-18",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.13034482758621,
-    "three_inst_ratio_change_20": -0.1382758620689657
+    "three_inst_ratio_change_20": -0.11827586206896967
   },
   {
     "date": "2026-05-19",
@@ -1856,7 +1867,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.13034482758621,
-    "three_inst_ratio_change_20": -0.11827586206896967
+    "three_inst_ratio_change_20": -0.09827586206896655
   },
   {
     "date": "2026-05-21",
@@ -1867,7 +1878,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.100344827586206,
-    "three_inst_ratio_change_20": -0.12827586206896768
+    "three_inst_ratio_change_20": -0.07827586206897053
   },
   {
     "date": "2026-05-22",
@@ -1878,7 +1889,7 @@
     "trust_ratio": 0.3103448275862069,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.08034482758621,
-    "three_inst_ratio_change_20": -0.09827586206896655
+    "three_inst_ratio_change_20": -0.10827586206896456
   },
   {
     "date": "2026-05-25",
@@ -1900,7 +1911,7 @@
     "trust_ratio": 0.3620689655172414,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.08206896551724,
-    "three_inst_ratio_change_20": -0.10655172413793679
+    "three_inst_ratio_change_20": -0.1265517241379399
   },
   {
     "date": "2026-05-27",
@@ -1911,7 +1922,7 @@
     "trust_ratio": 0.3620689655172414,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.06206896551724,
-    "three_inst_ratio_change_20": -0.14655172413793593
+    "three_inst_ratio_change_20": -0.16655172413793196
   },
   {
     "date": "2026-05-28",
@@ -1922,7 +1933,7 @@
     "trust_ratio": 0.3620689655172414,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.03206896551724,
-    "three_inst_ratio_change_20": -0.1965517241379331
+    "three_inst_ratio_change_20": -0.23827586206896711
   },
   {
     "date": "2026-05-29",
@@ -1933,6 +1944,17 @@
     "trust_ratio": 0.3620689655172414,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.022068965517235,
-    "three_inst_ratio_change_20": -0.24827586206897223
+    "three_inst_ratio_change_20": 43.022068965517235
+  },
+  {
+    "date": "2026-06-01",
+    "code": "4552",
+    "name": "力達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.77,
+    "trust_ratio": 0.3620689655172414,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 43.13206896551724,
+    "three_inst_ratio_change_20": -0.12827586206896768
   }
 ]

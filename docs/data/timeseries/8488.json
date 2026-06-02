@@ -1452,6 +1452,17 @@
     "three_inst_ratio_change_20": 0.09000000000000341
   },
   {
+    "date": "2026-05-01",
+    "code": "8488",
+    "name": "吉源-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -69.76
+  },
+  {
     "date": "2026-05-04",
     "code": "8488",
     "name": "吉源-KY",
@@ -1471,7 +1482,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 69.84,
-    "three_inst_ratio_change_20": 0.0799999999999983
+    "three_inst_ratio_change_20": 0.09000000000000341
   },
   {
     "date": "2026-05-06",
@@ -1482,7 +1493,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 69.84,
-    "three_inst_ratio_change_20": 0.09000000000000341
+    "three_inst_ratio_change_20": 69.84
   },
   {
     "date": "2026-05-07",
@@ -1493,7 +1504,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 69.86,
-    "three_inst_ratio_change_20": 69.86
+    "three_inst_ratio_change_20": 0.09999999999999432
   },
   {
     "date": "2026-05-08",
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 69.86,
-    "three_inst_ratio_change_20": 0.09999999999999432
+    "three_inst_ratio_change_20": 0.09000000000000341
   },
   {
     "date": "2026-05-12",
@@ -1548,7 +1559,7 @@
     "trust_ratio": 0.001360544217687075,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 69.56136054421769,
-    "three_inst_ratio_change_20": -0.20863945578230414
+    "three_inst_ratio_change_20": -0.22863945578231437
   },
   {
     "date": "2026-05-18",
@@ -1559,7 +1570,7 @@
     "trust_ratio": 0.001360544217687075,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 69.72136054421769,
-    "three_inst_ratio_change_20": -0.06863945578231778
+    "three_inst_ratio_change_20": -0.09863945578230471
   },
   {
     "date": "2026-05-19",
@@ -1581,7 +1592,7 @@
     "trust_ratio": 0.001360544217687075,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 69.55136054421769,
-    "three_inst_ratio_change_20": -0.2686394557823064
+    "three_inst_ratio_change_20": -0.27863945578231153
   },
   {
     "date": "2026-05-21",
@@ -1592,7 +1603,7 @@
     "trust_ratio": 0.001360544217687075,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 69.5413605442177,
-    "three_inst_ratio_change_20": -0.28863945578230243
+    "three_inst_ratio_change_20": -0.29863945578230755
   },
   {
     "date": "2026-05-22",
@@ -1626,5 +1637,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 69.56136054421769,
     "three_inst_ratio_change_20": -0.27863945578231153
+  },
+  {
+    "date": "2026-06-01",
+    "code": "8488",
+    "name": "吉源-KY",
+    "market": "TWSE",
+    "foreign_ratio": 69.58,
+    "trust_ratio": 0.001360544217687075,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 69.58136054421769,
+    "three_inst_ratio_change_20": -0.2586394557823155
   }
 ]

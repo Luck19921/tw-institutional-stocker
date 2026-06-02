@@ -132,6 +132,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-05-01",
+    "code": "00997A",
+    "name": "主動群益美國增長",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-05-04",
     "code": "00997A",
     "name": "主動群益美國增長",
@@ -217,7 +228,7 @@
     "trust_ratio": 0.26663294758840556,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7466329475884055,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 1.7466329475884055
   },
   {
     "date": "2026-05-14",
@@ -228,7 +239,7 @@
     "trust_ratio": 0.26676574919038887,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.446765749190389,
-    "three_inst_ratio_change_20": 1.446765749190389
+    "three_inst_ratio_change_20": 1.3867657491903889
   },
   {
     "date": "2026-05-15",
@@ -239,7 +250,7 @@
     "trust_ratio": 0.2675653451922664,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5175653451922664,
-    "three_inst_ratio_change_20": 1.4575653451922663
+    "three_inst_ratio_change_20": 1.4675653451922663
   },
   {
     "date": "2026-05-18",
@@ -250,7 +261,7 @@
     "trust_ratio": 0.26890871061386096,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.638908710613861,
-    "three_inst_ratio_change_20": 2.588908710613861
+    "three_inst_ratio_change_20": 1.2889087106138608
   },
   {
     "date": "2026-05-19",
@@ -261,7 +272,7 @@
     "trust_ratio": 0.2717741534458385,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.8917741534458385,
-    "three_inst_ratio_change_20": 1.5417741534458385
+    "three_inst_ratio_change_20": 0.4617741534458384
   },
   {
     "date": "2026-05-20",
@@ -272,7 +283,7 @@
     "trust_ratio": 0.2723268898906523,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.5023268898906523,
-    "three_inst_ratio_change_20": 1.0723268898906522
+    "three_inst_ratio_change_20": -1.817673110109348
   },
   {
     "date": "2026-05-21",
@@ -283,7 +294,7 @@
     "trust_ratio": 1.3235066241162192,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.373506624116219,
-    "three_inst_ratio_change_20": -0.9464933758837812
+    "three_inst_ratio_change_20": -0.7464933758837811
   },
   {
     "date": "2026-05-22",
@@ -294,7 +305,7 @@
     "trust_ratio": 1.3275401599184051,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.447540159918406,
-    "three_inst_ratio_change_20": -0.6724598400815944
+    "three_inst_ratio_change_20": 0.07754015991840557
   },
   {
     "date": "2026-05-25",
@@ -305,7 +316,7 @@
     "trust_ratio": 1.3480607531464062,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.428060753146406,
-    "three_inst_ratio_change_20": 0.05806075314640591
+    "three_inst_ratio_change_20": 0.3456505172515989
   },
   {
     "date": "2026-05-27",
@@ -316,7 +327,7 @@
     "trust_ratio": 1.3324938722352258,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5624938722352257,
-    "three_inst_ratio_change_20": -1.5199163636595814
+    "three_inst_ratio_change_20": -1.1720063710251085
   },
   {
     "date": "2026-05-28",
@@ -327,7 +338,7 @@
     "trust_ratio": 1.339217682921291,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.559217682921291,
-    "three_inst_ratio_change_20": -1.1752825603390433
+    "three_inst_ratio_change_20": -0.5252825603390434
   },
   {
     "date": "2026-05-29",
@@ -338,6 +349,17 @@
     "trust_ratio": 1.3646970259477549,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.914697025947755,
-    "three_inst_ratio_change_20": -0.1698032173125794
+    "three_inst_ratio_change_20": -0.390853497168107
+  },
+  {
+    "date": "2026-06-01",
+    "code": "00997A",
+    "name": "主動群益美國增長",
+    "market": "TWSE",
+    "foreign_ratio": 1.66,
+    "trust_ratio": 1.3731700982121884,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.0331700982121883,
+    "three_inst_ratio_change_20": 3.0331700982121883
   }
 ]

@@ -1650,15 +1650,26 @@
     "three_inst_ratio_change_20": -0.2736317120928451
   },
   {
+    "date": "2026-05-01",
+    "code": "2211",
+    "name": "長榮鋼",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.126717126406398
+  },
+  {
     "date": "2026-05-04",
     "code": "2211",
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 4.05,
-    "trust_ratio": 5.812159957826804,
+    "trust_ratio": 5.806744838601503,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.862159957826805,
-    "three_inst_ratio_change_20": -0.2645571685795929
+    "three_inst_ratio": 9.856744838601504,
+    "three_inst_ratio_change_20": -0.2819600661306261
   },
   {
     "date": "2026-05-05",
@@ -1666,10 +1677,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 4.04,
-    "trust_ratio": 5.818968536404688,
+    "trust_ratio": 5.813553417179388,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.858968536404689,
-    "three_inst_ratio_change_20": -0.2797363683274412
+    "three_inst_ratio": 9.853553417179388,
+    "three_inst_ratio_change_20": -0.2513769455166237
   },
   {
     "date": "2026-05-06",
@@ -1677,10 +1688,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 4.16,
-    "trust_ratio": 5.809698866936531,
+    "trust_ratio": 5.80428374771123,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.96969886693653,
-    "three_inst_ratio_change_20": -0.13523149575948068
+    "three_inst_ratio": 9.96428374771123,
+    "three_inst_ratio_change_20": -0.09008918329263516
   },
   {
     "date": "2026-05-07",
@@ -1688,10 +1699,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 4.23,
-    "trust_ratio": 5.791843071120351,
+    "trust_ratio": 5.78642795189505,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.021843071120351,
-    "three_inst_ratio_change_20": -0.03252985988351398
+    "three_inst_ratio": 10.01642795189505,
+    "three_inst_ratio_change_20": -0.07523793408353718
   },
   {
     "date": "2026-05-08",
@@ -1699,10 +1710,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 4.14,
-    "trust_ratio": 5.790138648797997,
+    "trust_ratio": 5.784723529572697,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.930138648797996,
-    "three_inst_ratio_change_20": -0.16152723718059114
+    "three_inst_ratio": 9.924723529572697,
+    "three_inst_ratio_change_20": -0.14551776390589843
   },
   {
     "date": "2026-05-11",
@@ -1710,10 +1721,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 4.07,
-    "trust_ratio": 5.787377623694014,
+    "trust_ratio": 5.781962504468714,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.857377623694013,
-    "three_inst_ratio_change_20": -0.21286366978458204
+    "three_inst_ratio": 9.851962504468714,
+    "three_inst_ratio_change_20": -0.17917359186035497
   },
   {
     "date": "2026-05-12",
@@ -1721,10 +1732,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 3.94,
-    "trust_ratio": 5.7845175795410615,
+    "trust_ratio": 5.779102460315761,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.724517579541061,
-    "three_inst_ratio_change_20": -0.3066185167880082
+    "three_inst_ratio": 9.71910246031576,
+    "three_inst_ratio_change_20": -0.2898803912704402
   },
   {
     "date": "2026-05-13",
@@ -1732,10 +1743,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 3.88,
-    "trust_ratio": 5.782657795611606,
+    "trust_ratio": 5.777242676386306,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.662657795611606,
-    "three_inst_ratio_change_20": -0.34632505597459406
+    "three_inst_ratio": 9.657242676386307,
+    "three_inst_ratio_change_20": -0.3579088812469884
   },
   {
     "date": "2026-05-14",
@@ -1743,24 +1754,13 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 3.77,
-    "trust_ratio": 5.7802772625916825,
+    "trust_ratio": 5.774862143366382,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.550277262591683,
-    "three_inst_ratio_change_20": -0.4648742950416125
+    "three_inst_ratio": 9.544862143366382,
+    "three_inst_ratio_change_20": -0.477900729557728
   },
   {
     "date": "2026-05-15",
-    "code": "2211",
-    "name": "長榮鋼",
-    "market": "TWSE",
-    "foreign_ratio": 3.66,
-    "trust_ratio": 5.780037507025168,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.440037507025167,
-    "three_inst_ratio_change_20": -0.5827253658989431
-  },
-  {
-    "date": "2026-05-18",
     "code": "2211",
     "name": "長榮鋼",
     "market": "TWSE",
@@ -1771,15 +1771,26 @@
     "three_inst_ratio_change_20": -0.6453506893522771
   },
   {
+    "date": "2026-05-18",
+    "code": "2211",
+    "name": "長榮鋼",
+    "market": "TWSE",
+    "foreign_ratio": 3.66,
+    "trust_ratio": 5.769207268574567,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.429207268574567,
+    "three_inst_ratio_change_20": -0.6442967238818795
+  },
+  {
     "date": "2026-05-19",
     "code": "2211",
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 3.68,
-    "trust_ratio": 5.752101667926011,
+    "trust_ratio": 5.74668654870071,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.43210166792601,
-    "three_inst_ratio_change_20": -0.6414023245304357
+    "three_inst_ratio": 9.42668654870071,
+    "three_inst_ratio_change_20": -0.6011510606967274
   },
   {
     "date": "2026-05-20",
@@ -1787,10 +1798,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 3.65,
-    "trust_ratio": 5.742136467559394,
+    "trust_ratio": 5.736721348334094,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.392136467559395,
-    "three_inst_ratio_change_20": -0.6357011418380427
+    "three_inst_ratio": 9.386721348334094,
+    "three_inst_ratio_change_20": -0.6477738287105641
   },
   {
     "date": "2026-05-21",
@@ -1798,10 +1809,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 3.68,
-    "trust_ratio": 5.729054444828088,
+    "trust_ratio": 5.723639325602788,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.409054444828088,
-    "three_inst_ratio_change_20": -0.6254407322165694
+    "three_inst_ratio": 9.403639325602787,
+    "three_inst_ratio_change_20": -0.6487090800992963
   },
   {
     "date": "2026-05-22",
@@ -1809,10 +1820,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 3.72,
-    "trust_ratio": 5.72830448941603,
+    "trust_ratio": 5.72288937019073,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.44830448941603,
-    "three_inst_ratio_change_20": -0.604043916286054
+    "three_inst_ratio": 9.44288937019073,
+    "three_inst_ratio_change_20": -0.5678684970830954
   },
   {
     "date": "2026-05-25",
@@ -1820,10 +1831,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 3.75,
-    "trust_ratio": 5.721664938512539,
+    "trust_ratio": 5.716249819287238,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.47166493851254,
-    "three_inst_ratio_change_20": -0.5390929287612867
+    "three_inst_ratio": 9.466249819287238,
+    "three_inst_ratio_change_20": -0.4933138255097784
   },
   {
     "date": "2026-05-27",
@@ -1831,10 +1842,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 3.59,
-    "trust_ratio": 5.717871286183578,
+    "trust_ratio": 5.712456166958277,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.307871286183577,
-    "three_inst_ratio_change_20": -0.65169235861344
+    "three_inst_ratio": 9.302456166958276,
+    "three_inst_ratio_change_20": -0.614234486885195
   },
   {
     "date": "2026-05-28",
@@ -1842,10 +1853,10 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 3.63,
-    "trust_ratio": 5.7159951988756,
+    "trust_ratio": 5.710580079650299,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.345995198875599,
-    "three_inst_ratio_change_20": -0.570695454967872
+    "three_inst_ratio": 9.340580079650298,
+    "three_inst_ratio_change_20": -0.5955524232343272
   },
   {
     "date": "2026-05-29",
@@ -1853,9 +1864,20 @@
     "name": "長榮鋼",
     "market": "TWSE",
     "foreign_ratio": 3.69,
-    "trust_ratio": 5.660310050508034,
+    "trust_ratio": 5.654894931282734,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.350310050508034,
-    "three_inst_ratio_change_20": -0.5858224523765916
+    "three_inst_ratio": 9.344894931282735,
+    "three_inst_ratio_change_20": -0.5709978160353764
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2211",
+    "name": "長榮鋼",
+    "market": "TWSE",
+    "foreign_ratio": 3.75,
+    "trust_ratio": 5.603764898923381,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.35376489892338,
+    "three_inst_ratio_change_20": 9.35376489892338
   }
 ]

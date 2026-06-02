@@ -1650,6 +1650,17 @@
     "three_inst_ratio_change_20": 1.23
   },
   {
+    "date": "2026-05-01",
+    "code": "00971",
+    "name": "野村美國研發龍頭",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.51
+  },
+  {
     "date": "2026-05-04",
     "code": "00971",
     "name": "野村美國研發龍頭",
@@ -1658,7 +1669,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.54,
-    "three_inst_ratio_change_20": 0.030000000000000027
+    "three_inst_ratio_change_20": -0.039999999999999925
   },
   {
     "date": "2026-05-05",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.27,
-    "three_inst_ratio_change_20": 0.6900000000000001
+    "three_inst_ratio_change_20": 0.7000000000000001
   },
   {
     "date": "2026-05-08",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.82,
-    "three_inst_ratio_change_20": 1.25
+    "three_inst_ratio_change_20": 1.26
   },
   {
     "date": "2026-05-12",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.85,
-    "three_inst_ratio_change_20": 1.29
+    "three_inst_ratio_change_20": 1.3
   },
   {
     "date": "2026-05-15",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.76,
-    "three_inst_ratio_change_20": 1.21
+    "three_inst_ratio_change_20": 1.22
   },
   {
     "date": "2026-05-18",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.98,
-    "three_inst_ratio_change_20": 2.44
+    "three_inst_ratio_change_20": 2.4299999999999997
   },
   {
     "date": "2026-05-21",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.98,
-    "three_inst_ratio_change_20": 2.4299999999999997
+    "three_inst_ratio_change_20": 2.42
   },
   {
     "date": "2026-05-22",
@@ -1812,7 +1823,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.98,
-    "three_inst_ratio_change_20": 2.42
+    "three_inst_ratio_change_20": 2.41
   },
   {
     "date": "2026-05-25",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.97,
-    "three_inst_ratio_change_20": 2.4000000000000004
+    "three_inst_ratio_change_20": 0.7000000000000002
   },
   {
     "date": "2026-05-27",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.03,
-    "three_inst_ratio_change_20": 0.7599999999999998
+    "three_inst_ratio_change_20": 0.20999999999999996
   },
   {
     "date": "2026-05-28",
@@ -1845,7 +1856,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.98,
-    "three_inst_ratio_change_20": 0.16000000000000014
+    "three_inst_ratio_change_20": 1.47
   },
   {
     "date": "2026-05-29",
@@ -1856,6 +1867,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.02,
-    "three_inst_ratio_change_20": 1.51
+    "three_inst_ratio_change_20": 1.27
+  },
+  {
+    "date": "2026-06-01",
+    "code": "00971",
+    "name": "野村美國研發龍頭",
+    "market": "TWSE",
+    "foreign_ratio": 3.05,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.05,
+    "three_inst_ratio_change_20": 3.05
   }
 ]

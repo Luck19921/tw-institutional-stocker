@@ -561,15 +561,26 @@
     "three_inst_ratio_change_20": -0.9789289439478916
   },
   {
+    "date": "2026-05-01",
+    "code": "00984D",
+    "name": "主動聯博全球非投",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.702624398602781
+  },
+  {
     "date": "2026-05-04",
     "code": "00984D",
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.96,
-    "trust_ratio": 1.5008041768309077,
+    "trust_ratio": 1.5316024384401414,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.4608041768309077,
-    "three_inst_ratio_change_20": -1.2418202217718735
+    "three_inst_ratio": 2.4916024384401414,
+    "three_inst_ratio_change_20": -1.1495091852774273
   },
   {
     "date": "2026-05-05",
@@ -577,10 +588,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.92,
-    "trust_ratio": 1.43085520397843,
+    "trust_ratio": 1.4602180306398764,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.35085520397843,
-    "three_inst_ratio_change_20": -1.2902564197391388
+    "three_inst_ratio": 2.3802180306398766,
+    "three_inst_ratio_change_20": -1.260893593077692
   },
   {
     "date": "2026-05-06",
@@ -588,10 +599,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.87,
-    "trust_ratio": 1.4176406211759491,
+    "trust_ratio": 1.4467322691023612,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.287640621175949,
-    "three_inst_ratio_change_20": -1.3534710025416197
+    "three_inst_ratio": 2.3167322691023613,
+    "three_inst_ratio_change_20": -1.3539382586911368
   },
   {
     "date": "2026-05-07",
@@ -599,10 +610,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.86,
-    "trust_ratio": 1.411124440951107,
+    "trust_ratio": 1.440082369218182,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.271124440951107,
-    "three_inst_ratio_change_20": -1.399546086842391
+    "three_inst_ratio": 2.300082369218182,
+    "three_inst_ratio_change_20": -1.3705881585753161
   },
   {
     "date": "2026-05-08",
@@ -610,10 +621,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.87,
-    "trust_ratio": 1.411124440951107,
+    "trust_ratio": 1.440082369218182,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.281124440951107,
-    "three_inst_ratio_change_20": -1.3895460868423912
+    "three_inst_ratio": 2.3100823692181818,
+    "three_inst_ratio_change_20": -2.229691109679237
   },
   {
     "date": "2026-05-11",
@@ -621,10 +632,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.86,
-    "trust_ratio": 1.391930430682318,
+    "trust_ratio": 1.420494475351043,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.251930430682318,
-    "three_inst_ratio_change_20": -2.287843048215101
+    "three_inst_ratio": 2.280494475351043,
+    "three_inst_ratio_change_20": -2.431155917912154
   },
   {
     "date": "2026-05-12",
@@ -632,10 +643,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.86,
-    "trust_ratio": 1.391930430682318,
+    "trust_ratio": 1.420494475351043,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.251930430682318,
-    "three_inst_ratio_change_20": -2.4597199625808788
+    "three_inst_ratio": 2.280494475351043,
+    "three_inst_ratio_change_20": -2.381155917912154
   },
   {
     "date": "2026-05-13",
@@ -643,10 +654,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.99,
-    "trust_ratio": 1.382527909500714,
+    "trust_ratio": 1.4108990034090347,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.3725279095007137,
-    "three_inst_ratio_change_20": -2.2891224837624833
+    "three_inst_ratio": 2.4008990034090347,
+    "three_inst_ratio_change_20": -2.3418309918826132
   },
   {
     "date": "2026-05-14",
@@ -654,24 +665,13 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.98,
-    "trust_ratio": 1.370187050616584,
+    "trust_ratio": 1.3983048956292372,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.350187050616584,
-    "three_inst_ratio_change_20": -2.392542944675064
+    "three_inst_ratio": 2.3783048956292374,
+    "three_inst_ratio_change_20": -2.5644250996624107
   },
   {
     "date": "2026-05-15",
-    "code": "00984D",
-    "name": "主動聯博全球非投",
-    "market": "TWSE",
-    "foreign_ratio": 0.98,
-    "trust_ratio": 1.370187050616584,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.350187050616584,
-    "three_inst_ratio_change_20": -2.5925429446750643
-  },
-  {
-    "date": "2026-05-18",
     "code": "00984D",
     "name": "主動聯博全球非投",
     "market": "TWSE",
@@ -682,15 +682,26 @@
     "three_inst_ratio_change_20": -2.6588402238075632
   },
   {
+    "date": "2026-05-18",
+    "code": "00984D",
+    "name": "主動聯博全球非投",
+    "market": "TWSE",
+    "foreign_ratio": 0.98,
+    "trust_ratio": 1.4264227406418903,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.40642274064189,
+    "three_inst_ratio_change_20": -1.0007223787949107
+  },
+  {
     "date": "2026-05-19",
     "code": "00984D",
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.97,
-    "trust_ratio": 1.3983048956292372,
+    "trust_ratio": 1.4264227406418903,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.368304895629237,
-    "three_inst_ratio_change_20": -1.0388402238075636
+    "three_inst_ratio": 2.3964227406418903,
+    "three_inst_ratio_change_20": -0.7046099883577037
   },
   {
     "date": "2026-05-20",
@@ -698,10 +709,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.95,
-    "trust_ratio": 1.3767979011851976,
+    "trust_ratio": 1.4044832723229783,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.3267979011851976,
-    "three_inst_ratio_change_20": -0.7742348278143965
+    "three_inst_ratio": 2.3544832723229785,
+    "three_inst_ratio_change_20": -0.9729156119681641
   },
   {
     "date": "2026-05-21",
@@ -709,10 +720,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.19,
-    "trust_ratio": 1.2158377102181437,
+    "trust_ratio": 1.240586587679773,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.4058377102181436,
-    "three_inst_ratio_change_20": -1.921561174072999
+    "three_inst_ratio": 1.430586587679773,
+    "three_inst_ratio_change_20": -1.835071625316025
   },
   {
     "date": "2026-05-22",
@@ -720,10 +731,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.77,
-    "trust_ratio": 1.0014333925457115,
+    "trust_ratio": 1.0218179817962383,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.7714333925457115,
-    "three_inst_ratio_change_20": -1.4942248204500865
+    "three_inst_ratio": 1.7918179817962383,
+    "three_inst_ratio_change_20": -1.8652093928357492
   },
   {
     "date": "2026-05-25",
@@ -731,10 +742,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.25,
-    "trust_ratio": 1.0014333925457115,
+    "trust_ratio": 1.0218179817962383,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.2514333925457115,
-    "three_inst_ratio_change_20": -2.405593982086276
+    "three_inst_ratio": 1.2718179817962383,
+    "three_inst_ratio_change_20": -2.0946420283718785
   },
   {
     "date": "2026-05-27",
@@ -742,10 +753,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.71,
-    "trust_ratio": 0.9334744855334075,
+    "trust_ratio": 0.952475743235703,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.6434744855334076,
-    "three_inst_ratio_change_20": -1.722985524634709
+    "three_inst_ratio": 1.662475743235703,
+    "three_inst_ratio_change_20": -1.372573787121354
   },
   {
     "date": "2026-05-28",
@@ -753,10 +764,10 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.72,
-    "trust_ratio": 0.9196064856770176,
+    "trust_ratio": 0.9383254545292476,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.6396064856770176,
-    "three_inst_ratio_change_20": -1.3954430446800392
+    "three_inst_ratio": 1.6583254545292476,
+    "three_inst_ratio_change_20": -1.2698047945392181
   },
   {
     "date": "2026-05-29",
@@ -764,9 +775,20 @@
     "name": "主動聯博全球非投",
     "market": "TWSE",
     "foreign_ratio": 0.69,
-    "trust_ratio": 0.9167572735726134,
+    "trust_ratio": 0.935121568718901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.6067572735726134,
-    "three_inst_ratio_change_20": -1.3213729754958523
+    "three_inst_ratio": 1.625121568718901,
+    "three_inst_ratio_change_20": -1.038860320052441
+  },
+  {
+    "date": "2026-06-01",
+    "code": "00984D",
+    "name": "主動聯博全球非投",
+    "market": "TWSE",
+    "foreign_ratio": 0.66,
+    "trust_ratio": 0.8885023694319735,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5485023694319735,
+    "three_inst_ratio_change_20": 1.5485023694319735
   }
 ]

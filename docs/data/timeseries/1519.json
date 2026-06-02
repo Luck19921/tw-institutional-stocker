@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": -0.6775082109125918
   },
   {
+    "date": "2026-05-01",
+    "code": "1519",
+    "name": "華城",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.01053537212912
+  },
+  {
     "date": "2026-05-04",
     "code": "1519",
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 21.72,
-    "trust_ratio": 1.0796232391983858,
+    "trust_ratio": 1.0682265367126853,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.799623239198386,
-    "three_inst_ratio_change_20": -0.21091213293073352
+    "three_inst_ratio": 22.788226536712685,
+    "three_inst_ratio_change_20": 22.788226536712685
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 21.46,
-    "trust_ratio": 1.0584301212010185,
+    "trust_ratio": 1.0470334187153179,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.51843012120102,
-    "three_inst_ratio_change_20": 22.51843012120102
+    "three_inst_ratio": 22.50703341871532,
+    "three_inst_ratio_change_20": -0.4527929321348765
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 21.39,
-    "trust_ratio": 1.05937984640816,
+    "trust_ratio": 1.0479831439224596,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.44937984640816,
-    "three_inst_ratio_change_20": -0.5104465044420365
+    "three_inst_ratio": 22.43798314392246,
+    "three_inst_ratio_change_20": -0.5596271814444052
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 21.38,
-    "trust_ratio": 1.0592766429356506,
+    "trust_ratio": 1.0478799404499501,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.43927664293565,
-    "three_inst_ratio_change_20": -0.5583336824312148
+    "three_inst_ratio": 22.427879940449948,
+    "three_inst_ratio_change_20": -0.377525675979264
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 21.39,
-    "trust_ratio": 1.0670878161893222,
+    "trust_ratio": 1.0556911137036218,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.457087816189322,
-    "three_inst_ratio_change_20": -0.3483178002398901
+    "three_inst_ratio": 22.44569111370362,
+    "three_inst_ratio_change_20": -0.30293602406608855
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 21.4,
-    "trust_ratio": 1.0666332143901704,
+    "trust_ratio": 1.0552365119044698,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.466633214390168,
-    "three_inst_ratio_change_20": -0.28199392337954166
+    "three_inst_ratio": 22.455236511904467,
+    "three_inst_ratio_change_20": -0.2510717134844711
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 21.41,
-    "trust_ratio": 1.0663166393211232,
+    "trust_ratio": 1.0549199368354225,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.476316639321123,
-    "three_inst_ratio_change_20": -0.22999158606781478
+    "three_inst_ratio": 22.46491993683542,
+    "three_inst_ratio_change_20": -0.29151869076302717
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 21.11,
-    "trust_ratio": 1.0663166393211232,
+    "trust_ratio": 1.0549199368354225,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.176316639321122,
-    "three_inst_ratio_change_20": -0.5801219882773267
+    "three_inst_ratio": 22.16491993683542,
+    "three_inst_ratio_change_20": -0.4857174526227368
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.71,
-    "trust_ratio": 1.0415205804629293,
+    "trust_ratio": 1.0301238779772286,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.75152058046293,
-    "three_inst_ratio_change_20": -0.8991168089952275
+    "three_inst_ratio": 21.74012387797723,
+    "three_inst_ratio_change_20": -0.3882587075777231
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.49,
-    "trust_ratio": 1.0430651502248107,
+    "trust_ratio": 1.0316684477391103,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.533065150224807,
-    "three_inst_ratio_change_20": -0.5953174353301449
+    "three_inst_ratio": 21.52166844773911,
+    "three_inst_ratio_change_20": -0.5813682147816479
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.37,
-    "trust_ratio": 1.0316684477391103,
+    "trust_ratio": 1.0202717452534096,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.401668447739112,
-    "three_inst_ratio_change_20": -0.7013682147816453
+    "three_inst_ratio": 21.39027174525341,
+    "three_inst_ratio_change_20": -0.8616007638627146
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.24,
-    "trust_ratio": 0.938595377439222,
+    "trust_ratio": 0.9271986749535215,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.17859537743922,
-    "three_inst_ratio_change_20": -1.0732771316769067
+    "three_inst_ratio": 21.16719867495352,
+    "three_inst_ratio_change_20": -1.2329047859578353
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.16,
-    "trust_ratio": 0.8877053019397403,
+    "trust_ratio": 0.8763085994540396,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.04770530193974,
-    "three_inst_ratio_change_20": -1.3523981589716172
+    "three_inst_ratio": 21.03630859945404,
+    "three_inst_ratio_change_20": -1.2760203534216217
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.24,
-    "trust_ratio": 0.887388726870693,
+    "trust_ratio": 0.8759920243849924,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.12738872687069,
-    "three_inst_ratio_change_20": -1.1849402260049686
+    "three_inst_ratio": 21.11599202438499,
+    "three_inst_ratio_change_20": -1.1855176054930432
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.22,
-    "trust_ratio": 0.8752559873494578,
+    "trust_ratio": 0.8638592848637571,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.095255987349457,
-    "three_inst_ratio_change_20": -1.2062536425285764
+    "three_inst_ratio": 21.083859284863756,
+    "three_inst_ratio_change_20": -1.2895301944932136
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.16,
-    "trust_ratio": 0.8759841100082664,
+    "trust_ratio": 0.8645874075225657,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.035984110008265,
-    "three_inst_ratio_change_20": -1.337405369348705
+    "three_inst_ratio": 21.024587407522567,
+    "three_inst_ratio_change_20": -1.4183822932928436
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.08,
-    "trust_ratio": 0.8759841100082664,
+    "trust_ratio": 0.8645874075225657,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.955984110008266,
-    "three_inst_ratio_change_20": -1.4869855908071443
+    "three_inst_ratio": 20.944587407522565,
+    "three_inst_ratio_change_20": -1.4304527476822884
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 20.14,
-    "trust_ratio": 0.8793350571141313,
+    "trust_ratio": 0.8679383546284306,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.01933505711413,
-    "three_inst_ratio_change_20": -1.3557050980907235
+    "three_inst_ratio": 21.007938354628433,
+    "three_inst_ratio_change_20": -1.2509213322223474
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 19.9,
-    "trust_ratio": 0.8014196011202248,
+    "trust_ratio": 0.7900228986345244,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.70141960112022,
-    "three_inst_ratio_change_20": -1.5574400857305584
+    "three_inst_ratio": 20.690022898634524,
+    "three_inst_ratio_change_20": -1.728836788216256
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "華城",
     "market": "TWSE",
     "foreign_ratio": 19.86,
-    "trust_ratio": 0.7704762875712716,
+    "trust_ratio": 0.759079585085571,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.63047628757127,
-    "three_inst_ratio_change_20": -1.7883833992795104
+    "three_inst_ratio": 20.619079585085572,
+    "three_inst_ratio_change_20": 20.619079585085572
+  },
+  {
+    "date": "2026-06-01",
+    "code": "1519",
+    "name": "華城",
+    "market": "TWSE",
+    "foreign_ratio": 19.92,
+    "trust_ratio": 0.7274220781808471,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.64742207818085,
+    "three_inst_ratio_change_20": -2.1408044585318358
   }
 ]

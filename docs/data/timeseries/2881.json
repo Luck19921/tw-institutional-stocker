@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": -0.22604307168764848
   },
   {
+    "date": "2026-05-01",
+    "code": "2881",
+    "name": "富邦金",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -17.159025081821827
+  },
+  {
     "date": "2026-05-04",
     "code": "2881",
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 15.95,
-    "trust_ratio": 1.0474871505296952,
+    "trust_ratio": 1.01173672197186,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.997487150529693,
-    "three_inst_ratio_change_20": -0.16153793129213412
+    "three_inst_ratio": 16.96173672197186,
+    "three_inst_ratio_change_20": 16.96173672197186
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 15.98,
-    "trust_ratio": 1.0113710000807294,
+    "trust_ratio": 0.9756205715228944,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.99137100008073,
-    "three_inst_ratio_change_20": 16.99137100008073
+    "three_inst_ratio": 16.955620571522896,
+    "three_inst_ratio_change_20": -0.18995922996209558
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 16.05,
-    "trust_ratio": 0.9842707994861987,
+    "trust_ratio": 0.9485203709283636,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.0342707994862,
-    "three_inst_ratio_change_20": -0.11130900199879079
+    "three_inst_ratio": 16.998520370928365,
+    "three_inst_ratio_change_20": -0.17694460885207874
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 16.13,
-    "trust_ratio": 0.9710888697918749,
+    "trust_ratio": 0.9353384412340398,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.101088869791873,
-    "three_inst_ratio_change_20": -0.07437610998857025
+    "three_inst_ratio": 17.06533844123404,
+    "three_inst_ratio_change_20": -0.08978298716921884
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 16.39,
-    "trust_ratio": 0.9221958765453317,
+    "trust_ratio": 0.8864454479874967,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.31219587654533,
-    "three_inst_ratio_change_20": 0.1570744481420725
+    "three_inst_ratio": 17.2764454479875,
+    "three_inst_ratio_change_20": 0.17064173565483642
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 16.36,
-    "trust_ratio": 0.9083378596617007,
+    "trust_ratio": 0.8725874311038655,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.2683378596617,
-    "three_inst_ratio_change_20": 0.16253414732903693
+    "three_inst_ratio": 17.232587431103866,
+    "three_inst_ratio_change_20": 0.1689944058680375
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 16.36,
-    "trust_ratio": 0.8649832171517765,
+    "trust_ratio": 0.8292327885939415,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.224983217151777,
-    "three_inst_ratio_change_20": 0.16139019191594883
+    "three_inst_ratio": 17.18923278859394,
+    "three_inst_ratio_change_20": 0.11569418479730587
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 16.41,
-    "trust_ratio": 0.8492038324668333,
+    "trust_ratio": 0.8134534039089982,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.259203832466834,
-    "three_inst_ratio_change_20": 0.1856652286701994
+    "three_inst_ratio": 17.223453403908998,
+    "three_inst_ratio_change_20": 0.13080413947081482
   },
   {
     "date": "2026-05-14",
@@ -1809,24 +1820,13 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 16.46,
-    "trust_ratio": 0.8129772900915275,
+    "trust_ratio": 0.7772268615336925,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.27297729009153,
-    "three_inst_ratio_change_20": 0.1803280256533455
+    "three_inst_ratio": 17.237226861533692,
+    "three_inst_ratio_change_20": 0.15423658370317028
   },
   {
     "date": "2026-05-15",
-    "code": "2881",
-    "name": "富邦金",
-    "market": "TWSE",
-    "foreign_ratio": 16.9,
-    "trust_ratio": 0.5505951852063946,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.450595185206392,
-    "three_inst_ratio_change_20": 0.3676049073758705
-  },
-  {
-    "date": "2026-05-18",
     "code": "2881",
     "name": "富邦金",
     "market": "TWSE",
@@ -1837,15 +1837,26 @@
     "three_inst_ratio_change_20": 0.433296912925325
   },
   {
+    "date": "2026-05-18",
+    "code": "2881",
+    "name": "富邦金",
+    "market": "TWSE",
+    "foreign_ratio": 16.9,
+    "trust_ratio": 0.4790943280907243,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.379094328090723,
+    "three_inst_ratio_change_20": 0.4334651066211457
+  },
+  {
     "date": "2026-05-19",
     "code": "2881",
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 16.93,
-    "trust_ratio": 0.49455612270678273,
+    "trust_ratio": 0.45880569414894756,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.424556122706782,
-    "three_inst_ratio_change_20": 0.47892690123720527
+    "three_inst_ratio": 17.388805694148946,
+    "three_inst_ratio_change_20": 0.4153721034111584
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 16.88,
-    "trust_ratio": 0.49614961299396293,
+    "trust_ratio": 0.4603991844361278,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.376149612993963,
-    "three_inst_ratio_change_20": 0.4027160222561754
+    "three_inst_ratio": 17.340399184436126,
+    "three_inst_ratio_change_20": 0.2954514581965739
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 16.91,
-    "trust_ratio": 0.39613794022034987,
+    "trust_ratio": 0.36038751166251476,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.30613794022035,
-    "three_inst_ratio_change_20": 0.26119021398079667
+    "three_inst_ratio": 17.270387511662516,
+    "three_inst_ratio_change_20": 0.3755927193236168
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 16.94,
-    "trust_ratio": 0.28039489321931393,
+    "trust_ratio": 0.24464446466147877,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.220394893219314,
-    "three_inst_ratio_change_20": 0.3256001008804148
+    "three_inst_ratio": 17.18464446466148,
+    "three_inst_ratio_change_20": 0.3505032249723037
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 17.06,
-    "trust_ratio": 0.189321375511199,
+    "trust_ratio": 0.15357094695336385,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.249321375511197,
-    "three_inst_ratio_change_20": 0.41518013582201974
+    "three_inst_ratio": 17.21357094695336,
+    "three_inst_ratio_change_20": 0.3509964045720082
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 17.48,
-    "trust_ratio": 0.189321375511199,
+    "trust_ratio": 0.15357094695336385,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.6693213755112,
-    "three_inst_ratio_change_20": 0.8067468331298464
+    "three_inst_ratio": 17.633570946953363,
+    "three_inst_ratio_change_20": 0.7592373371725074
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 17.79,
-    "trust_ratio": 0.007102106666093238,
+    "trust_ratio": -0.02864832189174191,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.79710210666609,
-    "three_inst_ratio_change_20": 0.9227684968852365
+    "three_inst_ratio": 17.76135167810826,
+    "three_inst_ratio_change_20": 0.8004323436150038
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 18.02,
-    "trust_ratio": -0.2008869198198642,
+    "trust_ratio": -0.23663734837769934,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.819113080180134,
-    "three_inst_ratio_change_20": 0.8581937456868793
+    "three_inst_ratio": 17.7833626516223,
+    "three_inst_ratio_change_20": 0.842443317129046
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "富邦金",
     "market": "TWSE",
     "foreign_ratio": 18.21,
-    "trust_ratio": -0.3870506064901164,
+    "trust_ratio": -0.4228010350479515,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.822949393509884,
-    "three_inst_ratio_change_20": 0.8820300590166283
+    "three_inst_ratio": 17.78719896495205,
+    "three_inst_ratio_change_20": 17.78719896495205
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2881",
+    "name": "富邦金",
+    "market": "TWSE",
+    "foreign_ratio": 18.22,
+    "trust_ratio": -0.48976565710315617,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.730234342896843,
+    "three_inst_ratio_change_20": 0.7684976209249825
   }
 ]

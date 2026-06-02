@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": -5.749625064073962
   },
   {
+    "date": "2026-05-01",
+    "code": "3026",
+    "name": "禾伸堂",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -21.44431378532893
+  },
+  {
     "date": "2026-05-04",
     "code": "3026",
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 14.07,
-    "trust_ratio": 1.7437425130500985,
+    "trust_ratio": 1.74313970511528,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.813742513050098,
-    "three_inst_ratio_change_20": -5.630571272278832
+    "three_inst_ratio": 15.81313970511528,
+    "three_inst_ratio_change_20": 15.81313970511528
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 13.73,
-    "trust_ratio": 2.714263288108231,
+    "trust_ratio": 2.7136604801734117,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.444263288108232,
-    "three_inst_ratio_change_20": 16.444263288108232
+    "three_inst_ratio": 16.443660480173413,
+    "three_inst_ratio_change_20": -4.773882021131573
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 13.85,
-    "trust_ratio": 4.86869884715032,
+    "trust_ratio": 4.8680960392155015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.71869884715032,
-    "three_inst_ratio_change_20": -2.4988436541546655
+    "three_inst_ratio": 18.718096039215503,
+    "three_inst_ratio_change_20": -3.689446462089485
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 14.41,
-    "trust_ratio": 5.276197011087772,
+    "trust_ratio": 5.275594203152953,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 19.68619701108777,
-    "three_inst_ratio_change_20": -2.7213454902172174
+    "three_inst_ratio": 19.685594203152952,
+    "three_inst_ratio_change_20": -3.1613454902172187
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 14.82,
-    "trust_ratio": 6.569220031273917,
+    "trust_ratio": 6.568617223339097,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.38922003127392,
-    "three_inst_ratio_change_20": -1.4577196620962525
+    "three_inst_ratio": 21.388617223339097,
+    "three_inst_ratio_change_20": -1.1169185303508797
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 15.16,
-    "trust_ratio": 7.5511941570936045,
+    "trust_ratio": 7.550591349158786,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.711194157093605,
-    "three_inst_ratio_change_20": 0.2056584034036284
+    "three_inst_ratio": 22.710591349158786,
+    "three_inst_ratio_change_20": 0.7562612113384439
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 15.35,
-    "trust_ratio": 7.5439604618757805,
+    "trust_ratio": 7.543357653940961,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.89396046187578,
-    "three_inst_ratio_change_20": 0.939630324055436
+    "three_inst_ratio": 22.89335765394096,
+    "three_inst_ratio_change_20": 0.5996303240554397
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 15.12,
-    "trust_ratio": 7.5439604618757805,
+    "trust_ratio": 7.543357653940961,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.66396046187578,
-    "three_inst_ratio_change_20": 0.3702331319902612
+    "three_inst_ratio": 22.66335765394096,
+    "three_inst_ratio_change_20": 0.8008359399250757
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 15.49,
-    "trust_ratio": 7.542754846006143,
+    "trust_ratio": 7.542152038071323,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.032754846006142,
-    "three_inst_ratio_change_20": 1.1702331319902584
+    "three_inst_ratio": 23.032152038071324,
+    "three_inst_ratio_change_20": 1.6681835850118745
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 15.85,
-    "trust_ratio": 7.525876223831219,
+    "trust_ratio": 7.525273415896399,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.37587622383122,
-    "three_inst_ratio_change_20": 2.0119077707717707
+    "three_inst_ratio": 23.375273415896398,
+    "three_inst_ratio_change_20": 2.463716194576225
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 15.89,
-    "trust_ratio": 7.525273415896399,
+    "trust_ratio": 7.524670607961581,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.4152734158964,
-    "three_inst_ratio_change_20": 2.503716194576228
+    "three_inst_ratio": 23.414670607961583,
+    "three_inst_ratio_change_20": 2.7194296465210215
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 16.12,
-    "trust_ratio": 7.527503805255228,
+    "trust_ratio": 7.52690099732041,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.64750380525523,
-    "three_inst_ratio_change_20": 2.952262843814669
+    "three_inst_ratio": 23.64690099732041,
+    "three_inst_ratio_change_20": 3.1100662883773644
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 16.3,
-    "trust_ratio": 7.842772355165417,
+    "trust_ratio": 7.842169547230599,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.14277235516542,
-    "three_inst_ratio_change_20": 3.6059376462223725
+    "three_inst_ratio": 24.1421695472306,
+    "three_inst_ratio_change_20": 3.897960746328792
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 16.32,
-    "trust_ratio": 7.903655956582107,
+    "trust_ratio": 7.903053148647289,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.223655956582107,
-    "three_inst_ratio_change_20": 3.9794471556802975
+    "three_inst_ratio": 24.22305314864729,
+    "three_inst_ratio_change_20": 3.921115182743815
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 16.48,
-    "trust_ratio": 7.927165466040037,
+    "trust_ratio": 7.926562658105219,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.407165466040038,
-    "three_inst_ratio_change_20": 4.105227500136564
+    "three_inst_ratio": 24.40656265810522,
+    "three_inst_ratio_change_20": 3.88147025578672
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 16.68,
-    "trust_ratio": 8.138148243226588,
+    "trust_ratio": 8.13754543529177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.818148243226588,
-    "three_inst_ratio_change_20": 4.293055840908089
+    "three_inst_ratio": 24.81754543529177,
+    "three_inst_ratio_change_20": 4.3406446091688125
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 16.82,
-    "trust_ratio": 8.345514172804226,
+    "trust_ratio": 8.344911364869407,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.165514172804226,
-    "three_inst_ratio_change_20": 4.688613346681269
+    "three_inst_ratio": 25.164911364869408,
+    "three_inst_ratio_change_20": 5.10698576525726
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 16.79,
-    "trust_ratio": 8.345514172804226,
+    "trust_ratio": 8.344911364869407,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.135514172804225,
-    "three_inst_ratio_change_20": 5.077588573192077
+    "three_inst_ratio": 25.134911364869406,
+    "three_inst_ratio_change_20": 8.277588573192077
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 16.74,
-    "trust_ratio": 8.677661344889339,
+    "trust_ratio": 8.67705853695452,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.41766134488934,
-    "three_inst_ratio_change_20": 8.56033855321201
+    "three_inst_ratio": 25.41705853695452,
+    "three_inst_ratio_change_20": 9.842369815699554
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "禾伸堂",
     "market": "TWSE",
     "foreign_ratio": 16.94,
-    "trust_ratio": 8.641492868800215,
+    "trust_ratio": 8.640890060865397,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.58149286880022,
-    "three_inst_ratio_change_20": 10.006804147545251
+    "three_inst_ratio": 25.5808900608654,
+    "three_inst_ratio_change_20": 25.5808900608654
+  },
+  {
+    "date": "2026-06-01",
+    "code": "3026",
+    "name": "禾伸堂",
+    "market": "TWSE",
+    "foreign_ratio": 16.94,
+    "trust_ratio": 8.680072576628612,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.620072576628615,
+    "three_inst_ratio_change_20": 9.806932871513336
   }
 ]

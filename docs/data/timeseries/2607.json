@@ -1650,15 +1650,26 @@
     "three_inst_ratio_change_20": -0.3733734995496283
   },
   {
+    "date": "2026-05-01",
+    "code": "2607",
+    "name": "榮運",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.1722627489969
+  },
+  {
     "date": "2026-05-04",
     "code": "2607",
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 9.05,
-    "trust_ratio": -2.261110750552729,
+    "trust_ratio": -2.261485583836021,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.788889249447272,
-    "three_inst_ratio_change_20": -0.38337349954962807
+    "three_inst_ratio": 6.78851441616398,
+    "three_inst_ratio_change_20": 6.78851441616398
   },
   {
     "date": "2026-05-05",
@@ -1666,10 +1677,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 9.05,
-    "trust_ratio": -2.261110750552729,
+    "trust_ratio": -2.261485583836021,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.788889249447272,
-    "three_inst_ratio_change_20": 6.788889249447272
+    "three_inst_ratio": 6.78851441616398,
+    "three_inst_ratio_change_20": -0.34393574947456695
   },
   {
     "date": "2026-05-06",
@@ -1677,10 +1688,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 9.05,
-    "trust_ratio": -2.261298167194375,
+    "trust_ratio": -2.261673000477667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.788701832805626,
-    "three_inst_ratio_change_20": -0.34374833283292094
+    "three_inst_ratio": 6.788326999522334,
+    "three_inst_ratio_change_20": -0.30412316611621204
   },
   {
     "date": "2026-05-07",
@@ -1688,10 +1699,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 9.05,
-    "trust_ratio": -2.261298167194375,
+    "trust_ratio": -2.261673000477667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.788701832805626,
-    "three_inst_ratio_change_20": -0.30374833283292
+    "three_inst_ratio": 6.788326999522334,
+    "three_inst_ratio_change_20": -0.2935609161912742
   },
   {
     "date": "2026-05-08",
@@ -1699,10 +1710,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.95,
-    "trust_ratio": -2.261298167194375,
+    "trust_ratio": -2.261673000477667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.6887018328056245,
-    "three_inst_ratio_change_20": -0.3931860829079836
+    "three_inst_ratio": 6.6883269995223324,
+    "three_inst_ratio_change_20": -0.33356091619127515
   },
   {
     "date": "2026-05-11",
@@ -1710,10 +1721,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.95,
-    "trust_ratio": -2.261298167194375,
+    "trust_ratio": -2.261673000477667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.6887018328056245,
-    "three_inst_ratio_change_20": -0.3331860829079831
+    "three_inst_ratio": 6.6883269995223324,
+    "three_inst_ratio_change_20": -0.33356091619127515
   },
   {
     "date": "2026-05-12",
@@ -1721,10 +1732,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.9,
-    "trust_ratio": -2.262047833760959,
+    "trust_ratio": -2.2624226670442513,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.6379521662390415,
-    "three_inst_ratio_change_20": -0.3839357494745661
+    "three_inst_ratio": 6.637577332955749,
+    "three_inst_ratio_change_20": -0.4343105827578597
   },
   {
     "date": "2026-05-13",
@@ -1732,10 +1743,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.88,
-    "trust_ratio": -2.262047833760959,
+    "trust_ratio": -2.2624226670442513,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.617952166239042,
-    "three_inst_ratio_change_20": -0.4539357494745664
+    "three_inst_ratio": 6.617577332955749,
+    "three_inst_ratio_change_20": -0.4441231661162135
   },
   {
     "date": "2026-05-14",
@@ -1743,24 +1754,13 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.84,
-    "trust_ratio": -2.262047833760959,
+    "trust_ratio": -2.2624226670442513,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.577952166239041,
-    "three_inst_ratio_change_20": -0.4837483328329215
+    "three_inst_ratio": 6.577577332955748,
+    "three_inst_ratio_change_20": -0.45337349954962924
   },
   {
     "date": "2026-05-15",
-    "code": "2607",
-    "name": "榮運",
-    "market": "TWSE",
-    "foreign_ratio": 8.8,
-    "trust_ratio": -2.262047833760959,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.537952166239042,
-    "three_inst_ratio_change_20": -0.4929986662663355
-  },
-  {
-    "date": "2026-05-18",
     "code": "2607",
     "name": "榮運",
     "market": "TWSE",
@@ -1771,15 +1771,26 @@
     "three_inst_ratio_change_20": -0.4833734995496286
   },
   {
+    "date": "2026-05-18",
+    "code": "2607",
+    "name": "榮運",
+    "market": "TWSE",
+    "foreign_ratio": 8.8,
+    "trust_ratio": -2.2627975003275433,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.537202499672457,
+    "three_inst_ratio_change_20": -0.44356091619127547
+  },
+  {
     "date": "2026-05-19",
     "code": "2607",
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.84,
-    "trust_ratio": -2.271231249201617,
+    "trust_ratio": -2.271606082484909,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.568768750798383,
-    "three_inst_ratio_change_20": -0.41199466506534943
+    "three_inst_ratio": 6.568393917515091,
+    "three_inst_ratio_change_20": -0.4418072484237028
   },
   {
     "date": "2026-05-20",
@@ -1787,10 +1798,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.79,
-    "trust_ratio": -2.2798524147173365,
+    "trust_ratio": -2.2802272480006285,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.510147585282663,
-    "three_inst_ratio_change_20": -0.5000535806561306
+    "three_inst_ratio": 6.509772751999371,
+    "three_inst_ratio_change_20": -0.4402409972977779
   },
   {
     "date": "2026-05-21",
@@ -1798,10 +1809,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.8,
-    "trust_ratio": -2.288660996874702,
+    "trust_ratio": -2.289035830157994,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.511339003125299,
-    "three_inst_ratio_change_20": -0.4386747461718503
+    "three_inst_ratio": 6.510964169842007,
+    "three_inst_ratio_change_20": -0.35904957945514226
   },
   {
     "date": "2026-05-22",
@@ -1809,10 +1820,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.78,
-    "trust_ratio": -2.288660996874702,
+    "trust_ratio": -2.289035830157994,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.491339003125297,
-    "three_inst_ratio_change_20": -0.3786747461718516
+    "three_inst_ratio": 6.490964169842005,
+    "three_inst_ratio_change_20": -0.3390495794551427
   },
   {
     "date": "2026-05-25",
@@ -1820,10 +1831,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.73,
-    "trust_ratio": -2.288660996874702,
+    "trust_ratio": -2.289035830157994,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.441339003125298,
-    "three_inst_ratio_change_20": -0.3886747461718496
+    "three_inst_ratio": 6.440964169842006,
+    "three_inst_ratio_change_20": -0.40792507960526425
   },
   {
     "date": "2026-05-26",
@@ -1831,10 +1842,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.68,
-    "trust_ratio": -2.288660996874702,
+    "trust_ratio": -2.289035830157994,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.391339003125298,
-    "three_inst_ratio_change_20": -0.45755024632197294
+    "three_inst_ratio": 6.390964169842006,
+    "three_inst_ratio_change_20": -0.46792507960526475
   },
   {
     "date": "2026-05-27",
@@ -1842,10 +1853,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.6,
-    "trust_ratio": -2.288660996874702,
+    "trust_ratio": -2.289035830157994,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.311339003125298,
-    "three_inst_ratio_change_20": -0.5475502463219728
+    "three_inst_ratio": 6.310964169842006,
+    "three_inst_ratio_change_20": -0.5479250796052648
   },
   {
     "date": "2026-05-28",
@@ -1853,10 +1864,10 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.58,
-    "trust_ratio": -2.288660996874702,
+    "trust_ratio": -2.289035830157994,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.291339003125298,
-    "three_inst_ratio_change_20": -0.5675502463219724
+    "three_inst_ratio": 6.290964169842006,
+    "three_inst_ratio_change_20": -0.5179250796052655
   },
   {
     "date": "2026-05-29",
@@ -1864,9 +1875,20 @@
     "name": "榮運",
     "market": "TWSE",
     "foreign_ratio": 8.54,
-    "trust_ratio": -2.288660996874702,
+    "trust_ratio": -2.289035830157994,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.251339003125297,
-    "three_inst_ratio_change_20": -0.5575502463219744
+    "three_inst_ratio": 6.250964169842005,
+    "three_inst_ratio_change_20": 6.250964169842005
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2607",
+    "name": "榮運",
+    "market": "TWSE",
+    "foreign_ratio": 8.53,
+    "trust_ratio": -2.289035830157994,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.240964169842005,
+    "three_inst_ratio_change_20": -0.5475502463219746
   }
 ]

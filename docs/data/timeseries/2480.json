@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": -1.2397472775812552
   },
   {
+    "date": "2026-05-01",
+    "code": "2480",
+    "name": "敦陽科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -11.314915340914215
+  },
+  {
     "date": "2026-05-04",
     "code": "2480",
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.45,
-    "trust_ratio": 0.17918811448155966,
+    "trust_ratio": 0.17717420498595665,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.62918811448156,
-    "three_inst_ratio_change_20": -0.6857272264326557
+    "three_inst_ratio": 10.627174204985955,
+    "three_inst_ratio_change_20": 10.627174204985955
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.35,
-    "trust_ratio": 0.275986458141601,
+    "trust_ratio": 0.27397254864599796,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.6259864581416,
-    "three_inst_ratio_change_20": 10.6259864581416
+    "three_inst_ratio": 10.623972548645998,
+    "three_inst_ratio_change_20": -0.6400025917567298
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.31,
-    "trust_ratio": 0.271823250276741,
+    "trust_ratio": 0.26980934078113794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.581823250276742,
-    "three_inst_ratio_change_20": -0.6821518901259864
+    "three_inst_ratio": 10.57980934078114,
+    "three_inst_ratio_change_20": -0.4232255991101024
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 9.89,
-    "trust_ratio": 0.2620611483659818,
+    "trust_ratio": 0.2600472388703788,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.152061148365982,
-    "three_inst_ratio_change_20": -0.8509737915252593
+    "three_inst_ratio": 10.15004723887038,
+    "three_inst_ratio_change_20": -0.8711072999978899
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 9.83,
-    "trust_ratio": 0.2572877503691674,
+    "trust_ratio": 0.25527384087356436,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.087287750369168,
-    "three_inst_ratio_change_20": -0.9338667884991025
+    "three_inst_ratio": 10.085273840873564,
+    "three_inst_ratio_change_20": -0.9730600964602498
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 9.96,
-    "trust_ratio": 0.25084737686548825,
+    "trust_ratio": 0.24883346736988524,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.21084737686549,
-    "three_inst_ratio_change_20": -0.8474865604683242
+    "three_inst_ratio": 10.208833467369885,
+    "three_inst_ratio_change_20": -0.798560269452441
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 9.95,
-    "trust_ratio": 0.24548071234592617,
+    "trust_ratio": 0.24346680285032316,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.195480712345926,
-    "three_inst_ratio_change_20": -0.8119130244764001
+    "three_inst_ratio": 10.193466802850322,
+    "three_inst_ratio_change_20": -0.7329867334605176
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.08,
-    "trust_ratio": 0.24226146579459812,
+    "trust_ratio": 0.24024755629899508,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.322261465794599,
-    "three_inst_ratio_change_20": -0.6041920705162411
+    "three_inst_ratio": 10.320247556298995,
+    "three_inst_ratio_change_20": -0.6243255789888735
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.15,
-    "trust_ratio": 0.23595460076355,
+    "trust_ratio": 0.23394069126794698,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.38595460076355,
-    "three_inst_ratio_change_20": -0.5586185345243173
+    "three_inst_ratio": 10.383940691267947,
+    "three_inst_ratio_change_20": -0.5787520429969497
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.18,
-    "trust_ratio": 0.23595460076355,
+    "trust_ratio": 0.23394069126794698,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.41595460076355,
-    "three_inst_ratio_change_20": -0.5467381335013464
+    "three_inst_ratio": 10.413940691267946,
+    "three_inst_ratio_change_20": -0.44409805046509376
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.17,
-    "trust_ratio": 0.23394069126794698,
+    "trust_ratio": 0.23192678177234397,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.403940691267946,
-    "three_inst_ratio_change_20": -0.45409805046509355
+    "three_inst_ratio": 10.401926781772344,
+    "three_inst_ratio_change_20": -0.44298203245795875
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.26,
-    "trust_ratio": 0.22686474221850333,
+    "trust_ratio": 0.22485083272290032,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.486864742218502,
-    "three_inst_ratio_change_20": -0.35804407201180055
+    "three_inst_ratio": 10.4848508327229,
+    "three_inst_ratio_change_20": -0.2991177809959158
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.21,
-    "trust_ratio": 0.22022128540434327,
+    "trust_ratio": 0.21820737590874023,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.430221285404343,
-    "three_inst_ratio_change_20": -0.35374732831447275
+    "three_inst_ratio": 10.428207375908741,
+    "three_inst_ratio_change_20": -0.404821037298591
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.23,
-    "trust_ratio": 0.21446161707098,
+    "trust_ratio": 0.21244770757537695,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.44446161707098,
-    "three_inst_ratio_change_20": -0.38856679613635237
+    "three_inst_ratio": 10.442447707575377,
+    "three_inst_ratio_change_20": -0.3505807056319554
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.35,
-    "trust_ratio": 0.2123442855191135,
+    "trust_ratio": 0.21033037602351048,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.562344285519114,
-    "three_inst_ratio_change_20": -0.23068412768821922
+    "three_inst_ratio": 10.56033037602351,
+    "three_inst_ratio_change_20": -0.13175783667233532
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.05,
-    "trust_ratio": 0.2091682881913138,
+    "trust_ratio": 0.2071543786957108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.259168288191315,
-    "three_inst_ratio_change_20": -0.4329199245045299
+    "three_inst_ratio": 10.257154378695711,
+    "three_inst_ratio_change_20": -0.3549338340001338
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 9.97,
-    "trust_ratio": 0.2091682881913138,
+    "trust_ratio": 0.2071543786957108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.179168288191315,
-    "three_inst_ratio_change_20": -0.4329199245045299
+    "three_inst_ratio": 10.177154378695711,
+    "three_inst_ratio_change_20": -0.11399363348864888
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 9.81,
-    "trust_ratio": 0.20387307891062464,
+    "trust_ratio": 0.2018591694150216,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.013873078910626,
-    "three_inst_ratio_change_20": -0.2772749332737341
+    "three_inst_ratio": 10.011859169415022,
+    "three_inst_ratio_change_20": -0.3933088939179381
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 9.89,
-    "trust_ratio": 0.19529939044638378,
+    "trust_ratio": 0.19328548095078077,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.085299390446384,
-    "three_inst_ratio_change_20": -0.3198686728865763
+    "three_inst_ratio": 10.083285480950781,
+    "three_inst_ratio_change_20": -0.17188258238217813
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "敦陽科",
     "market": "TWSE",
     "foreign_ratio": 10.09,
-    "trust_ratio": 0.19106378714213937,
+    "trust_ratio": 0.18904987764653633,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.28106378714214,
-    "three_inst_ratio_change_20": 0.025895723809179927
+    "three_inst_ratio": 10.279049877646536,
+    "three_inst_ratio_change_20": 10.279049877646536
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2480",
+    "name": "敦陽科",
+    "market": "TWSE",
+    "foreign_ratio": 10.16,
+    "trust_ratio": 0.14532491265936834,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.30532491265937,
+    "three_inst_ratio_change_20": -0.3218492923265863
   }
 ]

@@ -1639,6 +1639,17 @@
     "three_inst_ratio_change_20": 0.06151360800192496
   },
   {
+    "date": "2026-05-01",
+    "code": "7705",
+    "name": "三商餐飲",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.53
+  },
+  {
     "date": "2026-05-04",
     "code": "7705",
     "name": "三商餐飲",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.001513608001924825,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.531513608001925,
-    "three_inst_ratio_change_20": 0.0015136080019249043
+    "three_inst_ratio_change_20": -0.018486391998075113
   },
   {
     "date": "2026-05-08",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.001513608001924825,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.551513608001925,
-    "three_inst_ratio_change_20": 0.0015136080019249043
+    "three_inst_ratio_change_20": -0.008486391998075105
   },
   {
     "date": "2026-05-11",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.001513608001924825,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4815136080019249,
-    "three_inst_ratio_change_20": -0.07848639199807517
+    "three_inst_ratio_change_20": -0.08848639199807518
   },
   {
     "date": "2026-05-12",
@@ -1713,7 +1724,7 @@
     "trust_ratio": 0.001513608001924825,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4415136080019249,
-    "three_inst_ratio_change_20": -0.1284863919980752
+    "three_inst_ratio_change_20": -0.15848639199807524
   },
   {
     "date": "2026-05-13",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.001513608001924825,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.3915136080019248,
-    "three_inst_ratio_change_20": -0.20848639199807528
+    "three_inst_ratio_change_20": -0.2384863919980751
   },
   {
     "date": "2026-05-18",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.001513608001924825,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4615136080019249,
-    "three_inst_ratio_change_20": -0.16848639199807502
+    "three_inst_ratio_change_20": -0.15000000000000013
   },
   {
     "date": "2026-05-25",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.001513608001924825,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4515136080019249,
-    "three_inst_ratio_change_20": -0.16000000000000014
+    "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
     "date": "2026-05-28",
@@ -1834,7 +1845,7 @@
     "trust_ratio": 0.001513608001924825,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.4615136080019249,
-    "three_inst_ratio_change_20": -0.09000000000000008
+    "three_inst_ratio_change_20": -0.08000000000000007
   },
   {
     "date": "2026-05-29",
@@ -1845,6 +1856,17 @@
     "trust_ratio": 0.001513608001924825,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.491513608001925,
-    "three_inst_ratio_change_20": -0.050000000000000044
+    "three_inst_ratio_change_20": -0.09000000000000008
+  },
+  {
+    "date": "2026-06-01",
+    "code": "7705",
+    "name": "三商餐飲",
+    "market": "TWSE",
+    "foreign_ratio": 2.26,
+    "trust_ratio": 0.001513608001924825,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.2615136080019247,
+    "three_inst_ratio_change_20": 2.2615136080019247
   }
 ]

@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": -3.7149001761099996
   },
   {
+    "date": "2026-05-01",
+    "code": "3030",
+    "name": "德律",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.285128103092084
+  },
+  {
     "date": "2026-05-04",
     "code": "3030",
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.4,
-    "trust_ratio": -4.686007721746199,
+    "trust_ratio": -4.666957361059369,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.713992278253802,
-    "three_inst_ratio_change_20": -2.571135824838283
+    "three_inst_ratio": 9.733042638940631,
+    "three_inst_ratio_change_20": 9.733042638940631
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.83,
-    "trust_ratio": -4.686007721746199,
+    "trust_ratio": -4.666957361059369,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.143992278253801,
-    "three_inst_ratio_change_20": 10.143992278253801
+    "three_inst_ratio": 10.163042638940631,
+    "three_inst_ratio_change_20": -2.1478063297998435
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.92,
-    "trust_ratio": -4.668650726453754,
+    "trust_ratio": -4.649600365766926,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.251349273546246,
-    "three_inst_ratio_change_20": -2.059499695194228
+    "three_inst_ratio": 10.270399634233074,
+    "three_inst_ratio_change_20": -2.207663240424017
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.84,
-    "trust_ratio": -4.643250245537982,
+    "trust_ratio": -4.624199884851153,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.196749754462019,
-    "three_inst_ratio_change_20": -2.2813131201950725
+    "three_inst_ratio": 10.215800115148847,
+    "three_inst_ratio_change_20": -1.7742192738849205
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.71,
-    "trust_ratio": -4.634360077217462,
+    "trust_ratio": -4.615309716530633,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.075639922782539,
-    "three_inst_ratio_change_20": -1.9143794662512281
+    "three_inst_ratio": 10.094690283469369,
+    "three_inst_ratio_change_20": -1.8241534866393465
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.65,
-    "trust_ratio": -4.634360077217462,
+    "trust_ratio": -4.615309716530633,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.015639922782539,
-    "three_inst_ratio_change_20": -1.9032038473261768
+    "three_inst_ratio": 10.034690283469367,
+    "three_inst_ratio_change_20": -0.8065333423646166
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.53,
-    "trust_ratio": -4.634360077217462,
+    "trust_ratio": -4.615309716530633,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.895639922782538,
-    "three_inst_ratio_change_20": -0.9455837030514456
+    "three_inst_ratio": 9.914690283469366,
+    "three_inst_ratio_change_20": -0.7161100010160215
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.55,
-    "trust_ratio": -4.62954160598774,
+    "trust_ratio": -4.610491245300911,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.920458394012261,
-    "three_inst_ratio_change_20": -0.710341890473126
+    "three_inst_ratio": 9.93950875469909,
+    "three_inst_ratio_change_20": -0.6300215057405065
   },
   {
     "date": "2026-05-14",
@@ -1809,24 +1820,13 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.51,
-    "trust_ratio": -4.622768144410201,
+    "trust_ratio": -4.603717783723372,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.8872318555898,
-    "three_inst_ratio_change_20": -0.6822984048497975
+    "three_inst_ratio": 9.906282216276628,
+    "three_inst_ratio_change_20": -0.5794379720256035
   },
   {
     "date": "2026-05-15",
-    "code": "3030",
-    "name": "德律",
-    "market": "TWSE",
-    "foreign_ratio": 14.49,
-    "trust_ratio": -4.602871101026179,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.88712889897382,
-    "three_inst_ratio_change_20": -0.5985912893284109
-  },
-  {
-    "date": "2026-05-18",
     "code": "3030",
     "name": "德律",
     "market": "TWSE",
@@ -1837,15 +1837,26 @@
     "three_inst_ratio_change_20": -0.7302274189724649
   },
   {
+    "date": "2026-05-18",
+    "code": "3030",
+    "name": "德律",
+    "market": "TWSE",
+    "foreign_ratio": 14.49,
+    "trust_ratio": -4.564770379652521,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.92522962034748,
+    "three_inst_ratio_change_20": -0.0012227791512842145
+  },
+  {
     "date": "2026-05-19",
     "code": "3030",
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.54,
-    "trust_ratio": -4.748923866291868,
+    "trust_ratio": -4.729873505605039,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.791076133708131,
-    "three_inst_ratio_change_20": -0.135376265790633
+    "three_inst_ratio": 9.81012649439496,
+    "three_inst_ratio_change_20": 0.13278169133335638
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.73,
-    "trust_ratio": -4.944084227994717,
+    "trust_ratio": -4.925033867307888,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.785915772005284,
-    "three_inst_ratio_change_20": 0.10857096894367935
+    "three_inst_ratio": 9.804966132692112,
+    "three_inst_ratio_change_20": 0.042918853930300926
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.75,
-    "trust_ratio": -5.139244589697565,
+    "trust_ratio": -5.120194229010736,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.610755410302435,
-    "three_inst_ratio_change_20": -0.15129186845937603
+    "three_inst_ratio": 9.629805770989265,
+    "three_inst_ratio_change_20": 0.9905159684356697
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.89,
-    "trust_ratio": -5.139244589697565,
+    "trust_ratio": -5.120194229010736,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.750755410302435,
-    "three_inst_ratio_change_20": 1.1114656077488405
+    "three_inst_ratio": 9.769805770989265,
+    "three_inst_ratio_change_20": 0.77734666576354
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.67,
-    "trust_ratio": -5.139244589697565,
+    "trust_ratio": -5.120194229010736,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.530755410302435,
-    "three_inst_ratio_change_20": 0.5382963050767096
+    "three_inst_ratio": 9.549805770989263,
+    "three_inst_ratio_change_20": 0.4777700071121327
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.58,
-    "trust_ratio": -5.118077522267755,
+    "trust_ratio": -5.099027161580926,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.461922477732244,
-    "three_inst_ratio_change_20": 0.3898867138551143
+    "three_inst_ratio": 9.480972838419074,
+    "three_inst_ratio_change_20": 0.5881476275950828
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.15,
-    "trust_ratio": -5.118077522267755,
+    "trust_ratio": -5.099027161580926,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.031922477732245,
-    "three_inst_ratio_change_20": 0.1390972669082533
+    "three_inst_ratio": 9.050972838419074,
+    "three_inst_ratio_change_20": 0.2681476275950825
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.41,
-    "trust_ratio": -5.118077522267755,
+    "trust_ratio": -5.099027161580926,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.291922477732246,
-    "three_inst_ratio_change_20": 0.5090972669082543
+    "three_inst_ratio": 9.310972838419074,
+    "three_inst_ratio_change_20": 0.6869805601652725
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "德律",
     "market": "TWSE",
     "foreign_ratio": 14.01,
-    "trust_ratio": -5.118500863616352,
+    "trust_ratio": -5.099450502929522,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.891499136383647,
-    "three_inst_ratio_change_20": 0.2675068581298454
+    "three_inst_ratio": 8.910549497070477,
+    "three_inst_ratio_change_20": 8.910549497070477
+  },
+  {
+    "date": "2026-06-01",
+    "code": "3030",
+    "name": "德律",
+    "market": "TWSE",
+    "foreign_ratio": 13.75,
+    "trust_ratio": -5.099450502929522,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.650549497070479,
+    "three_inst_ratio_change_20": -1.0824931418701524
   }
 ]

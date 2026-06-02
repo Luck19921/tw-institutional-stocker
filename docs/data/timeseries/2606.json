@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": 0.27762894818466144
   },
   {
+    "date": "2026-05-01",
+    "code": "2606",
+    "name": "裕民",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.988925380200257
+  },
+  {
     "date": "2026-05-04",
     "code": "2606",
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 10.99,
-    "trust_ratio": 0.4219941891831151,
+    "trust_ratio": 0.4076756065995327,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 11.47701913276932,
-    "three_inst_ratio_change_20": 0.4880937525690623
+    "three_inst_ratio": 11.462700550185737,
+    "three_inst_ratio_change_20": 11.462700550185737
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 11.12,
-    "trust_ratio": 0.3774744025397464,
+    "trust_ratio": 0.363155819956164,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 11.56249934612595,
-    "three_inst_ratio_change_20": 11.56249934612595
+    "three_inst_ratio": 11.548180763542367,
+    "three_inst_ratio_change_20": 0.514759754159261
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 11.35,
-    "trust_ratio": 0.2955863104088456,
+    "trust_ratio": 0.28126772782526316,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 11.710611253995049,
-    "three_inst_ratio_change_20": 0.6771902446119427
+    "three_inst_ratio": 11.696292671411467,
+    "three_inst_ratio_change_20": 0.5399717856235249
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 11.74,
-    "trust_ratio": 0.24884383007401056,
+    "trust_ratio": 0.23452524749042816,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.053868773660215,
-    "three_inst_ratio_change_20": 0.8975478878722729
+    "three_inst_ratio": 12.039550191076632,
+    "three_inst_ratio_change_20": 0.8387935369638679
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 12.12,
-    "trust_ratio": 0.18174766209970308,
+    "trust_ratio": 0.1674290795161207,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.366772605685906,
-    "three_inst_ratio_change_20": 1.1660159515731419
+    "three_inst_ratio": 12.352454023102323,
+    "three_inst_ratio_change_20": 1.176020854066481
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 12.28,
-    "trust_ratio": 0.1409219514275054,
+    "trust_ratio": 0.12660336884392304,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.48594689501371,
-    "three_inst_ratio_change_20": 1.309513725977867
+    "three_inst_ratio": 12.471628312430127,
+    "three_inst_ratio_change_20": 1.3338981030400987
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 12.8,
-    "trust_ratio": -0.29396061877633933,
+    "trust_ratio": -0.3082792013599217,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.571064324809866,
-    "three_inst_ratio_change_20": 1.4333341154198376
+    "three_inst_ratio": 12.556745742226283,
+    "three_inst_ratio_change_20": 1.4403827799698963
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 13.1,
-    "trust_ratio": -0.6250630490975251,
+    "trust_ratio": -0.6393816316811074,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.539961894488679,
-    "three_inst_ratio_change_20": 1.4235989322322915
+    "three_inst_ratio": 12.525643311905096,
+    "three_inst_ratio_change_20": 1.0091154408527316
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 13.88,
-    "trust_ratio": -1.359570835017325,
+    "trust_ratio": -1.373889417600907,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.58545410856888,
-    "three_inst_ratio_change_20": 1.068926237516516
+    "three_inst_ratio": 12.571135525985298,
+    "three_inst_ratio_change_20": 0.9896479143377466
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 14.77,
-    "trust_ratio": -2.4850587602442005,
+    "trust_ratio": -2.4993773428277826,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.349966183342003,
-    "three_inst_ratio_change_20": 0.7684785716944518
+    "three_inst_ratio": 12.33564760075842,
+    "three_inst_ratio_change_20": 0.44327778190321077
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 14.79,
-    "trust_ratio": -2.4993773428277826,
+    "trust_ratio": -2.513695925411365,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.35564760075842,
-    "three_inst_ratio_change_20": 0.46327778190321034
+    "three_inst_ratio": 12.341329018174838,
+    "three_inst_ratio_change_20": 0.6574349040788423
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 14.87,
-    "trust_ratio": -2.469911829907849,
+    "trust_ratio": -2.484230412491431,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.465113113678354,
-    "three_inst_ratio_change_20": 0.7812189995823591
+    "three_inst_ratio": 12.450794531094772,
+    "three_inst_ratio_change_20": 0.7710672595276176
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 14.94,
-    "trust_ratio": -2.47168686080664,
+    "trust_ratio": -2.4860054433902223,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.533338082779563,
-    "three_inst_ratio_change_20": 0.853610811212409
+    "three_inst_ratio": 12.51901950019598,
+    "three_inst_ratio_change_20": 0.8405920243989762
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 14.96,
-    "trust_ratio": -2.4764202765367496,
+    "trust_ratio": -2.490738859120332,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.548604667049455,
-    "three_inst_ratio_change_20": 0.8701771912524503
+    "three_inst_ratio": 12.534286084465872,
+    "three_inst_ratio_change_20": 0.9854602408036275
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 14.9,
-    "trust_ratio": -2.484112077098178,
+    "trust_ratio": -2.4984306596817607,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.480912866488026,
-    "three_inst_ratio_change_20": 0.9320870228257814
+    "three_inst_ratio": 12.466594283904444,
+    "three_inst_ratio_change_20": 0.9815092246131112
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 15.19,
-    "trust_ratio": -2.495117268670684,
+    "trust_ratio": -2.509435851254266,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.75990767491552,
-    "three_inst_ratio_change_20": 1.2748226156241866
+    "three_inst_ratio": 12.745589092331938,
+    "three_inst_ratio_change_20": 1.3006871993784
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 15.5,
-    "trust_ratio": -2.495117268670684,
+    "trust_ratio": -2.509435851254266,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 13.06990767491552,
-    "three_inst_ratio_change_20": 1.6250057819619812
+    "three_inst_ratio": 13.055589092331937,
+    "three_inst_ratio_change_20": 1.6179685113115934
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 15.66,
-    "trust_ratio": -2.442694689459717,
+    "trust_ratio": -2.4570132720432993,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 13.282330254126487,
-    "three_inst_ratio_change_20": 1.8447096731061432
+    "three_inst_ratio": 13.268011671542904,
+    "three_inst_ratio_change_20": 1.96104127591531
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 15.31,
-    "trust_ratio": -2.444469720358508,
+    "trust_ratio": -2.4587883029420903,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.930555223227696,
-    "three_inst_ratio_change_20": 1.6235848276001015
+    "three_inst_ratio": 12.916236640644113,
+    "three_inst_ratio_change_20": 1.569266245016518
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "裕民",
     "market": "TWSE",
     "foreign_ratio": 15.14,
-    "trust_ratio": -2.4464814220438047,
+    "trust_ratio": -2.4608000046273872,
     "dealer_ratio": 0.06502494358620464,
-    "three_inst_ratio": 12.7585435215424,
-    "three_inst_ratio_change_20": 1.4115731259148045
+    "three_inst_ratio": 12.744224938958817,
+    "three_inst_ratio_change_20": 12.744224938958817
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2606",
+    "name": "裕民",
+    "market": "TWSE",
+    "foreign_ratio": 15.2,
+    "trust_ratio": -2.464586737211475,
+    "dealer_ratio": 0.06502494358620464,
+    "three_inst_ratio": 12.800438206374729,
+    "three_inst_ratio_change_20": 1.3377376561889918
   }
 ]

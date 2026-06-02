@@ -1716,18 +1716,18 @@
     "three_inst_ratio_change_20": 0.045580151626285925
   },
   {
-    "date": "2026-05-04",
+    "date": "2026-05-01",
     "code": "5007",
     "name": "三星",
     "market": "TWSE",
-    "foreign_ratio": 2.93,
-    "trust_ratio": -0.4153384960936855,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.5146615039063147,
-    "three_inst_ratio_change_20": 0.05558015162628571
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.459081352280029
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-05-04",
     "code": "5007",
     "name": "三星",
     "market": "TWSE",
@@ -1738,6 +1738,17 @@
     "three_inst_ratio_change_20": 2.5146615039063147
   },
   {
+    "date": "2026-05-05",
+    "code": "5007",
+    "name": "三星",
+    "market": "TWSE",
+    "foreign_ratio": 2.93,
+    "trust_ratio": -0.4153384960936855,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.5146615039063147,
+    "three_inst_ratio_change_20": 0.05185058145728094
+  },
+  {
     "date": "2026-05-06",
     "code": "5007",
     "name": "三星",
@@ -1746,7 +1757,7 @@
     "trust_ratio": -0.4153384960936855,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5346615039063147,
-    "three_inst_ratio_change_20": 0.07185058145728096
+    "three_inst_ratio_change_20": 0.05185058145728094
   },
   {
     "date": "2026-05-07",
@@ -1779,7 +1790,7 @@
     "trust_ratio": -0.4153384960936855,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5446615039063145,
-    "three_inst_ratio_change_20": 0.06185058145728073
+    "three_inst_ratio_change_20": 0.05185058145728094
   },
   {
     "date": "2026-05-12",
@@ -1790,7 +1801,7 @@
     "trust_ratio": -0.4153384960936855,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5346615039063147,
-    "three_inst_ratio_change_20": 0.041850581457281155
+    "three_inst_ratio_change_20": 0.031850581457280924
   },
   {
     "date": "2026-05-13",
@@ -1801,7 +1812,7 @@
     "trust_ratio": -0.4153384960936855,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5346615039063147,
-    "three_inst_ratio_change_20": 0.031850581457280924
+    "three_inst_ratio_change_20": 0.021850581457281137
   },
   {
     "date": "2026-05-14",
@@ -1812,7 +1823,7 @@
     "trust_ratio": -0.4153384960936855,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5246615039063145,
-    "three_inst_ratio_change_20": 0.011850581457280907
+    "three_inst_ratio_change_20": 0.0018505814572806756
   },
   {
     "date": "2026-05-15",
@@ -1834,7 +1845,7 @@
     "trust_ratio": -0.4153384960936855,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5046615039063145,
-    "three_inst_ratio_change_20": -0.018149418542719342
+    "three_inst_ratio_change_20": -0.04120088504463215
   },
   {
     "date": "2026-05-19",
@@ -1845,7 +1856,7 @@
     "trust_ratio": -0.4153384960936855,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.5046615039063145,
-    "three_inst_ratio_change_20": -0.04120088504463215
+    "three_inst_ratio_change_20": -0.07120088504463151
   },
   {
     "date": "2026-05-20",
@@ -1867,7 +1878,7 @@
     "trust_ratio": -0.4153384960936855,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4946615039063147,
-    "three_inst_ratio_change_20": -0.0812008850446313
+    "three_inst_ratio_change_20": -0.09120088504463197
   },
   {
     "date": "2026-05-22",
@@ -1922,7 +1933,7 @@
     "trust_ratio": -0.48653938113831735,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4534606188616825,
-    "three_inst_ratio_change_20": -0.13240177008926413
+    "three_inst_ratio_change_20": -0.06120088504463217
   },
   {
     "date": "2026-05-29",
@@ -1933,6 +1944,17 @@
     "trust_ratio": -0.48653938113831735,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4534606188616825,
-    "three_inst_ratio_change_20": -0.06120088504463217
+    "three_inst_ratio_change_20": 2.4534606188616825
+  },
+  {
+    "date": "2026-06-01",
+    "code": "5007",
+    "name": "三星",
+    "market": "TWSE",
+    "foreign_ratio": 2.95,
+    "trust_ratio": -0.48653938113831735,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.4634606188616828,
+    "three_inst_ratio_change_20": -0.05120088504463194
   }
 ]

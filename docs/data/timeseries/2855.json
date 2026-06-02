@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": 0.9738179652201211
   },
   {
+    "date": "2026-05-01",
+    "code": "2855",
+    "name": "統一證",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.401907889744956
+  },
+  {
     "date": "2026-05-04",
     "code": "2855",
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 14.21,
-    "trust_ratio": 0.3637116486716314,
+    "trust_ratio": 0.36473574332203584,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.574648320607979,
-    "three_inst_ratio_change_20": 1.1727404308630227
+    "three_inst_ratio": 14.575672415258383,
+    "three_inst_ratio_change_20": 14.575672415258383
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 14.12,
-    "trust_ratio": 0.4051350283845754,
+    "trust_ratio": 0.4061591230349798,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.526071700320921,
-    "three_inst_ratio_change_20": 14.526071700320921
+    "three_inst_ratio": 14.527095794971325,
+    "three_inst_ratio_change_20": 1.0346259020645618
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 14.03,
-    "trust_ratio": 0.404678119814026,
+    "trust_ratio": 0.4057022144644305,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.435614791750371,
-    "three_inst_ratio_change_20": 0.9431448988436077
+    "three_inst_ratio": 14.436638886400775,
+    "three_inst_ratio_change_20": 0.8032323215576653
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 14.03,
-    "trust_ratio": 0.40190856823263965,
+    "trust_ratio": 0.4029326628830441,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.432845240168986,
-    "three_inst_ratio_change_20": 0.7994386753258755
+    "three_inst_ratio": 14.43386933481939,
+    "three_inst_ratio_change_20": 1.0302754355890116
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.98,
-    "trust_ratio": 0.4012382857949908,
+    "trust_ratio": 0.40226238044539525,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.382174957731337,
-    "three_inst_ratio_change_20": 0.9785810585009589
+    "three_inst_ratio": 14.383199052381741,
+    "three_inst_ratio_change_20": 0.922602503347667
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 14.3,
-    "trust_ratio": 0.401887461891674,
+    "trust_ratio": 0.40291155654207844,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.70282413382802,
-    "three_inst_ratio_change_20": 1.2422275847939463
+    "three_inst_ratio": 14.703848228478424,
+    "three_inst_ratio_change_20": 1.3812717273809998
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.85,
-    "trust_ratio": 0.4292695048308412,
+    "trust_ratio": 0.4302935994812456,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.280206176767187,
-    "three_inst_ratio_change_20": 0.9576296756697626
+    "three_inst_ratio": 14.281230271417591,
+    "three_inst_ratio_change_20": 0.8387786599116787
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.85,
-    "trust_ratio": 0.42831416190056454,
+    "trust_ratio": 0.42933825655096897,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.27925083383691,
-    "three_inst_ratio_change_20": 0.8367992223309972
+    "three_inst_ratio": 14.280274928487314,
+    "three_inst_ratio_change_20": 0.667885761777157
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.54,
-    "trust_ratio": 0.42497336532759883,
+    "trust_ratio": 0.42599745997800326,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 13.965910037263944,
-    "three_inst_ratio_change_20": 0.3535208705537869
+    "three_inst_ratio": 13.966934131914348,
+    "three_inst_ratio_change_20": 0.22423274122540882
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.7,
-    "trust_ratio": 0.4591618910042101,
+    "trust_ratio": 0.46018598565461455,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.160098562940556,
-    "three_inst_ratio_change_20": 0.41739717225161677
+    "three_inst_ratio": 14.16112265759096,
+    "three_inst_ratio_change_20": 0.5001697211831981
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.49,
-    "trust_ratio": 0.46018598565461455,
+    "trust_ratio": 0.461210080305019,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 13.951122657590961,
-    "three_inst_ratio_change_20": 0.29016972118319906
+    "three_inst_ratio": 13.952146752241365,
+    "three_inst_ratio_change_20": 0.11849102425811786
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.45,
-    "trust_ratio": 0.45694285274221186,
+    "trust_ratio": 0.4579669473926163,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 13.907879524678558,
-    "three_inst_ratio_change_20": 0.07422379669531054
+    "three_inst_ratio": 13.908903619328962,
+    "three_inst_ratio_change_20": -0.024591888346847668
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.42,
-    "trust_ratio": 0.4556920834832117,
+    "trust_ratio": 0.45671617813361615,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 13.876628755419558,
-    "three_inst_ratio_change_20": -0.056866752256251374
+    "three_inst_ratio": 13.877652850069962,
+    "three_inst_ratio_change_20": -0.14163235825322573
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.52,
-    "trust_ratio": 0.4555653829926221,
+    "trust_ratio": 0.45658947764302654,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 13.976502054928968,
-    "three_inst_ratio_change_20": -0.04278315339422001
+    "three_inst_ratio": 13.977526149579372,
+    "three_inst_ratio_change_20": -0.2318839483353301
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.45,
-    "trust_ratio": 0.4536258476364293,
+    "trust_ratio": 0.45464994228683375,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 13.904562519572774,
-    "three_inst_ratio_change_20": -0.30484757834192777
+    "three_inst_ratio": 13.905586614223179,
+    "three_inst_ratio_change_20": -0.452449698184882
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.48,
-    "trust_ratio": 0.45811606556488244,
+    "trust_ratio": 0.45914016021528686,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 13.939052737501228,
-    "three_inst_ratio_change_20": -0.41898357490683225
+    "three_inst_ratio": 13.940076832151632,
+    "three_inst_ratio_change_20": -0.4959612467922252
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.51,
-    "trust_ratio": 0.45811606556488244,
+    "trust_ratio": 0.45914016021528686,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 13.969052737501228,
-    "three_inst_ratio_change_20": -0.46698534144262993
+    "three_inst_ratio": 13.970076832151632,
+    "three_inst_ratio_change_20": -0.5057114676092009
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.88,
-    "trust_ratio": 0.4565449545036522,
+    "trust_ratio": 0.45756904915405666,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.337481626439999,
-    "three_inst_ratio_change_20": -0.1383066733208338
+    "three_inst_ratio": 14.338505721090403,
+    "three_inst_ratio_change_20": -0.14715768907891658
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.77,
-    "trust_ratio": 0.45503591356940387,
+    "trust_ratio": 0.4560600082198083,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.22597258550575,
-    "three_inst_ratio_change_20": -0.2596908246635703
+    "three_inst_ratio": 14.226996680156153,
+    "three_inst_ratio_change_20": -0.24866673001316641
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "統一證",
     "market": "TWSE",
     "foreign_ratio": 13.91,
-    "trust_ratio": 0.45346680074163787,
+    "trust_ratio": 0.4544908953920423,
     "dealer_ratio": 0.0009366719363455136,
-    "three_inst_ratio": 14.364403472677983,
-    "three_inst_ratio_change_20": -0.11125993749133656
+    "three_inst_ratio": 14.365427567328389,
+    "three_inst_ratio_change_20": 14.365427567328389
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2855",
+    "name": "統一證",
+    "market": "TWSE",
+    "foreign_ratio": 13.78,
+    "trust_ratio": 0.42750656335704745,
+    "dealer_ratio": 0.0009366719363455136,
+    "three_inst_ratio": 14.208443235293393,
+    "three_inst_ratio_change_20": -0.3672291799649905
   }
 ]

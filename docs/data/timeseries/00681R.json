@@ -1628,6 +1628,17 @@
     "three_inst_ratio_change_20": 0.6399999999999988
   },
   {
+    "date": "2026-05-01",
+    "code": "00681R",
+    "name": "元大美債20反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -14.81
+  },
+  {
     "date": "2026-05-04",
     "code": "00681R",
     "name": "元大美債20反1",
@@ -1647,7 +1658,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.4,
-    "three_inst_ratio_change_20": 3.589999999999998
+    "three_inst_ratio_change_20": 2.929999999999998
   },
   {
     "date": "2026-05-06",
@@ -1669,7 +1680,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.8,
-    "three_inst_ratio_change_20": 3.33
+    "three_inst_ratio_change_20": 18.8
   },
   {
     "date": "2026-05-08",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.8,
-    "three_inst_ratio_change_20": 18.8
+    "three_inst_ratio_change_20": 3.4000000000000004
   },
   {
     "date": "2026-05-11",
@@ -1691,7 +1702,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.8,
-    "three_inst_ratio_change_20": 3.4000000000000004
+    "three_inst_ratio_change_20": 3.3100000000000005
   },
   {
     "date": "2026-05-12",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.8,
-    "three_inst_ratio_change_20": 3.3100000000000005
+    "three_inst_ratio_change_20": 3.3200000000000003
   },
   {
     "date": "2026-05-13",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.9,
-    "three_inst_ratio_change_20": 3.419999999999998
+    "three_inst_ratio_change_20": 3.429999999999998
   },
   {
     "date": "2026-05-18",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.9,
-    "three_inst_ratio_change_20": 3.429999999999998
+    "three_inst_ratio_change_20": 3.4499999999999993
   },
   {
     "date": "2026-05-19",
@@ -1835,5 +1846,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.34,
     "three_inst_ratio_change_20": 3.8900000000000006
+  },
+  {
+    "date": "2026-06-01",
+    "code": "00681R",
+    "name": "元大美債20反1",
+    "market": "TWSE",
+    "foreign_ratio": 22.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.33,
+    "three_inst_ratio_change_20": 22.33
   }
 ]

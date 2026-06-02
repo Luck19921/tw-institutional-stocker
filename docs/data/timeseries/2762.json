@@ -1639,6 +1639,17 @@
     "three_inst_ratio_change_20": -0.11911111111110984
   },
   {
+    "date": "2026-05-01",
+    "code": "2762",
+    "name": "世界健身-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -87.37
+  },
+  {
     "date": "2026-05-04",
     "code": "2762",
     "name": "世界健身-KY",
@@ -1647,7 +1658,7 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 87.19088888888889,
-    "three_inst_ratio_change_20": -0.1791111111111121
+    "three_inst_ratio_change_20": -0.169111111111107
   },
   {
     "date": "2026-05-05",
@@ -1680,7 +1691,7 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 87.13088888888889,
-    "three_inst_ratio_change_20": -0.22911111111110927
+    "three_inst_ratio_change_20": -0.23911111111111438
   },
   {
     "date": "2026-05-08",
@@ -1702,7 +1713,7 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 87.19088888888889,
-    "three_inst_ratio_change_20": -0.1791111111111121
+    "three_inst_ratio_change_20": -0.18911111111110301
   },
   {
     "date": "2026-05-12",
@@ -1735,7 +1746,7 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 82.4208888888889,
-    "three_inst_ratio_change_20": -4.959111111111099
+    "three_inst_ratio_change_20": -4.969111111111104
   },
   {
     "date": "2026-05-15",
@@ -1746,7 +1757,7 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 82.32088888888889,
-    "three_inst_ratio_change_20": -5.069111111111113
+    "three_inst_ratio_change_20": -5.090000000000003
   },
   {
     "date": "2026-05-18",
@@ -1757,7 +1768,7 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 82.35088888888889,
-    "three_inst_ratio_change_20": -5.060000000000002
+    "three_inst_ratio_change_20": -5.02000000000001
   },
   {
     "date": "2026-05-19",
@@ -1768,7 +1779,7 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 82.38088888888889,
-    "three_inst_ratio_change_20": -4.990000000000009
+    "three_inst_ratio_change_20": -4.980000000000004
   },
   {
     "date": "2026-05-20",
@@ -1779,7 +1790,7 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 82.38088888888889,
-    "three_inst_ratio_change_20": -4.980000000000004
+    "three_inst_ratio_change_20": -4.969999999999999
   },
   {
     "date": "2026-05-21",
@@ -1790,7 +1801,7 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 82.4008888888889,
-    "three_inst_ratio_change_20": -4.949999999999989
+    "three_inst_ratio_change_20": -4.939999999999998
   },
   {
     "date": "2026-05-22",
@@ -1801,7 +1812,7 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 82.4008888888889,
-    "three_inst_ratio_change_20": -4.939999999999998
+    "three_inst_ratio_change_20": -4.909999999999997
   },
   {
     "date": "2026-05-25",
@@ -1823,7 +1834,7 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 82.4508888888889,
-    "three_inst_ratio_change_20": -4.859999999999999
+    "three_inst_ratio_change_20": -4.840000000000003
   },
   {
     "date": "2026-05-28",
@@ -1845,6 +1856,17 @@
     "trust_ratio": 0.0008888888888888888,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 82.5608888888889,
-    "three_inst_ratio_change_20": -4.730000000000004
+    "three_inst_ratio_change_20": -4.689999999999998
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2762",
+    "name": "世界健身-KY",
+    "market": "TWSE",
+    "foreign_ratio": 82.68,
+    "trust_ratio": 0.0008888888888888888,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 82.6808888888889,
+    "three_inst_ratio_change_20": 82.6808888888889
   }
 ]

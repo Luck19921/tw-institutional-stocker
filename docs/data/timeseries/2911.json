@@ -550,6 +550,17 @@
     "three_inst_ratio_change_20": -0.4800000000000004
   },
   {
+    "date": "2026-05-01",
+    "code": "2911",
+    "name": "麗嬰房",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -21.2
+  },
+  {
     "date": "2026-05-04",
     "code": "2911",
     "name": "麗嬰房",
@@ -591,7 +602,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.77,
-    "three_inst_ratio_change_20": -0.4299999999999997
+    "three_inst_ratio_change_20": 20.77
   },
   {
     "date": "2026-05-08",
@@ -602,7 +613,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.76,
-    "three_inst_ratio_change_20": 20.76
+    "three_inst_ratio_change_20": -0.4399999999999977
   },
   {
     "date": "2026-05-11",
@@ -624,7 +635,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.77,
-    "three_inst_ratio_change_20": -0.4299999999999997
+    "three_inst_ratio_change_20": -0.40000000000000213
   },
   {
     "date": "2026-05-14",
@@ -657,7 +668,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.77,
-    "three_inst_ratio_change_20": -0.40000000000000213
+    "three_inst_ratio_change_20": -0.41000000000000014
   },
   {
     "date": "2026-05-19",
@@ -679,7 +690,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.21,
-    "three_inst_ratio_change_20": 0.030000000000001137
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2026-05-21",
@@ -690,7 +701,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.77,
-    "three_inst_ratio_change_20": -0.4400000000000013
+    "three_inst_ratio_change_20": -0.4499999999999993
   },
   {
     "date": "2026-05-22",
@@ -734,7 +745,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.71,
-    "three_inst_ratio_change_20": -0.509999999999998
+    "three_inst_ratio_change_20": -0.4800000000000004
   },
   {
     "date": "2026-05-28",
@@ -745,7 +756,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.81,
-    "three_inst_ratio_change_20": -0.38000000000000256
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-05-29",
@@ -757,5 +768,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.82,
     "three_inst_ratio_change_20": 0.10000000000000142
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2911",
+    "name": "麗嬰房",
+    "market": "TWSE",
+    "foreign_ratio": 20.87,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.87,
+    "three_inst_ratio_change_20": 20.87
   }
 ]

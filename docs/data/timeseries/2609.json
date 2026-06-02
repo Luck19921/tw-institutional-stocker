@@ -1716,15 +1716,26 @@
     "three_inst_ratio_change_20": -1.1650012950501054
   },
   {
+    "date": "2026-05-01",
+    "code": "2609",
+    "name": "陽明",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -12.253467180233997
+  },
+  {
     "date": "2026-05-04",
     "code": "2609",
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.12,
-    "trust_ratio": -2.9319926062803385,
+    "trust_ratio": -2.931966833854019,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.18800739371966,
-    "three_inst_ratio_change_20": -1.065459786514337
+    "three_inst_ratio": 11.188033166145981,
+    "three_inst_ratio_change_20": 11.188033166145981
   },
   {
     "date": "2026-05-05",
@@ -1732,10 +1743,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.14,
-    "trust_ratio": -2.9318039807557064,
+    "trust_ratio": -2.9317782083293866,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.208196019244294,
-    "three_inst_ratio_change_20": 11.208196019244294
+    "three_inst_ratio": 11.208221791670613,
+    "three_inst_ratio_change_20": -0.9624225060725351
   },
   {
     "date": "2026-05-06",
@@ -1743,10 +1754,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.2,
-    "trust_ratio": -2.9319500245048524,
+    "trust_ratio": -2.9319242520785327,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.268049975495147,
-    "three_inst_ratio_change_20": -0.9025943222480013
+    "three_inst_ratio": 11.268075747921467,
+    "three_inst_ratio_change_20": -0.7034559353234897
   },
   {
     "date": "2026-05-07",
@@ -1754,10 +1765,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.2,
-    "trust_ratio": -2.9310556067674347,
+    "trust_ratio": -2.931029834341115,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.268944393232564,
-    "three_inst_ratio_change_20": -0.7025872900123922
+    "three_inst_ratio": 11.268970165658885,
+    "three_inst_ratio_change_20": -0.6383510190261283
   },
   {
     "date": "2026-05-08",
@@ -1765,10 +1776,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 13.97,
-    "trust_ratio": -2.9302495025442066,
+    "trust_ratio": -2.930223730117887,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.039750497455794,
-    "three_inst_ratio_change_20": -0.8675706872292199
+    "three_inst_ratio": 11.039776269882115,
+    "three_inst_ratio_change_20": -0.794437590633569
   },
   {
     "date": "2026-05-11",
@@ -1776,10 +1787,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.11,
-    "trust_ratio": -2.93152606809189,
+    "trust_ratio": -2.93150029566557,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.178473931908108,
-    "three_inst_ratio_change_20": -0.6557399286075754
+    "three_inst_ratio": 11.17849970433443,
+    "three_inst_ratio_change_20": -0.515004326288345
   },
   {
     "date": "2026-05-12",
@@ -1787,10 +1798,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.0,
-    "trust_ratio": -2.9295774722099006,
+    "trust_ratio": -2.929551699783581,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 11.07088110516242,
-    "three_inst_ratio_change_20": -0.6226229254603552
+    "three_inst_ratio": 11.070906877588738,
+    "three_inst_ratio_change_20": -0.5078939143188865
   },
   {
     "date": "2026-05-13",
@@ -1798,10 +1809,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 13.77,
-    "trust_ratio": -2.9297779244146107,
+    "trust_ratio": -2.929752151988291,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 10.840680652957708,
-    "three_inst_ratio_change_20": -0.7381201389499168
+    "three_inst_ratio": 10.840706425384028,
+    "three_inst_ratio_change_20": -0.7659423402898575
   },
   {
     "date": "2026-05-14",
@@ -1809,10 +1820,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 13.49,
-    "trust_ratio": -2.929659084893247,
+    "trust_ratio": -2.929633312466927,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 10.560799492479072,
-    "three_inst_ratio_change_20": -1.045849273194813
+    "three_inst_ratio": 10.560825264905391,
+    "three_inst_ratio_change_20": -0.9446549789591483
   },
   {
     "date": "2026-05-15",
@@ -1820,10 +1831,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 13.31,
-    "trust_ratio": -2.9375777487881254,
+    "trust_ratio": -2.937551976361805,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 10.372880828584194,
-    "three_inst_ratio_change_20": -1.132599415280346
+    "three_inst_ratio": 10.372906601010515,
+    "three_inst_ratio_change_20": -1.0184084178563175
   },
   {
     "date": "2026-05-18",
@@ -1831,10 +1842,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 13.41,
-    "trust_ratio": -2.937551976361805,
+    "trust_ratio": -2.9375262039354855,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 10.472906601010514,
-    "three_inst_ratio_change_20": -0.9184084178563179
+    "three_inst_ratio": 10.472932373436834,
+    "three_inst_ratio_change_20": -0.7769843439411375
   },
   {
     "date": "2026-05-19",
@@ -1842,10 +1853,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 13.6,
-    "trust_ratio": -2.9373801601863394,
+    "trust_ratio": -2.9373543877600197,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 10.663078417185979,
-    "three_inst_ratio_change_20": -0.5868383001919923
+    "three_inst_ratio": 10.6631041896123,
+    "three_inst_ratio_change_20": -0.6466084960573077
   },
   {
     "date": "2026-05-20",
@@ -1853,10 +1864,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 13.55,
-    "trust_ratio": -2.938010152829715,
+    "trust_ratio": -2.937984380403395,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 10.612448424542604,
-    "three_inst_ratio_change_20": -0.6972642611270032
+    "three_inst_ratio": 10.612474196968924,
+    "three_inst_ratio_change_20": -0.7161812178649516
   },
   {
     "date": "2026-05-21",
@@ -1864,10 +1875,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 13.84,
-    "trust_ratio": -2.939126957970244,
+    "trust_ratio": -2.939101185543924,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 10.901331619402075,
-    "three_inst_ratio_change_20": -0.4273237954317999
+    "three_inst_ratio": 10.901357391828395,
+    "three_inst_ratio_change_20": -0.2868504418683919
   },
   {
     "date": "2026-05-22",
@@ -1875,10 +1886,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.33,
-    "trust_ratio": -2.939899157134847,
+    "trust_ratio": -2.9398733847085268,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 11.390559420237471,
-    "three_inst_ratio_change_20": 0.20235158654068464
+    "three_inst_ratio": 11.390585192663792,
+    "three_inst_ratio_change_20": 0.1654235738499299
   },
   {
     "date": "2026-05-25",
@@ -1886,10 +1897,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.06,
-    "trust_ratio": -2.939211892432983,
+    "trust_ratio": -2.9391861200066627,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 11.121246684939337,
-    "three_inst_ratio_change_20": -0.10391493387452577
+    "three_inst_ratio": 11.121272457365658,
+    "three_inst_ratio_change_20": -0.04759009409532666
   },
   {
     "date": "2026-05-26",
@@ -1897,10 +1908,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.12,
-    "trust_ratio": -2.939211892432983,
+    "trust_ratio": -2.9391861200066627,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 11.181246684939335,
-    "three_inst_ratio_change_20": 0.01238413347835099
+    "three_inst_ratio": 11.181272457365656,
+    "three_inst_ratio_change_20": 0.012549821543560213
   },
   {
     "date": "2026-05-27",
@@ -1908,10 +1919,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.48,
-    "trust_ratio": -2.981699169022808,
+    "trust_ratio": -2.9816733965964883,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 11.498759408349512,
-    "three_inst_ratio_change_20": 0.33003677252741603
+    "three_inst_ratio": 11.498785180775831,
+    "three_inst_ratio_change_20": 0.410406177304667
   },
   {
     "date": "2026-05-28",
@@ -1919,10 +1930,10 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.53,
-    "trust_ratio": -2.981692525464023,
+    "trust_ratio": -2.9816667530377035,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 11.548766051908295,
-    "three_inst_ratio_change_20": 0.46038704843713063
+    "three_inst_ratio": 11.548791824334614,
+    "three_inst_ratio_change_20": 0.4904128208634493
   },
   {
     "date": "2026-05-29",
@@ -1930,9 +1941,20 @@
     "name": "陽明",
     "market": "TWSE",
     "foreign_ratio": 14.71,
-    "trust_ratio": -2.9913693270103874,
+    "trust_ratio": -2.991343554584067,
     "dealer_ratio": 0.0004585773723188397,
-    "three_inst_ratio": 11.719089250361932,
-    "three_inst_ratio_change_20": 0.6607102468907673
+    "three_inst_ratio": 11.719115022788253,
+    "three_inst_ratio_change_20": 11.719115022788253
+  },
+  {
+    "date": "2026-06-01",
+    "code": "2609",
+    "name": "陽明",
+    "market": "TWSE",
+    "foreign_ratio": 15.27,
+    "trust_ratio": -3.1633272508211787,
+    "dealer_ratio": 0.0004585773723188397,
+    "three_inst_ratio": 12.107131326551139,
+    "three_inst_ratio_change_20": 0.9190981604051576
   }
 ]

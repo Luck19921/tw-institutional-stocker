@@ -1199,6 +1199,17 @@
     "three_inst_ratio_change_20": -2.31
   },
   {
+    "date": "2026-02-20",
+    "code": "5607",
+    "name": "遠雄港",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.23
+  },
+  {
     "date": "2026-02-23",
     "code": "5607",
     "name": "遠雄港",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.91,
-    "three_inst_ratio_change_20": 0.6800000000000002
+    "three_inst_ratio_change_20": 0.7000000000000002
   },
   {
     "date": "2026-02-25",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.11,
-    "three_inst_ratio_change_20": 0.8999999999999999
+    "three_inst_ratio_change_20": 0.9299999999999997
   },
   {
     "date": "2026-02-26",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.32,
-    "three_inst_ratio_change_20": 1.1399999999999997
+    "three_inst_ratio_change_20": 1.1799999999999997
   },
   {
     "date": "2026-03-03",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.38,
-    "three_inst_ratio_change_20": 1.2399999999999998
+    "three_inst_ratio_change_20": 1.2799999999999998
   },
   {
     "date": "2026-03-04",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.43,
-    "three_inst_ratio_change_20": 1.33
+    "three_inst_ratio_change_20": 1.35
   },
   {
     "date": "2026-03-05",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.42,
-    "three_inst_ratio_change_20": 1.3399999999999999
+    "three_inst_ratio_change_20": 1.37
   },
   {
     "date": "2026-03-06",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.34,
-    "three_inst_ratio_change_20": 1.29
+    "three_inst_ratio_change_20": 1.2799999999999998
   },
   {
     "date": "2026-03-09",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.35,
-    "three_inst_ratio_change_20": 1.29
+    "three_inst_ratio_change_20": 1.2200000000000002
   },
   {
     "date": "2026-03-10",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.31,
-    "three_inst_ratio_change_20": 1.1800000000000002
+    "three_inst_ratio_change_20": 1.2000000000000002
   },
   {
     "date": "2026-03-11",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.32,
-    "three_inst_ratio_change_20": 1.21
+    "three_inst_ratio_change_20": 1.2199999999999998
   },
   {
     "date": "2026-03-12",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.013493349598900603,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.1034933495989003,
-    "three_inst_ratio_change_20": 1.0034933495989002
+    "three_inst_ratio_change_20": 1.0234933495989003
   },
   {
     "date": "2026-03-13",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.013493349598900603,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.0534933495989005,
-    "three_inst_ratio_change_20": 0.9734933495989004
+    "three_inst_ratio_change_20": 0.8534933495989003
   },
   {
     "date": "2026-03-16",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.013493349598900603,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.9734933495989004,
-    "three_inst_ratio_change_20": 0.7734933495989003
+    "three_inst_ratio_change_20": 0.7434933495989005
   },
   {
     "date": "2026-03-17",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.013493349598900603,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7734933495989003,
-    "three_inst_ratio_change_20": 0.5434933495989003
+    "three_inst_ratio_change_20": 2.7734933495989003
   },
   {
     "date": "2026-03-20",
@@ -1989,5 +2000,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.4837632165908787,
     "three_inst_ratio_change_20": 0.7097301330080223
+  },
+  {
+    "date": "2026-06-05",
+    "code": "5607",
+    "name": "遠雄港",
+    "market": "TWSE",
+    "foreign_ratio": 3.53,
+    "trust_ratio": 0.013763216590878613,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.5437632165908783,
+    "three_inst_ratio_change_20": 0.5697301330080218
   }
 ]

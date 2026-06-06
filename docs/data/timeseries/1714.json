@@ -1199,6 +1199,17 @@
     "three_inst_ratio_change_20": -17.62
   },
   {
+    "date": "2026-02-20",
+    "code": "1714",
+    "name": "和桐",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -17.82
+  },
+  {
     "date": "2026-02-23",
     "code": "1714",
     "name": "和桐",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.69,
-    "three_inst_ratio_change_20": 0.870000000000001
+    "three_inst_ratio_change_20": 0.9200000000000017
   },
   {
     "date": "2026-02-24",
@@ -1218,7 +1229,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.95,
-    "three_inst_ratio_change_20": 1.1799999999999997
+    "three_inst_ratio_change_20": 1.0799999999999983
   },
   {
     "date": "2026-02-25",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.1,
-    "three_inst_ratio_change_20": 1.2300000000000004
+    "three_inst_ratio_change_20": 0.9200000000000017
   },
   {
     "date": "2026-02-26",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.86,
-    "three_inst_ratio_change_20": 0.6799999999999997
+    "three_inst_ratio_change_20": 0.5799999999999983
   },
   {
     "date": "2026-03-03",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.09,
-    "three_inst_ratio_change_20": 0.8099999999999987
+    "three_inst_ratio_change_20": 0.8399999999999999
   },
   {
     "date": "2026-03-04",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.09,
-    "three_inst_ratio_change_20": 0.8399999999999999
+    "three_inst_ratio_change_20": 0.8200000000000003
   },
   {
     "date": "2026-03-05",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.18,
-    "three_inst_ratio_change_20": 0.9100000000000001
+    "three_inst_ratio_change_20": 0.7899999999999991
   },
   {
     "date": "2026-03-06",
@@ -1295,7 +1306,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.44,
-    "three_inst_ratio_change_20": 1.0500000000000007
+    "three_inst_ratio_change_20": 1.110000000000003
   },
   {
     "date": "2026-03-09",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.13,
-    "three_inst_ratio_change_20": 0.8000000000000007
+    "three_inst_ratio_change_20": 0.629999999999999
   },
   {
     "date": "2026-03-10",
@@ -1328,7 +1339,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.39,
-    "three_inst_ratio_change_20": 0.8900000000000006
+    "three_inst_ratio_change_20": 0.879999999999999
   },
   {
     "date": "2026-03-12",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.96,
-    "three_inst_ratio_change_20": 0.4499999999999993
+    "three_inst_ratio_change_20": 0.5
   },
   {
     "date": "2026-03-13",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.27,
-    "three_inst_ratio_change_20": 0.8099999999999987
+    "three_inst_ratio_change_20": 0.8000000000000007
   },
   {
     "date": "2026-03-16",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.42,
-    "three_inst_ratio_change_20": 0.9500000000000028
+    "three_inst_ratio_change_20": 0.7900000000000027
   },
   {
     "date": "2026-03-17",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.78,
-    "three_inst_ratio_change_20": 1.1500000000000021
+    "three_inst_ratio_change_20": 19.78
   },
   {
     "date": "2026-03-20",
@@ -1989,5 +2000,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.569037386207423,
     "three_inst_ratio_change_20": 2.489899175742334
+  },
+  {
+    "date": "2026-06-05",
+    "code": "1714",
+    "name": "和桐",
+    "market": "TWSE",
+    "foreign_ratio": 22.49,
+    "trust_ratio": 0.02903738620742384,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.519037386207422,
+    "three_inst_ratio_change_20": 2.4198991757423336
   }
 ]

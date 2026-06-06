@@ -1199,6 +1199,17 @@
     "three_inst_ratio_change_20": -1.67
   },
   {
+    "date": "2026-02-20",
+    "code": "2908",
+    "name": "特力",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.67
+  },
+  {
     "date": "2026-02-23",
     "code": "2908",
     "name": "特力",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.72,
-    "three_inst_ratio_change_20": 0.050000000000000044
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-03-04",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.69,
-    "three_inst_ratio_change_20": 0.010000000000000009
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-03-11",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.64,
-    "three_inst_ratio_change_20": -0.09000000000000008
+    "three_inst_ratio_change_20": -0.08000000000000007
   },
   {
     "date": "2026-03-16",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.63,
-    "three_inst_ratio_change_20": -0.09000000000000008
+    "three_inst_ratio_change_20": -0.10000000000000009
   },
   {
     "date": "2026-03-17",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.61,
-    "three_inst_ratio_change_20": -0.11999999999999988
+    "three_inst_ratio_change_20": 1.61
   },
   {
     "date": "2026-03-20",
@@ -1988,6 +1999,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.73,
+    "three_inst_ratio_change_20": 0.09000000000000008
+  },
+  {
+    "date": "2026-06-05",
+    "code": "2908",
+    "name": "特力",
+    "market": "TWSE",
+    "foreign_ratio": 1.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.74,
     "three_inst_ratio_change_20": 0.09000000000000008
   }
 ]

@@ -1199,15 +1199,26 @@
     "three_inst_ratio_change_20": -14.453408248437077
   },
   {
+    "date": "2026-02-20",
+    "code": "1707",
+    "name": "葡萄王",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -14.423408248437077
+  },
+  {
     "date": "2026-02-23",
     "code": "1707",
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.39,
-    "trust_ratio": 0.7985830827444199,
+    "trust_ratio": 0.9700455535957155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.18858308274442,
-    "three_inst_ratio_change_20": 0.7651748343073432
+    "three_inst_ratio": 15.360045553595716,
+    "three_inst_ratio_change_20": 0.9066373051586396
   },
   {
     "date": "2026-02-24",
@@ -1215,10 +1226,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.41,
-    "trust_ratio": 0.7985830827444199,
+    "trust_ratio": 0.9700455535957155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.20858308274442,
-    "three_inst_ratio_change_20": 0.7551748343073434
+    "three_inst_ratio": 15.380045553595716,
+    "three_inst_ratio_change_20": 0.936637305158639
   },
   {
     "date": "2026-02-25",
@@ -1226,10 +1237,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.43,
-    "trust_ratio": 0.7985830827444199,
+    "trust_ratio": 0.9700455535957155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.22858308274442,
-    "three_inst_ratio_change_20": 0.7851748343073428
+    "three_inst_ratio": 15.400045553595715,
+    "three_inst_ratio_change_20": 0.9666373051586383
   },
   {
     "date": "2026-02-26",
@@ -1237,10 +1248,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.47,
-    "trust_ratio": 0.7985830827444199,
+    "trust_ratio": 0.9700455535957155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.26858308274442,
-    "three_inst_ratio_change_20": 0.8351748343073435
+    "three_inst_ratio": 15.440045553595716,
+    "three_inst_ratio_change_20": 1.0066373051586393
   },
   {
     "date": "2026-03-02",
@@ -1248,10 +1259,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.48,
-    "trust_ratio": 0.7985830827444199,
+    "trust_ratio": 0.9700455535957155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.27858308274442,
-    "three_inst_ratio_change_20": 0.8451748343073433
+    "three_inst_ratio": 15.450045553595716,
+    "three_inst_ratio_change_20": 1.016637305158639
   },
   {
     "date": "2026-03-03",
@@ -1259,10 +1270,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.47,
-    "trust_ratio": 0.7985830827444199,
+    "trust_ratio": 0.9700455535957155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.26858308274442,
-    "three_inst_ratio_change_20": 0.8351748343073435
+    "three_inst_ratio": 15.440045553595716,
+    "three_inst_ratio_change_20": 0.9966373051586395
   },
   {
     "date": "2026-03-04",
@@ -1270,10 +1281,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.42,
-    "trust_ratio": 0.7985830827444199,
+    "trust_ratio": 0.9700455535957155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.21858308274442,
-    "three_inst_ratio_change_20": 0.775174834307343
+    "three_inst_ratio": 15.390045553595716,
+    "three_inst_ratio_change_20": 0.9766373051586381
   },
   {
     "date": "2026-03-05",
@@ -1281,10 +1292,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.39,
-    "trust_ratio": 0.7985830827444199,
+    "trust_ratio": 0.9700455535957155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.18858308274442,
-    "three_inst_ratio_change_20": 0.775174834307343
+    "three_inst_ratio": 15.360045553595716,
+    "three_inst_ratio_change_20": 0.9466373051586388
   },
   {
     "date": "2026-03-06",
@@ -1292,10 +1303,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.37,
-    "trust_ratio": 0.7985830827444199,
+    "trust_ratio": 0.9700455535957155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.16858308274442,
-    "three_inst_ratio_change_20": 0.7551748343073417
+    "three_inst_ratio": 15.340045553595715,
+    "three_inst_ratio_change_20": 0.9066373051586378
   },
   {
     "date": "2026-03-09",
@@ -1303,10 +1314,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.3,
-    "trust_ratio": 0.7985830827444199,
+    "trust_ratio": 0.9700455535957155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.09858308274442,
-    "three_inst_ratio_change_20": 0.6651748343073436
+    "three_inst_ratio": 15.270045553595716,
+    "three_inst_ratio_change_20": 0.8366373051586393
   },
   {
     "date": "2026-03-10",
@@ -1314,10 +1325,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.33,
-    "trust_ratio": 0.7979080336465803,
+    "trust_ratio": 0.9693705044978758,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.12790803364658,
-    "three_inst_ratio_change_20": 0.6944997852095032
+    "three_inst_ratio": 15.299370504497876,
+    "three_inst_ratio_change_20": 0.8659622560607989
   },
   {
     "date": "2026-03-11",
@@ -1325,10 +1336,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.32,
-    "trust_ratio": 0.7979080336465803,
+    "trust_ratio": 0.9693705044978758,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.11790803364658,
-    "three_inst_ratio_change_20": 0.6844997852095034
+    "three_inst_ratio": 15.289370504497876,
+    "three_inst_ratio_change_20": 0.8559622560607991
   },
   {
     "date": "2026-03-12",
@@ -1336,10 +1347,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.32,
-    "trust_ratio": 0.7979080336465803,
+    "trust_ratio": 0.9693705044978758,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.11790803364658,
-    "three_inst_ratio_change_20": 0.6844997852095034
+    "three_inst_ratio": 15.289370504497876,
+    "three_inst_ratio_change_20": 0.8459622560607993
   },
   {
     "date": "2026-03-13",
@@ -1347,10 +1358,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.33,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.12723298454874,
-    "three_inst_ratio_change_20": 0.6838247361116636
+    "three_inst_ratio": 15.298695455400036,
+    "three_inst_ratio_change_20": 0.8352872069629598
   },
   {
     "date": "2026-03-16",
@@ -1358,10 +1369,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.35,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.14723298454874,
-    "three_inst_ratio_change_20": 0.6838247361116636
+    "three_inst_ratio": 15.318695455400036,
+    "three_inst_ratio_change_20": 0.8552872069629593
   },
   {
     "date": "2026-03-17",
@@ -1369,9 +1380,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.34,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.13723298454874,
+    "three_inst_ratio": 15.308695455400036,
     "three_inst_ratio_change_20": 0.6738247361116638
   },
   {
@@ -1380,9 +1391,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.36,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.15723298454874,
+    "three_inst_ratio": 15.328695455400036,
     "three_inst_ratio_change_20": 0.5223622652603677
   },
   {
@@ -1391,10 +1402,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.35,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.14723298454874,
-    "three_inst_ratio_change_20": 0.34089979440907214
+    "three_inst_ratio": 15.318695455400036,
+    "three_inst_ratio_change_20": 15.318695455400036
   },
   {
     "date": "2026-03-20",
@@ -1402,10 +1413,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.38,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.177232984548741,
-    "three_inst_ratio_change_20": 15.177232984548741
+    "three_inst_ratio": 15.348695455400037,
+    "three_inst_ratio_change_20": 15.348695455400037
   },
   {
     "date": "2026-03-23",
@@ -1413,10 +1424,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.38,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.177232984548741,
-    "three_inst_ratio_change_20": 15.177232984548741
+    "three_inst_ratio": 15.348695455400037,
+    "three_inst_ratio_change_20": 15.348695455400037
   },
   {
     "date": "2026-03-24",
@@ -1424,9 +1435,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.38,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.177232984548741,
+    "three_inst_ratio": 15.348695455400037,
     "three_inst_ratio_change_20": -0.011350098195679337
   },
   {
@@ -1435,9 +1446,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.38,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.177232984548741,
+    "three_inst_ratio": 15.348695455400037,
     "three_inst_ratio_change_20": -0.03135009819567891
   },
   {
@@ -1446,9 +1457,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.4,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.19723298454874,
+    "three_inst_ratio": 15.368695455400037,
     "three_inst_ratio_change_20": -0.03135009819567891
   },
   {
@@ -1457,9 +1468,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.45,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.24723298454874,
+    "three_inst_ratio": 15.418695455400035,
     "three_inst_ratio_change_20": -0.0213500981956809
   },
   {
@@ -1468,9 +1479,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.44,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.23723298454874,
+    "three_inst_ratio": 15.408695455400036,
     "three_inst_ratio_change_20": -0.041350098195680474
   },
   {
@@ -1479,9 +1490,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.45,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.24723298454874,
+    "three_inst_ratio": 15.418695455400035,
     "three_inst_ratio_change_20": -0.0213500981956809
   },
   {
@@ -1490,9 +1501,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.46,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.257232984548741,
+    "three_inst_ratio": 15.428695455400037,
     "three_inst_ratio_change_20": 0.038649901804321374
   },
   {
@@ -1501,9 +1512,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.48,
-    "trust_ratio": 0.7972329845487405,
+    "trust_ratio": 0.9686954554000361,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.277232984548741,
+    "three_inst_ratio": 15.448695455400037,
     "three_inst_ratio_change_20": 0.08864990180432031
   },
   {
@@ -1515,7 +1526,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -15.16858308274442
+    "three_inst_ratio_change_20": -15.340045553595715
   },
   {
     "date": "2026-04-07",
@@ -1523,9 +1534,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.48,
-    "trust_ratio": 0.912666380279337,
+    "trust_ratio": 1.0841288511306326,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.392666380279337,
+    "three_inst_ratio": 15.564128851130633,
     "three_inst_ratio_change_20": 0.29408329753491635
   },
   {
@@ -1534,9 +1545,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.49,
-    "trust_ratio": 0.912666380279337,
+    "trust_ratio": 1.0841288511306326,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.402666380279337,
+    "three_inst_ratio": 15.574128851130633,
     "three_inst_ratio_change_20": 0.27475834663275656
   },
   {
@@ -1545,9 +1556,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.5,
-    "trust_ratio": 0.912666380279337,
+    "trust_ratio": 1.0841288511306326,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.412666380279337,
+    "three_inst_ratio": 15.584128851130632,
     "three_inst_ratio_change_20": 0.29475834663275613
   },
   {
@@ -1556,9 +1567,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.51,
-    "trust_ratio": 0.9119913311814973,
+    "trust_ratio": 1.083453802032793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.421991331181497,
+    "three_inst_ratio": 15.593453802032792,
     "three_inst_ratio_change_20": 0.30408329753491614
   },
   {
@@ -1567,9 +1578,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.56,
-    "trust_ratio": 0.9119913311814973,
+    "trust_ratio": 1.083453802032793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.471991331181497,
+    "three_inst_ratio": 15.643453802032793,
     "three_inst_ratio_change_20": 0.34475834663275684
   },
   {
@@ -1578,9 +1589,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.58,
-    "trust_ratio": 0.9119913311814973,
+    "trust_ratio": 1.083453802032793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.491991331181497,
+    "three_inst_ratio": 15.663453802032793,
     "three_inst_ratio_change_20": 0.34475834663275684
   },
   {
@@ -1589,9 +1600,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.59,
-    "trust_ratio": 0.9119913311814973,
+    "trust_ratio": 1.083453802032793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.501991331181497,
+    "three_inst_ratio": 15.673453802032792,
     "three_inst_ratio_change_20": 0.3647583466327564
   },
   {
@@ -1600,9 +1611,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.62,
-    "trust_ratio": 0.9119913311814973,
+    "trust_ratio": 1.083453802032793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.531991331181496,
+    "three_inst_ratio": 15.703453802032792,
     "three_inst_ratio_change_20": 0.3747583466327562
   },
   {
@@ -1611,9 +1622,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.63,
-    "trust_ratio": 0.9119913311814973,
+    "trust_ratio": 1.083453802032793,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.541991331181498,
+    "three_inst_ratio": 15.713453802032793,
     "three_inst_ratio_change_20": 0.39475834663275755
   },
   {
@@ -1622,9 +1633,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.68,
-    "trust_ratio": 0.909966183887978,
+    "trust_ratio": 1.0814286547392737,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.589966183887977,
+    "three_inst_ratio": 15.761428654739273,
     "three_inst_ratio_change_20": 0.412733199339236
   },
   {
@@ -1633,9 +1644,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.69,
-    "trust_ratio": 0.909966183887978,
+    "trust_ratio": 1.0814286547392737,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.599966183887977,
+    "three_inst_ratio": 15.771428654739273,
     "three_inst_ratio_change_20": 0.4227331993392358
   },
   {
@@ -1644,9 +1655,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.7,
-    "trust_ratio": 0.9092911347901383,
+    "trust_ratio": 1.080753605641434,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.609291134790137,
+    "three_inst_ratio": 15.780753605641433,
     "three_inst_ratio_change_20": 0.4320581502413958
   },
   {
@@ -1655,9 +1666,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.61,
-    "trust_ratio": 0.9092911347901383,
+    "trust_ratio": 1.080753605641434,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.519291134790137,
+    "three_inst_ratio": 15.690753605641433,
     "three_inst_ratio_change_20": 0.34205815024139596
   },
   {
@@ -1666,9 +1677,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.57,
-    "trust_ratio": 0.9092911347901383,
+    "trust_ratio": 1.080753605641434,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.479291134790138,
+    "three_inst_ratio": 15.650753605641434,
     "three_inst_ratio_change_20": 0.28205815024139724
   },
   {
@@ -1677,9 +1688,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.59,
-    "trust_ratio": 0.9086160856922985,
+    "trust_ratio": 1.0800785565435942,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.498616085692298,
+    "three_inst_ratio": 15.670078556543594,
     "three_inst_ratio_change_20": 0.2513831011435581
   },
   {
@@ -1688,9 +1699,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.6,
-    "trust_ratio": 0.9086160856922985,
+    "trust_ratio": 1.0800785565435942,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.508616085692298,
+    "three_inst_ratio": 15.680078556543593,
     "three_inst_ratio_change_20": 0.2713831011435577
   },
   {
@@ -1699,9 +1710,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.62,
-    "trust_ratio": 0.9079410365944588,
+    "trust_ratio": 1.0794035074457544,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.527941036594457,
+    "three_inst_ratio": 15.699403507445753,
     "three_inst_ratio_change_20": 0.2807080520457177
   },
   {
@@ -1710,9 +1721,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.56,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.639403507445754,
+    "three_inst_ratio": 15.81086597829705,
     "three_inst_ratio_change_20": 0.38217052289701314
   },
   {
@@ -1724,7 +1735,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -15.277232984548741
+    "three_inst_ratio_change_20": -15.448695455400037
   },
   {
     "date": "2026-05-04",
@@ -1732,10 +1743,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.57,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.649403507445754,
-    "three_inst_ratio_change_20": 15.649403507445754
+    "three_inst_ratio": 15.82086597829705,
+    "three_inst_ratio_change_20": 15.82086597829705
   },
   {
     "date": "2026-05-05",
@@ -1743,9 +1754,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.55,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.629403507445755,
+    "three_inst_ratio": 15.80086597829705,
     "three_inst_ratio_change_20": 0.2367371271664176
   },
   {
@@ -1754,9 +1765,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.55,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.629403507445755,
+    "three_inst_ratio": 15.80086597829705,
     "three_inst_ratio_change_20": 0.2267371271664178
   },
   {
@@ -1765,9 +1776,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.52,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.599403507445754,
+    "three_inst_ratio": 15.77086597829705,
     "three_inst_ratio_change_20": 0.18673712716641688
   },
   {
@@ -1776,9 +1787,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.52,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.599403507445754,
+    "three_inst_ratio": 15.77086597829705,
     "three_inst_ratio_change_20": 0.17741217626425687
   },
   {
@@ -1787,9 +1798,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.52,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.599403507445754,
+    "three_inst_ratio": 15.77086597829705,
     "three_inst_ratio_change_20": 0.12741217626425616
   },
   {
@@ -1798,9 +1809,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.36,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.439403507445753,
+    "three_inst_ratio": 15.61086597829705,
     "three_inst_ratio_change_20": -0.052587823735743555
   },
   {
@@ -1809,9 +1820,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.29,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.369403507445753,
+    "three_inst_ratio": 15.540865978297049,
     "three_inst_ratio_change_20": -0.13258782373574363
   },
   {
@@ -1820,9 +1831,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.25,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.329403507445754,
+    "three_inst_ratio": 15.50086597829705,
     "three_inst_ratio_change_20": -0.20258782373574213
   },
   {
@@ -1831,9 +1842,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.2,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.279403507445753,
+    "three_inst_ratio": 15.450865978297049,
     "three_inst_ratio_change_20": -0.2625878237357444
   },
   {
@@ -1842,9 +1853,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.2,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.279403507445753,
+    "three_inst_ratio": 15.450865978297049,
     "three_inst_ratio_change_20": -0.310562676442224
   },
   {
@@ -1853,9 +1864,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.16,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.239403507445754,
+    "three_inst_ratio": 15.41086597829705,
     "three_inst_ratio_change_20": -0.36056267644222295
   },
   {
@@ -1864,9 +1875,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.14,
-    "trust_ratio": 1.0794035074457544,
+    "trust_ratio": 1.25086597829705,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.219403507445755,
+    "three_inst_ratio": 15.39086597829705,
     "three_inst_ratio_change_20": -0.38988762734438254
   },
   {
@@ -1875,9 +1886,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.26,
-    "trust_ratio": 1.0787284583479146,
+    "trust_ratio": 1.2501909291992104,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.338728458347914,
+    "three_inst_ratio": 15.51019092919921,
     "three_inst_ratio_change_20": -0.18056267644222324
   },
   {
@@ -1886,9 +1897,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.28,
-    "trust_ratio": 1.0787284583479146,
+    "trust_ratio": 1.2501909291992104,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.358728458347914,
+    "three_inst_ratio": 15.53019092919921,
     "three_inst_ratio_change_20": -0.12056267644222451
   },
   {
@@ -1897,9 +1908,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.4,
-    "trust_ratio": 1.0787284583479146,
+    "trust_ratio": 1.2501909291992104,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.478728458347915,
+    "three_inst_ratio": 15.65019092919921,
     "three_inst_ratio_change_20": -0.01988762734438332
   },
   {
@@ -1908,9 +1919,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.41,
-    "trust_ratio": 1.2501909291992104,
+    "trust_ratio": 1.4216534000505059,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.66019092919921,
+    "three_inst_ratio": 15.831653400050506,
     "three_inst_ratio_change_20": 0.15157484350691242
   },
   {
@@ -1919,9 +1930,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.25,
-    "trust_ratio": 1.2501909291992104,
+    "trust_ratio": 1.4216534000505059,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.50019092919921,
+    "three_inst_ratio": 15.671653400050506,
     "three_inst_ratio_change_20": -0.027750107395247525
   },
   {
@@ -1930,9 +1941,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.22,
-    "trust_ratio": 1.2501909291992104,
+    "trust_ratio": 1.4216534000505059,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.47019092919921,
+    "three_inst_ratio": 15.641653400050506,
     "three_inst_ratio_change_20": -0.1692125782465439
   },
   {
@@ -1941,10 +1952,10 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.21,
-    "trust_ratio": 1.2501909291992104,
+    "trust_ratio": 1.4216534000505059,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.46019092919921,
-    "three_inst_ratio_change_20": 15.46019092919921
+    "three_inst_ratio": 15.631653400050507,
+    "three_inst_ratio_change_20": 15.631653400050507
   },
   {
     "date": "2026-06-01",
@@ -1952,9 +1963,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.23,
-    "trust_ratio": 1.2501909291992104,
+    "trust_ratio": 1.4216534000505059,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.48019092919921,
+    "three_inst_ratio": 15.651653400050506,
     "three_inst_ratio_change_20": -0.1692125782465439
   },
   {
@@ -1963,9 +1974,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.27,
-    "trust_ratio": 1.2501909291992104,
+    "trust_ratio": 1.4216534000505059,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.52019092919921,
+    "three_inst_ratio": 15.691653400050505,
     "three_inst_ratio_change_20": -0.10921257824654518
   },
   {
@@ -1974,9 +1985,9 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.2,
-    "trust_ratio": 1.2501909291992104,
+    "trust_ratio": 1.4216534000505059,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.45019092919921,
+    "three_inst_ratio": 15.621653400050505,
     "three_inst_ratio_change_20": -0.17921257824654546
   },
   {
@@ -1985,9 +1996,20 @@
     "name": "葡萄王",
     "market": "TWSE",
     "foreign_ratio": 14.01,
-    "trust_ratio": 1.2501909291992104,
+    "trust_ratio": 1.4216534000505059,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.26019092919921,
+    "three_inst_ratio": 15.431653400050505,
     "three_inst_ratio_change_20": -0.3392125782465438
+  },
+  {
+    "date": "2026-06-05",
+    "code": "1707",
+    "name": "葡萄王",
+    "market": "TWSE",
+    "foreign_ratio": 13.96,
+    "trust_ratio": 1.4216534000505059,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.381653400050507,
+    "three_inst_ratio_change_20": -0.38921257824654276
   }
 ]

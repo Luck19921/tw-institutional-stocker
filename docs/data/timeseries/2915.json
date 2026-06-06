@@ -1199,18 +1199,18 @@
     "three_inst_ratio_change_20": -4.919343451819906
   },
   {
-    "date": "2026-02-23",
+    "date": "2026-02-20",
     "code": "2915",
     "name": "潤泰全",
     "market": "TWSE",
-    "foreign_ratio": 6.23,
-    "trust_ratio": -1.8040933927002012,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.425906607299799,
-    "three_inst_ratio_change_20": -0.18523557826471482
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -4.611142185564514
   },
   {
-    "date": "2026-02-24",
+    "date": "2026-02-23",
     "code": "2915",
     "name": "潤泰全",
     "market": "TWSE",
@@ -1221,6 +1221,17 @@
     "three_inst_ratio_change_20": -0.16147143661884567
   },
   {
+    "date": "2026-02-24",
+    "code": "2915",
+    "name": "潤泰全",
+    "market": "TWSE",
+    "foreign_ratio": 6.23,
+    "trust_ratio": -1.8040933927002012,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.425906607299799,
+    "three_inst_ratio_change_20": -0.07982913495198574
+  },
+  {
     "date": "2026-02-25",
     "code": "2915",
     "name": "潤泰全",
@@ -1229,7 +1240,7 @@
     "trust_ratio": -1.8620476733143863,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.307952326685614,
-    "three_inst_ratio_change_20": -0.19778341556617107
+    "three_inst_ratio_change_20": -0.23116066790903034
   },
   {
     "date": "2026-02-26",
@@ -1240,7 +1251,7 @@
     "trust_ratio": -1.8753590471429566,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.254640952857043,
-    "three_inst_ratio_change_20": -0.284472041737601
+    "three_inst_ratio_change_20": -0.21994436356461744
   },
   {
     "date": "2026-03-02",
@@ -1251,7 +1262,7 @@
     "trust_ratio": -1.8895759566061239,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.320424043393876,
-    "three_inst_ratio_change_20": -0.1541612730277846
+    "three_inst_ratio_change_20": 0.1070282608217763
   },
   {
     "date": "2026-03-03",
@@ -1262,7 +1273,7 @@
     "trust_ratio": -1.9024345626173962,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.307565437382603,
-    "three_inst_ratio_change_20": 0.09416965481050354
+    "three_inst_ratio_change_20": 0.11471297619126197
   },
   {
     "date": "2026-03-04",
@@ -1273,7 +1284,7 @@
     "trust_ratio": -1.9037928660692909,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.256207133930709,
-    "three_inst_ratio_change_20": 0.06335467273936768
+    "three_inst_ratio_change_20": 0.1547767592598701
   },
   {
     "date": "2026-03-05",
@@ -1284,7 +1295,7 @@
     "trust_ratio": -1.9055133837750247,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.2344866162249755,
-    "three_inst_ratio_change_20": 0.13305624155413653
+    "three_inst_ratio_change_20": 0.085501187767548
   },
   {
     "date": "2026-03-06",
@@ -1295,7 +1306,7 @@
     "trust_ratio": -1.9055133837750247,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.274486616224975,
-    "three_inst_ratio_change_20": 0.12550118776754715
+    "three_inst_ratio_change_20": 0.15758391972712005
   },
   {
     "date": "2026-03-09",
@@ -1306,7 +1317,7 @@
     "trust_ratio": -1.9055133837750247,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.324486616224975,
-    "three_inst_ratio_change_20": 0.20758391972712076
+    "three_inst_ratio_change_20": 0.20839890179825726
   },
   {
     "date": "2026-03-10",
@@ -1317,7 +1328,7 @@
     "trust_ratio": -1.9055133837750247,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.254486616224975,
-    "three_inst_ratio_change_20": 0.13839890179825698
+    "three_inst_ratio_change_20": 0.048308348234797904
   },
   {
     "date": "2026-03-11",
@@ -1328,7 +1339,7 @@
     "trust_ratio": -1.9068716872269198,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.22312831277308,
-    "three_inst_ratio_change_20": 0.016950044782903184
+    "three_inst_ratio_change_20": 0.006950044782903397
   },
   {
     "date": "2026-03-12",
@@ -1339,7 +1350,7 @@
     "trust_ratio": -1.9075055621711374,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.2124944378288625,
-    "three_inst_ratio_change_20": -0.003683830161314461
+    "three_inst_ratio_change_20": -0.06368383016131496
   },
   {
     "date": "2026-03-13",
@@ -1350,7 +1361,7 @@
     "trust_ratio": -1.9075055621711374,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.182494437828862,
-    "three_inst_ratio_change_20": -0.0936838301613152
+    "three_inst_ratio_change_20": -0.13368383016131613
   },
   {
     "date": "2026-03-16",
@@ -1361,7 +1372,7 @@
     "trust_ratio": -1.9085922049326534,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.9714077950673463,
-    "three_inst_ratio_change_20": -0.344770472922832
+    "three_inst_ratio_change_20": -0.3147704729228309
   },
   {
     "date": "2026-03-17",
@@ -1394,7 +1405,7 @@
     "trust_ratio": -1.8722802259853282,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.787719774014672,
-    "three_inst_ratio_change_20": -0.49845849397550523
+    "three_inst_ratio_change_20": 3.787719774014672
   },
   {
     "date": "2026-03-20",
@@ -1989,5 +2000,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.536324062451055,
     "three_inst_ratio_change_20": -0.5009425482083532
+  },
+  {
+    "date": "2026-06-05",
+    "code": "2915",
+    "name": "潤泰全",
+    "market": "TWSE",
+    "foreign_ratio": 5.12,
+    "trust_ratio": -2.5336759375489453,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.586324062451055,
+    "three_inst_ratio_change_20": -0.45112365533527266
   }
 ]

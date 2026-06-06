@@ -154,14 +154,25 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2026-02-20",
+    "code": "4943",
+    "name": "康控-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2026-03-16",
     "code": "4943",
     "name": "康控-KY",
     "market": "TWSE",
     "foreign_ratio": 15.6,
-    "trust_ratio": 0.1460207149090536,
+    "trust_ratio": 0.17522485789086434,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.746020714909053,
+    "three_inst_ratio": 15.775224857890864,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -181,9 +192,9 @@
     "name": "康控-KY",
     "market": "TWSE",
     "foreign_ratio": 15.6,
-    "trust_ratio": 0.10497705450218447,
+    "trust_ratio": 0.1341811974839952,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.704977054502184,
+    "three_inst_ratio": 15.734181197483995,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -192,9 +203,9 @@
     "name": "康控-KY",
     "market": "TWSE",
     "foreign_ratio": 15.6,
-    "trust_ratio": 0.1341811974839952,
+    "trust_ratio": 0.1633853404658059,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.734181197483995,
+    "three_inst_ratio": 15.763385340465806,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -203,9 +214,9 @@
     "name": "康控-KY",
     "market": "TWSE",
     "foreign_ratio": 15.6,
-    "trust_ratio": 0.1341811974839952,
+    "trust_ratio": 0.1633853404658059,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.734181197483995,
+    "three_inst_ratio": 15.763385340465806,
     "three_inst_ratio_change_20": 0.0
   }
 ]

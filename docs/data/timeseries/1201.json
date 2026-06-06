@@ -1199,6 +1199,17 @@
     "three_inst_ratio_change_20": -5.44
   },
   {
+    "date": "2026-02-20",
+    "code": "1201",
+    "name": "味全",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.42
+  },
+  {
     "date": "2026-02-23",
     "code": "1201",
     "name": "味全",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.5,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.05999999999999961
   },
   {
     "date": "2026-02-24",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.51,
-    "three_inst_ratio_change_20": 0.0699999999999994
+    "three_inst_ratio_change_20": 0.05999999999999961
   },
   {
     "date": "2026-02-26",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.52,
-    "three_inst_ratio_change_20": 0.0699999999999994
+    "three_inst_ratio_change_20": 0.05999999999999961
   },
   {
     "date": "2026-03-03",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.48,
-    "three_inst_ratio_change_20": 0.020000000000000462
+    "three_inst_ratio_change_20": 0.03000000000000025
   },
   {
     "date": "2026-03-05",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.47,
-    "three_inst_ratio_change_20": 0.019999999999999574
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-03-06",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.43,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.020000000000000462
   },
   {
     "date": "2026-03-11",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.43,
-    "three_inst_ratio_change_20": -0.020000000000000462
+    "three_inst_ratio_change_20": -0.010000000000000675
   },
   {
     "date": "2026-03-13",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.43,
-    "three_inst_ratio_change_20": -0.010000000000000675
+    "three_inst_ratio_change_20": -0.020000000000000462
   },
   {
     "date": "2026-03-16",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.33,
-    "three_inst_ratio_change_20": -0.1200000000000001
+    "three_inst_ratio_change_20": 5.33
   },
   {
     "date": "2026-03-20",
@@ -1989,5 +2000,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.04,
     "three_inst_ratio_change_20": -0.1299999999999999
+  },
+  {
+    "date": "2026-06-05",
+    "code": "1201",
+    "name": "味全",
+    "market": "TWSE",
+    "foreign_ratio": 5.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.03,
+    "three_inst_ratio_change_20": -0.08000000000000007
   }
 ]

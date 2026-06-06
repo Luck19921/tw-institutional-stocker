@@ -1199,6 +1199,17 @@
     "three_inst_ratio_change_20": -25.24
   },
   {
+    "date": "2026-02-20",
+    "code": "5215",
+    "name": "科嘉-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -25.24
+  },
+  {
     "date": "2026-02-23",
     "code": "5215",
     "name": "科嘉-KY",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.34,
-    "three_inst_ratio_change_20": 0.10000000000000142
+    "three_inst_ratio_change_20": 0.10999999999999943
   },
   {
     "date": "2026-02-24",
@@ -1229,7 +1240,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.36,
-    "three_inst_ratio_change_20": 0.129999999999999
+    "three_inst_ratio_change_20": 0.14000000000000057
   },
   {
     "date": "2026-02-26",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.38,
-    "three_inst_ratio_change_20": 0.16000000000000014
+    "three_inst_ratio_change_20": 0.129999999999999
   },
   {
     "date": "2026-03-03",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.38,
-    "three_inst_ratio_change_20": 0.129999999999999
+    "three_inst_ratio_change_20": 0.14000000000000057
   },
   {
     "date": "2026-03-06",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.38,
-    "three_inst_ratio_change_20": 0.14000000000000057
+    "three_inst_ratio_change_20": 0.129999999999999
   },
   {
     "date": "2026-03-10",
@@ -1317,7 +1328,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.36,
-    "three_inst_ratio_change_20": 0.10999999999999943
+    "three_inst_ratio_change_20": 0.09999999999999787
   },
   {
     "date": "2026-03-11",
@@ -1339,7 +1350,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.37,
-    "three_inst_ratio_change_20": 0.10999999999999943
+    "three_inst_ratio_change_20": 0.10000000000000142
   },
   {
     "date": "2026-03-13",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.38,
-    "three_inst_ratio_change_20": 0.10999999999999943
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-03-16",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.37,
-    "three_inst_ratio_change_20": 0.08000000000000185
+    "three_inst_ratio_change_20": 0.05000000000000071
   },
   {
     "date": "2026-03-17",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.39,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 25.39
   },
   {
     "date": "2026-03-20",
@@ -1989,5 +2000,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.811554303477752,
     "three_inst_ratio_change_20": 0.24155430347775209
+  },
+  {
+    "date": "2026-06-05",
+    "code": "5215",
+    "name": "科嘉-KY",
+    "market": "TWSE",
+    "foreign_ratio": 25.89,
+    "trust_ratio": 0.0015543034777540314,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.891554303477754,
+    "three_inst_ratio_change_20": 0.3315543034777555
   }
 ]

@@ -1199,6 +1199,17 @@
     "three_inst_ratio_change_20": -3.8709816834739663
   },
   {
+    "date": "2026-02-20",
+    "code": "0061",
+    "name": "元大寶滬深",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.8865506906886216
+  },
+  {
     "date": "2026-02-23",
     "code": "0061",
     "name": "元大寶滬深",
@@ -1207,7 +1218,7 @@
     "trust_ratio": -1.046974244433587,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.963025755566413,
-    "three_inst_ratio_change_20": 1.0764750648777914
+    "three_inst_ratio_change_20": 1.1664750648777913
   },
   {
     "date": "2026-02-24",
@@ -1240,7 +1251,7 @@
     "trust_ratio": -1.046974244433587,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.853025755566414,
-    "three_inst_ratio_change_20": 1.0564750648777919
+    "three_inst_ratio_change_20": 1.096475064877792
   },
   {
     "date": "2026-03-02",
@@ -1251,7 +1262,7 @@
     "trust_ratio": -1.046974244433587,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.583025755566413,
-    "three_inst_ratio_change_20": 0.8264750648777914
+    "three_inst_ratio_change_20": 0.7364750648777916
   },
   {
     "date": "2026-03-03",
@@ -1262,7 +1273,7 @@
     "trust_ratio": -1.046974244433587,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.753025755566413,
-    "three_inst_ratio_change_20": 0.9064750648777915
+    "three_inst_ratio_change_20": 0.8964750648777917
   },
   {
     "date": "2026-03-04",
@@ -1273,7 +1284,7 @@
     "trust_ratio": -1.046974244433587,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.8130257555664135,
-    "three_inst_ratio_change_20": 0.9564750648777922
+    "three_inst_ratio_change_20": 0.9409443827460424
   },
   {
     "date": "2026-03-05",
@@ -1284,7 +1295,7 @@
     "trust_ratio": -1.046974244433587,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.223025755566413,
-    "three_inst_ratio_change_20": 1.3509443827460417
+    "three_inst_ratio_change_20": 0.9754525250858546
   },
   {
     "date": "2026-03-06",
@@ -1295,7 +1306,7 @@
     "trust_ratio": -1.046974244433587,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.113025755566413,
-    "three_inst_ratio_change_20": 0.8654525250858551
+    "three_inst_ratio_change_20": 0.8054525250858546
   },
   {
     "date": "2026-03-09",
@@ -1306,7 +1317,7 @@
     "trust_ratio": -1.0515615689298607,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.068438431070139,
-    "three_inst_ratio_change_20": 0.7608652005895804
+    "three_inst_ratio_change_20": 0.5108652005895804
   },
   {
     "date": "2026-03-10",
@@ -1317,7 +1328,7 @@
     "trust_ratio": -1.0561892691170258,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.323810730882974,
-    "three_inst_ratio_change_20": 0.7662375004024149
+    "three_inst_ratio_change_20": 0.6862375004024148
   },
   {
     "date": "2026-03-11",
@@ -1328,7 +1339,7 @@
     "trust_ratio": -1.0561892691170258,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.323810730882974,
-    "three_inst_ratio_change_20": 0.6862375004024148
+    "three_inst_ratio_change_20": 0.6662375004024153
   },
   {
     "date": "2026-03-12",
@@ -1339,7 +1350,7 @@
     "trust_ratio": -1.060857880405955,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.339142119594046,
-    "three_inst_ratio_change_20": 0.6815688891134872
+    "three_inst_ratio_change_20": 0.47611636402763224
   },
   {
     "date": "2026-03-13",
@@ -1350,7 +1361,7 @@
     "trust_ratio": -1.060857880405955,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.339142119594046,
-    "three_inst_ratio_change_20": 0.47611636402763224
+    "three_inst_ratio_change_20": 0.46611636402763246
   },
   {
     "date": "2026-03-16",
@@ -1394,7 +1405,7 @@
     "trust_ratio": -1.079952482090788,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.360047517909212,
-    "three_inst_ratio_change_20": -1.512978237657201
+    "three_inst_ratio_change_20": 3.360047517909212
   },
   {
     "date": "2026-03-20",
@@ -1989,5 +2000,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.8930234582064163,
     "three_inst_ratio_change_20": 0.9663747202602799
+  },
+  {
+    "date": "2026-06-05",
+    "code": "0061",
+    "name": "元大寶滬深",
+    "market": "TWSE",
+    "foreign_ratio": 5.07,
+    "trust_ratio": -1.1669765417935836,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.903023458206417,
+    "three_inst_ratio_change_20": 0.9063747202602803
   }
 ]

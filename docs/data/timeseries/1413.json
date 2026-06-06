@@ -957,6 +957,17 @@
     "three_inst_ratio_change_20": -0.36
   },
   {
+    "date": "2026-02-20",
+    "code": "1413",
+    "name": "宏洲",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.36
+  },
+  {
     "date": "2026-02-23",
     "code": "1413",
     "name": "宏洲",
@@ -976,7 +987,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.38,
-    "three_inst_ratio_change_20": 0.020000000000000018
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-02-25",
@@ -1009,7 +1020,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.41,
-    "three_inst_ratio_change_20": 0.06
+    "three_inst_ratio_change_20": 0.03999999999999998
   },
   {
     "date": "2026-03-03",
@@ -1097,7 +1108,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.37,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.010000000000000009
   },
   {
     "date": "2026-03-13",
@@ -1108,7 +1119,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.35,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-03-16",
@@ -1119,7 +1130,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.35,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-03-17",
@@ -1152,7 +1163,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34,
-    "three_inst_ratio_change_20": -0.03999999999999998
+    "three_inst_ratio_change_20": 0.34
   },
   {
     "date": "2026-03-20",
@@ -1706,6 +1717,17 @@
   },
   {
     "date": "2026-06-04",
+    "code": "1413",
+    "name": "宏洲",
+    "market": "TWSE",
+    "foreign_ratio": 0.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.42,
+    "three_inst_ratio_change_20": 0.019999999999999962
+  },
+  {
+    "date": "2026-06-05",
     "code": "1413",
     "name": "宏洲",
     "market": "TWSE",

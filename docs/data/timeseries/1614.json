@@ -1199,6 +1199,17 @@
     "three_inst_ratio_change_20": -2.2
   },
   {
+    "date": "2026-02-20",
+    "code": "1614",
+    "name": "三洋電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.19
+  },
+  {
     "date": "2026-02-23",
     "code": "1614",
     "name": "三洋電",
@@ -1207,7 +1218,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.22,
-    "three_inst_ratio_change_20": 0.03000000000000025
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-02-24",
@@ -1273,7 +1284,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.25,
-    "three_inst_ratio_change_20": 0.06999999999999984
+    "three_inst_ratio_change_20": 0.06000000000000005
   },
   {
     "date": "2026-03-05",
@@ -1284,7 +1295,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.26,
-    "three_inst_ratio_change_20": 0.06999999999999984
+    "three_inst_ratio_change_20": 0.05999999999999961
   },
   {
     "date": "2026-03-06",
@@ -1361,7 +1372,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.19,
-    "three_inst_ratio_change_20": -0.010000000000000231
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-03-17",
@@ -1394,7 +1405,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.18,
-    "three_inst_ratio_change_20": -0.029999999999999805
+    "three_inst_ratio_change_20": 2.18
   },
   {
     "date": "2026-03-20",
@@ -1989,5 +2000,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.28,
     "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
+    "date": "2026-06-05",
+    "code": "1614",
+    "name": "三洋電",
+    "market": "TWSE",
+    "foreign_ratio": 2.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.27,
+    "three_inst_ratio_change_20": -0.009999999999999787
   }
 ]

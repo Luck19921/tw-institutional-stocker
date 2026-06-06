@@ -1188,6 +1188,17 @@
     "three_inst_ratio_change_20": -8.25
   },
   {
+    "date": "2026-02-20",
+    "code": "00689R",
+    "name": "國泰20年美債反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.25
+  },
+  {
     "date": "2026-02-23",
     "code": "00689R",
     "name": "國泰20年美債反1",
@@ -1251,7 +1262,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.98,
-    "three_inst_ratio_change_20": 9.73
+    "three_inst_ratio_change_20": 9.0
   },
   {
     "date": "2026-03-04",
@@ -1262,7 +1273,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.98,
-    "three_inst_ratio_change_20": 9.0
+    "three_inst_ratio_change_20": 6.82
   },
   {
     "date": "2026-03-05",
@@ -1306,7 +1317,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.07,
-    "three_inst_ratio_change_20": 14.91
+    "three_inst_ratio_change_20": 13.46
   },
   {
     "date": "2026-03-11",
@@ -1350,7 +1361,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.87,
-    "three_inst_ratio_change_20": 11.260000000000002
+    "three_inst_ratio_change_20": 10.530000000000001
   },
   {
     "date": "2026-03-17",
@@ -1383,7 +1394,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.78,
-    "three_inst_ratio_change_20": 8.440000000000001
+    "three_inst_ratio_change_20": 21.78
   },
   {
     "date": "2026-03-20",
@@ -1970,6 +1981,17 @@
   },
   {
     "date": "2026-06-04",
+    "code": "00689R",
+    "name": "國泰20年美債反1",
+    "market": "TWSE",
+    "foreign_ratio": 40.94,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 40.94,
+    "three_inst_ratio_change_20": 18.79
+  },
+  {
+    "date": "2026-06-05",
     "code": "00689R",
     "name": "國泰20年美債反1",
     "market": "TWSE",

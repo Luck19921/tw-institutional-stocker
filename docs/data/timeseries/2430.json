@@ -2011,5 +2011,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.808253424657534,
     "three_inst_ratio_change_20": 0.03999999999999959
+  },
+  {
+    "date": "2026-06-08",
+    "code": "2430",
+    "name": "燦坤",
+    "market": "TWSE",
+    "foreign_ratio": 2.73,
+    "trust_ratio": 0.02825342465753425,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.7582534246575343,
+    "three_inst_ratio_change_20": -0.010000000000000231
+  },
+  {
+    "date": "2026-06-09",
+    "code": "2430",
+    "name": "燦坤",
+    "market": "TWSE",
+    "foreign_ratio": 2.69,
+    "trust_ratio": 0.02825342465753425,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.7182534246575343,
+    "three_inst_ratio_change_20": -0.040000000000000036
   }
 ]

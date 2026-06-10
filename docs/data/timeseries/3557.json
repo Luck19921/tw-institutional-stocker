@@ -1934,5 +1934,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.86,
     "three_inst_ratio_change_20": 0.1100000000000001
+  },
+  {
+    "date": "2026-06-08",
+    "code": "3557",
+    "name": "嘉威",
+    "market": "TWSE",
+    "foreign_ratio": 1.9,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9,
+    "three_inst_ratio_change_20": 0.17999999999999994
+  },
+  {
+    "date": "2026-06-09",
+    "code": "3557",
+    "name": "嘉威",
+    "market": "TWSE",
+    "foreign_ratio": 1.84,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.84,
+    "three_inst_ratio_change_20": 0.25
   }
 ]

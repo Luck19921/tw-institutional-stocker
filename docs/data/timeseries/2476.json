@@ -2011,5 +2011,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.983681960567274,
     "three_inst_ratio_change_20": -1.776645023960734
+  },
+  {
+    "date": "2026-06-08",
+    "code": "2476",
+    "name": "鉅祥",
+    "market": "TWSE",
+    "foreign_ratio": 10.46,
+    "trust_ratio": -0.07631803943272573,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.383681960567275,
+    "three_inst_ratio_change_20": -0.7366450239607332
+  },
+  {
+    "date": "2026-06-09",
+    "code": "2476",
+    "name": "鉅祥",
+    "market": "TWSE",
+    "foreign_ratio": 11.46,
+    "trust_ratio": -0.07631803943272573,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.383681960567275,
+    "three_inst_ratio_change_20": 1.2133549760392661
   }
 ]

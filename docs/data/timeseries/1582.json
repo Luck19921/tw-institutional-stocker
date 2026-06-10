@@ -2011,5 +2011,27 @@
     "dealer_ratio": 0.03465757525455781,
     "three_inst_ratio": 6.986193172285773,
     "three_inst_ratio_change_20": 2.805511401496614
+  },
+  {
+    "date": "2026-06-08",
+    "code": "1582",
+    "name": "信錦",
+    "market": "TWSE",
+    "foreign_ratio": 5.03,
+    "trust_ratio": 1.8915355970312155,
+    "dealer_ratio": 0.03465757525455781,
+    "three_inst_ratio": 6.956193172285774,
+    "three_inst_ratio_change_20": 2.3882507994601516
+  },
+  {
+    "date": "2026-06-09",
+    "code": "1582",
+    "name": "信錦",
+    "market": "TWSE",
+    "foreign_ratio": 4.77,
+    "trust_ratio": 1.121444274874941,
+    "dealer_ratio": 0.03465757525455781,
+    "three_inst_ratio": 5.926101850129498,
+    "three_inst_ratio_change_20": 1.3743978408496975
   }
 ]

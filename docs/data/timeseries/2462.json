@@ -2011,5 +2011,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5833159910978107,
     "three_inst_ratio_change_20": -0.01668400890218935
+  },
+  {
+    "date": "2026-06-08",
+    "code": "2462",
+    "name": "良得電",
+    "market": "TWSE",
+    "foreign_ratio": 1.66,
+    "trust_ratio": 0.003315991097810715,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6633159910978106,
+    "three_inst_ratio_change_20": 0.23331599109781065
+  },
+  {
+    "date": "2026-06-09",
+    "code": "2462",
+    "name": "良得電",
+    "market": "TWSE",
+    "foreign_ratio": 1.52,
+    "trust_ratio": 0.003315991097810715,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5233159910978107,
+    "three_inst_ratio_change_20": 0.19999999999999996
   }
 ]

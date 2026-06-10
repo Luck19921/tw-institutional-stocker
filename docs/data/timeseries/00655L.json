@@ -2011,5 +2011,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.23451242894143776,
     "three_inst_ratio_change_20": -8.529004431979628
+  },
+  {
+    "date": "2026-06-08",
+    "code": "00655L",
+    "name": "國泰中國A50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.1,
+    "trust_ratio": -1.3454875710585623,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": -0.24548757105856223,
+    "three_inst_ratio_change_20": -9.179004431979626
+  },
+  {
+    "date": "2026-06-09",
+    "code": "00655L",
+    "name": "國泰中國A50正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.1,
+    "trust_ratio": -1.3454875710585623,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": -0.24548757105856223,
+    "three_inst_ratio_change_20": -9.529410671337345
   }
 ]

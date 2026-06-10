@@ -2011,5 +2011,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9624597823963956,
     "three_inst_ratio_change_20": -0.037540217603604376
+  },
+  {
+    "date": "2026-06-08",
+    "code": "2442",
+    "name": "新美齊",
+    "market": "TWSE",
+    "foreign_ratio": 1.92,
+    "trust_ratio": 0.0024597823963957103,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9224597823963956,
+    "three_inst_ratio_change_20": -0.0875402176036042
+  },
+  {
+    "date": "2026-06-09",
+    "code": "2442",
+    "name": "新美齊",
+    "market": "TWSE",
+    "foreign_ratio": 1.72,
+    "trust_ratio": 0.0024597823963957103,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7224597823963956,
+    "three_inst_ratio_change_20": -0.28
   }
 ]

@@ -1923,5 +1923,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5606154258640499,
     "three_inst_ratio_change_20": 0.30060158930992165
+  },
+  {
+    "date": "2026-06-08",
+    "code": "8476",
+    "name": "台境*",
+    "market": "TWSE",
+    "foreign_ratio": 1.58,
+    "trust_ratio": 0.0006154258640497917,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.58061542586405,
+    "three_inst_ratio_change_20": 0.30060158930992165
+  },
+  {
+    "date": "2026-06-09",
+    "code": "8476",
+    "name": "台境*",
+    "market": "TWSE",
+    "foreign_ratio": 0.98,
+    "trust_ratio": 0.0006154258640497917,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9806154258640498,
+    "three_inst_ratio_change_20": -0.2693984106900784
   }
 ]

@@ -2011,5 +2011,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.112440506636554,
     "three_inst_ratio_change_20": 1.3200000000000003
+  },
+  {
+    "date": "2026-06-08",
+    "code": "2483",
+    "name": "百容",
+    "market": "TWSE",
+    "foreign_ratio": 2.09,
+    "trust_ratio": 0.03244050663655372,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.1224405066365537,
+    "three_inst_ratio_change_20": 0.3800000000000001
+  },
+  {
+    "date": "2026-06-09",
+    "code": "2483",
+    "name": "百容",
+    "market": "TWSE",
+    "foreign_ratio": 1.39,
+    "trust_ratio": 0.03244050663655372,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.4224405066365535,
+    "three_inst_ratio_change_20": -0.6000000000000001
   }
 ]

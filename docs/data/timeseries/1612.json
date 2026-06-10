@@ -2011,5 +2011,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.027180681908433,
     "three_inst_ratio_change_20": 0.13532493661265832
+  },
+  {
+    "date": "2026-06-08",
+    "code": "1612",
+    "name": "宏泰",
+    "market": "TWSE",
+    "foreign_ratio": 18.46,
+    "trust_ratio": 0.47297889838752655,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.93297889838753,
+    "three_inst_ratio_change_20": -0.050361915677040514
+  },
+  {
+    "date": "2026-06-09",
+    "code": "1612",
+    "name": "宏泰",
+    "market": "TWSE",
+    "foreign_ratio": 18.35,
+    "trust_ratio": 0.4687780639932358,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.818778063993236,
+    "three_inst_ratio_change_20": -0.1274680286304566
   }
 ]

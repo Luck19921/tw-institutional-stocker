@@ -1945,5 +1945,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.433578176361674,
     "three_inst_ratio_change_20": -0.49000452793936944
+  },
+  {
+    "date": "2026-06-08",
+    "code": "9924",
+    "name": "福興",
+    "market": "TWSE",
+    "foreign_ratio": 10.38,
+    "trust_ratio": -0.026421823638326902,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.353578176361674,
+    "three_inst_ratio_change_20": -0.5391256577199393
+  },
+  {
+    "date": "2026-06-09",
+    "code": "9924",
+    "name": "福興",
+    "market": "TWSE",
+    "foreign_ratio": 10.23,
+    "trust_ratio": -0.02699955643917499,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.203000443560825,
+    "three_inst_ratio_change_20": -0.648824520301357
   }
 ]

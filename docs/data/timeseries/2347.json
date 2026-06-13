@@ -2044,5 +2044,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.503058281311016,
     "three_inst_ratio_change_20": -0.04077964665840739
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2347",
+    "name": "聯強",
+    "market": "TWSE",
+    "foreign_ratio": 29.29,
+    "trust_ratio": 0.15946304355163407,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.449463043551635,
+    "three_inst_ratio_change_20": -0.0891221104578861
+  },
+  {
+    "date": "2026-06-12",
+    "code": "2347",
+    "name": "聯強",
+    "market": "TWSE",
+    "foreign_ratio": 29.21,
+    "trust_ratio": 0.0871467155663189,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.29714671556632,
+    "three_inst_ratio_change_20": -0.2118237334269928
   }
 ]

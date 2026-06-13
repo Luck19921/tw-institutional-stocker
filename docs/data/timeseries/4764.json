@@ -1923,5 +1923,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.05004466036837,
     "three_inst_ratio_change_20": -2.0899553396316293
+  },
+  {
+    "date": "2026-06-11",
+    "code": "4764",
+    "name": "雙鍵",
+    "market": "TWSE",
+    "foreign_ratio": 27.58,
+    "trust_ratio": 1.9300446603683696,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.51004466036837,
+    "three_inst_ratio_change_20": -1.7199553396316318
+  },
+  {
+    "date": "2026-06-12",
+    "code": "4764",
+    "name": "雙鍵",
+    "market": "TWSE",
+    "foreign_ratio": 27.19,
+    "trust_ratio": 1.9300446603683696,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.12004466036837,
+    "three_inst_ratio_change_20": -2.149955339631628
   }
 ]

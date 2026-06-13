@@ -2044,5 +2044,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.27215992316323,
     "three_inst_ratio_change_20": -1.112408088902832
+  },
+  {
+    "date": "2026-06-11",
+    "code": "4746",
+    "name": "台耀",
+    "market": "TWSE",
+    "foreign_ratio": 8.13,
+    "trust_ratio": 1.722159923163228,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.852159923163228,
+    "three_inst_ratio_change_20": -1.3603618424310486
+  },
+  {
+    "date": "2026-06-12",
+    "code": "4746",
+    "name": "台耀",
+    "market": "TWSE",
+    "foreign_ratio": 8.27,
+    "trust_ratio": 1.722159923163228,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.992159923163229,
+    "three_inst_ratio_change_20": -1.5983155959592619
   }
 ]

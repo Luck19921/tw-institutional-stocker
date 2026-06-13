@@ -482,5 +482,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.48,
     "three_inst_ratio_change_20": 0.1200000000000001
+  },
+  {
+    "date": "2026-06-11",
+    "code": "4169",
+    "name": "泰宗",
+    "market": "TWSE",
+    "foreign_ratio": 6.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.42,
+    "three_inst_ratio_change_20": 0.1299999999999999
+  },
+  {
+    "date": "2026-06-12",
+    "code": "4169",
+    "name": "泰宗",
+    "market": "TWSE",
+    "foreign_ratio": 6.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.52,
+    "three_inst_ratio_change_20": 0.20999999999999996
   }
 ]

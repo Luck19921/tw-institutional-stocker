@@ -2033,5 +2033,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.4398246105618506,
     "three_inst_ratio_change_20": -0.03246641455569499
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2530",
+    "name": "華建",
+    "market": "TWSE",
+    "foreign_ratio": 3.16,
+    "trust_ratio": 0.26982461056185064,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.429824610561851,
+    "three_inst_ratio_change_20": 0.11848454479057846
+  },
+  {
+    "date": "2026-06-12",
+    "code": "2530",
+    "name": "華建",
+    "market": "TWSE",
+    "foreign_ratio": 3.1,
+    "trust_ratio": 0.2692302609704301,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.36923026097043,
+    "three_inst_ratio_change_20": 0.08789019519915708
   }
 ]

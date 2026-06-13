@@ -2044,5 +2044,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.2204061219200915,
     "three_inst_ratio_change_20": -0.0005517911397152631
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2419",
+    "name": "仲琦",
+    "market": "TWSE",
+    "foreign_ratio": 1.11,
+    "trust_ratio": 0.07040612192009163,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1804061219200916,
+    "three_inst_ratio_change_20": -0.05055179113971486
+  },
+  {
+    "date": "2026-06-12",
+    "code": "2419",
+    "name": "仲琦",
+    "market": "TWSE",
+    "foreign_ratio": 1.26,
+    "trust_ratio": 0.07009490300316265,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.3300949030031626,
+    "three_inst_ratio_change_20": -0.03086301005664427
   }
 ]

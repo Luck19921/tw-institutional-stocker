@@ -2044,5 +2044,27 @@
     "dealer_ratio": -0.13286589273871852,
     "three_inst_ratio": 4.916949046632068,
     "three_inst_ratio_change_20": 0.09713410726128124
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2228",
+    "name": "劍麟",
+    "market": "TWSE",
+    "foreign_ratio": 3.16,
+    "trust_ratio": 1.7398149393707862,
+    "dealer_ratio": -0.13286589273871852,
+    "three_inst_ratio": 4.766949046632068,
+    "three_inst_ratio_change_20": -0.03286589273871776
+  },
+  {
+    "date": "2026-06-12",
+    "code": "2228",
+    "name": "劍麟",
+    "market": "TWSE",
+    "foreign_ratio": 3.22,
+    "trust_ratio": 1.7398149393707862,
+    "dealer_ratio": -0.13286589273871852,
+    "three_inst_ratio": 4.826949046632068,
+    "three_inst_ratio_change_20": 0.10713410726128192
   }
 ]

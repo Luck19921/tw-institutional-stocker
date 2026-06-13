@@ -2044,5 +2044,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.425264788228986,
     "three_inst_ratio_change_20": 0.4724846607493891
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2820",
+    "name": "華票",
+    "market": "TWSE",
+    "foreign_ratio": 9.46,
+    "trust_ratio": 0.015264788228986715,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.475264788228987,
+    "three_inst_ratio_change_20": 0.562484660749389
+  },
+  {
+    "date": "2026-06-12",
+    "code": "2820",
+    "name": "華票",
+    "market": "TWSE",
+    "foreign_ratio": 9.5,
+    "trust_ratio": 0.015264788228986715,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.515264788228986,
+    "three_inst_ratio_change_20": 0.7024846607493878
   }
 ]

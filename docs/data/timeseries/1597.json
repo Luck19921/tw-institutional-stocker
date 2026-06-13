@@ -1956,5 +1956,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.826759301436479,
     "three_inst_ratio_change_20": -2.8867218000657937
+  },
+  {
+    "date": "2026-06-11",
+    "code": "1597",
+    "name": "直得",
+    "market": "TWSE",
+    "foreign_ratio": 7.69,
+    "trust_ratio": 0.14675930143648006,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.83675930143648,
+    "three_inst_ratio_change_20": -0.7767218000657934
+  },
+  {
+    "date": "2026-06-12",
+    "code": "1597",
+    "name": "直得",
+    "market": "TWSE",
+    "foreign_ratio": 7.22,
+    "trust_ratio": 0.14563900142551453,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.365639001425515,
+    "three_inst_ratio_change_20": -1.1578421000767571
   }
 ]

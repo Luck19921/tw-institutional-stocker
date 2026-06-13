@@ -2044,5 +2044,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.068902,
     "three_inst_ratio_change_20": -0.1020000000000012
+  },
+  {
+    "date": "2026-06-11",
+    "code": "1773",
+    "name": "勝一",
+    "market": "TWSE",
+    "foreign_ratio": 7.47,
+    "trust_ratio": -0.431098,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.038902,
+    "three_inst_ratio_change_20": -0.07133333333333347
+  },
+  {
+    "date": "2026-06-12",
+    "code": "1773",
+    "name": "勝一",
+    "market": "TWSE",
+    "foreign_ratio": 7.63,
+    "trust_ratio": -0.4317646666666667,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.198235333333333,
+    "three_inst_ratio_change_20": 0.06799999999999962
   }
 ]

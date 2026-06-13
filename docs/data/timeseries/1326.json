@@ -2044,5 +2044,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.71042391833609,
     "three_inst_ratio_change_20": 0.2451102794746518
+  },
+  {
+    "date": "2026-06-11",
+    "code": "1326",
+    "name": "台化",
+    "market": "TWSE",
+    "foreign_ratio": 37.39,
+    "trust_ratio": 0.2603140429682002,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.6503140429682,
+    "three_inst_ratio_change_20": 0.2551539566395249
+  },
+  {
+    "date": "2026-06-12",
+    "code": "1326",
+    "name": "台化",
+    "market": "TWSE",
+    "foreign_ratio": 37.5,
+    "trust_ratio": 0.2598875081549596,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.75988750815496,
+    "three_inst_ratio_change_20": 0.39482979018146835
   }
 ]

@@ -2044,5 +2044,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.45953911002626,
     "three_inst_ratio_change_20": 0.6074756701251633
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2363",
+    "name": "矽統",
+    "market": "TWSE",
+    "foreign_ratio": 8.39,
+    "trust_ratio": 0.08148090223767299,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.471480902237673,
+    "three_inst_ratio_change_20": -0.7105825376634236
+  },
+  {
+    "date": "2026-06-12",
+    "code": "2363",
+    "name": "矽統",
+    "market": "TWSE",
+    "foreign_ratio": 8.6,
+    "trust_ratio": 0.08148090223767299,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.681480902237672,
+    "three_inst_ratio_change_20": -0.2005825376634256
   }
 ]

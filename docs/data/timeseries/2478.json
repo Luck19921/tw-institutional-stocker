@@ -2044,5 +2044,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.828587728121551,
     "three_inst_ratio_change_20": 0.5
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2478",
+    "name": "大毅",
+    "market": "TWSE",
+    "foreign_ratio": 15.22,
+    "trust_ratio": -0.001412271878449214,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.218587728121552,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-06-12",
+    "code": "2478",
+    "name": "大毅",
+    "market": "TWSE",
+    "foreign_ratio": 12.67,
+    "trust_ratio": -0.001412271878449214,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.668587728121551,
+    "three_inst_ratio_change_20": -3.969999999999999
   }
 ]

@@ -2044,5 +2044,27 @@
     "dealer_ratio": -0.041440283318822733,
     "three_inst_ratio": 9.241122796012894,
     "three_inst_ratio_change_20": 0.9085337514282479
+  },
+  {
+    "date": "2026-06-11",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 9.14,
+    "trust_ratio": 0.30336000785707773,
+    "dealer_ratio": -0.041440283318822733,
+    "three_inst_ratio": 9.401919724538256,
+    "three_inst_ratio_change_20": 1.7493306799536104
+  },
+  {
+    "date": "2026-06-12",
+    "code": "2312",
+    "name": "金寶",
+    "market": "TWSE",
+    "foreign_ratio": 8.6,
+    "trust_ratio": 0.30336000785707773,
+    "dealer_ratio": -0.041440283318822733,
+    "three_inst_ratio": 8.861919724538255,
+    "three_inst_ratio_change_20": 0.9393306799536099
   }
 ]

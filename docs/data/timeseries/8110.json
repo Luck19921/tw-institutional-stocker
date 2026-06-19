@@ -2088,5 +2088,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.027419560783454,
     "three_inst_ratio_change_20": 0.48999999999999977
+  },
+  {
+    "date": "2026-06-17",
+    "code": "8110",
+    "name": "華東",
+    "market": "TWSE",
+    "foreign_ratio": 2.0,
+    "trust_ratio": 0.027419560783454124,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.027419560783454,
+    "three_inst_ratio_change_20": 0.5899999999999999
+  },
+  {
+    "date": "2026-06-18",
+    "code": "8110",
+    "name": "華東",
+    "market": "TWSE",
+    "foreign_ratio": 1.97,
+    "trust_ratio": 0.027419560783454124,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9974195607834542,
+    "three_inst_ratio_change_20": 0.3899999999999999
   }
 ]

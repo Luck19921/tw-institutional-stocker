@@ -2088,5 +2088,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.75140731355072,
     "three_inst_ratio_change_20": 0.009190263319499792
+  },
+  {
+    "date": "2026-06-17",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 19.78,
+    "trust_ratio": 0.10884307143713863,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.88884307143714,
+    "three_inst_ratio_change_20": 0.32182757528787675
+  },
+  {
+    "date": "2026-06-18",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 19.52,
+    "trust_ratio": 0.10884307143713863,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.62884307143714,
+    "three_inst_ratio_change_20": 0.5118275752878745
   }
 ]

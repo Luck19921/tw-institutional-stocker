@@ -2088,5 +2088,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.1076875123872543,
     "three_inst_ratio_change_20": -0.6386554537096809
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2371",
+    "name": "大同",
+    "market": "TWSE",
+    "foreign_ratio": 6.47,
+    "trust_ratio": -3.5509641739573987,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.919035826042601,
+    "three_inst_ratio_change_20": -0.655017310350436
+  },
+  {
+    "date": "2026-06-18",
+    "code": "2371",
+    "name": "大同",
+    "market": "TWSE",
+    "foreign_ratio": 6.56,
+    "trust_ratio": -3.56302925649404,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.9969707435059596,
+    "three_inst_ratio_change_20": -0.7475008350559782
   }
 ]

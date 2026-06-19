@@ -2088,5 +2088,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.664336422707291,
     "three_inst_ratio_change_20": -1.6131217423895565
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2633",
+    "name": "台灣高鐵",
+    "market": "TWSE",
+    "foreign_ratio": 7.34,
+    "trust_ratio": 0.3461703539460578,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.686170353946058,
+    "three_inst_ratio_change_20": -1.5606659529845688
+  },
+  {
+    "date": "2026-06-18",
+    "code": "2633",
+    "name": "台灣高鐵",
+    "market": "TWSE",
+    "foreign_ratio": 7.24,
+    "trust_ratio": 0.4354939898724797,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.67549398987248,
+    "three_inst_ratio_change_20": -1.5704361808730827
   }
 ]

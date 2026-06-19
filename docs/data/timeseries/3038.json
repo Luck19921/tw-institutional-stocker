@@ -2088,5 +2088,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.262955941334042,
     "three_inst_ratio_change_20": 0.7863267339761233
+  },
+  {
+    "date": "2026-06-17",
+    "code": "3038",
+    "name": "全台",
+    "market": "TWSE",
+    "foreign_ratio": 9.16,
+    "trust_ratio": 0.12171521346399006,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.28171521346399,
+    "three_inst_ratio_change_20": 0.7469480508511399
+  },
+  {
+    "date": "2026-06-18",
+    "code": "3038",
+    "name": "全台",
+    "market": "TWSE",
+    "foreign_ratio": 9.1,
+    "trust_ratio": 0.12171521346399006,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.22171521346399,
+    "three_inst_ratio_change_20": 0.5969480508511396
   }
 ]

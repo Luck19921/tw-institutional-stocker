@@ -2088,5 +2088,27 @@
     "dealer_ratio": -0.00014941147321396355,
     "three_inst_ratio": 8.204298030455487,
     "three_inst_ratio_change_20": -0.04077909802128943
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2812",
+    "name": "台中銀",
+    "market": "TWSE",
+    "foreign_ratio": 7.88,
+    "trust_ratio": 0.4042647670142444,
+    "dealer_ratio": -0.00014941147321396355,
+    "three_inst_ratio": 8.284115355541031,
+    "three_inst_ratio_change_20": 0.15922090197870986
+  },
+  {
+    "date": "2026-06-18",
+    "code": "2812",
+    "name": "台中銀",
+    "market": "TWSE",
+    "foreign_ratio": 7.78,
+    "trust_ratio": 0.40522796201773553,
+    "dealer_ratio": -0.00014941147321396355,
+    "three_inst_ratio": 8.185078550544523,
+    "three_inst_ratio_change_20": 0.05031695146544202
   }
 ]

@@ -911,5 +911,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.1008593518480594,
     "three_inst_ratio_change_20": -1.3055633887938307
+  },
+  {
+    "date": "2026-06-17",
+    "code": "00984D",
+    "name": "主動聯博全球非投",
+    "market": "TWSE",
+    "foreign_ratio": 0.3,
+    "trust_ratio": 0.7608593518480594,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0608593518480594,
+    "three_inst_ratio_change_20": -1.335563388793831
+  },
+  {
+    "date": "2026-06-18",
+    "code": "00984D",
+    "name": "主動聯博全球非投",
+    "market": "TWSE",
+    "foreign_ratio": 1.24,
+    "trust_ratio": 0.7326177280498867,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9726177280498867,
+    "three_inst_ratio_change_20": -0.38186554427309183
   }
 ]

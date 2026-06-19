@@ -2088,5 +2088,27 @@
     "dealer_ratio": -0.008545296241683766,
     "three_inst_ratio": 10.252056444530108,
     "three_inst_ratio_change_20": 0.033342043205651706
+  },
+  {
+    "date": "2026-06-17",
+    "code": "2850",
+    "name": "新產",
+    "market": "TWSE",
+    "foreign_ratio": 10.54,
+    "trust_ratio": -0.19452892155512996,
+    "dealer_ratio": -0.008545296241683766,
+    "three_inst_ratio": 10.336925782203187,
+    "three_inst_ratio_change_20": 0.08821138087872882
+  },
+  {
+    "date": "2026-06-18",
+    "code": "2850",
+    "name": "新產",
+    "market": "TWSE",
+    "foreign_ratio": 10.59,
+    "trust_ratio": -0.24042032729750576,
+    "dealer_ratio": -0.008545296241683766,
+    "three_inst_ratio": 10.341034376460811,
+    "three_inst_ratio_change_20": 0.10231997513635349
   }
 ]

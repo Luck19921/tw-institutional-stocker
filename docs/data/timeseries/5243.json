@@ -2088,5 +2088,27 @@
     "dealer_ratio": -0.1287612870467955,
     "three_inst_ratio": 55.401031823233424,
     "three_inst_ratio_change_20": -1.0282335396273083
+  },
+  {
+    "date": "2026-06-17",
+    "code": "5243",
+    "name": "乙盛-KY",
+    "market": "TWSE",
+    "foreign_ratio": 54.42,
+    "trust_ratio": 0.8597931102802152,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 55.151031823233424,
+    "three_inst_ratio_change_20": 0.9417664603726905
+  },
+  {
+    "date": "2026-06-18",
+    "code": "5243",
+    "name": "乙盛-KY",
+    "market": "TWSE",
+    "foreign_ratio": 54.18,
+    "trust_ratio": 0.8597931102802152,
+    "dealer_ratio": -0.1287612870467955,
+    "three_inst_ratio": 54.91103182323342,
+    "three_inst_ratio_change_20": -1.69823353962731
   }
 ]

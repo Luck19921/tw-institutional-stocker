@@ -2088,5 +2088,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.93744937836369,
     "three_inst_ratio_change_20": 1.3623022800402822
+  },
+  {
+    "date": "2026-06-17",
+    "code": "3376",
+    "name": "新日興",
+    "market": "TWSE",
+    "foreign_ratio": 19.61,
+    "trust_ratio": 6.521025115662075,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.131025115662077,
+    "three_inst_ratio_change_20": 0.7235403115494954
+  },
+  {
+    "date": "2026-06-18",
+    "code": "3376",
+    "name": "新日興",
+    "market": "TWSE",
+    "foreign_ratio": 19.24,
+    "trust_ratio": 6.521025115662075,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.761025115662072,
+    "three_inst_ratio_change_20": -0.7715678845910574
   }
 ]

@@ -2088,5 +2088,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.526699635606455,
     "three_inst_ratio_change_20": 0.020000000000000462
+  },
+  {
+    "date": "2026-06-17",
+    "code": "1604",
+    "name": "聲寶",
+    "market": "TWSE",
+    "foreign_ratio": 7.5,
+    "trust_ratio": 0.03669963560645497,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.536699635606455,
+    "three_inst_ratio_change_20": 0.009999999999999787
+  },
+  {
+    "date": "2026-06-18",
+    "code": "1604",
+    "name": "聲寶",
+    "market": "TWSE",
+    "foreign_ratio": 7.48,
+    "trust_ratio": 0.03669963560645497,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.5166996356064555,
+    "three_inst_ratio_change_20": -0.019999999999999574
   }
 ]

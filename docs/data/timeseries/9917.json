@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.00044326526722546943,
     "three_inst_ratio": 38.63061398423061,
     "three_inst_ratio_change_20": -0.4188012509202963
+  },
+  {
+    "date": "2026-06-29",
+    "code": "9917",
+    "name": "中保科",
+    "market": "TWSE",
+    "foreign_ratio": 38.93,
+    "trust_ratio": -0.3000509136702262,
+    "dealer_ratio": 0.00044326526722546943,
+    "three_inst_ratio": 38.630392351596996,
+    "three_inst_ratio_change_20": -0.4476930877522278
+  },
+  {
+    "date": "2026-06-30",
+    "code": "9917",
+    "name": "中保科",
+    "market": "TWSE",
+    "foreign_ratio": 38.91,
+    "trust_ratio": -0.3000509136702262,
+    "dealer_ratio": 0.00044326526722546943,
+    "three_inst_ratio": 38.61039235159699,
+    "three_inst_ratio_change_20": -0.5366114560715971
   }
 ]

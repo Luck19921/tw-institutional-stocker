@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.0004585773723188397,
     "three_inst_ratio": 8.606943873500088,
     "three_inst_ratio_change_20": -2.9418479508345268
+  },
+  {
+    "date": "2026-06-29",
+    "code": "2609",
+    "name": "陽明",
+    "market": "TWSE",
+    "foreign_ratio": 18.52,
+    "trust_ratio": -9.885276736023693,
+    "dealer_ratio": 0.0004585773723188397,
+    "three_inst_ratio": 8.635181841348626,
+    "three_inst_ratio_change_20": -3.083933181439628
+  },
+  {
+    "date": "2026-06-30",
+    "code": "2609",
+    "name": "陽明",
+    "market": "TWSE",
+    "foreign_ratio": 18.4,
+    "trust_ratio": -9.884845305607097,
+    "dealer_ratio": 0.0004585773723188397,
+    "three_inst_ratio": 8.51561327176522,
+    "three_inst_ratio_change_20": -3.5915180547859187
   }
 ]

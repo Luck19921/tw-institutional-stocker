@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.16774413556366,
     "three_inst_ratio_change_20": -0.00999999999999801
+  },
+  {
+    "date": "2026-06-29",
+    "code": "2369",
+    "name": "菱生",
+    "market": "TWSE",
+    "foreign_ratio": 21.3,
+    "trust_ratio": -0.06225586443634244,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.23774413556366,
+    "three_inst_ratio_change_20": -0.629999999999999
+  },
+  {
+    "date": "2026-06-30",
+    "code": "2369",
+    "name": "菱生",
+    "market": "TWSE",
+    "foreign_ratio": 21.28,
+    "trust_ratio": -0.06225586443634244,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.21774413556366,
+    "three_inst_ratio_change_20": 0.5
   }
 ]

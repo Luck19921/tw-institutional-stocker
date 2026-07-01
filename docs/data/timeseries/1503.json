@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.417383268301425,
     "three_inst_ratio_change_20": -0.44197735006689953
+  },
+  {
+    "date": "2026-06-29",
+    "code": "1503",
+    "name": "士電",
+    "market": "TWSE",
+    "foreign_ratio": 30.37,
+    "trust_ratio": 0.10719131948806414,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 30.477191319488064,
+    "three_inst_ratio_change_20": -0.24236124769362277
+  },
+  {
+    "date": "2026-06-30",
+    "code": "1503",
+    "name": "士電",
+    "market": "TWSE",
+    "foreign_ratio": 30.28,
+    "trust_ratio": 0.10719131948806414,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 30.387191319488064,
+    "three_inst_ratio_change_20": -0.3879277632811515
   }
 ]

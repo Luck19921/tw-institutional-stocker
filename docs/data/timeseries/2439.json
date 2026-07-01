@@ -2165,5 +2165,27 @@
     "dealer_ratio": -0.029091456570660826,
     "three_inst_ratio": 1.8255280794630877,
     "three_inst_ratio_change_20": -1.4704960774415523
+  },
+  {
+    "date": "2026-06-29",
+    "code": "2439",
+    "name": "美律",
+    "market": "TWSE",
+    "foreign_ratio": 11.54,
+    "trust_ratio": -9.696160515168067,
+    "dealer_ratio": -0.029091456570660826,
+    "three_inst_ratio": 1.8147480282612711,
+    "three_inst_ratio_change_20": -1.4816703805856741
+  },
+  {
+    "date": "2026-06-30",
+    "code": "2439",
+    "name": "美律",
+    "market": "TWSE",
+    "foreign_ratio": 11.62,
+    "trust_ratio": -9.926803815194969,
+    "dealer_ratio": -0.029091456570660826,
+    "three_inst_ratio": 1.6641047282343695,
+    "three_inst_ratio_change_20": -1.7778000635171407
   }
 ]

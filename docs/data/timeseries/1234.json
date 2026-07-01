@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.790289396280888,
     "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-06-29",
+    "code": "1234",
+    "name": "黑松",
+    "market": "TWSE",
+    "foreign_ratio": 4.77,
+    "trust_ratio": 0.0002893962808880203,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.770289396280887,
+    "three_inst_ratio_change_20": 0.05999999999999961
+  },
+  {
+    "date": "2026-06-30",
+    "code": "1234",
+    "name": "黑松",
+    "market": "TWSE",
+    "foreign_ratio": 4.74,
+    "trust_ratio": 0.0002893962808880203,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.740289396280888,
+    "three_inst_ratio_change_20": 0.020000000000000462
   }
 ]

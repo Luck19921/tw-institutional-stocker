@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.901865008005823,
     "three_inst_ratio_change_20": -3.1270760921852965
+  },
+  {
+    "date": "2026-06-29",
+    "code": "2731",
+    "name": "雄獅",
+    "market": "TWSE",
+    "foreign_ratio": 9.73,
+    "trust_ratio": 1.9329370751578787,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.66293707515788,
+    "three_inst_ratio_change_20": -3.280274413383882
+  },
+  {
+    "date": "2026-06-30",
+    "code": "2731",
+    "name": "雄獅",
+    "market": "TWSE",
+    "foreign_ratio": 9.7,
+    "trust_ratio": 1.863252710274206,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.563252710274206,
+    "three_inst_ratio_change_20": -3.439958778267556
   }
 ]

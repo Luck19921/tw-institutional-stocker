@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.587679486108843,
     "three_inst_ratio_change_20": -1.0514399312698544
+  },
+  {
+    "date": "2026-06-29",
+    "code": "6192",
+    "name": "巨路",
+    "market": "TWSE",
+    "foreign_ratio": 24.52,
+    "trust_ratio": 0.037679486108841934,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.557679486108842,
+    "three_inst_ratio_change_20": -0.9414399312698549
+  },
+  {
+    "date": "2026-06-30",
+    "code": "6192",
+    "name": "巨路",
+    "market": "TWSE",
+    "foreign_ratio": 24.57,
+    "trust_ratio": 0.037679486108841934,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.607679486108843,
+    "three_inst_ratio_change_20": -0.5614399312698559
   }
 ]

@@ -2165,5 +2165,27 @@
     "dealer_ratio": -0.00441226010974739,
     "three_inst_ratio": 15.255363224774024,
     "three_inst_ratio_change_20": -1.750431718311079
+  },
+  {
+    "date": "2026-06-29",
+    "code": "9907",
+    "name": "統一實",
+    "market": "TWSE",
+    "foreign_ratio": 14.47,
+    "trust_ratio": 0.8391189618567737,
+    "dealer_ratio": -0.00441226010974739,
+    "three_inst_ratio": 15.304706701747026,
+    "three_inst_ratio_change_20": -1.716556106258647
+  },
+  {
+    "date": "2026-06-30",
+    "code": "9907",
+    "name": "統一實",
+    "market": "TWSE",
+    "foreign_ratio": 14.59,
+    "trust_ratio": 0.6039413058661955,
+    "dealer_ratio": -0.00441226010974739,
+    "three_inst_ratio": 15.189529045756448,
+    "three_inst_ratio_change_20": -1.7419182421145365
   }
 ]

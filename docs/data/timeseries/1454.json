@@ -2033,5 +2033,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4407702151753216,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-06-29",
+    "code": "1454",
+    "name": "台富",
+    "market": "TWSE",
+    "foreign_ratio": 0.44,
+    "trust_ratio": 0.0007702151753216157,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4407702151753216,
+    "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-06-30",
+    "code": "1454",
+    "name": "台富",
+    "market": "TWSE",
+    "foreign_ratio": 0.45,
+    "trust_ratio": 0.0007702151753216157,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4507702151753216,
+    "three_inst_ratio_change_20": -0.02999999999999997
   }
 ]

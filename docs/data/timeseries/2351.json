@@ -2165,5 +2165,27 @@
     "dealer_ratio": -0.0060393021643447954,
     "three_inst_ratio": 17.226680212510303,
     "three_inst_ratio_change_20": -1.53931341979224
+  },
+  {
+    "date": "2026-06-29",
+    "code": "2351",
+    "name": "順德",
+    "market": "TWSE",
+    "foreign_ratio": 14.15,
+    "trust_ratio": 3.0827195146746504,
+    "dealer_ratio": -0.0060393021643447954,
+    "three_inst_ratio": 17.226680212510303,
+    "three_inst_ratio_change_20": -0.9393134197922421
+  },
+  {
+    "date": "2026-06-30",
+    "code": "2351",
+    "name": "順德",
+    "market": "TWSE",
+    "foreign_ratio": 14.26,
+    "trust_ratio": 3.353390057131195,
+    "dealer_ratio": -0.0060393021643447954,
+    "three_inst_ratio": 17.60735075496685,
+    "three_inst_ratio_change_20": -0.19754482239672555
   }
 ]

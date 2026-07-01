@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7221736377086378,
     "three_inst_ratio_change_20": 0.54
+  },
+  {
+    "date": "2026-06-29",
+    "code": "2373",
+    "name": "震旦行",
+    "market": "TWSE",
+    "foreign_ratio": 1.38,
+    "trust_ratio": 0.3521736377086378,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7321736377086376,
+    "three_inst_ratio_change_20": 0.5399999999999998
+  },
+  {
+    "date": "2026-06-30",
+    "code": "2373",
+    "name": "震旦行",
+    "market": "TWSE",
+    "foreign_ratio": 1.37,
+    "trust_ratio": 0.3521736377086378,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7221736377086378,
+    "three_inst_ratio_change_20": 0.52
   }
 ]

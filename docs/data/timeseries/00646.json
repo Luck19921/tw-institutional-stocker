@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.830727445969171,
     "three_inst_ratio_change_20": -0.14995409703198592
+  },
+  {
+    "date": "2026-06-29",
+    "code": "00646",
+    "name": "元大S&P500",
+    "market": "TWSE",
+    "foreign_ratio": 0.32,
+    "trust_ratio": 1.4574423181385077,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7774423181385077,
+    "three_inst_ratio_change_20": -0.23323922486264914
+  },
+  {
+    "date": "2026-06-30",
+    "code": "00646",
+    "name": "元大S&P500",
+    "market": "TWSE",
+    "foreign_ratio": 0.33,
+    "trust_ratio": 1.472629492342018,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.802629492342018,
+    "three_inst_ratio_change_20": -0.21531127598658517
   }
 ]

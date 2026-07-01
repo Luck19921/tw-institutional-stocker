@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.441017370574489,
     "three_inst_ratio_change_20": -2.7701864942673593
+  },
+  {
+    "date": "2026-06-29",
+    "code": "1536",
+    "name": "和大",
+    "market": "TWSE",
+    "foreign_ratio": 3.86,
+    "trust_ratio": -0.39898262942551094,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.461017370574489,
+    "three_inst_ratio_change_20": -2.5801864942673594
+  },
+  {
+    "date": "2026-06-30",
+    "code": "1536",
+    "name": "和大",
+    "market": "TWSE",
+    "foreign_ratio": 3.9,
+    "trust_ratio": -0.39898262942551094,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.501017370574489,
+    "three_inst_ratio_change_20": -2.47018649426736
   }
 ]

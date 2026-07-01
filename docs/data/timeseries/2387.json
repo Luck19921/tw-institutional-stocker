@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.629003872711548,
     "three_inst_ratio_change_20": 0.6100000000000012
+  },
+  {
+    "date": "2026-06-29",
+    "code": "2387",
+    "name": "精元",
+    "market": "TWSE",
+    "foreign_ratio": 9.56,
+    "trust_ratio": -0.027001135066873468,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.532998864933127,
+    "three_inst_ratio_change_20": 0.3439949922215799
+  },
+  {
+    "date": "2026-06-30",
+    "code": "2387",
+    "name": "精元",
+    "market": "TWSE",
+    "foreign_ratio": 9.66,
+    "trust_ratio": 0.04470449687873895,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.704704496878739,
+    "three_inst_ratio_change_20": 0.02570062416719132
   }
 ]

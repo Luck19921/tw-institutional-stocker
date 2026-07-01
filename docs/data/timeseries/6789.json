@@ -2077,5 +2077,27 @@
     "dealer_ratio": 0.0021991892475203487,
     "three_inst_ratio": 4.113279330125949,
     "three_inst_ratio_change_20": -0.19001289893611073
+  },
+  {
+    "date": "2026-06-29",
+    "code": "6789",
+    "name": "采鈺",
+    "market": "TWSE",
+    "foreign_ratio": 3.33,
+    "trust_ratio": 0.6917084806634354,
+    "dealer_ratio": 0.0021991892475203487,
+    "three_inst_ratio": 4.0239076699109555,
+    "three_inst_ratio_change_20": -0.3296987290436073
+  },
+  {
+    "date": "2026-06-30",
+    "code": "6789",
+    "name": "采鈺",
+    "market": "TWSE",
+    "foreign_ratio": 3.58,
+    "trust_ratio": 0.6847967430283713,
+    "dealer_ratio": 0.0021991892475203487,
+    "three_inst_ratio": 4.266995932275892,
+    "three_inst_ratio_change_20": -0.07598212689366513
   }
 ]

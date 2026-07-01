@@ -2165,5 +2165,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.060836759626923,
     "three_inst_ratio_change_20": -0.23000000000000043
+  },
+  {
+    "date": "2026-06-29",
+    "code": "4119",
+    "name": "旭富",
+    "market": "TWSE",
+    "foreign_ratio": 5.05,
+    "trust_ratio": 0.0008367596269236915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.0508367596269235,
+    "three_inst_ratio_change_20": -0.27000000000000046
+  },
+  {
+    "date": "2026-06-30",
+    "code": "4119",
+    "name": "旭富",
+    "market": "TWSE",
+    "foreign_ratio": 5.04,
+    "trust_ratio": 0.0008367596269236915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.040836759626924,
+    "three_inst_ratio_change_20": -0.33999999999999986
   }
 ]

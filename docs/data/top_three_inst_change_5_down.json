@@ -735,17 +735,17 @@
     "change": -0.7449486238618253
   },
   {
-    "code": "2444",
-    "name": "兆勁",
-    "market": "TWSE",
-    "three_inst_ratio": 3.93,
-    "change": -0.73
-  },
-  {
     "code": "00680L",
     "name": "元大美債20正2",
     "market": "TWSE",
     "three_inst_ratio": 0.95,
+    "change": -0.73
+  },
+  {
+    "code": "2444",
+    "name": "兆勁",
+    "market": "TWSE",
+    "three_inst_ratio": 3.93,
     "change": -0.73
   },
   {
@@ -1211,17 +1211,17 @@
     "change": -0.41000000000000014
   },
   {
-    "code": "00405A",
-    "name": "主動富邦台灣龍耀",
-    "market": "TWSE",
-    "three_inst_ratio": 1.62,
-    "change": -0.4099999999999997
-  },
-  {
     "code": "3051",
     "name": "力特",
     "market": "TWSE",
     "three_inst_ratio": 2.9232934131736528,
+    "change": -0.4099999999999997
+  },
+  {
+    "code": "00405A",
+    "name": "主動富邦台灣龍耀",
+    "market": "TWSE",
+    "three_inst_ratio": 1.62,
     "change": -0.4099999999999997
   },
   {
@@ -1253,20 +1253,6 @@
     "change": -0.40000000000000036
   },
   {
-    "code": "3024",
-    "name": "憶聲",
-    "market": "TWSE",
-    "three_inst_ratio": 2.73,
-    "change": -0.3999999999999999
-  },
-  {
-    "code": "6776",
-    "name": "展碁國際",
-    "market": "TWSE",
-    "three_inst_ratio": 1.08,
-    "change": -0.3999999999999999
-  },
-  {
     "code": "7631",
     "name": "聚賢研發-創",
     "market": "TWSE",
@@ -1281,17 +1267,31 @@
     "change": -0.3999999999999999
   },
   {
-    "code": "1909",
-    "name": "榮成",
+    "code": "6776",
+    "name": "展碁國際",
     "market": "TWSE",
-    "three_inst_ratio": 6.832196527951377,
-    "change": -0.39999999999999947
+    "three_inst_ratio": 1.08,
+    "change": -0.3999999999999999
+  },
+  {
+    "code": "3024",
+    "name": "憶聲",
+    "market": "TWSE",
+    "three_inst_ratio": 2.73,
+    "change": -0.3999999999999999
   },
   {
     "code": "2457",
     "name": "飛宏",
     "market": "TWSE",
     "three_inst_ratio": 6.909512680220742,
+    "change": -0.39999999999999947
+  },
+  {
+    "code": "1909",
+    "name": "榮成",
+    "market": "TWSE",
+    "three_inst_ratio": 6.832196527951377,
     "change": -0.39999999999999947
   },
   {

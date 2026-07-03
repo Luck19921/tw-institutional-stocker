@@ -644,17 +644,17 @@
     "change": -2.1254015377257858
   },
   {
-    "code": "2009",
-    "name": "第一銅",
-    "market": "TWSE",
-    "three_inst_ratio": 0.8092120108892621,
-    "change": -2.1100000000000003
-  },
-  {
     "code": "4976",
     "name": "佳凌",
     "market": "TWSE",
     "three_inst_ratio": 1.940707458737469,
+    "change": -2.1100000000000003
+  },
+  {
+    "code": "2009",
+    "name": "第一銅",
+    "market": "TWSE",
+    "three_inst_ratio": 0.8092120108892621,
     "change": -2.1100000000000003
   },
   {
@@ -1134,13 +1134,6 @@
     "change": -1.168356998774804
   },
   {
-    "code": "00762",
-    "name": "元大全球AI",
-    "market": "TWSE",
-    "three_inst_ratio": 1.6122627125743487,
-    "change": -1.1600000000000001
-  },
-  {
     "code": "6141",
     "name": "柏承",
     "market": "TWSE",
@@ -1152,6 +1145,13 @@
     "name": "泰碩",
     "market": "TWSE",
     "three_inst_ratio": 2.759240619022987,
+    "change": -1.1600000000000001
+  },
+  {
+    "code": "00762",
+    "name": "元大全球AI",
+    "market": "TWSE",
+    "three_inst_ratio": 1.6122627125743487,
     "change": -1.1600000000000001
   },
   {
@@ -1274,17 +1274,17 @@
     "change": -1.0665622298352044
   },
   {
-    "code": "8104",
-    "name": "錸寶",
-    "market": "TWSE",
-    "three_inst_ratio": 1.09,
-    "change": -1.05
-  },
-  {
     "code": "9105",
     "name": "泰金寶-DR",
     "market": "TWSE",
     "three_inst_ratio": 0.73,
+    "change": -1.05
+  },
+  {
+    "code": "8104",
+    "name": "錸寶",
+    "market": "TWSE",
+    "three_inst_ratio": 1.09,
     "change": -1.05
   },
   {

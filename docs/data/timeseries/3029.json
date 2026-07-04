@@ -2198,5 +2198,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.096935432410337,
     "three_inst_ratio_change_20": 0.6070307585370447
+  },
+  {
+    "date": "2026-07-02",
+    "code": "3029",
+    "name": "零壹",
+    "market": "TWSE",
+    "foreign_ratio": 4.13,
+    "trust_ratio": 0.22848089315919076,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.35848089315919,
+    "three_inst_ratio_change_20": 0.9152843931601362
+  },
+  {
+    "date": "2026-07-03",
+    "code": "3029",
+    "name": "零壹",
+    "market": "TWSE",
+    "foreign_ratio": 4.49,
+    "trust_ratio": 0.22650490692470127,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.716504906924701,
+    "three_inst_ratio_change_20": 1.265237688030958
   }
 ]

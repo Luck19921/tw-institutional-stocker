@@ -2198,5 +2198,27 @@
     "dealer_ratio": 0.0012493928731507034,
     "three_inst_ratio": 8.895205033179188,
     "three_inst_ratio_change_20": 0.10036996084715
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2851",
+    "name": "中再保",
+    "market": "TWSE",
+    "foreign_ratio": 8.96,
+    "trust_ratio": 0.050452483246422444,
+    "dealer_ratio": 0.0012493928731507034,
+    "three_inst_ratio": 9.011701876119574,
+    "three_inst_ratio_change_20": 0.09686680378753465
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2851",
+    "name": "中再保",
+    "market": "TWSE",
+    "foreign_ratio": 9.0,
+    "trust_ratio": 0.08830908730288876,
+    "dealer_ratio": 0.0012493928731507034,
+    "three_inst_ratio": 9.08955848017604,
+    "three_inst_ratio_change_20": 0.09472340784400046
   }
 ]

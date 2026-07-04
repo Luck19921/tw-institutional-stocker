@@ -2198,5 +2198,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.168749941682805,
     "three_inst_ratio_change_20": -0.8544529533077103
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2421",
+    "name": "建準",
+    "market": "TWSE",
+    "foreign_ratio": 28.9,
+    "trust_ratio": 1.2794469425983397,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 30.17944694259834,
+    "three_inst_ratio_change_20": -1.4802709478145033
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2421",
+    "name": "建準",
+    "market": "TWSE",
+    "foreign_ratio": 28.98,
+    "trust_ratio": 1.2801439435138748,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 30.260143943513874,
+    "three_inst_ratio_change_20": -1.5320134501033387
   }
 ]

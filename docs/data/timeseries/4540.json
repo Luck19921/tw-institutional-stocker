@@ -2110,5 +2110,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.25,
     "three_inst_ratio_change_20": -3.7199999999999998
+  },
+  {
+    "date": "2026-07-02",
+    "code": "4540",
+    "name": "全球傳動",
+    "market": "TWSE",
+    "foreign_ratio": 4.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.52,
+    "three_inst_ratio_change_20": -0.2600000000000007
+  },
+  {
+    "date": "2026-07-03",
+    "code": "4540",
+    "name": "全球傳動",
+    "market": "TWSE",
+    "foreign_ratio": 2.89,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.89,
+    "three_inst_ratio_change_20": -1.6099999999999999
   }
 ]

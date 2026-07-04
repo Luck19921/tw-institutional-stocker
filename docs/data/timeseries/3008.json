@@ -2198,5 +2198,27 @@
     "dealer_ratio": 0.3125486508044144,
     "three_inst_ratio": 34.713183186691786,
     "three_inst_ratio_change_20": -0.6605374334785381
+  },
+  {
+    "date": "2026-07-02",
+    "code": "3008",
+    "name": "大立光",
+    "market": "TWSE",
+    "foreign_ratio": 32.09,
+    "trust_ratio": 1.9573052677476892,
+    "dealer_ratio": 0.3125486508044144,
+    "three_inst_ratio": 34.35985391855211,
+    "three_inst_ratio_change_20": -0.8896219067148081
+  },
+  {
+    "date": "2026-07-03",
+    "code": "3008",
+    "name": "大立光",
+    "market": "TWSE",
+    "foreign_ratio": 31.74,
+    "trust_ratio": 1.858631124708852,
+    "dealer_ratio": 0.3125486508044144,
+    "three_inst_ratio": 33.91117977551327,
+    "three_inst_ratio_change_20": -1.3766296358045338
   }
 ]

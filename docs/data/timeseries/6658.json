@@ -2110,5 +2110,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.265320318944185,
     "three_inst_ratio_change_20": -0.15824855650261238
+  },
+  {
+    "date": "2026-07-02",
+    "code": "6658",
+    "name": "聯策",
+    "market": "TWSE",
+    "foreign_ratio": 4.24,
+    "trust_ratio": 0.12532031894418477,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.365320318944185,
+    "three_inst_ratio_change_20": 0.30175144349738847
+  },
+  {
+    "date": "2026-07-03",
+    "code": "6658",
+    "name": "聯策",
+    "market": "TWSE",
+    "foreign_ratio": 3.16,
+    "trust_ratio": 0.12532031894418477,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.285320318944185,
+    "three_inst_ratio_change_20": -0.5982485565026119
   }
 ]

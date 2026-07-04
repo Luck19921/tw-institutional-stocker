@@ -2198,5 +2198,27 @@
     "dealer_ratio": -0.1789095137809258,
     "three_inst_ratio": 2.374820089784084,
     "three_inst_ratio_change_20": -6.963600868664532
+  },
+  {
+    "date": "2026-07-02",
+    "code": "4919",
+    "name": "新唐",
+    "market": "TWSE",
+    "foreign_ratio": 2.81,
+    "trust_ratio": -0.02198228558538102,
+    "dealer_ratio": -0.1789095137809258,
+    "three_inst_ratio": 2.609108200633693,
+    "three_inst_ratio_change_20": -6.789312757814923
+  },
+  {
+    "date": "2026-07-03",
+    "code": "4919",
+    "name": "新唐",
+    "market": "TWSE",
+    "foreign_ratio": 2.2,
+    "trust_ratio": -0.42363533516546203,
+    "dealer_ratio": -0.1789095137809258,
+    "three_inst_ratio": 1.5974551510536124,
+    "three_inst_ratio_change_20": -7.810965807395004
   }
 ]

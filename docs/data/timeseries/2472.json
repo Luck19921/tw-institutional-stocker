@@ -2198,5 +2198,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.622038522722692,
     "three_inst_ratio_change_20": 0.7758583326397481
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2472",
+    "name": "立隆電",
+    "market": "TWSE",
+    "foreign_ratio": 6.25,
+    "trust_ratio": 9.36137504168282,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.61137504168282,
+    "three_inst_ratio_change_20": 0.5451305391514616
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2472",
+    "name": "立隆電",
+    "market": "TWSE",
+    "foreign_ratio": 5.52,
+    "trust_ratio": 9.362589111757014,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.882589111757014,
+    "three_inst_ratio_change_20": -0.3906523718130632
   }
 ]

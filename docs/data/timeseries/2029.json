@@ -2198,5 +2198,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.73216202752351,
     "three_inst_ratio_change_20": 0.10999999999999943
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.8,
+    "trust_ratio": -0.07783797247649293,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.72216202752351,
+    "three_inst_ratio_change_20": 0.06999999999999318
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.83,
+    "trust_ratio": -0.07783797247649293,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.75216202752351,
+    "three_inst_ratio_change_20": 0.06999999999999318
   }
 ]

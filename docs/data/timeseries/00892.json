@@ -2110,5 +2110,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6626144281118822,
     "three_inst_ratio_change_20": 0.3659810472274314
+  },
+  {
+    "date": "2026-07-02",
+    "code": "00892",
+    "name": "富邦台灣半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.98,
+    "trust_ratio": 0.12217383180256709,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1021738318025671,
+    "three_inst_ratio_change_20": -0.7744595490818837
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00892",
+    "name": "富邦台灣半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.78,
+    "trust_ratio": 0.11980605513897502,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.899806055138975,
+    "three_inst_ratio_change_20": -1.1568273257454758
   }
 ]

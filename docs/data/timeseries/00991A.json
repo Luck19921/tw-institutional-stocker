@@ -1384,5 +1384,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.1347117428821543,
     "three_inst_ratio_change_20": -1.0293382839413416
+  },
+  {
+    "date": "2026-07-02",
+    "code": "00991A",
+    "name": "主動復華未來50",
+    "market": "TWSE",
+    "foreign_ratio": 1.66,
+    "trust_ratio": 0.7226824331789258,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.3826824331789256,
+    "three_inst_ratio_change_20": -2.2213675936445707
+  },
+  {
+    "date": "2026-07-03",
+    "code": "00991A",
+    "name": "主動復華未來50",
+    "market": "TWSE",
+    "foreign_ratio": 2.02,
+    "trust_ratio": 0.7194212256239855,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.7394212256239854,
+    "three_inst_ratio_change_20": -1.443852155862162
   }
 ]

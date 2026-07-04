@@ -2198,5 +2198,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 64.03633589769467,
     "three_inst_ratio_change_20": -1.206634910893527
+  },
+  {
+    "date": "2026-07-02",
+    "code": "2308",
+    "name": "台達電",
+    "market": "TWSE",
+    "foreign_ratio": 63.48,
+    "trust_ratio": 0.49975909372020333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 63.9797590937202,
+    "three_inst_ratio_change_20": -1.364821505146871
+  },
+  {
+    "date": "2026-07-03",
+    "code": "2308",
+    "name": "台達電",
+    "market": "TWSE",
+    "foreign_ratio": 63.5,
+    "trust_ratio": 0.48226075230947574,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 63.98226075230948,
+    "three_inst_ratio_change_20": -1.350850791836784
   }
 ]

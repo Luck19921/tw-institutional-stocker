@@ -252,17 +252,17 @@
     "change": -1.4299999999999997
   },
   {
-    "code": "2375",
-    "name": "凱美",
-    "market": "TWSE",
-    "three_inst_ratio": 9.429354959424371,
-    "change": -1.42
-  },
-  {
     "code": "2425",
     "name": "承啟",
     "market": "TWSE",
     "three_inst_ratio": 9.84,
+    "change": -1.42
+  },
+  {
+    "code": "2375",
+    "name": "凱美",
+    "market": "TWSE",
+    "three_inst_ratio": 9.429354959424371,
     "change": -1.42
   },
   {
@@ -658,17 +658,17 @@
     "change": -0.7105946935589849
   },
   {
-    "code": "4755",
-    "name": "三福化",
-    "market": "TWSE",
-    "three_inst_ratio": 24.429847278215796,
-    "change": -0.7100000000000009
-  },
-  {
     "code": "2316",
     "name": "楠梓電",
     "market": "TWSE",
     "three_inst_ratio": 37.536668753559965,
+    "change": -0.7100000000000009
+  },
+  {
+    "code": "4755",
+    "name": "三福化",
+    "market": "TWSE",
+    "three_inst_ratio": 24.429847278215796,
     "change": -0.7100000000000009
   },
   {
@@ -861,17 +861,17 @@
     "change": -0.5
   },
   {
-    "code": "4164",
-    "name": "承業醫",
-    "market": "TWSE",
-    "three_inst_ratio": 19.769524792842045,
-    "change": -0.5
-  },
-  {
     "code": "6862",
     "name": "三集瑞-KY",
     "market": "TWSE",
     "three_inst_ratio": 64.98,
+    "change": -0.5
+  },
+  {
+    "code": "4164",
+    "name": "承業醫",
+    "market": "TWSE",
+    "three_inst_ratio": 19.769524792842045,
     "change": -0.5
   },
   {
@@ -1232,10 +1232,10 @@
     "change": -0.2996757686836631
   },
   {
-    "code": "2906",
-    "name": "高林",
+    "code": "1731",
+    "name": "美吾華",
     "market": "TWSE",
-    "three_inst_ratio": 1.32,
+    "three_inst_ratio": 0.81,
     "change": -0.29000000000000004
   },
   {
@@ -1246,10 +1246,10 @@
     "change": -0.29000000000000004
   },
   {
-    "code": "1731",
-    "name": "美吾華",
+    "code": "2906",
+    "name": "高林",
     "market": "TWSE",
-    "three_inst_ratio": 0.81,
+    "three_inst_ratio": 1.32,
     "change": -0.29000000000000004
   },
   {
@@ -1372,13 +1372,6 @@
     "change": -0.2540229746280236
   },
   {
-    "code": "2739",
-    "name": "寒舍",
-    "market": "TWSE",
-    "three_inst_ratio": 2.86,
-    "change": -0.25
-  },
-  {
     "code": "2520",
     "name": "冠德",
     "market": "TWSE",
@@ -1390,6 +1383,13 @@
     "name": "兆豐永續高息等權",
     "market": "TWSE",
     "three_inst_ratio": 2.63,
+    "change": -0.25
+  },
+  {
+    "code": "2739",
+    "name": "寒舍",
+    "market": "TWSE",
+    "three_inst_ratio": 2.86,
     "change": -0.25
   },
   {

@@ -2341,5 +2341,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.420036843063579,
     "three_inst_ratio_change_20": 0.1779094373612784
+  },
+  {
+    "date": "2026-07-22",
+    "code": "5522",
+    "name": "遠雄",
+    "market": "TWSE",
+    "foreign_ratio": 4.75,
+    "trust_ratio": -0.39996315693642137,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.350036843063578,
+    "three_inst_ratio_change_20": 0.2657398076073898
+  },
+  {
+    "date": "2026-07-23",
+    "code": "5522",
+    "name": "遠雄",
+    "market": "TWSE",
+    "foreign_ratio": 4.69,
+    "trust_ratio": -0.39791593624104954,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.292084063758951,
+    "three_inst_ratio_change_20": 0.5244400797470066
   }
 ]

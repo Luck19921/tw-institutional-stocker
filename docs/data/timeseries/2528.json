@@ -2341,5 +2341,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6262918367180257,
     "three_inst_ratio_change_20": 0.5533558710465423
+  },
+  {
+    "date": "2026-07-22",
+    "code": "2528",
+    "name": "皇普",
+    "market": "TWSE",
+    "foreign_ratio": 1.34,
+    "trust_ratio": 0.26629183671802553,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6062918367180257,
+    "three_inst_ratio_change_20": 0.4433558710465424
+  },
+  {
+    "date": "2026-07-23",
+    "code": "2528",
+    "name": "皇普",
+    "market": "TWSE",
+    "foreign_ratio": 1.31,
+    "trust_ratio": 0.26929713629996,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5792971362999602,
+    "three_inst_ratio_change_20": 0.4163611706284769
   }
 ]

@@ -2341,5 +2341,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 35.3045925699662,
     "three_inst_ratio_change_20": 1.083696192853047
+  },
+  {
+    "date": "2026-07-22",
+    "code": "1216",
+    "name": "統一",
+    "market": "TWSE",
+    "foreign_ratio": 31.03,
+    "trust_ratio": 4.117087523828458,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.14708752382846,
+    "three_inst_ratio_change_20": 0.9016557784118717
+  },
+  {
+    "date": "2026-07-23",
+    "code": "1216",
+    "name": "統一",
+    "market": "TWSE",
+    "foreign_ratio": 30.9,
+    "trust_ratio": 4.205050924658516,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.105050924658514,
+    "three_inst_ratio_change_20": 0.66432230593729
   }
 ]

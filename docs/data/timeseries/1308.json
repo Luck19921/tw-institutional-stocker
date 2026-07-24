@@ -2341,5 +2341,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.320168422777565,
     "three_inst_ratio_change_20": -0.04999999999999982
+  },
+  {
+    "date": "2026-07-22",
+    "code": "1308",
+    "name": "亞聚",
+    "market": "TWSE",
+    "foreign_ratio": 4.37,
+    "trust_ratio": 0.00016842277756448063,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.370168422777565,
+    "three_inst_ratio_change_20": 0.10000000000000053
+  },
+  {
+    "date": "2026-07-23",
+    "code": "1308",
+    "name": "亞聚",
+    "market": "TWSE",
+    "foreign_ratio": 4.03,
+    "trust_ratio": 0.00016842277756448063,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.030168422777565,
+    "three_inst_ratio_change_20": -0.4899999999999993
   }
 ]

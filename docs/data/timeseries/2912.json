@@ -2341,5 +2341,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.471847105225734,
     "three_inst_ratio_change_20": 1.193368217093429
+  },
+  {
+    "date": "2026-07-22",
+    "code": "2912",
+    "name": "統一超",
+    "market": "TWSE",
+    "foreign_ratio": 13.57,
+    "trust_ratio": 4.785133134726902,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.355133134726902,
+    "three_inst_ratio_change_20": 0.9863366123785049
+  },
+  {
+    "date": "2026-07-23",
+    "code": "2912",
+    "name": "統一超",
+    "market": "TWSE",
+    "foreign_ratio": 13.36,
+    "trust_ratio": 4.909276206288985,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.269276206288986,
+    "three_inst_ratio_change_20": 0.9207176144473763
   }
 ]

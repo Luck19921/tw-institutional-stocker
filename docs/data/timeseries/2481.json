@@ -2341,5 +2341,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 38.61329658558458,
     "three_inst_ratio_change_20": 2.6543208042485134
+  },
+  {
+    "date": "2026-07-22",
+    "code": "2481",
+    "name": "強茂",
+    "market": "TWSE",
+    "foreign_ratio": 22.8,
+    "trust_ratio": 14.261393667041958,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.061393667041955,
+    "three_inst_ratio_change_20": -2.417582114294113
+  },
+  {
+    "date": "2026-07-23",
+    "code": "2481",
+    "name": "強茂",
+    "market": "TWSE",
+    "foreign_ratio": 20.57,
+    "trust_ratio": 14.4362101823884,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.0062101823884,
+    "three_inst_ratio_change_20": -3.7827655989476696
   }
 ]

@@ -2341,5 +2341,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.628200611237656,
     "three_inst_ratio_change_20": -2.130000000000001
+  },
+  {
+    "date": "2026-07-22",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 9.37,
+    "trust_ratio": 0.3682006112376554,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.738200611237655,
+    "three_inst_ratio_change_20": -2.7700000000000014
+  },
+  {
+    "date": "2026-07-23",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 9.31,
+    "trust_ratio": 0.3682006112376554,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.678200611237656,
+    "three_inst_ratio_change_20": -2.469999999999999
   }
 ]

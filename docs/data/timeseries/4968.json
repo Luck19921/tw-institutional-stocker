@@ -2407,5 +2407,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.098941887344893,
     "three_inst_ratio_change_20": -1.0802396595211494
+  },
+  {
+    "date": "2026-07-30",
+    "code": "4968",
+    "name": "立積",
+    "market": "TWSE",
+    "foreign_ratio": 4.12,
+    "trust_ratio": 2.268941887344892,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.388941887344892,
+    "three_inst_ratio_change_20": -0.6102396595211506
+  },
+  {
+    "date": "2026-07-31",
+    "code": "4968",
+    "name": "立積",
+    "market": "TWSE",
+    "foreign_ratio": 4.42,
+    "trust_ratio": 2.290631532853447,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.710631532853447,
+    "three_inst_ratio_change_20": -0.3739724253897343
   }
 ]

@@ -2407,5 +2407,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 69.73388207331415,
     "three_inst_ratio_change_20": -0.5214851478901039
+  },
+  {
+    "date": "2026-07-30",
+    "code": "2330",
+    "name": "台積電",
+    "market": "TWSE",
+    "foreign_ratio": 69.13,
+    "trust_ratio": 0.5775044456525648,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 69.70750444565256,
+    "three_inst_ratio_change_20": -0.5861511039526164
+  },
+  {
+    "date": "2026-07-31",
+    "code": "2330",
+    "name": "台積電",
+    "market": "TWSE",
+    "foreign_ratio": 69.18,
+    "trust_ratio": 0.6047441039705258,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 69.78474410397054,
+    "three_inst_ratio_change_20": -0.4628673085093027
   }
 ]

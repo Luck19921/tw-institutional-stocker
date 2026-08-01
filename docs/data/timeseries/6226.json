@@ -2407,5 +2407,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.875334347821417,
     "three_inst_ratio_change_20": -0.48639673250279536
+  },
+  {
+    "date": "2026-07-30",
+    "code": "6226",
+    "name": "光鼎",
+    "market": "TWSE",
+    "foreign_ratio": 6.7,
+    "trust_ratio": 0.25706542814562977,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.95706542814563,
+    "three_inst_ratio_change_20": -1.2246656521785821
+  },
+  {
+    "date": "2026-07-31",
+    "code": "6226",
+    "name": "光鼎",
+    "market": "TWSE",
+    "foreign_ratio": 5.9,
+    "trust_ratio": 0.26398974944248177,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.163989749442482,
+    "three_inst_ratio_change_20": -2.0677413308817307
   }
 ]

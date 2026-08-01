@@ -2407,5 +2407,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.180918984056508,
     "three_inst_ratio_change_20": 0.0009189840565086982
+  },
+  {
+    "date": "2026-07-30",
+    "code": "4952",
+    "name": "凌通",
+    "market": "TWSE",
+    "foreign_ratio": 6.3,
+    "trust_ratio": 0.0009189840565088443,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.3009189840565085,
+    "three_inst_ratio_change_20": 0.10091898405650834
+  },
+  {
+    "date": "2026-07-31",
+    "code": "4952",
+    "name": "凌通",
+    "market": "TWSE",
+    "foreign_ratio": 6.43,
+    "trust_ratio": 0.0009189840565088443,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.430918984056508,
+    "three_inst_ratio_change_20": -0.28908101594349134
   }
 ]

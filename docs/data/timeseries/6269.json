@@ -2407,5 +2407,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.879258873382975,
     "three_inst_ratio_change_20": -5.068147184461042
+  },
+  {
+    "date": "2026-07-30",
+    "code": "6269",
+    "name": "台郡",
+    "market": "TWSE",
+    "foreign_ratio": 12.8,
+    "trust_ratio": -0.26981471884754776,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.530185281152454,
+    "three_inst_ratio_change_20": -4.197220776691564
+  },
+  {
+    "date": "2026-07-31",
+    "code": "6269",
+    "name": "台郡",
+    "market": "TWSE",
+    "foreign_ratio": 12.79,
+    "trust_ratio": -0.26888831107806965,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.521111688921929,
+    "three_inst_ratio_change_20": -3.8069119741017428
   }
 ]

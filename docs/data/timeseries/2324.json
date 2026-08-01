@@ -2407,5 +2407,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.07398657600823,
     "three_inst_ratio_change_20": 1.0020071473115522
+  },
+  {
+    "date": "2026-07-30",
+    "code": "2324",
+    "name": "仁寶",
+    "market": "TWSE",
+    "foreign_ratio": 35.74,
+    "trust_ratio": -9.794972342223808,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.945027657776194,
+    "three_inst_ratio_change_20": 1.1500918207480773
+  },
+  {
+    "date": "2026-07-31",
+    "code": "2324",
+    "name": "仁寶",
+    "market": "TWSE",
+    "foreign_ratio": 36.19,
+    "trust_ratio": -9.789935069382903,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.400064930617095,
+    "three_inst_ratio_change_20": 1.7723919427686319
   }
 ]

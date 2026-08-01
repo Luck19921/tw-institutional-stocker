@@ -2407,5 +2407,27 @@
     "dealer_ratio": 0.015240185813211907,
     "three_inst_ratio": 22.614186033507615,
     "three_inst_ratio_change_20": 1.1518316935880506
+  },
+  {
+    "date": "2026-07-30",
+    "code": "4904",
+    "name": "遠傳",
+    "market": "TWSE",
+    "foreign_ratio": 19.21,
+    "trust_ratio": 3.5513308965602426,
+    "dealer_ratio": 0.015240185813211907,
+    "three_inst_ratio": 22.776571082373454,
+    "three_inst_ratio_change_20": 1.3531489139178063
+  },
+  {
+    "date": "2026-07-31",
+    "code": "4904",
+    "name": "遠傳",
+    "market": "TWSE",
+    "foreign_ratio": 19.3,
+    "trust_ratio": 3.597676061548726,
+    "dealer_ratio": 0.015240185813211907,
+    "three_inst_ratio": 22.912916247361938,
+    "three_inst_ratio_change_20": 1.5746926286336418
   }
 ]

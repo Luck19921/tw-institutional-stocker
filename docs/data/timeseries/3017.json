@@ -2407,5 +2407,27 @@
     "dealer_ratio": 0.26576043424459733,
     "three_inst_ratio": 55.183287537816206,
     "three_inst_ratio_change_20": 0.19106121549122435
+  },
+  {
+    "date": "2026-07-30",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 52.28,
+    "trust_ratio": 2.6834402376705695,
+    "dealer_ratio": 0.26576043424459733,
+    "three_inst_ratio": 55.229200671915166,
+    "three_inst_ratio_change_20": -0.05148839067206268
+  },
+  {
+    "date": "2026-07-31",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 52.19,
+    "trust_ratio": 2.8053096867421714,
+    "dealer_ratio": 0.26576043424459733,
+    "three_inst_ratio": 55.261070120986766,
+    "three_inst_ratio_change_20": -0.25345079646266555
   }
 ]

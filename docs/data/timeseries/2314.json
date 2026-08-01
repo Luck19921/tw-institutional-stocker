@@ -1978,5 +1978,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.0120514808489731,
     "three_inst_ratio_change_20": -0.2721345426843558
+  },
+  {
+    "date": "2026-07-30",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.34,
+    "trust_ratio": -0.3379485191510269,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.002051480848973,
+    "three_inst_ratio_change_20": -0.2821345426843558
+  },
+  {
+    "date": "2026-07-31",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.33,
+    "trust_ratio": -0.3379485191510269,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9920514808489731,
+    "three_inst_ratio_change_20": -0.282134542684356
   }
 ]

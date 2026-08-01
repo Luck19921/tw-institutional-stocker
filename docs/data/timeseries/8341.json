@@ -2407,5 +2407,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.4653846153846155,
     "three_inst_ratio_change_20": 0.9715384615384615
+  },
+  {
+    "date": "2026-07-30",
+    "code": "8341",
+    "name": "日友",
+    "market": "TWSE",
+    "foreign_ratio": 5.52,
+    "trust_ratio": 0.025384615384615387,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.545384615384615,
+    "three_inst_ratio_change_20": 1.031538461538461
+  },
+  {
+    "date": "2026-07-31",
+    "code": "8341",
+    "name": "日友",
+    "market": "TWSE",
+    "foreign_ratio": 5.53,
+    "trust_ratio": 0.025384615384615387,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.555384615384615,
+    "three_inst_ratio_change_20": 1.031538461538461
   }
 ]

@@ -2407,5 +2407,27 @@
     "dealer_ratio": 0.131414974116226,
     "three_inst_ratio": 22.06167396929896,
     "three_inst_ratio_change_20": -0.060608058871459036
+  },
+  {
+    "date": "2026-07-30",
+    "code": "2467",
+    "name": "志聖",
+    "market": "TWSE",
+    "foreign_ratio": 20.54,
+    "trust_ratio": 1.4410851232967183,
+    "dealer_ratio": 0.131414974116226,
+    "three_inst_ratio": 22.112500097412944,
+    "three_inst_ratio_change_20": -0.33793166176378264
+  },
+  {
+    "date": "2026-07-31",
+    "code": "2467",
+    "name": "志聖",
+    "market": "TWSE",
+    "foreign_ratio": 20.38,
+    "trust_ratio": 1.4621842439468158,
+    "dealer_ratio": 0.131414974116226,
+    "three_inst_ratio": 21.97359921806304,
+    "three_inst_ratio_change_20": -0.7836910437020634
   }
 ]

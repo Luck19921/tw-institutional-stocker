@@ -1015,17 +1015,17 @@
     "change": -1.8919949862777923
   },
   {
-    "code": "2614",
-    "name": "東森",
-    "market": "TWSE",
-    "three_inst_ratio": 3.406722382054325,
-    "change": -1.8900000000000001
-  },
-  {
     "code": "00983D",
     "name": "主動富邦複合收益",
     "market": "TWSE",
     "three_inst_ratio": 1.17,
+    "change": -1.8900000000000001
+  },
+  {
+    "code": "2614",
+    "name": "東森",
+    "market": "TWSE",
+    "three_inst_ratio": 3.406722382054325,
     "change": -1.8900000000000001
   },
   {
@@ -1393,10 +1393,10 @@
     "change": -1.246498214464001
   },
   {
-    "code": "00885",
-    "name": "富邦越南",
+    "code": "00637L",
+    "name": "元大滬深300正2",
     "market": "TWSE",
-    "three_inst_ratio": 1.71,
+    "three_inst_ratio": 0.58,
     "change": -1.2400000000000002
   }
 ]

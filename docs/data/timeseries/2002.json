@@ -2462,5 +2462,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.45816056490391,
     "three_inst_ratio_change_20": 0.9512415997830388
+  },
+  {
+    "date": "2026-08-06",
+    "code": "2002",
+    "name": "中鋼",
+    "market": "TWSE",
+    "foreign_ratio": 14.42,
+    "trust_ratio": -1.8518394350960914,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.56816056490391,
+    "three_inst_ratio_change_20": 1.1012352444679188
+  },
+  {
+    "date": "2026-08-07",
+    "code": "2002",
+    "name": "中鋼",
+    "market": "TWSE",
+    "foreign_ratio": 14.51,
+    "trust_ratio": -1.8518394350960914,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.658160564903909,
+    "three_inst_ratio_change_20": 1.2414576804971063
   }
 ]

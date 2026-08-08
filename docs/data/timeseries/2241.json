@@ -2374,5 +2374,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.796774229241178,
     "three_inst_ratio_change_20": -1.7800000000000011
+  },
+  {
+    "date": "2026-08-06",
+    "code": "2241",
+    "name": "艾姆勒",
+    "market": "TWSE",
+    "foreign_ratio": 9.06,
+    "trust_ratio": 0.006774229241179443,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.06677422924118,
+    "three_inst_ratio_change_20": -2.33
+  },
+  {
+    "date": "2026-08-07",
+    "code": "2241",
+    "name": "艾姆勒",
+    "market": "TWSE",
+    "foreign_ratio": 8.74,
+    "trust_ratio": 0.006774229241179443,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.74677422924118,
+    "three_inst_ratio_change_20": -2.4499999999999993
   }
 ]

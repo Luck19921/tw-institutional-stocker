@@ -2462,5 +2462,27 @@
     "dealer_ratio": -0.1131987347228858,
     "three_inst_ratio": 32.89240940576924,
     "three_inst_ratio_change_20": 0.6165617521125526
+  },
+  {
+    "date": "2026-08-06",
+    "code": "2891",
+    "name": "中信金",
+    "market": "TWSE",
+    "foreign_ratio": 34.97,
+    "trust_ratio": -1.9669430745941099,
+    "dealer_ratio": -0.1131987347228858,
+    "three_inst_ratio": 32.889858190683,
+    "three_inst_ratio_change_20": 0.6463219905063937
+  },
+  {
+    "date": "2026-08-07",
+    "code": "2891",
+    "name": "中信金",
+    "market": "TWSE",
+    "foreign_ratio": 35.0,
+    "trust_ratio": -1.9678629350136503,
+    "dealer_ratio": -0.1131987347228858,
+    "three_inst_ratio": 32.918938330263465,
+    "three_inst_ratio_change_20": 0.6661198525223995
   }
 ]

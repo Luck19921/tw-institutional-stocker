@@ -2462,5 +2462,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.526735487185294,
     "three_inst_ratio_change_20": -0.25
+  },
+  {
+    "date": "2026-08-06",
+    "code": "2030",
+    "name": "彰源",
+    "market": "TWSE",
+    "foreign_ratio": 5.56,
+    "trust_ratio": 0.02673548718529422,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.586735487185294,
+    "three_inst_ratio_change_20": 0.25
+  },
+  {
+    "date": "2026-08-07",
+    "code": "2030",
+    "name": "彰源",
+    "market": "TWSE",
+    "foreign_ratio": 5.85,
+    "trust_ratio": 0.02673548718529422,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.876735487185294,
+    "three_inst_ratio_change_20": 0.5499999999999998
   }
 ]

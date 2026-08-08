@@ -2462,5 +2462,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 64.95021936963052,
     "three_inst_ratio_change_20": 1.5375433454758891
+  },
+  {
+    "date": "2026-08-06",
+    "code": "6451",
+    "name": "訊芯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.11,
+    "trust_ratio": -0.049780630369482236,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 65.06021936963052,
+    "three_inst_ratio_change_20": 1.6175433454758874
+  },
+  {
+    "date": "2026-08-07",
+    "code": "6451",
+    "name": "訊芯-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.06,
+    "trust_ratio": -0.049780630369482236,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 65.01021936963052,
+    "three_inst_ratio_change_20": 1.757543345475888
   }
 ]

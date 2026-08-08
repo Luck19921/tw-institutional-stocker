@@ -2462,5 +2462,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.050004941827032,
     "three_inst_ratio_change_20": -0.1562769510851112
+  },
+  {
+    "date": "2026-08-06",
+    "code": "4906",
+    "name": "正文",
+    "market": "TWSE",
+    "foreign_ratio": 8.51,
+    "trust_ratio": 0.050004941827032724,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.560004941827032,
+    "three_inst_ratio_change_20": -0.8965071085977545
+  },
+  {
+    "date": "2026-08-07",
+    "code": "4906",
+    "name": "正文",
+    "market": "TWSE",
+    "foreign_ratio": 8.28,
+    "trust_ratio": 0.050004941827032724,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.330004941827031,
+    "three_inst_ratio_change_20": -1.115126163521893
   }
 ]

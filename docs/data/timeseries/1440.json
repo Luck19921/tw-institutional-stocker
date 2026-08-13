@@ -2495,5 +2495,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.299401165454925,
     "three_inst_ratio_change_20": -0.00036214042584425954
+  },
+  {
+    "date": "2026-08-11",
+    "code": "1440",
+    "name": "南紡",
+    "market": "TWSE",
+    "foreign_ratio": 7.36,
+    "trust_ratio": 0.0096391520714423,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.369639152071443,
+    "three_inst_ratio_change_20": 0.07029834335415863
+  },
+  {
+    "date": "2026-08-12",
+    "code": "1440",
+    "name": "南紡",
+    "market": "TWSE",
+    "foreign_ratio": 7.44,
+    "trust_ratio": 0.0096391520714423,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.449639152071443,
+    "three_inst_ratio_change_20": 0.17035870009179988
   }
 ]

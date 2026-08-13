@@ -2429,5 +2429,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.001980655737705,
     "three_inst_ratio_change_20": 0.17574590163934456
+  },
+  {
+    "date": "2026-08-11",
+    "code": "2489",
+    "name": "瑞軒",
+    "market": "TWSE",
+    "foreign_ratio": 5.77,
+    "trust_ratio": 0.20198065573770493,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.971980655737704,
+    "three_inst_ratio_change_20": -0.1458934426229508
+  },
+  {
+    "date": "2026-08-12",
+    "code": "2489",
+    "name": "瑞軒",
+    "market": "TWSE",
+    "foreign_ratio": 5.98,
+    "trust_ratio": 0.20116098360655738,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.181160983606558,
+    "three_inst_ratio_change_20": 0.29377868852459077
   }
 ]

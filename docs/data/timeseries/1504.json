@@ -2495,5 +2495,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7654279036236193,
     "three_inst_ratio_change_20": 0.3624764432622376
+  },
+  {
+    "date": "2026-08-11",
+    "code": "1504",
+    "name": "東元",
+    "market": "TWSE",
+    "foreign_ratio": 7.02,
+    "trust_ratio": -5.246485041239935,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7735149587600647,
+    "three_inst_ratio_change_20": 0.39085805656069184
+  },
+  {
+    "date": "2026-08-12",
+    "code": "1504",
+    "name": "東元",
+    "market": "TWSE",
+    "foreign_ratio": 6.99,
+    "trust_ratio": -5.246569200714795,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7434307992852052,
+    "three_inst_ratio_change_20": 0.036804010497237805
   }
 ]

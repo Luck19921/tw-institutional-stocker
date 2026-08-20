@@ -728,17 +728,17 @@
     "change": -1.0900000000000003
   },
   {
-    "code": "6153",
-    "name": "嘉聯益",
-    "market": "TWSE",
-    "three_inst_ratio": 8.461105618173402,
-    "change": -1.0899999999999999
-  },
-  {
     "code": "3704",
     "name": "合勤控",
     "market": "TWSE",
     "three_inst_ratio": 13.381962714821173,
+    "change": -1.0899999999999999
+  },
+  {
+    "code": "6153",
+    "name": "嘉聯益",
+    "market": "TWSE",
+    "three_inst_ratio": 8.461105618173402,
     "change": -1.0899999999999999
   },
   {
@@ -931,17 +931,17 @@
     "change": -0.8500000000000005
   },
   {
-    "code": "2482",
-    "name": "連宇",
-    "market": "TWSE",
-    "three_inst_ratio": 1.11,
-    "change": -0.8499999999999999
-  },
-  {
     "code": "00650L",
     "name": "復華香港正2",
     "market": "TWSE",
     "three_inst_ratio": 1.07,
+    "change": -0.8499999999999999
+  },
+  {
+    "code": "2482",
+    "name": "連宇",
+    "market": "TWSE",
+    "three_inst_ratio": 1.11,
     "change": -0.8499999999999999
   },
   {
@@ -1022,17 +1022,17 @@
     "change": -0.7609315097833544
   },
   {
-    "code": "3528",
-    "name": "安馳",
-    "market": "TWSE",
-    "three_inst_ratio": 5.59,
-    "change": -0.75
-  },
-  {
     "code": "6873",
     "name": "泓德能源",
     "market": "TWSE",
     "three_inst_ratio": 6.144331942678447,
+    "change": -0.75
+  },
+  {
+    "code": "3528",
+    "name": "安馳",
+    "market": "TWSE",
+    "three_inst_ratio": 5.59,
     "change": -0.75
   },
   {
@@ -1106,13 +1106,6 @@
     "change": -0.713374429302938
   },
   {
-    "code": "2434",
-    "name": "統懋",
-    "market": "TWSE",
-    "three_inst_ratio": 2.85,
-    "change": -0.71
-  },
-  {
     "code": "00936",
     "name": "台新永續高息中小",
     "market": "TWSE",
@@ -1124,6 +1117,13 @@
     "name": "喬福",
     "market": "TWSE",
     "three_inst_ratio": 1.7811699517273238,
+    "change": -0.71
+  },
+  {
+    "code": "2434",
+    "name": "統懋",
+    "market": "TWSE",
+    "three_inst_ratio": 2.85,
     "change": -0.71
   },
   {
@@ -1246,10 +1246,10 @@
     "change": -0.6110399791920926
   },
   {
-    "code": "2820",
-    "name": "華票",
+    "code": "6994",
+    "name": "富威電力",
     "market": "TWSE",
-    "three_inst_ratio": 9.275264788228986,
+    "three_inst_ratio": 5.95,
     "change": -0.6099999999999994
   },
   {
@@ -1260,10 +1260,10 @@
     "change": -0.6099999999999994
   },
   {
-    "code": "6994",
-    "name": "富威電力",
+    "code": "2820",
+    "name": "華票",
     "market": "TWSE",
-    "three_inst_ratio": 5.95,
+    "three_inst_ratio": 9.275264788228986,
     "change": -0.6099999999999994
   },
   {

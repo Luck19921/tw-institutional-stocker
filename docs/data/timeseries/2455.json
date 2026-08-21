@@ -2550,5 +2550,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 46.46985890630066,
     "three_inst_ratio_change_20": 0.09692766144996767
+  },
+  {
+    "date": "2026-08-18",
+    "code": "2455",
+    "name": "全新",
+    "market": "TWSE",
+    "foreign_ratio": 27.6,
+    "trust_ratio": 18.937562614951027,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 46.53756261495103,
+    "three_inst_ratio_change_20": 0.46379470623541863
+  },
+  {
+    "date": "2026-08-19",
+    "code": "2455",
+    "name": "全新",
+    "market": "TWSE",
+    "foreign_ratio": 28.11,
+    "trust_ratio": 19.265837667780865,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 47.375837667780864,
+    "three_inst_ratio_change_20": 1.104988275605109
+  },
+  {
+    "date": "2026-08-20",
+    "code": "2455",
+    "name": "全新",
+    "market": "TWSE",
+    "foreign_ratio": 26.5,
+    "trust_ratio": 20.38262182608996,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 46.88262182608996,
+    "three_inst_ratio_change_20": -0.45400280352303213
   }
 ]

@@ -2550,5 +2550,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.029222489198753,
     "three_inst_ratio_change_20": 0.15123242839087148
+  },
+  {
+    "date": "2026-08-18",
+    "code": "2201",
+    "name": "裕隆",
+    "market": "TWSE",
+    "foreign_ratio": 5.02,
+    "trust_ratio": 0.029129031364095108,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.049129031364095,
+    "three_inst_ratio_change_20": 0.13113897055621315
+  },
+  {
+    "date": "2026-08-19",
+    "code": "2201",
+    "name": "裕隆",
+    "market": "TWSE",
+    "foreign_ratio": 5.05,
+    "trust_ratio": 0.02828791085217152,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.078287910852171,
+    "three_inst_ratio_change_20": 0.26029785004428874
+  },
+  {
+    "date": "2026-08-20",
+    "code": "2201",
+    "name": "裕隆",
+    "market": "TWSE",
+    "foreign_ratio": 5.15,
+    "trust_ratio": 0.028100995182855165,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.178100995182856,
+    "three_inst_ratio_change_20": 0.35945672953236674
   }
 ]

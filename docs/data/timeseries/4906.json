@@ -2550,5 +2550,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.240004941827031,
     "three_inst_ratio_change_20": 0.07954809753100278
+  },
+  {
+    "date": "2026-08-18",
+    "code": "4906",
+    "name": "正文",
+    "market": "TWSE",
+    "foreign_ratio": 8.94,
+    "trust_ratio": 0.050004941827032724,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.990004941827031,
+    "three_inst_ratio_change_20": -0.07053142582530825
+  },
+  {
+    "date": "2026-08-19",
+    "code": "4906",
+    "name": "正文",
+    "market": "TWSE",
+    "foreign_ratio": 8.97,
+    "trust_ratio": 0.050004941827032724,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.020004941827032,
+    "three_inst_ratio_change_20": -0.030150634156333567
+  },
+  {
+    "date": "2026-08-20",
+    "code": "4906",
+    "name": "正文",
+    "market": "TWSE",
+    "foreign_ratio": 9.03,
+    "trust_ratio": 0.050004941827032724,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.080004941827031,
+    "three_inst_ratio_change_20": 0.1399999999999988
   }
 ]

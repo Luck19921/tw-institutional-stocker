@@ -2550,5 +2550,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.6502828565311285,
     "three_inst_ratio_change_20": 0.14358081407489465
+  },
+  {
+    "date": "2026-08-18",
+    "code": "3622",
+    "name": "洋華",
+    "market": "TWSE",
+    "foreign_ratio": 3.29,
+    "trust_ratio": 0.2102828565311285,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.5002828565311286,
+    "three_inst_ratio_change_20": -0.01641918592510505
+  },
+  {
+    "date": "2026-08-19",
+    "code": "3622",
+    "name": "洋華",
+    "market": "TWSE",
+    "foreign_ratio": 3.22,
+    "trust_ratio": 0.2102828565311285,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.4302828565311287,
+    "three_inst_ratio_change_20": -0.1138096156946915
+  },
+  {
+    "date": "2026-08-20",
+    "code": "3622",
+    "name": "洋華",
+    "market": "TWSE",
+    "foreign_ratio": 3.22,
+    "trust_ratio": 0.2102828565311285,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.4302828565311287,
+    "three_inst_ratio_change_20": -0.05380961569469145
   }
 ]

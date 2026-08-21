@@ -2462,5 +2462,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.1036593285882605,
     "three_inst_ratio_change_20": -0.10734316913918995
+  },
+  {
+    "date": "2026-08-18",
+    "code": "2646",
+    "name": "星宇航空",
+    "market": "TWSE",
+    "foreign_ratio": 3.17,
+    "trust_ratio": 0.013659328588260515,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.1836593285882606,
+    "three_inst_ratio_change_20": -0.18734316913918958
+  },
+  {
+    "date": "2026-08-19",
+    "code": "2646",
+    "name": "星宇航空",
+    "market": "TWSE",
+    "foreign_ratio": 3.2,
+    "trust_ratio": 0.01326048987365122,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2132604898736514,
+    "three_inst_ratio_change_20": -0.058506448723466775
+  },
+  {
+    "date": "2026-08-20",
+    "code": "2646",
+    "name": "星宇航空",
+    "market": "TWSE",
+    "foreign_ratio": 3.27,
+    "trust_ratio": 0.01326048987365122,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2832604898736513,
+    "three_inst_ratio_change_20": 0.07119442224057604
   }
 ]

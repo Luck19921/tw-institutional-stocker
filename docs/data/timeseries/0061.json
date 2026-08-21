@@ -2550,5 +2550,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.431907278704898,
     "three_inst_ratio_change_20": 0.33664552986845564
+  },
+  {
+    "date": "2026-08-18",
+    "code": "0061",
+    "name": "元大寶滬深",
+    "market": "TWSE",
+    "foreign_ratio": 6.71,
+    "trust_ratio": -2.2680927212951016,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.441907278704898,
+    "three_inst_ratio_change_20": 0.3466455298684554
+  },
+  {
+    "date": "2026-08-19",
+    "code": "0061",
+    "name": "元大寶滬深",
+    "market": "TWSE",
+    "foreign_ratio": 6.7,
+    "trust_ratio": -2.2680927212951016,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.431907278704898,
+    "three_inst_ratio_change_20": -0.20335447013154528
+  },
+  {
+    "date": "2026-08-20",
+    "code": "0061",
+    "name": "元大寶滬深",
+    "market": "TWSE",
+    "foreign_ratio": 6.71,
+    "trust_ratio": -2.2680927212951016,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.441907278704898,
+    "three_inst_ratio_change_20": -0.21335447013154507
   }
 ]

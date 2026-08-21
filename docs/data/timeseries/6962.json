@@ -2462,5 +2462,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 39.03995973113663,
     "three_inst_ratio_change_20": 0.05000000000000426
+  },
+  {
+    "date": "2026-08-18",
+    "code": "6962",
+    "name": "奕力-KY",
+    "market": "TWSE",
+    "foreign_ratio": 39.03,
+    "trust_ratio": 0.04995973113662969,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 39.07995973113663,
+    "three_inst_ratio_change_20": 0.05000000000000426
+  },
+  {
+    "date": "2026-08-19",
+    "code": "6962",
+    "name": "奕力-KY",
+    "market": "TWSE",
+    "foreign_ratio": 39.14,
+    "trust_ratio": 0.08651563196830993,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 39.22651563196831,
+    "three_inst_ratio_change_20": 0.28655590083167937
+  },
+  {
+    "date": "2026-08-20",
+    "code": "6962",
+    "name": "奕力-KY",
+    "market": "TWSE",
+    "foreign_ratio": 39.2,
+    "trust_ratio": 0.10073181562507448,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 39.30073181562508,
+    "three_inst_ratio_change_20": 0.4707720844884449
   }
 ]

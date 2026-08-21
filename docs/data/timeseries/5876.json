@@ -2462,5 +2462,38 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 54.5630015682634,
     "three_inst_ratio_change_20": 1.1875672361224971
+  },
+  {
+    "date": "2026-08-18",
+    "code": "5876",
+    "name": "上海商銀",
+    "market": "TWSE",
+    "foreign_ratio": 54.52,
+    "trust_ratio": 0.08357136121816507,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 54.603571361218165,
+    "three_inst_ratio_change_20": 1.098308962979715
+  },
+  {
+    "date": "2026-08-19",
+    "code": "5876",
+    "name": "上海商銀",
+    "market": "TWSE",
+    "foreign_ratio": 54.59,
+    "trust_ratio": 0.0873390138128317,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 54.67733901381283,
+    "three_inst_ratio_change_20": 1.12883403794185
+  },
+  {
+    "date": "2026-08-20",
+    "code": "5876",
+    "name": "上海商銀",
+    "market": "TWSE",
+    "foreign_ratio": 54.62,
+    "trust_ratio": 0.08929412002411817,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 54.70929412002412,
+    "three_inst_ratio_change_20": 1.186312405724827
   }
 ]
